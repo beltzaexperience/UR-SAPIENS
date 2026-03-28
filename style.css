@@ -1,1 +1,222 @@
 
+/* UR-SAPIENS · style.css
+   beltzaexperience/UR-SAPIENS
+   Luis Beltza · Doneztebe ∞
+   Misma base que Magic Bus */
+
+:root {
+  --black: #0a0a0a;
+  --white: #f2ede6;
+  --red:   #b01a1a;
+  --amber: #c8922a;
+  --muted: #666;
+  --cream: #f0e8d8;
+}
+
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--black);
+  color: var(--white);
+  font-family: 'Courier Prime', monospace;
+  font-size: 1.05rem;
+  line-height: 1.9;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* TOPBAND */
+.topband {
+  background: var(--black);
+  border-bottom: 1px solid #1e1e1e;
+  padding: 0.45rem clamp(1rem,3vw,2rem);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.topband-left {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(0.7rem,1.2vw,0.85rem);
+  letter-spacing: 0.28em;
+  color: var(--white);
+  white-space: nowrap;
+}
+.topband-right {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(0.68rem,1.1vw,0.82rem);
+  letter-spacing: 0.22em;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.topband-right a {
+  color: var(--amber);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.topband-right a:hover { color: var(--white); }
+
+/* BRAND */
+.brand-slash {
+  background: var(--red);
+  padding: 0.5rem clamp(1rem,3vw,2rem);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.b-ur {
+  font-family: 'Bebas Neue', Impact, 'Arial Narrow', sans-serif;
+  font-size: clamp(2.2rem,5vw,4rem);
+  letter-spacing: 0.03em;
+  color: var(--black);
+  line-height: 1;
+}
+.b-sapiens {
+  font-family: 'Bebas Neue', Impact, 'Arial Narrow', sans-serif;
+  font-size: clamp(2.2rem,5vw,4rem);
+  letter-spacing: 0.03em;
+  background: var(--black);
+  color: var(--red);
+  padding: 0.05em 0.3em;
+  line-height: 1;
+}
+
+/* HERO */
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: clamp(2rem,5vw,4rem) clamp(1rem,3vw,2rem);
+  border-bottom: 1px solid rgba(176,26,26,0.4);
+}
+.hero-eyebrow {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(0.68rem,1.1vw,0.82rem);
+  letter-spacing: 0.22em;
+  color: var(--muted);
+}
+.hero-titulo {
+  font-family: 'Bebas Neue', Impact, 'Arial Narrow', sans-serif;
+  font-size: clamp(1.8rem,3.5vw,3rem);
+  letter-spacing: 0.03em;
+  line-height: 0.95;
+  color: var(--white);
+  margin-bottom: 1.5rem;
+}
+.hero-ecuacion {
+  font-family: 'Courier Prime', monospace;
+  font-size: clamp(0.9rem,1.5vw,1.1rem);
+  color: var(--muted);
+  letter-spacing: 0.05em;
+}
+
+/* SÍMBOLO */
+.ur-simbolo {
+  padding: clamp(3rem,8vw,7rem) clamp(1rem,3vw,2rem);
+  text-align: center;
+  border-bottom: 1px solid rgba(176,26,26,0.25);
+}
+.ur-simbolo img {
+  width: clamp(240px,35vw,440px);
+  height: clamp(240px,35vw,440px);
+  object-fit: contain;
+  display: block;
+  margin: 0 auto 1.5rem auto;
+}
+.ur-simbolo-pie {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 0.82rem;
+  letter-spacing: 0.35em;
+  color: var(--amber);
+}
+
+/* PORTAL OTEIZA */
+.ur-portal { display: block; }
+.ur-portal img {
+  width: 100%;
+  height: auto;
+  display: block;
+  filter: contrast(1.05);
+}
+.ur-portal-pie {
+  background: var(--black);
+  padding: 0.6rem clamp(1rem,3vw,2rem);
+  text-align: center;
+  border-bottom: 1px solid rgba(176,26,26,0.25);
+  font-family: 'Courier Prime', monospace;
+  font-size: 0.78rem;
+  letter-spacing: 0.2em;
+  color: var(--amber);
+}
+
+/* TEXTO */
+.ur-texto {
+  background: var(--cream);
+  color: var(--black);
+  padding: clamp(3rem,8vw,7rem) clamp(1rem,3vw,2rem);
+  border-bottom: 1px solid rgba(176,26,26,0.25);
+}
+.ur-construccion {
+  font-family: 'Courier Prime', monospace;
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 0.3em;
+  font-size: 0.78rem;
+  color: #7a5a2a;
+  line-height: 1.9;
+}
+
+/* FOOTER */
+.footer {
+  background: var(--black);
+  border-top: 1px solid rgba(176,26,26,0.35);
+  padding: 0.9rem clamp(1rem,3vw,2rem);
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.footer-left { display: flex; flex-direction: column; gap: 0.3rem; }
+.footer-brand {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(0.7rem,1.2vw,0.85rem);
+  letter-spacing: 0.28em;
+  color: var(--white);
+}
+.footer-sub {
+  font-size: 0.78rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.footer-right { display: flex; flex-direction: column; align-items: flex-end; gap: 0.3rem; }
+.footer-links {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(0.68rem,1.1vw,0.82rem);
+  letter-spacing: 0.22em;
+}
+.footer-links a {
+  color: var(--amber);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.footer-links a:hover { color: var(--white); }
+.footer-desde {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(0.68rem,1.1vw,0.82rem);
+  letter-spacing: 0.22em;
+  color: var(--white);
+}
+.footer-coords {
+  width: 100%;
+  margin-top: 0.5rem;
+  font-family: 'Courier Prime', monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  color: var(--muted);
+}
