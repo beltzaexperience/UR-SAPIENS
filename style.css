@@ -1,4 +1,3 @@
-
 /* UR-SAPIENS · style.css
    beltzaexperience/UR-SAPIENS
    Luis Beltza · Doneztebe ∞
@@ -31,7 +30,7 @@ body {
 .topband {
   background: var(--black);
   border-bottom: 1px solid #1e1e1e;
-  padding: 0.45rem clamp(1rem,3vw,2rem);
+  padding: 0.9rem clamp(2rem,8vw,7rem);
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -39,15 +38,15 @@ body {
 }
 .topband-left {
   font-family: 'Bebas Neue', sans-serif;
-  font-size: clamp(0.7rem,1.2vw,0.85rem);
-  letter-spacing: 0.28em;
+  font-size: clamp(0.95rem,2vw,1.3rem);
+  letter-spacing: 0.15em;
   color: var(--white);
   white-space: nowrap;
 }
 .topband-right {
   font-family: 'Bebas Neue', sans-serif;
-  font-size: clamp(0.68rem,1.1vw,0.82rem);
-  letter-spacing: 0.22em;
+  font-size: clamp(0.95rem,2vw,1.3rem);
+  letter-spacing: 0.15em;
   display: flex;
   align-items: center;
   gap: 0.4rem;
@@ -62,25 +61,25 @@ body {
 /* BRAND */
 .brand-slash {
   background: var(--red);
-  padding: 0.5rem clamp(1rem,3vw,2rem);
+  padding: 0.85em clamp(2rem,8vw,7rem);
   display: flex;
   align-items: center;
   gap: 1rem;
 }
 .b-ur {
   font-family: 'Bebas Neue', Impact, 'Arial Narrow', sans-serif;
-  font-size: clamp(2.2rem,5vw,4rem);
-  letter-spacing: 0.03em;
+  font-size: clamp(2.2rem,5.5vw,4.5rem);
+  letter-spacing: 0.12em;
   color: var(--black);
   line-height: 1;
 }
 .b-sapiens {
   font-family: 'Bebas Neue', Impact, 'Arial Narrow', sans-serif;
-  font-size: clamp(2.2rem,5vw,4rem);
-  letter-spacing: 0.03em;
+  font-size: clamp(2.2rem,5.5vw,4.5rem);
+  letter-spacing: 0.12em;
   background: var(--black);
   color: var(--red);
-  padding: 0.05em 0.3em;
+  padding: 0.1em 0.4em;
   line-height: 1;
 }
 
@@ -89,8 +88,17 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  padding: clamp(2rem,5vw,4rem) clamp(1rem,3vw,2rem);
+  justify-content: flex-end;
+  padding: clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem);
+  position: relative;
+  overflow: hidden;
+  background-image:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.06'/%3E%3C/svg%3E"),
+    linear-gradient(to bottom, rgba(10,10,10,0.3) 0%, rgba(10,10,10,0.7) 100%),
+    url('https://beltzaexperience.github.io/UR-SAPIENS/Doneztebe.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   border-bottom: 1px solid rgba(176,26,26,0.4);
 }
 .hero-eyebrow {
@@ -184,8 +192,8 @@ body {
 .footer-left { display: flex; flex-direction: column; gap: 0.3rem; }
 .footer-brand {
   font-family: 'Bebas Neue', sans-serif;
-  font-size: clamp(0.7rem,1.2vw,0.85rem);
-  letter-spacing: 0.28em;
+  font-size: clamp(0.95rem,2vw,1.3rem);
+  letter-spacing: 0.15em;
   color: var(--white);
 }
 .footer-sub {
@@ -197,8 +205,8 @@ body {
 .footer-right { display: flex; flex-direction: column; align-items: flex-end; gap: 0.3rem; }
 .footer-links {
   font-family: 'Bebas Neue', sans-serif;
-  font-size: clamp(0.68rem,1.1vw,0.82rem);
-  letter-spacing: 0.22em;
+  font-size: clamp(0.95rem,2vw,1.3rem);
+  letter-spacing: 0.15em;
 }
 .footer-links a {
   color: var(--amber);
