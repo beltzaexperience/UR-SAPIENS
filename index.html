@@ -12,7 +12,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700;1,900&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Bebas+Neue&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://beltzaexperience.github.io/UR-SAPIENS/style.css">
+<link rel="stylesheet" href="https://beltzaexperience.github.io/UR-SAPIENS/style.css?v=3">
 <link rel="icon" type="image/png" href="https://live.staticflickr.com/65535/55173125591_3066404ecb_o.png">
 <style>
 /* PREVIEW LOCAL — borrar al subir a GitHub */
@@ -20,15 +20,44 @@
 *,*::before,*::after{margin:0;padding:0;box-sizing:border-box;}
 html{scroll-behavior:smooth;}
 body{background:var(--black);color:var(--white);font-family:'Courier Prime',monospace;font-size:1.05rem;line-height:1.9;min-height:100vh;overflow-x:hidden;}
-.topband{background:var(--black);border-bottom:1px solid #1e1e1e;padding:0.9rem clamp(2rem,8vw,7rem);display:flex;align-items:center;justify-content:space-between;gap:1rem;}
+.topband{background:var(--black);border-bottom:none;padding:0.9rem clamp(0.5rem,2vw,1.75rem);display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
 .topband-left{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.95rem,2vw,1.3rem);letter-spacing:0.15em;color:var(--white);white-space:nowrap;}
 .topband-right{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.95rem,2vw,1.3rem);letter-spacing:0.15em;display:flex;align-items:center;gap:0.4rem;}
 .topband-right a{color:var(--amber);text-decoration:none;}
 .topband-right a:hover{color:var(--white);}
-.brand-slash{background:var(--red);padding:0.85em clamp(2rem,8vw,7rem);display:flex;align-items:center;gap:1rem;}
-.b-ur{font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif;font-size:clamp(2.2rem,5.5vw,4.5rem);letter-spacing:0.12em;color:var(--black);line-height:1;}
-.b-sapiens{font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif;font-size:clamp(2.2rem,5.5vw,4.5rem);letter-spacing:0.12em;background:var(--black);color:var(--red);padding:0.1em 0.4em;line-height:1;}
-.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:flex-end;padding:clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem);position:relative;overflow:hidden;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.06'/%3E%3C/svg%3E"),linear-gradient(to bottom,rgba(10,10,10,0.3) 0%,rgba(10,10,10,0.7) 100%),url('https://beltzaexperience.github.io/UR-SAPIENS/Doneztebe.jpeg');background-size:cover;background-position:center;background-repeat:no-repeat;border-bottom:1px solid rgba(176,26,26,0.4);}
+.brand-slash{background:var(--red);padding:1.4em clamp(2rem,8vw,7rem);display:flex;align-items:center;gap:1rem;}
+.b-ur{font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif;font-size:clamp(3.5rem,8vw,7rem);letter-spacing:0.12em;color:var(--black);line-height:1;}
+.b-sapiens{font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif;font-size:clamp(3.5rem,8vw,7rem);letter-spacing:0.12em;background:var(--black);color:var(--red);padding:0.1em 0.4em;line-height:1;}
+.hero{display:none;}
+/* SECCIONES */
+.ur-main { padding: clamp(3rem,8vw,7rem) clamp(2rem,8vw,7rem); background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; }
+.ur-seccion { margin-bottom: 6rem; border-top: 2px solid var(--red); padding-top: 3rem; }
+.ur-seccion-header { display:flex; align-items:baseline; gap:1.5rem; margin-bottom:2.5rem; }
+.ur-num { font-family:'Bebas Neue',Impact,sans-serif; font-size:clamp(3rem,6vw,5rem); color:var(--red); line-height:1; }
+.ur-titulo-seccion { font-family:'Playfair Display',Georgia,serif; font-size:clamp(2rem,4vw,3.5rem); font-weight:900; font-style:italic; color:var(--white); line-height:1; }
+.ur-linea { flex:1; height:1px; background:rgba(176,26,26,0.3); }
+.ur-cuerpo { max-width:800px; }
+.ur-texto-cuerpo { font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#1a1a1a; margin-bottom:1.5rem; }
+.ur-texto-cuerpo strong { color:#b01a1a; }
+.ur-tabla { border:1px solid rgba(176,26,26,0.3); margin:2rem 0; }
+.ur-tabla-fila { display:flex; border-bottom:1px solid rgba(176,26,26,0.15); }
+.ur-tabla-fila:last-child { border-bottom:none; }
+.ur-tabla-key { font-family:'Bebas Neue',sans-serif; letter-spacing:0.2em; color:var(--red); padding:0.4rem 1rem; width:160px; min-width:160px; border-right:1px solid rgba(176,26,26,0.3); }
+.ur-tabla-val { font-family:'Courier Prime',monospace; color:var(--white); padding:0.4rem 1rem; }
+.ur-figura { margin:3rem 0; }
+.ur-foto-sepia { width:100%; height:auto; display:block; filter:sepia(0.7) contrast(1.1) brightness(0.9); }
+.ur-pie { font-family:'Courier Prime',monospace; font-size:0.82rem; letter-spacing:0.2em; color:#7a5a2a; padding:0.6rem 0; text-align:center; }
+.ur-intro-3col { display:grid; grid-template-columns:1fr 1.4fr 1fr; gap:2rem; background-image:url('https://live.staticflickr.com/65535/55167948157_db52b26076_h.jpg'); background-repeat:repeat; background-size:400px auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:4rem; }
+.ur-marco { margin:0 clamp(0.5rem,2vw,1.75rem); background:var(--black); overflow:hidden; }
+.ur-marco .brand-slash { padding-left:clamp(1rem,3vw,2rem); padding-right:clamp(1rem,3vw,2rem); }
+.ur-marco .ur-main { padding-left:clamp(1rem,3vw,2rem); padding-right:clamp(1rem,3vw,2rem); }
+.ur-marco .ur-intro-3col { padding-left:clamp(1rem,3vw,2rem); padding-right:clamp(1rem,3vw,2rem); }
+.ur-col-centro { border-left:1px solid rgba(176,26,26,0.2); border-right:1px solid rgba(176,26,26,0.2); padding:0 2rem; }
+.ur-intro-img { width:100%; height:auto; display:block; }
+.ur-placeholder { border:1px dashed rgba(176,26,26,0.4); padding:2rem 1rem; text-align:center; font-family:'Courier Prime',monospace; font-size:0.82rem; letter-spacing:0.2em; color:#b01a1a; min-height:150px; display:flex; align-items:center; justify-content:center; }
+.ur-intro-3col .ur-texto-cuerpo { color:#1a1a1a; }
+.ur-intro-3col .ur-texto-cuerpo strong { color:#b01a1a; }
+@media(max-width:900px){ .ur-intro-3col { grid-template-columns:1fr; } .ur-col-centro { border:none; padding:0; } }
 .hero-eyebrow{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.68rem,1.1vw,0.82rem);letter-spacing:0.22em;color:var(--muted);}
 .hero-titulo{font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif;font-size:clamp(1.8rem,3.5vw,3rem);letter-spacing:0.03em;line-height:0.95;color:var(--white);margin-bottom:1.5rem;}
 .hero-ecuacion{font-family:'Courier Prime',monospace;font-size:clamp(0.9rem,1.5vw,1.1rem);color:var(--muted);letter-spacing:0.05em;}
@@ -40,7 +69,7 @@ body{background:var(--black);color:var(--white);font-family:'Courier Prime',mono
 .ur-portal-pie{background:var(--black);padding:0.6rem clamp(1rem,3vw,2rem);text-align:center;border-bottom:1px solid rgba(176,26,26,0.25);font-family:'Courier Prime',monospace;font-size:0.78rem;letter-spacing:0.2em;color:var(--amber);}
 .ur-texto{background:var(--cream);color:var(--black);padding:clamp(3rem,8vw,7rem) clamp(1rem,3vw,2rem);border-bottom:1px solid rgba(176,26,26,0.25);}
 .ur-construccion{font-family:'Courier Prime',monospace;font-style:italic;text-align:center;letter-spacing:0.3em;font-size:0.78rem;color:#7a5a2a;line-height:1.9;}
-.footer{background:var(--black);border-top:1px solid rgba(176,26,26,0.35);padding:0.9rem clamp(1rem,3vw,2rem);display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:1rem;}
+.footer{background:var(--black);border-top:none;padding:0.9rem clamp(0.5rem,2vw,1.75rem);display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:1rem;}
 .footer-left{display:flex;flex-direction:column;gap:0.3rem;}
 .footer-brand{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.95rem,2vw,1.3rem);letter-spacing:0.15em;color:var(--white);}
 .footer-right{display:flex;flex-direction:column;align-items:flex-end;gap:0.3rem;}
@@ -48,6 +77,147 @@ body{background:var(--black);color:var(--white);font-family:'Courier Prime',mono
 .footer-links a{color:var(--amber);text-decoration:none;}
 .footer-links a:hover{color:var(--white);}
 .footer-coords{width:100%;margin-top:0.5rem;font-family:'Courier Prime',monospace;font-size:0.72rem;letter-spacing:0.1em;color:var(--muted);}
+
+/* =============================================
+   SISTEMA DE RETÍCULA UR-SAPIENS
+   =============================================
+   MEDIDAS FIJAS — NO TOCAR
+   --ur-padding:    padding interno del PC (lateral)
+   --ur-medianil:   espacio entre columnas
+   --ur-linea:      grosor línea roja
+   ============================================= */
+:root {
+  --ur-padding: clamp(1.5rem,4vw,3rem);
+  --ur-medianil: clamp(1.5rem,3vw,2.5rem);
+  --ur-linea: 2px;
+}
+
+/* PÁGINA — contenedor de cada doble página */
+.ur-pagina {
+  padding: var(--ur-padding);
+}
+
+/* GRID — dos columnas iguales con medianil fijo */
+.ur-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--ur-medianil);
+  align-items: end;
+}
+
+/* COLUMNAS */
+.ur-col { display: flex; flex-direction: column; }
+
+/* JERARQUÍA TIPOGRÁFICA — niveles fijos */
+
+/* Nivel 1: Título de sección */
+.ur-t1 {
+  font-family: 'Bebas Neue', Impact, 'Arial Narrow', sans-serif;
+  font-size: clamp(1.8rem, 4vw, 3.5rem);
+  letter-spacing: 0.05em;
+  color: #b01a1a;
+  line-height: 1;
+  margin-bottom: 1rem;
+}
+
+/* Nivel 2: Subtítulo */
+.ur-t2 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: clamp(1.1rem, 2.5vw, 1.6rem);
+  font-weight: 700;
+  font-style: italic;
+  color: #1a1a1a;
+  line-height: 1.3;
+  margin-bottom: 0.8rem;
+}
+
+/* Nivel 3: Cuerpo de texto */
+.ur-t3 {
+  font-family: 'Courier Prime', monospace;
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #1a1a1a;
+  margin-bottom: 1rem;
+}
+.ur-t3 strong { color: #b01a1a; }
+
+/* Nivel 4: Pie de foto */
+.ur-t4 {
+  font-family: 'Courier Prime', monospace;
+  font-size: 0.78rem;
+  letter-spacing: 0.15em;
+  color: #7a5a2a;
+  line-height: 1.5;
+  margin-top: 0.4rem;
+}
+
+/* Nivel 5: Nota al pie */
+.ur-t5 {
+  font-family: 'Courier Prime', monospace;
+  font-size: 0.82rem;
+  font-style: italic;
+  color: #555;
+  line-height: 1.6;
+  margin-top: 0.5rem;
+}
+
+/* Nivel 6: Firma */
+.ur-firma {
+  font-family: 'Courier Prime', monospace;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #1a1a1a;
+  text-align: right;
+  margin-top: 0.5rem;
+}
+
+/* ELEMENTOS */
+.ur-lr { height: var(--ur-linea); background: #b01a1a; margin: 1rem 0; }
+.ur-img { width: 100%; height: auto; display: block; }
+.ur-img-sepia { filter: sepia(0.3) contrast(1.05); }
+.ur-spacer { flex: 1; }
+
+/* =============================================
+   PLANTILLA DE PÁGINA — copiar para cada nueva
+   =============================================
+
+<div class="ur-main">
+  <div class="ur-pagina">
+
+    <!-- TÍTULO SECCIÓN -->
+    <div style="display:flex; gap:var(--ur-medianil);">
+      <p class="ur-t1" style="flex:1;">TÍTULO</p>
+      <div style="flex:1;"></div>
+    </div>
+
+    <!-- CONTENIDO DOS COLUMNAS -->
+    <div style="display:flex; gap:var(--ur-medianil);">
+      <div style="flex:1; display:flex; flex-direction:column;">
+        [TEXTO]
+        [FOTO OPCIONAL]
+        [NOTA OPCIONAL]
+      </div>
+      <div style="flex:1;">
+        [IMAGEN DERECHA]
+      </div>
+    </div>
+
+    <!-- FIRMAS -->
+    <div style="display:flex; gap:var(--ur-medianil);">
+      <p class="ur-firma" style="flex:1;">Firma izq</p>
+      <p class="ur-firma" style="flex:1;">Firma der</p>
+    </div>
+
+    <!-- PAGINACIÓN -->
+    <p class="ur-paginacion">N &nbsp; UR ± E=mc² = SAPIENS</p>
+
+  </div>
+</div>
+
+============================================= */
+
+.ur-paginacion { font-family:'Playfair Display',Georgia,serif; font-size:0.9rem; color:#1a1a1a; text-align:right; margin-top:0.3rem; letter-spacing:0.05em; font-style:italic; }
+
 </style>
 </head>
 <body>
@@ -65,24 +235,157 @@ body{background:var(--black);color:var(--white);font-family:'Courier Prime',mono
   </div>
 </div>
 
+<div class="ur-marco">
+
 <div class="brand-slash">
   <div class="b-ur">UR</div>
   <div class="b-sapiens">SAPIENS</div>
-  <img src="https://live.staticflickr.com/65535/55173125591_3066404ecb_o.png" alt="UR-SAPIENS · Símbolo" style="height:clamp(2.2rem,5.5vw,4.5rem); width:auto; display:block; margin-left:auto;">
-  <img src="https://beltzaexperience.github.io/Manifiesto-Beltza/beltza-puno.png" alt="Beltza Records" style="height:clamp(2.2rem,5.5vw,4.5rem); width:auto; display:block;">
+  <img src="https://live.staticflickr.com/65535/55173125591_3066404ecb_o.png" alt="UR-SAPIENS · Símbolo" style="height:clamp(3.8rem,8.5vw,7.5rem); width:auto; display:block; margin-left:auto;">
+  <img src="https://beltzaexperience.github.io/Manifiesto-Beltza/beltza-puno.png" alt="Beltza Records" style="height:clamp(3.8rem,8.5vw,7.5rem); width:auto; display:block;">
 </div>
 
-<section class="hero">
-</section>
+<!-- LÍNEA NEGRA SEPARADORA -->
+<div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
 
-<div class="brand-slash" style="justify-content:space-between; align-items:center;">
-  <div class="b-ur">BELTZA</div>
-  <div class="b-sapiens">RECORDS</div>
-  <img src="https://beltzaexperience.github.io/Manifiesto-Beltza/beltza-puno.png" alt="Beltza Records" style="height:clamp(2.2rem,5.5vw,4.5rem); width:auto; display:block; margin-left:auto;">
-  <img src="https://live.staticflickr.com/65535/55173125591_3066404ecb_o.png" alt="UR-SAPIENS · Símbolo" style="height:clamp(2.2rem,5.5vw,4.5rem); width:auto; display:block;">
+<!-- FR — NERVIÓN TWO TONE[ISMO] -->
+<img src="https://live.staticflickr.com/3553/3287353625_6193992558_o.jpg" alt="Two tone[ismo] · Nervión · Koldo Roteta" style="width:100%; height:auto; display:block;">
+
+<!-- LÍNEA NEGRA SEPARADORA -->
+<div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
+
+<!-- PC₁ — SÍMBOLO + TÍTULO -->
+<div class="ur-main" style="display:flex; align-items:stretch; gap:0; padding:clamp(2rem,5vw,4rem) clamp(1rem,3vw,2rem);">
+  <div id="ur-simbolo-box" style="flex-shrink:0; width:clamp(260px,35vw,500px);">
+    <img src="https://live.staticflickr.com/65535/55173125591_3066404ecb_o.png" alt="UR-SAPIENS · Símbolo" style="width:100%; height:auto; display:block;">
+  </div>
+  <div id="ur-titulo" style="flex:1; border-left:3px solid #b01a1a; border-right:3px solid #b01a1a; padding:0 clamp(1rem,2vw,2rem); display:flex; flex-direction:column; justify-content:space-between; overflow:hidden;">
+    <p class="fit-line" style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; letter-spacing:0.02em; color:#1a1a1a; line-height:1; white-space:nowrap;"><span style="color:#b01a1a;">UR</span>: COSMOGONÍA</p>
+    <p class="fit-line" style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; letter-spacing:0.02em; color:#1a1a1a; line-height:1; white-space:nowrap;">PALEOLINGÜÍSTICA</p>
+    <div style="flex:1;"></div>
+    <p class="fit-line" style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; letter-spacing:0.02em; color:#1a1a1a; line-height:1; white-space:nowrap;">US-<span style="color:#b01a1a;">UR</span>-PACIÓN SISTÉMICA</p>
+  </div>
+</div>
+<script>
+function fitLines() {
+  const container = document.getElementById('ur-titulo');
+  if (!container) return;
+  const width = container.clientWidth - 40;
+  const lines = container.querySelectorAll('.fit-line');
+  lines.forEach(line => {
+    let lo = 1, hi = 300, mid;
+    while (lo < hi - 1) {
+      mid = Math.floor((lo + hi) / 2);
+      line.style.fontSize = mid + 'px';
+      if (line.scrollWidth <= width) lo = mid;
+      else hi = mid;
+    }
+    line.style.fontSize = lo + 'px';
+  });
+}
+document.fonts.ready.then(() => setTimeout(fitLines, 100));
+window.addEventListener('resize', fitLines);
+</script>
+
+<!-- MARQUEE 6 FOTOS -->
+<div style="overflow:hidden; width:100%; border-top:10px solid var(--red); border-bottom:10px solid var(--red); background:var(--black); cursor:pointer;" onclick="this.querySelector('.mq-inner').style.animationPlayState = this.querySelector('.mq-inner').style.animationPlayState === 'paused' ? 'running' : 'paused'">
+  <div class="mq-inner" style="display:flex; gap:10px; width:max-content; animation:marquee-fotos 50s linear infinite;">
+    <!-- pasada 1 -->
+    <img src="https://live.staticflickr.com/65535/55178636797_f008908416_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179530231_bb43898d49_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179936095_6f11957864_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179538086_b8c128e828_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179803119_539eb9b0d4_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55118052565_30bb53bbcc_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <!-- pasada 2 -->
+    <img src="https://live.staticflickr.com/65535/55178636797_f008908416_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179530231_bb43898d49_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179936095_6f11957864_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179538086_b8c128e828_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179803119_539eb9b0d4_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55118052565_30bb53bbcc_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <!-- pasada 3 -->
+    <img src="https://live.staticflickr.com/65535/55178636797_f008908416_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179530231_bb43898d49_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179936095_6f11957864_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179538086_b8c128e828_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179803119_539eb9b0d4_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55118052565_30bb53bbcc_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <!-- pasada 4 -->
+    <img src="https://live.staticflickr.com/65535/55178636797_f008908416_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179530231_bb43898d49_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179936095_6f11957864_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179538086_b8c128e828_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179803119_539eb9b0d4_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55118052565_30bb53bbcc_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+  </div>
+</div>
+<style>
+@keyframes marquee-fotos { from { transform:translateX(0); } to { transform:translateX(-50%); } }
+</style>
+
+<!-- PC₂ — DOS COLUMNAS -->
+<div class="ur-main">
+  <div class="ur-pagina" style="position:relative; padding-bottom:3rem;">
+    <!-- INTRODUCCIÓN arriba -->
+    <div style="display:flex; gap:var(--ur-medianil);">
+      <p class="ur-t1" style="flex:1; font-size:clamp(1.2rem,2.6vw,2.2rem);">INTRODUCCIÓN</p>
+      <div style="flex:1;"></div>
+    </div>
+
+    <div style="display:flex; gap:var(--ur-medianil);">
+
+      <!-- COL IZQ -->
+      <div style="flex:1; display:flex; flex-direction:column;">
+        <p class="ur-t3">Mirando el flujo del Bidasoa desde el puente de Doneztebe, en algún momento entre 2019 y el ahora relativo, algo se reveló. No fue una epifanía religiosa ni un descubrimiento académico. Fue una intuición — la ciencia del que llegó primero y no necesita publicar en Nature.</p>
+        <p class="ur-t3">La palabra más importante del idioma — NAT-<span style="color:#b01a1a;">UR</span>-ALEZA — llevaba escondida la prueba desde siempre. NAT-<span style="color:#b01a1a;">UR</span>-A: Nacido del <span style="color:#b01a1a;">UR</span>. El <span style="color:#b01a1a;">UR</span> es agua en euskera. El euskera es la caja negra de la humanidad.</p>
+        <p class="ur-t3">Lo que siguió fue inevitable: si el <span style="color:#b01a1a;">UR</span> estaba en NAT-<span style="color:#b01a1a;">UR</span>-ALEZA, estaba en todas partes. En <span style="color:#b01a1a;">UR</span>uguay y en <span style="color:#b01a1a;">UR</span>ubamba. En <span style="color:#b01a1a;">UR</span>ano y en Merc<span style="color:#b01a1a;">UR</span>io. En la b-<span style="color:#b01a1a;">UR</span>-ocracia y en la us-<span style="color:#b01a1a;">UR</span>-pación. En el ADN flotando en <span style="color:#b01a1a;">UR</span>-A. En el metano y el amoníaco bajo cien mil atmósferas de presión en los gigantes helados del cosmos.</p>
+        <p class="ur-t3">El símbolo que une todo nació de la fusión de dos logos: el círculo-vacío de Oteiza — sello de Beltza Records desde el principio — y la estrella tartésica de ocho puntas del escudo de Doneztebe. En el centro, en rojo: <strong style="color:#b01a1a;">UR</strong>. La humanidad extraterrestre resumida en una forma.</p>
+        <p class="ur-t3">Lo que sigue es una tesis inverosímil, rigurosa y descabellada a partes iguales. Una cosmogonía paleolingüística construida con tres herramientas: <strong>etimología, toponimia y humor extraterrestre</strong>.</p>
+        <div style="flex:1;"></div>
+        <div style="padding:1.5rem 0; text-align:center;">
+          <img src="https://live.staticflickr.com/65535/55179963413_2c48f2aba2_b.jpg" alt="El Jeroglífico UR · J.M. Sansinenea · 1969" class="ur-img-sepia" style="width:75%; height:auto; display:inline-block;">
+        </div>
+        <p class="ur-t5">(i) Según un Académico de Lengua Vasca. — Nosotros creemos que esta palabra LUDIÁN para señalar la Tierra como planeta, es una composición moderna, que deriva de L<span style="color:#b01a1a;">UR</span>: tierra (donde se siembran las plantas.)</p>
+      </div>
+
+      <!-- COL DER -->
+      <div style="flex:1;">
+        <img src="https://live.staticflickr.com/65535/55175813408_2d5dc61bbd_b.jpg" alt="Diagrama UR · J.M. Sansinena" class="ur-img ur-img-sepia">
+      </div>
+
+    </div>
+
+    <!-- FIRMAS -->
+    <div style="display:flex; gap:var(--ur-medianil);">
+      <p class="ur-firma" style="flex:1;">J.M. Sansinenea</p>
+      <p class="ur-firma" style="flex:1;">J.M. Sansinenea</p>
+    </div>
+
+    <!-- PAGINACIÓN -->
+    <p style="font-family:'Playfair Display',Georgia,serif; font-size:0.9rem; color:#1a1a1a; text-align:right; margin-top:0.3rem; letter-spacing:0.05em;"><em>1 &nbsp; <span style="color:#b01a1a;">UR</span> ± E=mc² = SAPIENS</em></p>
+
+    </div>
+  </div>
 </div>
 
-<footer class="footer" style="padding:0.9rem clamp(2rem,8vw,7rem);">
+<!-- LÍNEA NEGRA SEPARADORA -->
+<div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
+
+<img src="https://live.staticflickr.com/65535/55170955237_80ec8c3d1d_k.jpg" alt="14 · UR-SAPIENS · Jorge Oteiza · Arantzazu" style="width:100%; height:auto; display:block; filter:contrast(1.05);">
+<div style="background:var(--black); padding:0.8rem clamp(2rem,8vw,7rem); text-align:center;">
+  <span style="font-family:'Courier Prime',monospace; font-size:0.9rem; letter-spacing:0.2em; color:var(--amber);">· Arantzazu · Jorge Oteiza · El Último Apóstol · Díscolo · Inadaptado · Desubicado de cualquier credo · Foto: Luis Beltza ·</span>
+</div>
+
+<div class="brand-slash" style="justify-content:space-between; align-items:center; padding:0.55em clamp(1rem,3vw,2rem);">
+  <div class="b-ur" style="font-size:clamp(2.2rem,5.5vw,4.5rem);">BELTZA</div>
+  <div class="b-sapiens" style="font-size:clamp(2.2rem,5.5vw,4.5rem);">RECORDS</div>
+  <img src="https://beltzaexperience.github.io/Manifiesto-Beltza/beltza-puno.png" alt="Beltza Records" style="height:clamp(2.5rem,6vw,4.5rem); width:auto; display:block; margin-left:auto;">
+  <img src="https://live.staticflickr.com/65535/55173125591_3066404ecb_o.png" alt="UR-SAPIENS · Símbolo" style="height:clamp(2.5rem,6vw,4.5rem); width:auto; display:block;">
+</div>
+
+</div><!-- /ur-marco -->
+
+<footer class="footer" style="padding:0.9rem clamp(0.5rem,2vw,1.75rem);">
   <div class="footer-left">
     <div class="footer-brand">BELTZA RECORDS · DONOSTIA _ DONEZTEBE</div>
   </div>
