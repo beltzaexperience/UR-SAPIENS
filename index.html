@@ -14,211 +14,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700;1,900&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Bebas+Neue&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://beltzaexperience.github.io/UR-SAPIENS/style.css?v=3">
 <link rel="icon" type="image/png" href="https://live.staticflickr.com/65535/55173125591_3066404ecb_o.png">
-<style>
-/* PREVIEW LOCAL — borrar al subir a GitHub */
-:root { --black:#0a0a0a; --white:#f2ede6; --red:#b01a1a; --amber:#c8922a; --muted:#666; --cream:#f0e8d8; }
-*,*::before,*::after{margin:0;padding:0;box-sizing:border-box;}
-html{scroll-behavior:smooth;}
-body{background:var(--black);color:var(--white);font-family:'Courier Prime',monospace;font-size:1.05rem;line-height:1.9;min-height:100vh;overflow-x:hidden;}
-.topband{background:var(--black);border-bottom:none;padding:0.9rem clamp(0.5rem,2vw,1.75rem);display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
-.topband-left{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.95rem,2vw,1.3rem);letter-spacing:0.15em;color:var(--white);white-space:nowrap;}
-.topband-right{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.95rem,2vw,1.3rem);letter-spacing:0.15em;display:flex;align-items:center;gap:0.4rem;}
-.topband-right a{color:var(--amber);text-decoration:none;}
-.topband-right a:hover{color:var(--white);}
-.brand-slash{background:var(--red);padding:1.4em clamp(2rem,8vw,7rem);display:flex;align-items:center;gap:1rem;}
-.b-ur{font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif;font-size:clamp(3.5rem,8vw,7rem);letter-spacing:0.12em;color:var(--black);line-height:1;}
-.b-sapiens{font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif;font-size:clamp(3.5rem,8vw,7rem);letter-spacing:0.12em;background:var(--black);color:var(--red);padding:0.1em 0.4em;line-height:1;}
-.hero{display:none;}
-/* SECCIONES */
-.ur-main { padding: clamp(3rem,8vw,7rem) clamp(2rem,8vw,7rem); background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; }
-.ur-seccion { margin-bottom: 6rem; border-top: 2px solid var(--red); padding-top: 3rem; }
-.ur-seccion-header { display:flex; align-items:baseline; gap:1.5rem; margin-bottom:2.5rem; }
-.ur-num { font-family:'Bebas Neue',Impact,sans-serif; font-size:clamp(3rem,6vw,5rem); color:var(--red); line-height:1; }
-.ur-titulo-seccion { font-family:'Playfair Display',Georgia,serif; font-size:clamp(2rem,4vw,3.5rem); font-weight:900; font-style:italic; color:var(--white); line-height:1; }
-.ur-linea { flex:1; height:1px; background:rgba(176,26,26,0.3); }
-.ur-cuerpo { max-width:800px; }
-.ur-texto-cuerpo { font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#1a1a1a; margin-bottom:1.5rem; }
-.ur-texto-cuerpo strong { color:#b01a1a; }
-.ur-tabla { border:1px solid rgba(176,26,26,0.3); margin:2rem 0; }
-.ur-tabla-fila { display:flex; border-bottom:1px solid rgba(176,26,26,0.15); }
-.ur-tabla-fila:last-child { border-bottom:none; }
-.ur-tabla-key { font-family:'Bebas Neue',sans-serif; letter-spacing:0.2em; color:var(--red); padding:0.4rem 1rem; width:160px; min-width:160px; border-right:1px solid rgba(176,26,26,0.3); }
-.ur-tabla-val { font-family:'Courier Prime',monospace; color:var(--white); padding:0.4rem 1rem; }
-.ur-figura { margin:3rem 0; }
-.ur-foto-sepia { width:100%; height:auto; display:block; filter:sepia(0.7) contrast(1.1) brightness(0.9); }
-.ur-pie { font-family:'Courier Prime',monospace; font-size:0.82rem; letter-spacing:0.2em; color:#7a5a2a; padding:0.6rem 0; text-align:center; }
-.ur-intro-3col { display:grid; grid-template-columns:1fr 1.4fr 1fr; gap:2rem; background-image:url('https://live.staticflickr.com/65535/55167948157_db52b26076_h.jpg'); background-repeat:repeat; background-size:400px auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:4rem; }
-.ur-marco { margin:0 clamp(0.5rem,2vw,1.75rem); background:var(--black); overflow:hidden; }
-.ur-marco .brand-slash { padding-left:clamp(1rem,3vw,2rem); padding-right:clamp(1rem,3vw,2rem); }
-.ur-marco .ur-main { padding-left:clamp(1rem,3vw,2rem); padding-right:clamp(1rem,3vw,2rem); }
-.ur-marco .ur-intro-3col { padding-left:clamp(1rem,3vw,2rem); padding-right:clamp(1rem,3vw,2rem); }
-.ur-col-centro { border-left:1px solid rgba(176,26,26,0.2); border-right:1px solid rgba(176,26,26,0.2); padding:0 2rem; }
-.ur-intro-img { width:100%; height:auto; display:block; }
-.ur-placeholder { border:1px dashed rgba(176,26,26,0.4); padding:2rem 1rem; text-align:center; font-family:'Courier Prime',monospace; font-size:0.82rem; letter-spacing:0.2em; color:#b01a1a; min-height:150px; display:flex; align-items:center; justify-content:center; }
-.ur-intro-3col .ur-texto-cuerpo { color:#1a1a1a; }
-.ur-intro-3col .ur-texto-cuerpo strong { color:#b01a1a; }
-@media(max-width:900px){ .ur-intro-3col { grid-template-columns:1fr; } .ur-col-centro { border:none; padding:0; } }
-.hero-eyebrow{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.68rem,1.1vw,0.82rem);letter-spacing:0.22em;color:var(--muted);}
-.hero-titulo{font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif;font-size:clamp(1.8rem,3.5vw,3rem);letter-spacing:0.03em;line-height:0.95;color:var(--white);margin-bottom:1.5rem;}
-.hero-ecuacion{font-family:'Courier Prime',monospace;font-size:clamp(0.9rem,1.5vw,1.1rem);color:var(--muted);letter-spacing:0.05em;}
-.ur-simbolo{padding:clamp(3rem,8vw,7rem) clamp(1rem,3vw,2rem);text-align:center;border-bottom:1px solid rgba(176,26,26,0.25);}
-.ur-simbolo img{width:clamp(240px,35vw,440px);height:clamp(240px,35vw,440px);object-fit:contain;display:block;margin:0 auto 1.5rem auto;}
-.ur-simbolo-pie{font-family:'Bebas Neue',sans-serif;font-size:0.82rem;letter-spacing:0.35em;color:var(--amber);}
-.ur-portal{display:block;}
-.ur-portal img{width:100%;height:auto;display:block;filter:contrast(1.05);}
-.ur-portal-pie{background:var(--black);padding:0.6rem clamp(1rem,3vw,2rem);text-align:center;border-bottom:1px solid rgba(176,26,26,0.25);font-family:'Courier Prime',monospace;font-size:0.78rem;letter-spacing:0.2em;color:var(--amber);}
-.ur-texto{background:var(--cream);color:var(--black);padding:clamp(3rem,8vw,7rem) clamp(1rem,3vw,2rem);border-bottom:1px solid rgba(176,26,26,0.25);}
-.ur-construccion{font-family:'Courier Prime',monospace;font-style:italic;text-align:center;letter-spacing:0.3em;font-size:0.78rem;color:#7a5a2a;line-height:1.9;}
-.footer{background:var(--black);border-top:none;padding:0.9rem clamp(0.5rem,2vw,1.75rem);display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:1rem;}
-.footer-left{display:flex;flex-direction:column;gap:0.3rem;}
-.footer-brand{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.95rem,2vw,1.3rem);letter-spacing:0.15em;color:var(--white);}
-.footer-right{display:flex;flex-direction:column;align-items:flex-end;gap:0.3rem;}
-.footer-links{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.95rem,2vw,1.3rem);letter-spacing:0.15em;}
-.footer-links a{color:var(--amber);text-decoration:none;}
-.footer-links a:hover{color:var(--white);}
-.footer-coords{width:100%;margin-top:0.5rem;font-family:'Courier Prime',monospace;font-size:0.72rem;letter-spacing:0.1em;color:var(--muted);}
-
-/* =============================================
-   SISTEMA DE RETÍCULA UR-SAPIENS
-   =============================================
-   MEDIDAS FIJAS — NO TOCAR
-   --ur-padding:    padding interno del PC (lateral)
-   --ur-medianil:   espacio entre columnas
-   --ur-linea:      grosor línea roja
-   ============================================= */
-:root {
-  --ur-padding: clamp(1.5rem,4vw,3rem);
-  --ur-medianil: clamp(1.5rem,3vw,2.5rem);
-  --ur-linea: 2px;
-}
-
-/* PÁGINA — contenedor de cada doble página */
-.ur-pagina {
-  padding: var(--ur-padding);
-}
-
-/* GRID — dos columnas iguales con medianil fijo */
-.ur-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: var(--ur-medianil);
-  align-items: end;
-}
-
-/* COLUMNAS */
-.ur-col { display: flex; flex-direction: column; }
-
-/* JERARQUÍA TIPOGRÁFICA — niveles fijos */
-
-/* Nivel 1: Título de sección */
-.ur-t1 {
-  font-family: 'Bebas Neue', Impact, 'Arial Narrow', sans-serif;
-  font-size: clamp(1.8rem, 4vw, 3.5rem);
-  letter-spacing: 0.05em;
-  color: #b01a1a;
-  line-height: 1;
-  margin-bottom: 1rem;
-}
-
-/* Nivel 2: Subtítulo */
-.ur-t2 {
-  font-family: 'Playfair Display', Georgia, serif;
-  font-size: clamp(1.1rem, 2.5vw, 1.6rem);
-  font-weight: 700;
-  font-style: italic;
-  color: #1a1a1a;
-  line-height: 1.3;
-  margin-bottom: 0.8rem;
-}
-
-/* Nivel 3: Cuerpo de texto */
-.ur-t3 {
-  font-family: 'Courier Prime', monospace;
-  font-size: 1rem;
-  line-height: 1.8;
-  color: #1a1a1a;
-  margin-bottom: 1rem;
-}
-.ur-t3 strong { color: #b01a1a; }
-
-/* Nivel 4: Pie de foto */
-.ur-t4 {
-  font-family: 'Courier Prime', monospace;
-  font-size: 0.78rem;
-  letter-spacing: 0.15em;
-  color: #7a5a2a;
-  line-height: 1.5;
-  margin-top: 0.4rem;
-}
-
-/* Nivel 5: Nota al pie */
-.ur-t5 {
-  font-family: 'Courier Prime', monospace;
-  font-size: 0.82rem;
-  font-style: italic;
-  color: #555;
-  line-height: 1.6;
-  margin-top: 0.5rem;
-}
-
-/* Nivel 6: Firma */
-.ur-firma {
-  font-family: 'Courier Prime', monospace;
-  font-size: 0.9rem;
-  font-style: italic;
-  color: #1a1a1a;
-  text-align: right;
-  margin-top: 0.5rem;
-}
-
-/* ELEMENTOS */
-.ur-lr { height: var(--ur-linea); background: #b01a1a; margin: 1rem 0; }
-.ur-img { width: 100%; height: auto; display: block; }
-.ur-img-sepia { filter: sepia(0.3) contrast(1.05); }
-.ur-spacer { flex: 1; }
-
-/* =============================================
-   PLANTILLA DE PÁGINA — copiar para cada nueva
-   =============================================
-
-<div class="ur-main">
-  <div class="ur-pagina">
-
-    <!-- TÍTULO SECCIÓN -->
-    <div style="display:flex; gap:var(--ur-medianil);">
-      <p class="ur-t1" style="flex:1;">TÍTULO</p>
-      <div style="flex:1;"></div>
-    </div>
-
-    <!-- CONTENIDO DOS COLUMNAS -->
-    <div style="display:flex; gap:var(--ur-medianil);">
-      <div style="flex:1; display:flex; flex-direction:column;">
-        [TEXTO]
-        [FOTO OPCIONAL]
-        [NOTA OPCIONAL]
-      </div>
-      <div style="flex:1;">
-        [IMAGEN DERECHA]
-      </div>
-    </div>
-
-    <!-- FIRMAS -->
-    <div style="display:flex; gap:var(--ur-medianil);">
-      <p class="ur-firma" style="flex:1;">Firma izq</p>
-      <p class="ur-firma" style="flex:1;">Firma der</p>
-    </div>
-
-    <!-- PAGINACIÓN -->
-    <p class="ur-paginacion">N &nbsp; UR ± E=mc² = SAPIENS</p>
-
-  </div>
-</div>
-
-============================================= */
-
-.ur-paginacion { font-family:'Playfair Display',Georgia,serif; font-size:0.9rem; color:#1a1a1a; text-align:right; margin-top:0.3rem; letter-spacing:0.05em; font-style:italic; }
-
-</style>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -253,17 +49,22 @@ body{background:var(--black);color:var(--white);font-family:'Courier Prime',mono
 <!-- LÍNEA NEGRA SEPARADORA -->
 <div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
 
-<!-- PC₁ — SÍMBOLO + TÍTULO -->
-<div class="ur-main" style="display:flex; align-items:stretch; gap:0; padding:clamp(2rem,5vw,4rem) clamp(1rem,3vw,2rem);">
-  <div id="ur-simbolo-box" style="flex-shrink:0; width:clamp(260px,35vw,500px);">
-    <img src="https://live.staticflickr.com/65535/55173125591_3066404ecb_o.png" alt="UR-SAPIENS · Símbolo" style="width:100%; height:auto; display:block;">
+<!-- PC₁ — SÍMBOLO + TÍTULO + SUBTÍTULO -->
+<div class="ur-main" style="display:flex; flex-direction:column; gap:0; padding:clamp(2rem,5vw,4rem) clamp(1rem,3vw,2rem) clamp(1.5rem,4vw,3rem);">
+  <div style="display:flex; align-items:stretch; gap:0;">
+    <div id="ur-simbolo-box" style="flex-shrink:0; width:clamp(260px,35vw,500px);">
+      <img src="https://live.staticflickr.com/65535/55173125591_3066404ecb_o.png" alt="UR-SAPIENS · Símbolo" style="width:100%; height:auto; display:block;">
+    </div>
+    <div id="ur-titulo" style="flex:1; border-left:3px solid #b01a1a; border-right:3px solid #b01a1a; padding:0 clamp(1rem,2vw,2rem); display:flex; flex-direction:column; justify-content:space-between; overflow:hidden;">
+      <p class="fit-line" style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; letter-spacing:0.02em; color:#1a1a1a; line-height:1; white-space:nowrap;"><span style="color:#b01a1a;">UR</span>: COSMOGONÍA</p>
+      <p class="fit-line" style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; letter-spacing:0.02em; color:#1a1a1a; line-height:1; white-space:nowrap;">PALEOLINGÜÍSTICA</p>
+      <div style="flex:1;"></div>
+      <p class="fit-line" style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; letter-spacing:0.02em; color:#1a1a1a; line-height:1; white-space:nowrap;">US-<span style="color:#b01a1a;">UR</span>-PACIÓN SISTÉMICA</p>
+    </div>
   </div>
-  <div id="ur-titulo" style="flex:1; border-left:3px solid #b01a1a; border-right:3px solid #b01a1a; padding:0 clamp(1rem,2vw,2rem); display:flex; flex-direction:column; justify-content:space-between; overflow:hidden;">
-    <p class="fit-line" style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; letter-spacing:0.02em; color:#1a1a1a; line-height:1; white-space:nowrap;"><span style="color:#b01a1a;">UR</span>: COSMOGONÍA</p>
-    <p class="fit-line" style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; letter-spacing:0.02em; color:#1a1a1a; line-height:1; white-space:nowrap;">PALEOLINGÜÍSTICA</p>
-    <div style="flex:1;"></div>
-    <p class="fit-line" style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; letter-spacing:0.02em; color:#1a1a1a; line-height:1; white-space:nowrap;">US-<span style="color:#b01a1a;">UR</span>-PACIÓN SISTÉMICA</p>
-  </div>
+  <div class="ur-lr" style="margin:1.5rem 0 1rem 0;"></div>
+  <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#1a1a1a; width:100%;">NAT-<span style="color:#b01a1a;">UR</span>-A: nacido del <span style="color:#b01a1a;">UR</span>. <span style="color:#b01a1a;">UR</span>-A: agua en euskera. El euskera podría ser la "caja negra" de una humanidad en colisión constante. Diccionario de una posible cosmogonía paleolingüística y su posterior us-<span style="color:#b01a1a;">UR</span>-pación sistémica. Contamos con los Orígenes de la Civilización de AB/ÖC, la postal navideña de Os Garabatos (2019), la INTUICIÓN BELTZA, el Señor <span style="color:#b01a1a;">UR</span>-beltz, el diagrama hídrico de J.M. Sansinenea, el jeroglífico <span style="color:#b01a1a;">UR</span> de 1969, algo de humor: y cometas góticos cargados de <span style="color:#b01a1a;">UR</span>-SAPIENS a punto de cruzar el Estrecho de Ormuz. <em>(<a href="#pub-intro" style="color:#b01a1a; text-decoration:none;">Introducción</a>)</em></p>
+  <p style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; font-weight:700; letter-spacing:0.3em; color:var(--amber); margin-top:0.5rem; text-align:right;">· Luis Gonzaga Roteta ·</p>
 </div>
 <script>
 function fitLines() {
@@ -288,92 +89,977 @@ window.addEventListener('resize', fitLines);
 
 <!-- MARQUEE 6 FOTOS -->
 <div style="overflow:hidden; width:100%; border-top:10px solid var(--red); border-bottom:10px solid var(--red); background:var(--black); cursor:pointer;" onclick="this.querySelector('.mq-inner').style.animationPlayState = this.querySelector('.mq-inner').style.animationPlayState === 'paused' ? 'running' : 'paused'">
-  <div class="mq-inner" style="display:flex; gap:10px; width:max-content; animation:marquee-fotos 50s linear infinite;">
-    <!-- pasada 1 -->
-    <img src="https://live.staticflickr.com/65535/55178636797_f008908416_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179530231_bb43898d49_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179936095_6f11957864_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179538086_b8c128e828_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179803119_539eb9b0d4_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55118052565_30bb53bbcc_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <!-- pasada 2 -->
-    <img src="https://live.staticflickr.com/65535/55178636797_f008908416_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179530231_bb43898d49_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179936095_6f11957864_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179538086_b8c128e828_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179803119_539eb9b0d4_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55118052565_30bb53bbcc_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <!-- pasada 3 -->
-    <img src="https://live.staticflickr.com/65535/55178636797_f008908416_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179530231_bb43898d49_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179936095_6f11957864_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179538086_b8c128e828_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179803119_539eb9b0d4_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55118052565_30bb53bbcc_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <!-- pasada 4 -->
-    <img src="https://live.staticflickr.com/65535/55178636797_f008908416_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179530231_bb43898d49_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179936095_6f11957864_o.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179538086_b8c128e828_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55179803119_539eb9b0d4_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-    <img src="https://live.staticflickr.com/65535/55118052565_30bb53bbcc_z.jpg" style="height:20vw; width:auto; display:block; flex-shrink:0;">
-  </div>
-</div>
-<style>
-@keyframes marquee-fotos { from { transform:translateX(0); } to { transform:translateX(-50%); } }
-</style>
-
-<!-- PC₂ — DOS COLUMNAS -->
-<div class="ur-main">
-  <div class="ur-pagina" style="position:relative; padding-bottom:3rem;">
-    <!-- INTRODUCCIÓN arriba -->
-    <div style="display:flex; gap:var(--ur-medianil);">
-      <p class="ur-t1" style="flex:1; font-size:clamp(1.2rem,2.6vw,2.2rem);">INTRODUCCIÓN</p>
-      <div style="flex:1;"></div>
-    </div>
-
-    <div style="display:flex; gap:var(--ur-medianil);">
-
-      <!-- COL IZQ -->
-      <div style="flex:1; display:flex; flex-direction:column;">
-        <p class="ur-t3">Mirando el flujo del Bidasoa desde el puente de Doneztebe, en algún momento entre 2019 y el ahora relativo, algo se reveló. No fue una epifanía religiosa ni un descubrimiento académico. Fue una intuición — la ciencia del que llegó primero y no necesita publicar en Nature.</p>
-        <p class="ur-t3">La palabra más importante del idioma — NAT-<span style="color:#b01a1a;">UR</span>-ALEZA — llevaba escondida la prueba desde siempre. NAT-<span style="color:#b01a1a;">UR</span>-A: Nacido del <span style="color:#b01a1a;">UR</span>. El <span style="color:#b01a1a;">UR</span> es agua en euskera. El euskera es la caja negra de la humanidad.</p>
-        <p class="ur-t3">Lo que siguió fue inevitable: si el <span style="color:#b01a1a;">UR</span> estaba en NAT-<span style="color:#b01a1a;">UR</span>-ALEZA, estaba en todas partes. En <span style="color:#b01a1a;">UR</span>uguay y en <span style="color:#b01a1a;">UR</span>ubamba. En <span style="color:#b01a1a;">UR</span>ano y en Merc<span style="color:#b01a1a;">UR</span>io. En la b-<span style="color:#b01a1a;">UR</span>-ocracia y en la us-<span style="color:#b01a1a;">UR</span>-pación. En el ADN flotando en <span style="color:#b01a1a;">UR</span>-A. En el metano y el amoníaco bajo cien mil atmósferas de presión en los gigantes helados del cosmos.</p>
-        <p class="ur-t3">El símbolo que une todo nació de la fusión de dos logos: el círculo-vacío de Oteiza — sello de Beltza Records desde el principio — y la estrella tartésica de ocho puntas del escudo de Doneztebe. En el centro, en rojo: <strong style="color:#b01a1a;">UR</strong>. La humanidad extraterrestre resumida en una forma.</p>
-        <p class="ur-t3">Lo que sigue es una tesis inverosímil, rigurosa y descabellada a partes iguales. Una cosmogonía paleolingüística construida con tres herramientas: <strong>etimología, toponimia y humor extraterrestre</strong>.</p>
-        <div style="flex:1;"></div>
-        <div style="padding:1.5rem 0; text-align:center;">
-          <img src="https://live.staticflickr.com/65535/55179963413_2c48f2aba2_b.jpg" alt="El Jeroglífico UR · J.M. Sansinenea · 1969" class="ur-img-sepia" style="width:75%; height:auto; display:inline-block;">
-        </div>
-        <p class="ur-t5">(i) Según un Académico de Lengua Vasca. — Nosotros creemos que esta palabra LUDIÁN para señalar la Tierra como planeta, es una composición moderna, que deriva de L<span style="color:#b01a1a;">UR</span>: tierra (donde se siembran las plantas.)</p>
-      </div>
-
-      <!-- COL DER -->
-      <div style="flex:1;">
-        <img src="https://live.staticflickr.com/65535/55175813408_2d5dc61bbd_b.jpg" alt="Diagrama UR · J.M. Sansinena" class="ur-img ur-img-sepia">
-      </div>
-
-    </div>
-
-    <!-- FIRMAS -->
-    <div style="display:flex; gap:var(--ur-medianil);">
-      <p class="ur-firma" style="flex:1;">J.M. Sansinenea</p>
-      <p class="ur-firma" style="flex:1;">J.M. Sansinenea</p>
-    </div>
-
-    <!-- PAGINACIÓN -->
-    <p style="font-family:'Playfair Display',Georgia,serif; font-size:0.9rem; color:#1a1a1a; text-align:right; margin-top:0.3rem; letter-spacing:0.05em;"><em>1 &nbsp; <span style="color:#b01a1a;">UR</span> ± E=mc² = SAPIENS</em></p>
-
-    </div>
+  <div class="mq-inner" style="display:flex; gap:10px; width:max-content; animation:marquee-fotos 70s linear infinite;">
+    <img src="https://live.staticflickr.com/65535/55180401359_10333f327e_z.jpg" alt="Doneztebe" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179538086_b8c128e828_c.jpg" alt="NATURAL · Os Garabatos" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179803119_539eb9b0d4_z.jpg" alt="UR-SAPIENS" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55173125591_684b0ca5a0_c.jpg" alt="UR-SAPIENS · Símbolo" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55141100913_459c1755f6_c.jpg" alt="La Naranja Mecánica · Jardines de Júpiter" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193110368_3e8fda9eb4_b.jpg" alt="Miño · O-UR-ense" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55192859381_8f66fe45c8_z.jpg" alt="Río O Barbantiño · O-UR-ense" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55191998322_1db521843b_z.jpg" alt="Río O Barbantiño · Bajo Puente Romano" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55192002807_b44762faed_z.jpg" alt="Vida na Orixe · O-UR-ense" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193143934_1b262f49fc_z.jpg" alt="Río O Barbantiño · Puente Romano" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193145624_e515de67f9_z.jpg" alt="As B-UR-gas · O-UR-ense · F-UR-or" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193147249_3f7e00c2b4_z.jpg" alt="As B-UR-gas · O-UR-ense · F-UR-or" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193299260_00a5bbd653_z.jpg" alt="As B-UR-gas · O-UR-rense · F-UR-or" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55192901526_0d9993e21e_z.jpg" alt="O-UR-ense · Galiza" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55192019217_8b9461c5e4_z.jpg" alt="Puente Romano sobre el Río Miño" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193315130_b047733908_z.jpg" alt="Cigarrón · Verín · O-UR-ense" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193324385_c308035d47_z.jpg" alt="Zirall · Destilando O-RU-jo · Allariz" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55192920606_95537e33c7_z.jpg" alt="Poza · Os Garabatos · Amoeiro" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55192044332_4762434b23_z.jpg" alt="Poza · Os Garabatos · Amoeiro" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193049388_418020c604_z.jpg" alt="Miño · O-UR-ense" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179630260_98cdff068c_c.jpg" alt="UR-UMEA" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55180401359_10333f327e_z.jpg" alt="Doneztebe" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179538086_b8c128e828_c.jpg" alt="NATURAL · Os Garabatos" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179803119_539eb9b0d4_z.jpg" alt="UR-SAPIENS" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55173125591_684b0ca5a0_c.jpg" alt="UR-SAPIENS · Símbolo" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55141100913_459c1755f6_c.jpg" alt="La Naranja Mecánica · Jardines de Júpiter" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193110368_3e8fda9eb4_b.jpg" alt="Miño · O-UR-ense" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55192859381_8f66fe45c8_z.jpg" alt="Río O Barbantiño · O-UR-ense" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55191998322_1db521843b_z.jpg" alt="Río O Barbantiño · Bajo Puente Romano" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55192002807_b44762faed_z.jpg" alt="Vida na Orixe · O-UR-ense" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193143934_1b262f49fc_z.jpg" alt="Río O Barbantiño · Puente Romano" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193145624_e515de67f9_z.jpg" alt="As B-UR-gas · O-UR-ense · F-UR-or" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193147249_3f7e00c2b4_z.jpg" alt="As B-UR-gas · O-UR-ense · F-UR-or" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193299260_00a5bbd653_z.jpg" alt="As B-UR-gas · O-UR-rense · F-UR-or" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55192901526_0d9993e21e_z.jpg" alt="O-UR-ense · Galiza" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55192019217_8b9461c5e4_z.jpg" alt="Puente Romano sobre el Río Miño" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193315130_b047733908_z.jpg" alt="Cigarrón · Verín · O-UR-ense" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193324385_c308035d47_z.jpg" alt="Zirall · Destilando O-RU-jo · Allariz" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55192920606_95537e33c7_z.jpg" alt="Poza · Os Garabatos · Amoeiro" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55192044332_4762434b23_z.jpg" alt="Poza · Os Garabatos · Amoeiro" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55193049388_418020c604_z.jpg" alt="Miño · O-UR-ense" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55179630260_98cdff068c_c.jpg" alt="UR-UMEA" style="height:20vw; width:auto; display:block; flex-shrink:0;">
   </div>
 </div>
 
 <!-- LÍNEA NEGRA SEPARADORA -->
 <div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
 
+<!-- WRAPPER UR-BOOK — dentro del ur-marco -->
+<div style="display:flex; align-items:stretch;">
+
+  <!-- FEED — izquierda -->
+  <main style="flex:1; min-width:0; display:flex; flex-direction:column; background:var(--black);">
+
+
+    <!-- PUB 06 — FINIS-UR -->
+    <article id="pub-finisur" style="background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(1.5rem,4vw,3rem) clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:0;">
+
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.6rem; display:flex; align-items:center; gap:0.8rem;">FINIS-<span style="color:#b01a1a;">UR</span> · BÁLTICO <span style="flex:1; height:1px; background:rgba(176,26,26,0.3); display:block;"></span></div>
+
+      <h2 style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; font-size:clamp(2rem,5vw,5rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:1rem;">FINIS-<span style="color:#b01a1a;">UR</span><br>EL <span style="color:#b01a1a;">UR</span> NÓRDICO · VESI · T-<span style="color:#b01a1a;">UR</span>-KU<br>LENGUAS <span style="color:#b01a1a;">UR</span>-A-NIANAS</h2>
+
+      <img src="https://live.staticflickr.com/65535/55193887197_e95825eef5_h.jpg" alt="FINIS-UR · J.M. Sansinenea" style="width:100%; height:auto; display:block; margin:1rem 0 0.4rem 0;">
+      <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-bottom:1.5rem; text-align:center;">· FINIS-<span style="color:#b01a1a;">UR</span> · J.M. Sansinenea ·</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Las lenguas fino-húngaras — finés, estonio, lapón, húngaro — son las lenguas <span style="color:#b01a1a;">UR</span>-A-nianas: llegadas de <span style="color:#b01a1a;">UR</span>-A-no, del cielo húmedo, pre-indoeuropeas, pre-célticas. Como el euskera. Dos cajas negras del <span style="color:#b01a1a;">UR</span> en los extremos de Europa. El finés no tiene escritura hasta el siglo XVI — igual que el euskera: Xabatenea 1538, el primer texto vasco conocido. El <span style="color:#b01a1a;">UR</span> hablado durante milenios antes de ser atrapado en escri-T-<span style="color:#b01a1a;">UR</span>-A.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong style="color:#1a1a1a;">VESI</strong> = agua en finés. El <span style="color:#b01a1a;">UR</span> báltico. La misma raíz que recorre la toponimia de Finlandia como el <span style="color:#b01a1a;">UR</span> recorre sus 188.000 lagos. Finlandia es el país con más lagos por kilómetro cuadrado del planeta — el territorio donde el <span style="color:#b01a1a;">UR</span> se resistió más a ser us-<span style="color:#b01a1a;">UR</span>-pado. 9.500 años de <span style="color:#b01a1a;">UR</span>-Sapiens finlandés. Solo 100 piezas de la Época del Bronce — la metal-<span style="color:#b01a1a;">UR</span>-gia llegó tarde y poco. 25.000 objetos de la Edad de Piedra. El sistema mundo de la escri-T-<span style="color:#b01a1a;">UR</span>-A tardó en llegar.</p>
+
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:2; color:#333;"><strong>ATLAS DEL <span style="color:#b01a1a;">UR</span> FINLANDÉS · TOPONIMIA HÍDRICA:</strong></p>
+        <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:2; color:#333;">
+        · <strong>VESI</strong> = <span style="color:#b01a1a;">UR</span> · Agua<br>
+        · <strong>P-<span style="color:#b01a1a;">UR</span>-O</strong> = Riachuelo · los que enlazan los lagos<br>
+        · <strong>UUR-A-IENEN</strong> = P-<span style="color:#b01a1a;">UR</span>-O · el riachuelo que une el <span style="color:#b01a1a;">UR</span><br>
+        · <strong>JARVI</strong> = Lago<br>
+        · <strong>JOKI</strong> = Río<br>
+        · <strong>KO-<span style="color:#b01a1a;">UR</span>-U</strong> = Desfiladero · GALL-<span style="color:#b01a1a;">UR</span><br>
+        · <strong>K-<span style="color:#b01a1a;">UR</span>-KI</strong> = Grulla · K-<span style="color:#b01a1a;">UR</span>-KILLOS<br>
+        · <strong>KI-<span style="color:#b01a1a;">UR</span>-U-VESI</strong> = Agua sobre la que vuela la Alondra para comer mosquitos<br>
+        · <strong>K-<span style="color:#b01a1a;">UR</span>-KIJOKI</strong> = Grulla de Río<br>
+        · <strong>T-<span style="color:#b01a1a;">UR</span>-ENKI</strong> = Pueblo rodeado de Lagos<br>
+        · <strong>KE-<span style="color:#b01a1a;">UR</span>-RUUNSELKÄ</strong> = Lago despejado sin islas<br>
+        · <strong>U-<span style="color:#b01a1a;">UR</span>-RAINEN</strong> = Abundancia de huellas<br>
+        · <strong>K-<span style="color:#b01a1a;">UR</span>-OLANLAHTI</strong> = Estrangulador del Golfo · la T sobre el <span style="color:#b01a1a;">UR</span><br>
+        · <strong>K-<span style="color:#b01a1a;">UR</span>-EJOKI</strong> = Estrangular el Río · otra T<br>
+        · <strong><span style="color:#b01a1a;">UR</span>-AT</strong> = Huella alargada de Riachuelo<br>
+        · <strong>N-<span style="color:#b01a1a;">UR</span>-MES</strong> = Hierba<br>
+        · <strong>N-<span style="color:#b01a1a;">UR</span>-MO / J-<span style="color:#b01a1a;">UR</span>-VA</strong> = Topónimos del <span style="color:#b01a1a;">UR</span><br>
+        · <strong>M-U-<span style="color:#b01a1a;">UR</span>-AS JARVI</strong> = Lago de las Fresas<br>
+        · <strong>A-<span style="color:#b01a1a;">UR</span>-EJARVI</strong> = Lago del <span style="color:#b01a1a;">UR</span> dorado<br>
+        · <strong>SI-<span style="color:#b01a1a;">UR</span>-O / M-<span style="color:#b01a1a;">UR</span>-OLE</strong> = Topónimos del <span style="color:#b01a1a;">UR</span> escondido<br>
+        · <strong>VI-<span style="color:#b01a1a;">UR</span>-ILIA</strong> = Archipiélago del <span style="color:#b01a1a;">UR</span><br>
+        · <strong>TUNT-<span style="color:#b01a1a;">UR</span>-I</strong> = Monte · El <span style="color:#b01a1a;">UR</span> que sube<br>
+        · <strong>OANAS-T-<span style="color:#b01a1a;">UR</span>-T-<span style="color:#b01a1a;">UR</span>-I · PALLASTUNT-<span style="color:#b01a1a;">UR</span>-I</strong> = Montes del <span style="color:#b01a1a;">UR</span> doble · la doble T como en TORT-<span style="color:#b01a1a;">UR</span>-A<br>
+        · <strong>A-<span style="color:#b01a1a;">UR</span>-A JOKI</strong> = Río A-<span style="color:#b01a1a;">UR</span>-A · el viaje de la Agricult-<span style="color:#b01a1a;">UR</span>-A<br>
+        · <strong>T-<span style="color:#b01a1a;">UR</span>-KU</strong> = Ciudad · Primera us-<span style="color:#b01a1a;">UR</span>-pación finlandesa<br>
+        · <strong>E-<span style="color:#b01a1a;">UR</span>-A</strong> = Topónimo hídrico del S-<span style="color:#b01a1a;">UR</span>-oeste
+        </p>
+      </div>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong style="color:#1a1a1a;">T-<span style="color:#b01a1a;">UR</span>-KU</strong> — la antigua capital finlandesa. El nombre lleva la T del canal, el <span style="color:#b01a1a;">UR</span> del agua y la KU del lugar. T-<span style="color:#b01a1a;">UR</span>-KU = el lugar donde el <span style="color:#b01a1a;">UR</span> fue canalizado por primera vez. La primera us-<span style="color:#b01a1a;">UR</span>-pación finlandesa. Antes de Cristo: éxodo hacia el norte. Los pueblos invasores arrinconando a los lapones hacia el Ártico — la misma operación que en Euskal Herria: los que llegaron después empujando al <span style="color:#b01a1a;">UR</span>-Sapiens original hacia las montañas, hacia los valles, hacia los nacederos.</p>
+      <img src="https://live.staticflickr.com/65535/55193951167_ac61c2cbf6_h.jpg" alt="T-UR-KU · City" style="width:100%; height:auto; display:block; margin:1.5rem 0 0.4rem 0;">
+      <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-bottom:1.5rem; text-align:center;">· T-<span style="color:#b01a1a;">UR</span>-KU · Primera <span style="color:#b01a1a;">UR</span>-be Finlandesa ·</p>
+
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">En el S-<span style="color:#b01a1a;">UR</span>-OESTE es donde se conserva el <span style="color:#b01a1a;">UR</span>-finés más puro — igual que en el País Vasco el <span style="color:#b01a1a;">UR</span> más antiguo está en los valles interiores. Los invasores entran por la costa, por los puertos — por los estrechos, por los cuellos de botella. El <span style="color:#b01a1a;">UR</span> original retrocede hacia el interior. La us-<span style="color:#b01a1a;">UR</span>-pación siempre viene del mar — el mar que debería ser <span style="color:#b01a1a;">UR</span> libre.</p>
+      <img src="https://live.staticflickr.com/65535/55194986553_0b1d779552_b.jpg" alt="T-UR-KU · Archipiélago · Finlandia" style="width:100%; height:auto; display:block; margin:1.5rem 0 0.4rem 0;">
+      <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-bottom:1.5rem; text-align:center;">· T-<span style="color:#b01a1a;">UR</span>-KU · Archipiélago · Finlandia · El <span style="color:#b01a1a;">UR</span> que resistió ·</p>
+
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">La teoría es seria: <strong style="color:#1a1a1a;">FINIS-<span style="color:#b01a1a;">UR</span> como fósil paleolingüístico pre-indoeuropeo.</strong> Antes del indoeuropeo, antes del céltico, antes del germánico — había un sustrato hídrico común que nombraba el mundo desde el agua. El <span style="color:#b01a1a;">UR</span> como primer código de la humanidad, desde Euskal Herria hasta Finlandia, desde el Bidasoa hasta el lago Saimaa, desde el IT-<span style="color:#b01a1a;">UR</span>-I hasta el VESI. Un solo fonema. Una sola memoria. 10.000 años de <span style="color:#b01a1a;">UR</span>-Sapiens resistiendo la us-<span style="color:#b01a1a;">UR</span>-pación.</p>
+
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">USKONTO = Religión en finés = US-<span style="color:#b01a1a;">UR</span>-pación del Espíritu.<br>
+        P-<span style="color:#b01a1a;">UR</span>-ITANO en el norte: la misma máquina con sauna.<br>
+        RATTUS · Finlandia Extreme · 1984 · el <span style="color:#b01a1a;">UR</span> punk que grita desde el Báltico.<br>
+        <strong style="color:#1a1a1a;"><span style="color:#b01a1a;">UR</span>-BOOK · CIENCIA DE LA INTUICIÓN ANTI-US-<span style="color:#b01a1a;">UR</span>-PACIÓN<br>
+        <span style="color:#b01a1a;">UR</span>-SAPIENS MAKE GREAT AND BACK AGAIN!!!</strong></p>
+      </div>
+
+
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.9; color:#333;"><strong style="color:#1a1a1a;">LAS RATAS VASCAS DE MARTE</strong> — Rattus Norvegicus Euskaldun evolucionadas para sobrevivir sin <span style="color:#b01a1a;">UR</span>. Llevan la txapela y la memoria hídrica del Bidasoa grabada en el ADN.</p>
+        <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.9; color:#333; margin-top:0.8rem;">Cuando Elon aterrice con su cohete de silicio hidratado, uno de ellos se acercará, le mirará con los ojos pequeños de la Rata Noruega cósmica y le dirá en euskera: <em style="color:#b01a1a;">"Ura non dago?"</em> — ¿Dónde está el agua?</p>
+        <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.9; color:#333; margin-top:0.8rem;">Y Elon no entenderá. Porque el BAS-<span style="color:#b01a1a;">UR</span>-A-Piens californiano nunca aprendió que la primera pregunta del universo es siempre por el <span style="color:#b01a1a;">UR</span>. Mientras los demás vascos marcianos estarán en la taberna de un cráter bebiendo kalimotxo de <span style="color:#b01a1a;">UR</span> polar, discutiendo si la Real Sociedad puede ganar la liga en Marte con árbitros robotizados. <em>Beti aurrera.</em></p>
+        <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.9; color:#333; margin-top:0.8rem;"><strong style="color:#1a1a1a;">TX-<span style="color:#b01a1a;">UR</span>-I ETA <span style="color:#b01a1a;">UR</span>-DIN.</strong> Blanco y Azul. EL-<span style="color:#b01a1a;">UR</span> (nieve) + <span style="color:#b01a1a;">UR</span> (agua). La única camiseta del universo conocido que lleva dos <span style="color:#b01a1a;">UR</span> en los colores. El hooliganismo hídrico donostiarra — el único hooliganismo con fundamento paleolingüístico. Cuando la Real marca un gol en Marte, los vascos marcianos gritan: <em style="color:#b01a1a;">"UR! UR!"</em> Y el estadio tiembla como un tsunami.</p>
+
+        <img src="https://s2.ppllstatics.com/diariovasco/www/multimedia/2026/02/26/HCF_FHOWAAAQzv8-U10204043441iYF-U20924374428HcG-650x455@Diario%20Vasco.jpg" alt="Molotovs TX-UR-I ETA UR-DIN · CBGB · Donostia" style="width:100%; height:auto; display:block; margin:1rem 0 0.4rem 0;">
+        <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; text-align:center;">· Molotovs · TX-UR-I ETA UR-DIN · CBGB · Londres en el templo del punk neoyorquino · Diario Vasco ·</p>
+      </div>
+
+      <div style="margin:1.5rem 0;">
+        <a href="https://www.youtube.com/watch?v=LjFgngvAEoQ" target="_blank" style="display:block; position:relative;">
+          <img src="https://img.youtube.com/vi/LjFgngvAEoQ/maxresdefault.jpg" alt="UR-Dantza · Aurresku · Fusión Andaluza" style="width:100%; display:block; filter:contrast(1.1);">
+          <div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); width:80px; height:80px; background:rgba(176,26,26,0.9); border-radius:50%; display:flex; align-items:center; justify-content:center;">
+            <div style="width:0; height:0; border-top:20px solid transparent; border-bottom:20px solid transparent; border-left:35px solid #f2ede6; margin-left:8px;"></div>
+          </div>
+        </a>
+        <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-top:0.4rem; text-align:center;">· <span style="color:#b01a1a;">UR</span>-Dantza · Aurresku · Fusión Andaluza · La Danza del <span style="color:#b01a1a;">UR</span> que cruza los Estrechos ·</p>
+      </div>
+
+      <div class="glosario">
+        <div class="glosario-title">GLOSA-<span style="color:#b01a1a;">UR</span>-IO · PÁG. 06</div>
+        <ol>
+          <li><strong>VESI</strong> — Agua en finés. El <span style="color:#b01a1a;">UR</span> báltico. Raíz hídrica de la toponimia finlandesa.</li>
+          <li><strong>JARVI</strong> — Lago en finés. Finlandia tiene 188.000 lagos. El territorio donde el <span style="color:#b01a1a;">UR</span> resistió más la us-<span style="color:#b01a1a;">UR</span>-pación.</li>
+          <li><strong>JOKI</strong> — Río en finés. Presente en cientos de topónimos: K-<span style="color:#b01a1a;">UR</span>-KIJOKI (grulla de río), K-<span style="color:#b01a1a;">UR</span>-EJOKI (estrangular el río).</li>
+          <li><strong>TUNT-<span style="color:#b01a1a;">UR</span>-I</strong> — Monte en finés. El <span style="color:#b01a1a;">UR</span> que sube. Oanas-T-<span style="color:#b01a1a;">UR</span>-T-<span style="color:#b01a1a;">UR</span>-I, Pallastunt-<span style="color:#b01a1a;">UR</span>-I — los montes de la doble T nórdica.</li>
+          <li><strong>USKONTO</strong> — Religión en finés. En el <span style="color:#b01a1a;">UR</span>-book: US-<span style="color:#b01a1a;">UR</span>-PACIÓN del espíritu. La T aplicada al alma.</li>
+          <li><strong>Lenguas fino-húngaras</strong> — Lenguas <span style="color:#b01a1a;">UR</span>-A-nianas: finés, estonio, lapón, húngaro. Pre-indoeuropeas. Sin escritura hasta el siglo XVI — como el euskera.</li>
+          <li><strong><span style="color:#b01a1a;">UR</span>-BIA</strong> — <span style="color:#b01a1a;">UR</span> + BI (dos en euskera) = Dos Aguas. Meseta pastoril en Aizkorri, Gipuzkoa. 1.134m. Nombre de la gira "Welcome to <span style="color:#b01a1a;">UR</span>-BIA" de The Molotovs (2026).</li>
+          <li><strong><span style="color:#b01a1a;">UR</span>-BI ET OR-BI-T</strong> — Latín: <em>urbi et orbi</em> = para la ciudad y para el mundo. Bendición papal. <span style="color:#b01a1a;">UR</span>-BI = <span style="color:#b01a1a;">UR</span>-be sumeria. OR-BI-T = la órbita del OR cósmico.</li>
+          <li><strong>P-<span style="color:#b01a1a;">UR</span>-O</strong> — Riachuelo en finés. Los que enlazan los lagos. El <span style="color:#b01a1a;">UR</span> libre entre las T's del sistema.</li>
+          <li><strong>Xabatenea 1538</strong> — Primer texto escrito en euskera conocido. Como el finés: el <span style="color:#b01a1a;">UR</span> oral durante milenios antes de ser atrapado en escri-T-<span style="color:#b01a1a;">UR</span>-A.</li>
+        </ol>
+      </div>
+
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#b01a1a; margin-top:2rem; text-align:right; border-top:1px solid rgba(176,26,26,0.2); padding-top:0.8rem;">· Pág. 06 · <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS</div>
+    </article>
+
+
+<div id="mq-sep"><!-- MARQUEE SEPARADOR -->
+    <div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
+    <div style="background:#b01a1a; padding:0.4rem 0; overflow:hidden; white-space:nowrap; width:100%; margin:0;"><div style="display:inline-block; animation:marquee 40s linear infinite; font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#f2ede6; will-change:transform;">NAT-UR-ALEZA · UR · B-UR-OCRACIA · US-UR-PACIÓN · FINIS-UR · VESI · USKONTO · RATTUS · FREE COSMIC UR · AQUÍ ES ALLÍ · TSUNAMI · BAS-UR-A-PIENS · &nbsp;&nbsp;&nbsp; NAT-UR-ALEZA · UR · B-UR-OCRACIA · US-UR-PACIÓN · FINIS-UR · VESI · USKONTO · RATTUS · FREE COSMIC UR · AQUÍ ES ALLÍ · TSUNAMI · BAS-UR-A-PIENS ·</div></div>
+    <div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
+    <!-- /MARQUEE SEPARADOR --></div>
+    <!-- PUB 05 — UR COSMOS -->
+    <article id="pub-cosmos" style="background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(1.5rem,4vw,3rem) clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:0;">
+
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.6rem; display:flex; align-items:center; gap:0.8rem;"><span style="color:#b01a1a;">UR</span> COSMOS <span style="flex:1; height:1px; background:rgba(176,26,26,0.3); display:block;"></span></div>
+
+      <h2 style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; font-size:clamp(2rem,5vw,5rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:1rem;"><span style="color:#b01a1a;">UR</span>-ANO · SAT-<span style="color:#b01a1a;">UR</span>-NO · FREE COSMIC <span style="color:#b01a1a;">UR</span><br>AQUÍ ES ALLÍ</h2>
+
+      <img src="https://live.staticflickr.com/65535/55181683168_43a8075871_b.jpg" alt="103P Hartley 2 · Mapa Cósmico · Octubre 2023 · UR Extraterrestre" style="width:100%; height:auto; display:block; margin:1rem 0;">
+      <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-bottom:1.5rem; text-align:center;">· 103P/Hartley 2 · Cometa · Octubre 2023 · El <span style="color:#b01a1a;">UR</span> que llegó antes que nosotros ·</p>
+      <div style="display:flex; gap:1rem; margin:1.5rem 0;">
+        <div style="flex:1;">
+          <img src="https://live.staticflickr.com/65535/55181683153_72327973f7_z.jpg" alt="Cometa · UR Cósmico" style="width:100%; height:auto; display:block;">
+        </div>
+        <div style="flex:1;">
+          <img src="https://live.staticflickr.com/65535/55181683158_5691c87fc4_z.jpg" alt="Cometa · UR Cósmico" style="width:100%; height:auto; display:block;">
+        </div>
+      </div>
+      <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-bottom:1.5rem; text-align:center;">· Cometas Cósmicos · El <span style="color:#b01a1a;">UR</span> viajando 4.000 millones de años ·</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El <span style="color:#b01a1a;">UR</span> no termina en el grifo. No termina en el océano. No termina en la atmósfera. El <span style="color:#b01a1a;">UR</span> es anterior al sistema solar. El hidrógeno y el oxígeno que forman el agua de tu cuerpo se fabricaron en el corazón de estrellas que murieron hace miles de millones de años. El <span style="color:#b01a1a;">UR</span> que bebes en el Bidasoa llegó en un cometa hace 4.000 millones de años. <strong style="color:#1a1a1a;">AQUÍ ES ALLÍ.</strong> Nadie ni nada es de aquí. Todos somos extraterrestres del <span style="color:#b01a1a;">UR</span> cósmico.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><span style="color:#b01a1a;">UR</span>-ANO — O<span style="color:#b01a1a;">UR</span>anos en griego — es el cielo húmedo que fecunda la tierra. El planeta lleva el <span style="color:#b01a1a;">UR</span> en el nombre y en las entrañas: su manto interior es agua, amoníaco y metano a presiones de cien mil atmósferas. El <span style="color:#b01a1a;">UR</span> existe allí en estado superiónico — más denso que el hielo, más conductor que el metal, invisible para el sistema P-<span style="color:#b01a1a;">UR</span>-itano que solo cuenta el agua potable embotellada.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">SAT-<span style="color:#b01a1a;">UR</span>-NO — Cronos, el que cosecha — es el planeta del tiempo lento, de los anillos de hielo, de la gravedad que ordena. Sus anillos son <span style="color:#b01a1a;">UR</span> congelado en órbita. La us-<span style="color:#b01a1a;">UR</span>-pación hecha geometría: el agua que no puede caer, que gira sin destino, que el sistema planetario convirtió en espectáculo. Sun Ra lo supo desde Chicago en 1956: vino de Sat-<span style="color:#b01a1a;">UR</span>-no a devolver el <span style="color:#b01a1a;">UR</span> al cosmos con big band de 30 músicos y traje de faraón.</p>
+
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">El carbono, el oxígeno, el hidrógeno de tu cuerpo se fabricaron en el corazón de estrellas que ya murieron. El <span style="color:#b01a1a;">UR</span> que bebes es el mismo que llegó en un cometa. Eso destruye el racismo, la patria, el MAGA, la extranjería. No como teoría moral — como evidencia cósmica.</p>
+      </div>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">NEPTUNO es el mar furioso del sistema solar. El planeta más lejano de los gigantes de hielo. Su nombre romano es el del dios del mar — pero su nombre griego, Poseidón, significa "esposo de la tierra húmeda". El <span style="color:#b01a1a;">UR</span> casado con la L<span style="color:#b01a1a;">UR</span>. La fuerza que Grecia quiso domesticar en un dios con tridente — el mismo gesto sumerio de la T sobre el <span style="color:#b01a1a;">UR</span>.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El Planeta 9 — hipotético, todavía sin nombre oficial — debería llamarse NABU según la tesis <span style="color:#b01a1a;">UR</span>: el escriba sumerio del agua que escribe en tablillas de barro húmedo. El dios que convirtió el <span style="color:#b01a1a;">UR</span> en escri-T-<span style="color:#b01a1a;">UR</span>-A. El planeta más oscuro, el más lejano, el más us-<span style="color:#b01a1a;">UR</span>-pador. Si existe, orbita en la osc-<span style="color:#b01a1a;">UR</span>-idad total, a miles de años de la luz del Sol. El <span style="color:#b01a1a;">UR</span> congelado en el extremo del sistema.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">MARI — la diosa vasca de la montaña, del agua, de la tormenta — resuena con la cosmología más reciente: los agujeros negros como úteros celestes que devoran el <span style="color:#b01a1a;">UR</span> canalizado y lo expulsan libre. La radiación Hawking como el Free Cosmic <span style="color:#b01a1a;">UR</span> que escapa de donde la T no puede retenerlo. MARI no purifica — transforma. El agujero negro no destruye — devuelve.</p>
+
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">Sun Ra · Sat-<span style="color:#b01a1a;">UR</span>-no · Cosmic Free Jazz<br>
+        Parliament-Funkadelic · Mother Ship · P-Funk<br>
+        Hawkwind · Space Ritual · In Search of Space<br>
+        Kid Baltan &amp; Tom Dissevelt · In Orbit · Eindhoven 1957<br>
+        Lonnie Liston Smith · Astral Traveling · Rhodes cósmico<br><br>
+        Cinco formas de buscar el <span style="color:#b01a1a;">UR</span> antes de la <span style="color:#b01a1a;">UR</span>-be. Cinco rutas hacia el AQUÍ que es ALLÍ.</p>
+      </div>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><span style="color:#b01a1a;">UR</span>·SI — Ursus — el oso. La constelación Osa Mayor que señala el norte, el polo, el hielo ártico. El Ártico como la mayor reserva de <span style="color:#b01a1a;">UR</span> congelado del planeta — la caja negra del agua que el sistema mundo intenta derretir para convertirla en ruta comercial. El Paso del Noroeste como el nuevo Estrecho de Ormuz: otro cuello de botella, otra T sobre el <span style="color:#b01a1a;">UR</span> polar.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">La teoría SHARP lo resume todo: <strong style="color:#1a1a1a;">AQUÍ ES ALLÍ.</strong> El AQUÍ no es pertenencia — es un sesgo racista original de la pirámide sumeria. El <span style="color:#b01a1a;">UR</span> no tiene fronteras. El agua no distingue passport. El cometa que trajo el <span style="color:#b01a1a;">UR</span> hace 4.000 millones de años no pasó por ningún control de aduanas. Todos venimos del mismo cometa. El racismo es un error de cálculo de quienes olvidaron de dónde viene el agua.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong style="color:#1a1a1a;">WELCOME TO <span style="color:#b01a1a;">UR</span>-BIA</strong> — la gira principal de The Molotovs. Hermanos Cartlidge, Londres, 2026. Punk + New Wave + Mod Revival. Más de 600 conciertos antes del primer álbum. Teloneros de Iggy Pop, Blondie y los Sex Pistols. Top 3 en las listas del Reino Unido. Y la gira se llama <em><span style="color:#b01a1a;">UR</span>-BIA</em> — sin saber que <span style="color:#b01a1a;">UR</span>-BIA es una meseta pastoril en Aizkorri, Gipuzkoa, a 1.134 metros de altitud. <span style="color:#b01a1a;">UR</span> + BI (dos en euskera) = las dos aguas. El lugar donde el <span style="color:#b01a1a;">UR</span> se divide. El corazón hídrico de Euskal Herria.</p>
+
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333;"><strong><span style="color:#b01a1a;">UR</span>-BIA</strong> (euskera) = <span style="color:#b01a1a;">UR</span> + BI = Dos Aguas · Meseta de Aizkorri · 1.134m · Pastoreo libre<br>
+        <strong><span style="color:#b01a1a;">UR</span>-BI ET OR-BI-T</strong> (latín) = Para la <span style="color:#b01a1a;">UR</span>-be y para el Mundo · El Papa desde la <span style="color:#b01a1a;">UR</span>-be Sumeria hacia la órbita del cosmos<br>
+        <strong><span style="color:#b01a1a;">UR</span>-BAN</strong> (inglés) = Urbano · La ciudad que olvidó el <span style="color:#b01a1a;">UR</span><br>
+        <strong><span style="color:#b01a1a;">UR</span>-BE</strong> (sumerio) = Primera us-<span style="color:#b01a1a;">UR</span>-pación · El agua convertida en muro<br><br>
+        Todo el mismo fonema. The Molotovs eligieron <span style="color:#b01a1a;">UR</span>-BIA sin saber que nombraban a la vez la meseta vasca, la bendición papal y la primera ciudad sumeria. El <span style="color:#b01a1a;">UR</span> siempre encuentra el cauce.</p>
+      </div>
+
+      <div style="margin:2rem 0;">
+        <a href="https://www.youtube.com/watch?v=Uo8DzIEaur0" target="_blank" style="display:block; position:relative;">
+          <img src="https://img.youtube.com/vi/Uo8DzIEaur0/maxresdefault.jpg" alt="RATTUS · Uskonto On Vaara · 1984 · Finlandia" style="width:100%; display:block; filter:contrast(1.1);">
+          <div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); width:80px; height:80px; background:rgba(176,26,26,0.9); border-radius:50%; display:flex; align-items:center; justify-content:center;">
+            <div style="width:0; height:0; border-top:20px solid transparent; border-bottom:20px solid transparent; border-left:35px solid #f2ede6; margin-left:8px;"></div>
+          </div>
+        </a>
+        <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-top:0.4rem; text-align:center;">· <strong>RATTUS</strong> · Uskonto On Vaara (La Religión es Peligrosa) · Full LP · 1984 · Finlandia · Eusko Rattus Norvegicus del Báltico · FINIS-<span style="color:#b01a1a;">UR</span> ·</p>
+      </div>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Cuando Elon llegue a Marte con su cohete de silicio hidratado buscando recursos y rutas comerciales, se va a encontrar con algo que no contemplaba en ningún PowerPoint: los supervivientes de la sequía marciana. No marcianos. <strong style="color:#1a1a1a;">Vascos.</strong> Rattus Norvegicus Euskaldun evolucionadas para vivir sin <span style="color:#b01a1a;">UR</span>. Las Ratas Vascas de Marte — que llevan la memoria hídrica de Euskal Herria grabada en el ADN, la txapela adaptada a la atmósfera de CO₂ y el aurresku reconvertido en <span style="color:#b01a1a;">UR</span>-Dantza ritual de invocación del agua perdida.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Uno de ellos se acercará al cohete, mirará a Elon con los ojos pequeños de la Rata Noruega Cósmica y le preguntará en euskera: <em style="color:#b01a1a;">"Ura non dago?"</em> — ¿Dónde está el agua? Elon no entenderá. El BAS-<span style="color:#b01a1a;">UR</span>-A-Piens californiano nunca aprendió que la primera pregunta del universo es siempre por el <span style="color:#b01a1a;">UR</span>. Mientras tanto, los otros vascos marcianos estarán en la taberna de un cráter bebiendo kalimotxo reconstituido con <span style="color:#b01a1a;">UR</span> polar descongelado, discutiendo sobre si la Real Sociedad puede ganar la liga en Marte con árbitros robotizados. <em>Beti aurrera.</em></p>
+
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;"><span style="color:#b01a1a;">UR</span>-DANTZA · Aurresku Marciano · Danza del Agua Primordial<br>Rattus Norvegicus Euskaldun · Memoria Hídrica del Bidasoa<br>Txapela resistente al CO₂ · Kalimotxo de <span style="color:#b01a1a;">UR</span> Polar<br><em>"Ura non dago?" — La primera pregunta del universo.</em></p>
+      </div>
+
+
+      <div class="glosario">
+        <div class="glosario-title">GLOSA-<span style="color:#b01a1a;">UR</span>-IO · PÁG. 05</div>
+        <ol>
+          <li><strong><span style="color:#b01a1a;">UR</span>-ANO / O<span style="color:#b01a1a;">UR</span>anos</strong> — Planeta gigante de hielo. Manto de agua superiónica bajo cien mil atmósferas. El cielo húmedo que fecunda la tierra (griego: <em>ouranos</em> = cielo).</li>
+          <li><strong>SAT-<span style="color:#b01a1a;">UR</span>-NO / Cronos</strong> — El planeta del tiempo lento. Sus anillos son <span style="color:#b01a1a;">UR</span> congelado en órbita. El que cosecha. El dios que devora a sus hijos.</li>
+          <li><strong>NABU</strong> — Dios sumerio de la escritura y la sabiduría. En el <span style="color:#b01a1a;">UR</span>-book: propuesta de nombre para el Planeta 9. El escriba que convirtió el <span style="color:#b01a1a;">UR</span> en tablilla de arcilla.</li>
+          <li><strong>MARI</strong> — Diosa vasca de la montaña, el agua y la tormenta. Reina de <span style="color:#b01a1a;">UR</span>-GIZKO. En cosmología <span style="color:#b01a1a;">UR</span>-book: útero celeste que expulsa Free Cosmic <span style="color:#b01a1a;">UR</span>.</li>
+          <li><strong>Free Cosmic <span style="color:#b01a1a;">UR</span></strong> — El <span style="color:#b01a1a;">UR</span> que escapa de donde la T no puede retenerlo. Radiación Hawking de los agujeros negros. El agua libre del cosmos.</li>
+          <li><strong>Rattus Norvegicus Euskaldun</strong> — Las Ratas Vascas de Marte. Evolucionadas para sobrevivir sin <span style="color:#b01a1a;">UR</span>. Llevan la memoria hídrica del Bidasoa en el ADN.</li>
+          <li><strong>E=mc²</strong> — La ecuación de Einstein. En el <span style="color:#b01a1a;">UR</span>-book: <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS. La energía del agua como fundamento de la inteligencia.</li>
+        </ol>
+      </div>
+
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#b01a1a; margin-top:2rem; text-align:right; border-top:1px solid rgba(176,26,26,0.2); padding-top:0.8rem;">· Pág. 05 · <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS</div>
+    </article>
+
+
+    <!-- PUB 04 — TSUNAMI DE UR Op.0 -->
+    <article id="pub-tsunami" style="background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(1.5rem,4vw,3rem) clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:0;">
+
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.6rem; display:flex; align-items:center; gap:0.8rem;">FUT-<span style="color:#b01a1a;">UR</span>-ISMO SÓNICO <span style="flex:1; height:1px; background:rgba(176,26,26,0.3); display:block;"></span></div>
+
+      <h2 style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; font-size:clamp(2rem,5vw,5rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:0.5rem;">TSUNAMI DE <span style="color:#b01a1a;">UR</span> · Op.0</h2>
+      <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,2rem); letter-spacing:0.1em; color:#b01a1a; margin-bottom:1.5rem;">PARTITURA CONCRETA PARA FUT-<span style="color:#b01a1a;">UR</span>-ISMO SÓNICO</h3>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">En 1913, Luigi Russolo publicó <em>El Arte de los Ruidos</em> y creyó que la máquina era el futuro. Se equivocaba. La máquina es solo la carcasa metálica de un ruido más antiguo: el ruido del agua que la máquina intenta contener. El FUT-<span style="color:#b01a1a;">UR</span>-ISMO SÓNICO no celebra la fábrica — celebra el colapso hidráulico. La presa que cruje. El dique que cede. El grifo que se seca. La inundación que rompe el silencio de lo J-<span style="color:#b01a1a;">UR</span>-ÍDICO.</p>
+      <div style="display:flex; gap:1rem; margin:1.5rem 0;">
+        <div style="flex:1;">
+          <img src="https://live.staticflickr.com/65535/55193707923_14dc0e94fd.jpg" alt="Luigi Russolo · Futurismo Sónico" style="width:100%; height:auto; display:block;">
+          <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-top:0.4rem; text-align:center;">· Luigi Russolo · El Arte de los Ruidos · 1913 ·</p>
+        </div>
+        <div style="flex:1;">
+          <img src="https://live.staticflickr.com/65535/55193808694_ec858f8b68_b.jpg" alt="Luigi Russolo · Intonarumori" style="width:100%; height:auto; display:block;">
+          <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-top:0.4rem; text-align:center;">· Luigi Russolo · Intonarumori · Máquinas del Ruido ·</p>
+        </div>
+      </div>
+
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.8; color:#333; font-style:italic;">Duración: <strong style="color:#1a1a1a;">13'13"</strong> — el número del agua que rompe el tiempo.<br>
+        Instrumentación: ninguna fuente sonora tradicional. Solo dispositivos hidráulicos.<br>
+        Ensemble mínimo: 4 intérpretes del ruido.<br>
+        Nota: esta obra no tiene ensayo. Se ejecuta una sola vez.</p>
+      </div>
+
+      <!-- PARTITURA -->
+      <div style="margin:2rem 0;">
+
+        <div style="border-top:1px solid rgba(176,26,26,0.3); padding:1.5rem 0;">
+          <div style="font-family:'Bebas Neue',sans-serif; font-size:0.9rem; letter-spacing:0.3em; color:#b01a1a; margin-bottom:0.8rem;">I · EL GRIFO · 0'00" — 3'00"</div>
+          <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333;"><strong>Instrumento:</strong> Grifo de cocina con manguera extendida. Micrófono de contacto adherido a la válvula interna.<br>
+          <strong>Acción:</strong> Abrir muy lentamente durante 2 minutos hasta caudal máximo. Cerrar bruscamente en 0,5 segundos. Repetir 3 veces sin pausa.<br>
+          <strong>Lo que suena:</strong> El llanto del <span style="color:#b01a1a;">UR</span> retorcido en sus tuberías. La P-<span style="color:#b01a1a;">UR</span>-ficación en acto.</p>
+        </div>
+
+        <div style="border-top:1px solid rgba(176,26,26,0.3); padding:1.5rem 0;">
+          <div style="font-family:'Bebas Neue',sans-serif; font-size:0.9rem; letter-spacing:0.3em; color:#b01a1a; margin-bottom:0.8rem;">II · LA CISTERNA · 3'00" — 6'00"</div>
+          <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333;"><strong>Instrumento:</strong> Mecanismo de inodoro — cisterna abierta sin tapa.<br>
+          <strong>Acción:</strong> Dejar que se llene. Grabar el silbido de la válvula de llenado. Provocar una descarga parcial interrumpida con la mano antes de completarse.<br>
+          <strong>Lo que suena:</strong> El gemido del río bajo tortura. La energía limpia que no es limpia.</p>
+        </div>
+
+        <div style="border-top:1px solid rgba(176,26,26,0.3); padding:1.5rem 0;">
+          <div style="font-family:'Bebas Neue',sans-serif; font-size:0.9rem; letter-spacing:0.3em; color:#b01a1a; margin-bottom:0.8rem;">III · EL RADIADOR · 6'00" — 9'00"</div>
+          <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333;"><strong>Instrumento:</strong> Radiador de agua caliente (calefacción) con micrófono de contacto.<br>
+          <strong>Acción:</strong> Golpear con nudillos diferentes secciones. Registrar el gorgoteo del aire atrapado. Introducir una varilla metálica y frotar longitudinalmente.<br>
+          <strong>Lo que suena:</strong> El Morse del <span style="color:#b01a1a;">UR</span> atrapado. El agua que intenta comunicar algo desde el interior del sistema.</p>
+        </div>
+
+        <div style="border-top:1px solid rgba(176,26,26,0.3); padding:1.5rem 0;">
+          <div style="font-family:'Bebas Neue',sans-serif; font-size:0.9rem; letter-spacing:0.3em; color:#b01a1a; margin-bottom:0.8rem;">IV · LA PRESA EN MINIATURA · 9'00" — 12'00"</div>
+          <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333;"><strong>Instrumento:</strong> Botella de 5L con agua, inclinada sobre un recipiente. Un tubo de goma simula el desagüe.<br>
+          <strong>Acción:</strong> Dejar caer el agua en pulsos irregulares. A mitad, introducir una pajita que aspire aire — el sonido de garganta seca del BAS-<span style="color:#b01a1a;">UR</span>-A-Piens que no tiene agua.<br>
+          <strong>Lo que suena:</strong> La sequía de 2023-24 del Canal de Panamá. El Fut-<span style="color:#b01a1a;">UR</span>-o negro hecho presente.</p>
+        </div>
+
+        <div style="border-top:2px solid #b01a1a; padding:1.5rem 0; background:rgba(176,26,26,0.03);">
+          <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.3em; color:#b01a1a; margin-bottom:0.8rem;">V · TSUNAMI FINAL · 12'00" — 13'13"</div>
+          <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333;"><strong>Instrumento:</strong> Todos los anteriores + una bañera o cubo grande.<br>
+          <strong>Acción:</strong> Vertido repentino de 20 litros de agua sobre una superficie metálica — simulacro de ola. Silencio total durante 13 segundos.<br>
+          <strong>Lo que suena:</strong> Fukushima. El <span style="color:#b01a1a;">UR</span> que se venga de la tecnología que quiso dominarlo. El Fut-<span style="color:#b01a1a;">UR</span>-o que no llegó.</p>
+          <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333; margin-top:1rem;"><strong>Cierre:</strong> Una sola gota cayendo en un charco. Pregrabada. Volumen muy bajo. El M-<span style="color:#b01a1a;">UR</span>-mullo que sobrevive al tsunami.</p>
+        </div>
+
+      </div><!-- /partitura -->
+
+      <!-- INDICACIONES ESCÉNICAS -->
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <div style="font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#b01a1a; margin-bottom:0.8rem;">INDICACIONES ESCÉNICAS</div>
+        <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333;">La sala en oscuridad total hasta el minuto 12'00". Luz azul estroboscópica durante el tsunami. El público sentado en el suelo, con los pies descalzos sobre una lona de plástico — el BAS-<span style="color:#b01a1a;">UR</span>-A bajo sus plantas. Al final: 13 segundos de silencio absoluto.<br><br>
+        El agua utilizada debe ser vertida al final sobre una toga simbólica — el J-<span style="color:#b01a1a;">UR</span>-ÍDICO disuelto. Los instrumentos quedan inservibles después de la obra. Oxidados, rotos, vacíos. Como el sistema.</p>
+      </div>
+
+      <!-- MANIFIESTO -->
+      <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,2rem); letter-spacing:0.1em; color:#b01a1a; margin:2rem 0 1rem 0;">MANIFIESTO DEL FUT-<span style="color:#b01a1a;">UR</span>-ISMO SÓNICO</h3>
+      <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; letter-spacing:0.15em; color:#666; margin-bottom:1.5rem; font-style:italic;">Por Luigi Russolo — ahogado digitalmente por un océano de palabras que contienen <span style="color:#b01a1a;">UR</span> sin saberlo.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong>1.</strong> En 1913 creí que la máquina era el futuro. Me equivocaba. La máquina es solo la carcasa metálica de un ruido más antiguo: el ruido del agua que la máquina intenta contener.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong>2.</strong> Escuchad. El zumbido de una planta potabilizadora no es el sonido de la modernidad — es el llanto del <span style="color:#b01a1a;">UR</span> retorcido en sus tuberías. El goteo de un grifo mal cerrado no es una molestia doméstica — es el código Morse del tsunami que se acerca.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong>3.</strong> El FUT-<span style="color:#b01a1a;">UR</span>-ISMO SÓNICO no tiene futuro porque es el sonido del fin del futuro. Nuestra música no se proyecta hacia adelante — se hunde hacia abajo, hacia el BAS-<span style="color:#b01a1a;">UR</span>-A original, hacia las cloacas donde el <span style="color:#b01a1a;">UR</span> torturado espera.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong>4.</strong> Invito a todos los artistas: grabad el ruido de vuestro grifo durante una semana y acelerarlo hasta que se convierta en un solo latido. Colocad micrófonos en el fondo de una represa. Componed sinfonías con el agua que se fuga, que se desperdicia, que inunda sótanos.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong>5.</strong> Porque toda la cultura occidental es una CULT-<span style="color:#b01a1a;">UR</span>-A que olvidó que debajo de sus catedrales, universidades y tribunales corre el <span style="color:#b01a1a;">UR</span>. Y el <span style="color:#b01a1a;">UR</span> no perdona. El <span style="color:#b01a1a;">UR</span> no purifica. El <span style="color:#b01a1a;">UR</span> suena.</p>
+
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <p style="font-family:'Courier Prime',monospace; font-size:1.3rem; line-height:1.8; color:#b01a1a;">Apagad vuestros sintetizadores. Dejad de imitar motores. Poned el oído contra la tubería más cercana. ¿Oís? Es el <span style="color:#b01a1a;">UR</span>. Está llegando.</p>
+        <p style="font-family:'Courier Prime',monospace; font-size:1.1rem; color:#1a1a1a; margin-top:0.8rem;">NO HAY FUT-<span style="color:#b01a1a;">UR</span>-O. LARGO AL TSUNAMI.</p>
+      </div>
+
+      <!-- ETIMOLOGÍAS INVERTIDAS -->
+      <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,2rem); letter-spacing:0.1em; color:#b01a1a; margin:2rem 0 1rem 0;">ETIMOLOGÍA INVERTIDA: <span style="color:#b01a1a;">UR</span> REPRIMIDO</h3>
+
+      <div style="margin:1.5rem 0;">
+        <a href="https://www.youtube.com/watch?v=Yd5RNwmLQ8w" target="_blank" style="display:block; position:relative;">
+          <img src="https://img.youtube.com/vi/Yd5RNwmLQ8w/maxresdefault.jpg" alt="Etimología Invertida · UR Reprimido" style="width:100%; display:block; filter:contrast(1.1);">
+          <div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); width:80px; height:80px; background:rgba(176,26,26,0.9); border-radius:50%; display:flex; align-items:center; justify-content:center;">
+            <div style="width:0; height:0; border-top:20px solid transparent; border-bottom:20px solid transparent; border-left:35px solid #f2ede6; margin-left:8px;"></div>
+          </div>
+        </a>
+        <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-top:0.4rem; text-align:center;">· Isla de BAS-<span style="color:#b01a1a;">UR</span>-A en el Pacífico · 1,6 millones de km² · tres veces Francia · 80.000 toneladas flotando · el mayor monumento a la us-<span style="color:#b01a1a;">UR</span>-pación sistémica · excepción: el vinilo · único plástico sagrado · lleva el <span style="color:#b01a1a;">UR</span> grabado en sus surcos ·</p>
+      </div>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong>TORT-<span style="color:#b01a1a;">UR</span>-A:</strong> del latín <em>torquere</em> (torcer). El agua retorcida. Toda infraestructura hidráulica es una máquina de tortura del <span style="color:#b01a1a;">UR</span> — la presa como potro de tormento del río.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong>BAS-<span style="color:#b01a1a;">UR</span>-A:</strong> agua bajada, degradada, expulsada. El sistema de P-<span style="color:#b01a1a;">UR</span>-ficación produce basura como efluente inevitable. Lo que el P-<span style="color:#b01a1a;">UR</span>-itano purifica por un lado lo convierte por el otro en BAS-<span style="color:#b01a1a;">UR</span>-A. El agua residual no es agua muerta — es agua torturada que espera su tsunami.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong>CULT-<span style="color:#b01a1a;">UR</span>-A:</strong> del latín <em>colere</em> (cultivar). La domesticación del <span style="color:#b01a1a;">UR</span> para que produzca sentido. Todo el edificio de la civilización es un dispositivo de cultivo del agua. La cultura es la máscara del tsunami. Por eso el tsunami es siempre anticultural — arrastra los museos, las bibliotecas, las catedrales.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong>OSC-<span style="color:#b01a1a;">UR</span>-IDAD:</strong> el agua que se esconde. La P-<span style="color:#b01a1a;">UR</span>-ficación ilumina el agua — la vuelve transparente, potable, visible en botellas. La oscuridad es la resistencia del <span style="color:#b01a1a;">UR</span>: su negativa a ser visto, su capacidad de fluir en lo oculto.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong>P-<span style="color:#b01a1a;">UR</span>-ITANO:</strong> el que actúa sobre el agua para purificarla. Para el puritano, purificar el agua es matarla. El agua pura es agua muerta — destilada, desionizada, biológicamente inerte. El P-<span style="color:#b01a1a;">UR</span>-itano es el usurpador que convierte el <span style="color:#b01a1a;">UR</span> en P-<span style="color:#b01a1a;">UR</span>-o.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong>M-<span style="color:#b01a1a;">UR</span>-ALLA:</strong> el gran impedimento del agua. Todo muro histórico fue construido para contener el <span style="color:#b01a1a;">UR</span>. Pero el <span style="color:#b01a1a;">UR</span> siempre pasa — las murallas se agrietan por la humedad, los cimientos se pudren, el agua subterránea las derrumba. El muro de Berlín, el muro de Trump, el muro de Cisjordania — todos son M-<span style="color:#b01a1a;">UR</span>-allas que caerán no por la historia, sino por el <span style="color:#b01a1a;">UR</span> que las mina desde abajo.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;"><strong>J-<span style="color:#b01a1a;">UR</span>-ÍDICO:</strong> el lenguaje del dominio sistémico aplicado al agua. Lo jurídico es lo que nombra, delimita, asigna. El <span style="color:#b01a1a;">UR</span> entra en el derecho para ser administrado, nunca escuchado. Excepto en Nueva Zelanda en 2017: el río Whanganui recibió personalidad jurídica propia. El primer <span style="color:#b01a1a;">UR</span> con derechos. El post-J-<span style="color:#b01a1a;">UR</span>-ÍDICO.</p>
+
+    
+      <div class="glosario">
+        <div class="glosario-title">GLOSA-<span style="color:#b01a1a;">UR</span>-IO · PÁG. 04</div>
+        <ol>
+          <li><strong>FUT-<span style="color:#b01a1a;">UR</span>-ISMO SÓNICO</strong> — Arte del ruido del agua que no se deja purificar. Del Futurismo de Russolo (1913) reescrito por el Tsunami del <span style="color:#b01a1a;">UR</span>. El colapso hidráulico como música.</li>
+          <li><strong>Intonarumori</strong> — Máquinas de ruido de Luigi Russolo. En el <span style="color:#b01a1a;">UR</span>-book: dispositivos hidráulicos que registran el llanto del <span style="color:#b01a1a;">UR</span> torturado.</li>
+          <li><strong>TORT-<span style="color:#b01a1a;">UR</span>-A</strong> — T (canal) + OR (señalador) + T (ejecución) + <span style="color:#b01a1a;">UR</span> (agua) + A (acto). El agua retorcida. La presa como potro de tormento del río.</li>
+          <li><strong>P-<span style="color:#b01a1a;">UR</span>-ITANO</strong> — El que purifica el <span style="color:#b01a1a;">UR</span> matándolo. Sujeto histórico de la P-<span style="color:#b01a1a;">UR</span>-ficación. Agua pura = agua muerta.</li>
+          <li><strong>M-<span style="color:#b01a1a;">UR</span>-ALLA</strong> — El gran impedimento del agua. Todo muro histórico fue construido contra el <span style="color:#b01a1a;">UR</span>. El <span style="color:#b01a1a;">UR</span> siempre lo derrumba desde abajo.</li>
+          <li><strong>J-<span style="color:#b01a1a;">UR</span>-ÍDICO</strong> — El lenguaje del dominio aplicado al agua. Lo jurídico nombra, delimita, asigna el <span style="color:#b01a1a;">UR</span> — nunca lo escucha.</li>
+          <li><strong>Whanganui</strong> — Río de Nueva Zelanda con personalidad jurídica propia desde 2017. El primer <span style="color:#b01a1a;">UR</span> post-J-<span style="color:#b01a1a;">UR</span>-ÍDICO del mundo.</li>
+          <li><strong>Op.0</strong> — Opus zero. La obra antes de la primera obra. El Tsunami antes de la música. El <span style="color:#b01a1a;">UR</span> antes del canal.</li>
+        </ol>
+      </div>
+
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#b01a1a; margin-top:2rem; text-align:right; border-top:1px solid rgba(176,26,26,0.2); padding-top:0.8rem;">· Pág. 04 · <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS</div>
+    </article>
+
+    <!-- PUB 03 — BAS-UR-A-PIENS -->
+    <article id="pub-basura" style="background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(1.5rem,4vw,3rem) clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:0;">
+
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.6rem; display:flex; align-items:center; gap:0.8rem;">BAS-<span style="color:#b01a1a;">UR</span>-A-PIENS <span style="flex:1; height:1px; background:rgba(176,26,26,0.3); display:block;"></span></div>
+
+      <h2 style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; font-size:clamp(2rem,5vw,5rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:1rem;">EL HOMO T-<span style="color:#b01a1a;">UR</span>-ICUS BAS-<span style="color:#b01a1a;">UR</span>-A-PIENS.<br>EL QUE NO SABE QUIÉN FUE.</h2>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Nuestra sangre era agua y hierro. La fórmula exacta del cosmos depositada en cada vena del <span style="color:#b01a1a;">UR</span>-Sapiens. El hierro de las estrellas muertas. El agua de los cometas. La misma ecuación desde el paleolítico hasta ayer.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Ahora nuestra sangre es agua + hierro + <strong>plástico</strong>. Microplásticos en la sangre, en la leche materna, en la placenta, en el cerebro. La escri-T-<span style="color:#b01a1a;">UR</span>-A Sumeria tardó 5.000 años en convertir el <span style="color:#b01a1a;">UR</span> libre en propiedad. La industria petroquímica tardó 80 años en inyectarlo en vena. Una T-OR-T-<span style="color:#b01a1a;">UR</span>-A sistémica de dimensiones incomprensibles para el BAS-<span style="color:#b01a1a;">UR</span>-A-Piens. Porque el BAS-<span style="color:#b01a1a;">UR</span>-A-Piens no sabe quién fue.</p>
+
+
+      <div style="display:flex; gap:1.5rem; margin:2rem 0; align-items:flex-start;">
+        <div style="flex:1;">
+          <img src="https://live.staticflickr.com/36/122905566_fbe99c0d8a.jpg" alt="BAS-UR-A · Portada LP · Beltza Label · Ilustración David Navascues" style="width:100%; height:auto; display:block;">
+          <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-top:0.4rem; text-align:center;">· BAS-<span style="color:#b01a1a;">UR</span>-A · Portada LP · Beltza Label · Ilustración: David Navascues · Primer disco publicado por Beltza Label ·</p>
+        </div>
+        <div style="flex:1;">
+          <p style="font-family:'Courier Prime',monospace; font-size:1rem; line-height:1.8; color:#333; font-style:italic;">"Este es nuestro primer paso público en la edición de esta máquina del 0di0. Este es el primer álbum (LP) que Beltza Label va a publicar y esta es la portada que necesitaba. La adaptación de un estilo muy concreto a una temática alejada de sus vivencias es simplemente magistral. La sensación que produce a nivel estético es totalmente comparable a las sensaciones que BAS-<span style="color:#b01a1a;">UR</span>-A sentían a principios de los 80's y que expresaban en sus canciones."<br><br>
+          <strong style="color:#b01a1a;">Ten mucho cuidado. Llegan... BAS-<span style="color:#b01a1a;">UR</span>-A!!!</strong><br>
+          <span style="font-size:0.85rem; color:#888;">— Beltza Label · 100% looser culture)))</span></p>
+        </div>
+      </div>
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">Come plástico en sartenes de teflón. Esnifa amianto en obras sin protección. Bebe <span style="color:#b01a1a;">UR</span> con cloro, flúor y restos farmacéuticos. Respira dióxido de nitrógeno en las arterias de la <span style="color:#b01a1a;">UR</span>-be. Y lo llaman <em>estilo de vida</em>.</p>
+      </div>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El Gran Parche de Basura del Pacífico tiene 1,6 millones de kilómetros cuadrados. Tres veces Francia. El BAS-<span style="color:#b01a1a;">UR</span>-A-Piens lo creó en menos de un siglo y le puso nombre científico para no tener que llamarlo por lo que es: el vómito de la us-<span style="color:#b01a1a;">UR</span>-pación. El residuo final de convertir el <span style="color:#b01a1a;">UR</span> en mercancía.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">En órbita baja: 27.000 objetos catalogados de BAS-<span style="color:#b01a1a;">UR</span>-A estelar. Satélites muertos, etapas de cohetes, fragmentos de colisiones. El BAS-<span style="color:#b01a1a;">UR</span>-A-Piens colonizó el espacio exterior antes de limpiar el océano. Ahora hay más plástico en el mar que plancton. Más chatarra en órbita que estrellas visibles desde Madrid.</p>
+
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">Ya no somos biología ni métrica estelar. Ya no somos agua y hierro cósmico. <strong style="color:#1a1a1a;">Somos microplásticos. Somos chicas de plexiglás. Somos BAS-POP-ART.</strong> La T-OR-T-<span style="color:#b01a1a;">UR</span>-A sistémica inyectada en vena.</p>
+      </div>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">"Sostenible" y "cambio climático" en las estanterías de los superventas. La b-<span style="color:#b01a1a;">UR</span>-ocracia verde empaquetando el desastre en conceptos digeribles. La misma maquinaria de us-<span style="color:#b01a1a;">UR</span>-pación con nueva tipografía y bolsas de papel. El BAS-<span style="color:#b01a1a;">UR</span>-A-Piens compra el libro del cambio climático en una librería con calefacción de gas y lo paga con tarjeta de plástico.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Recordar lo que fuimos será imposible. El Homo T-<span style="color:#b01a1a;">UR</span>-icus BAS-<span style="color:#b01a1a;">UR</span>-A-Piens no tiene acceso a su memoria hídrica. La tiene sepultada bajo capas de teflón, microchips de derribo y algoritmos de us-<span style="color:#b01a1a;">UR</span>-pación digital. El Afro-Beat sepultado. El Free Cosmic <span style="color:#b01a1a;">UR</span> de Sun Ra bloqueado. El Space Ritual de Hawkwind silenciado. Ya no hay pogo en las calles de la <span style="color:#b01a1a;">UR</span>-be. Ya no hay Fut-<span style="color:#b01a1a;">UR</span>-o.</p>
+
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <p style="font-family:'Courier Prime',monospace; font-size:1.3rem; line-height:1.8; color:#b01a1a; font-style:italic; font-weight:700;">"NOS VAN A DESINFECTAR Y NO NOS VAMOS NI A ENTERAR."</p>
+        <p style="font-family:'Courier Prime',monospace; font-size:0.9rem; color:#555; margin-top:0.5rem; letter-spacing:0.1em;">— Derribos Arias · La Banda sin Fut-<span style="color:#b01a1a;">UR</span>-o · Micro-chips de Derribo</p>
+      </div>
+
+
+      <div style="margin:1.5rem 0;">
+        <a href="https://www.youtube.com/watch?v=0J1DMr4rtKg" target="_blank" style="display:block; position:relative;">
+          <img src="https://img.youtube.com/vi/0J1DMr4rtKg/maxresdefault.jpg" alt="BAS-UR-A-PIENS · Vídeo" style="width:100%; display:block; filter:contrast(1.1);">
+          <div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); width:80px; height:80px; background:rgba(176,26,26,0.9); border-radius:50%; display:flex; align-items:center; justify-content:center;">
+            <div style="width:0; height:0; border-top:20px solid transparent; border-bottom:20px solid transparent; border-left:35px solid #f2ede6; margin-left:8px;"></div>
+          </div>
+        </a>
+        <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-top:0.4rem; text-align:center;">· <strong>La Banda sin Fut-<span style="color:#b01a1a;">UR</span>-o</strong> · Nos Van A Desinfectar · <em>Grabaciones Desinfectadas</em> · Grabado 1983 · Subterfuge Records 1997 · Donostia · Gipuzkoa ·</p>
+      </div>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">La última filosofía H-<span style="color:#b01a1a;">UR</span>-mana es esta: si el BAS-<span style="color:#b01a1a;">UR</span>-A-Piens no puede recordar el <span style="color:#b01a1a;">UR</span> que fue, al menos puede escuchar el M-<span style="color:#b01a1a;">UR</span>-mullo. Ese sonido que sigue ahí, bajo el plástico, bajo el teflón, bajo el algoritmo. El agua sigue fluyendo debajo de los continentes de basura. El <span style="color:#b01a1a;">UR</span> no se rinde. No tiene fut-<span style="color:#b01a1a;">UR</span>-o porque no lo necesita. Es anterior al tiempo.</p>
+
+    
+      <div class="glosario">
+        <div class="glosario-title">GLOSA-<span style="color:#b01a1a;">UR</span>-IO · PÁG. 03</div>
+        <ol>
+          <li><strong>BAS-<span style="color:#b01a1a;">UR</span>-A</strong> — BAS (bajo, maleza) + <span style="color:#b01a1a;">UR</span> (agua) + A. El agua degradada. Residuo final de la us-<span style="color:#b01a1a;">UR</span>-pación. El <span style="color:#b01a1a;">UR</span> después de la P-<span style="color:#b01a1a;">UR</span>-ficación industrial.</li>
+          <li><strong>Homo T-<span style="color:#b01a1a;">UR</span>-icus</strong> — BAS-<span style="color:#b01a1a;">UR</span>-A-Piens. El Homo Sapiens que come plástico, esnifa amianto y bebe <span style="color:#b01a1a;">UR</span> con cloro. Sangre = agua + hierro + plástico.</li>
+          <li><strong>Great Pacific Garbage Patch</strong> — Gran Parche de BAS-<span style="color:#b01a1a;">UR</span>-A del Pacífico. 1,6 millones de km². Tres veces Francia. El mayor monumento a la us-<span style="color:#b01a1a;">UR</span>-pación.</li>
+          <li><strong>Microplástico</strong> — BAS-<span style="color:#b01a1a;">UR</span>-A en su forma más pequeña e invasiva. Presente en sangre humana, leche materna, placenta y cerebro. La T-OR-T-<span style="color:#b01a1a;">UR</span>-A inyectada en vena.</li>
+          <li><strong>Vinilo</strong> — Único plástico sagrado. Lleva el <span style="color:#b01a1a;">UR</span> grabado en sus surcos. La aguja como acupuntura del plástico. Excepción a la BAS-<span style="color:#b01a1a;">UR</span>-A sistémica.</li>
+          <li><strong>Silicio Hidratado</strong> — El chip que bebe <span style="color:#b01a1a;">UR</span>. Las fábricas de semiconductores consumen millones de litros de agua ultrapura. El dato digital fabricado con <span style="color:#b01a1a;">UR</span>.</li>
+        </ol>
+      </div>
+
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#b01a1a; margin-top:2rem; text-align:right; border-top:1px solid rgba(176,26,26,0.2); padding-top:0.8rem;">· Pág. 03 · <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS</div>
+    </article>
+
+
+
+    <!-- PUB 02 — UR-A: EL AGUA PRIMORDIAL -->
+    <article id="pub-urabe" style="background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(1.5rem,4vw,3rem) clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:0;">
+
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.6rem; display:flex; align-items:center; gap:0.8rem;"><span style="color:#b01a1a;">UR</span>-A · AGUA PRIMORDIAL <span style="flex:1; height:1px; background:rgba(176,26,26,0.3); display:block;"></span></div>
+
+      <h2 style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; font-size:clamp(2rem,5vw,5rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:1rem;"><span style="color:#b01a1a;">UR</span>-BE VS <span style="color:#b01a1a;">UR</span>: LA PRIMERA US-<span style="color:#b01a1a;">UR</span>-PACIÓN SISTÉMICA</h2>
+
+      <img src="https://live.staticflickr.com/65535/55193110368_3e8fda9eb4_b.jpg" alt="Miño · O-UR-ense" style="width:100%; height:auto; display:block; margin:1rem 0;">
+      <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-bottom:1.5rem; text-align:center;">· Miño · O-<span style="color:#b01a1a;">UR</span>-ense · Foto: Luis Beltza ·</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">En el principio era <span style="color:#b01a1a;">UR</span>-A. El Agua Primordial. De ella nacimos — NAT-<span style="color:#b01a1a;">UR</span>-A — éramos agua que bebía agua. El <span style="color:#b01a1a;">UR</span> fluía libre, sin dueño, sin tablilla de arcilla que lo contabilizara. Antes de la T. Antes del canal. Antes de la ciudad.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Hace aproximadamente 3.500 años antes de nuestra era, en el delta del Éufrates y el Tigris, ocurrió algo que cambiaría para siempre la relación del Homo Sapiens con el agua. El <span style="color:#b01a1a;">UR</span> — agua libre, agua común, agua de todos — se convirtió en <span style="color:#b01a1a;">UR</span>-uk, en <span style="color:#b01a1a;">UR</span>-be. La primera ciudad. El primer muro. El primer canal de control.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">No fue una revolución. Fue una us-<span style="color:#b01a1a;">UR</span>-pación. El agua que debería fluir libre — como el Miño, como el Bidasoa, como el <span style="color:#b01a1a;">UR</span>-umea — quedó encerrada en un sistema de canales, compuertas y registros. Y para registrar el agua usurpada inventaron la escri-T-<span style="color:#b01a1a;">UR</span>-A. La T del canal grabada en arcilla húmeda. El cáncer del fluir natural.</p>
+
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">"El poder no se construye con muros. Se construye con canales. Quien controla el agua, controla la sed. Quien controla la sed, controla la vida. Quien controla la vida, puede decidir quién muere."</p>
+      </div>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">La dicotomía es fundacional y persiste en el lenguaje hasta hoy. <span style="color:#b01a1a;">UR</span> (sumerio, euskera): el agua libre, la matriz, el útero primordial. <span style="color:#b01a1a;">UR</span>-be (latín: urbs, de la raíz sumeria): la ciudad, el control del agua convertido en civilización. Dos palabras. La misma raíz. Destinos opuestos.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El euskera — esa caja negra que la us-<span style="color:#b01a1a;">UR</span>-pación no logró borrar del todo gracias a los valles, los montes-esponja como <span style="color:#b01a1a;">UR</span>basa y los nacederos como el <span style="color:#b01a1a;">UR</span>ederra — conserva la prueba. <span style="color:#b01a1a;">UR</span>-A: agua. L-<span style="color:#b01a1a;">UR</span>: tierra. El-<span style="color:#b01a1a;">UR</span>: nieve. E-<span style="color:#b01a1a;">UR</span>-i: lluvia. IT-<span style="color:#b01a1a;">UR</span>-i: manantial. <span style="color:#b01a1a;">UR</span>-i: poblado. La lengua más antigua de Europa Occidental nombra el mundo entero en relación al agua. No porque los vascos fueran más puros — sino porque su geografía impidió que la UR-be los aplanara del todo.</p>
+
+      <div style="max-width:380px; margin:1.5rem auto;">
+        <div style="padding:177.78% 0 0 0; position:relative;">
+          <iframe src="https://player.vimeo.com/video/1180836063?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="AS B-UR-GAS"></iframe>
+        </div>
+        <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-top:0.4rem; text-align:center;">· As B-<span style="color:#b01a1a;">UR</span>-gas · F-<span style="color:#b01a1a;">UR</span>-or · O-<span style="color:#b01a1a;">UR</span>-ense · Luis Beltza ·</p>
+      </div>
+      <script src="https://player.vimeo.com/api/player.js"></script>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">La fórmula de la tortura sistémica completa la cadena: T-OR-T-<span style="color:#b01a1a;">UR</span>-A. La primera T es el canal de control. OR es la autoridad que señala a la víctima — la orden, la boca que nombra. La segunda T es la ejecución de esa orden. <span style="color:#b01a1a;">UR</span>-A es lo que se extrae: el agua, la vida, lo esencial. La doble canalización sistémica del poder privándote del agua primordial. No puede haber algo peor que morir de sed.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Los beduinos lo sabían. Por eso el T-OR-O era su depósito de agua — grabado en el paleolítico superior en las cuevas del Sahara fértil que sus antepasados habían conocido verde y lleno de ríos. Tassili n'Ajjer. Toros enormes con cuernos en forma de U — como un canal, como un útero. Cuando el Sahara murió de sed, el toro se convirtió en el arca del <span style="color:#b01a1a;">UR</span> petrificado. La memoria del agua en los cuernos del animal.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Desde <span style="color:#b01a1a;">UR</span> de Caldea hasta ZARA. Desde la tablilla de arcilla húmeda hasta el algoritmo de inteligencia artificial. Desde la contabilidad luterana hasta el recibo del agua. El mecanismo es siempre el mismo: extraer, fijar, acumular, controlar. La b-<span style="color:#b01a1a;">UR</span>-ocracia es el sistema operativo de la <span style="color:#b01a1a;">UR</span>-be. Sus funcionarios no ven el <span style="color:#b01a1a;">UR</span> porque ven solo el canal.</p>
+
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
+        <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">"<span style="color:#b01a1a;">UR</span>-A no es solo agua. Es el principio femenino original, la matriz, el útero, el murmullo (M-<span style="color:#b01a1a;">UR</span>-mullo) que existía antes de que la palabra existiera. NAT-<span style="color:#b01a1a;">UR</span>-A no es naturaleza. Es lo nacido del agua. La prueba está en el idioma, no en los libros. Los libros fueron escritos después para olvidar esa prueba."</p>
+      </div>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">La resistencia del <span style="color:#b01a1a;">UR</span>-Sapiens no es política. Es fonética. Está en el M-<span style="color:#b01a1a;">UR</span>-mullo que sigue sonando en los nacederos. En los apellidos — Roteta significa molino de agua en euskera de Aya, Gipuzkoa. En las postales navideñas de Os Garabatos desde O-<span style="color:#b01a1a;">UR</span>-ense. En los discos de Sun Ra desde Sat-<span style="color:#b01a1a;">UR</span>-no. En el Free Jazz sin canal. En el P-Funk sin compuerta. En el Space Ritual de Hawkwind buscando el espacio antes de la <span style="color:#b01a1a;">UR</span>-be.</p>
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">¿Podemos volver a NAT-<span style="color:#b01a1a;">UR</span>-A — nacer del agua — sin pasar por T-OR-T-<span style="color:#b01a1a;">UR</span>-A? ¿Es posible una civilización que no usurpe su propio fundamento? No lo sabemos. Pero el <span style="color:#b01a1a;">UR</span> sigue fluyendo bajo los canales. Hay agua ahí abajo.</p>
+
+      <img src="https://live.staticflickr.com/65535/55190944107_8b475427b7_h.jpg" alt="Poza · Os Garabatos · Amoeiro · O-UR-ense" style="width:50%; height:auto; display:block; margin:1.5rem auto;">
+      <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-bottom:1rem; text-align:center;">· Poza · Os Garabatos · Amoeiro · O-<span style="color:#b01a1a;">UR</span>-ense · Foto: Luis Beltza ·</p>
+
+    
+      <div class="glosario">
+        <div class="glosario-title">GLOSA-<span style="color:#b01a1a;">UR</span>-IO · PÁG. 02</div>
+        <ol>
+          <li><strong>T</strong> — Letra del canal. Forma del primer canal sumerio visto desde arriba. La pluma cuneiforme del escriba. La cruz judeo-cristiana. El estoque en la tauromaquia. El muro. El control.</li>
+          <li><strong>OR</strong> — Energía primordial. El señalador de la víctima. La boca por donde entra la vida y sale el alma. Del hitita <em>hura</em>.</li>
+          <li><strong>escri-T-<span style="color:#b01a1a;">UR</span>-A</strong> — La T del canal grabada en arcilla húmeda. Primera contabilidad del agua usurpada. El cáncer del fluir natural.</li>
+          <li><strong>B-<span style="color:#b01a1a;">UR</span>-OCRACIA</strong> — Sistema operativo de la <span style="color:#b01a1a;">UR</span>-be. Sus funcionarios no ven el <span style="color:#b01a1a;">UR</span> — solo ven el canal.</li>
+          <li><strong>Acuífero fósil</strong> — Depósito de agua subterránea no renovable. Ogallala (EEUU), Guaraní (Sudamérica). El <span style="color:#b01a1a;">UR</span> atrapado bajo tierra por la us-<span style="color:#b01a1a;">UR</span>-pación agrícola.</li>
+          <li><strong>P-<span style="color:#b01a1a;">UR</span>-ficación</strong> — Proceso de usurpación activa: volver el agua pura (potable, mercantil). Matar el <span style="color:#b01a1a;">UR</span> para hacerlo vendible.</li>
+        </ol>
+      </div>
+
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#b01a1a; margin-top:2rem; text-align:right; border-top:1px solid rgba(176,26,26,0.2); padding-top:0.8rem;">· Pág. 02 · <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS</div>
+    </article>
+
+
+
+
+
+    <!-- PUB 01 -->
+
+    <article id="pub-intro" style="flex:1; background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(1.5rem,4vw,3rem) clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:0; margin-right:0;">
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.6rem; display:flex; align-items:center; gap:0.8rem;">INTRODUCCIÓN <span style="flex:1; height:1px; background:rgba(176,26,26,0.3); display:block;"></span></div>
+      <h2 style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; font-size:clamp(2rem,5vw,5rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:1rem;"><span style="color:#b01a1a;">UR</span>: COSMOGONÍA PALEOLINGÜÍSTICA Y SU POSTERIOR US-<span style="color:#b01a1a;">UR</span>-PACIÓN SISTÉMICA</h2>
+
+      <img src="https://live.staticflickr.com/65535/55181034672_53ba03f73a_h.jpg" alt="UR-SAPIENS · Luis Beltza" style="width:100%; height:auto; display:block; margin:1rem 0;">
+
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Mirando una postal navideña de Os Garabatos (O-<span style="color:#b01a1a;">UR</span>-ense/Galiza) y el flujo del Bidasoa a su paso por Doneztebe, en algún momento entre 2019 y el ahora relativo, algo se reveló. No fue una epifanía religiosa ni un descubrimiento académico. Fue una intuición "empírica" — la ciencia del que llegó primero y no necesita publicar en Nat-<span style="color:#b01a1a;">ur</span>-e.</p>
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">La palabra más importante del idioma — NAT-<span style="color:#b01a1a;">UR</span>-ALEZA — llevaba escondida la prueba desde siempre. NAT-<span style="color:#b01a1a;">UR</span>-A: Nacido del <span style="color:#b01a1a;">UR</span>. El <span style="color:#b01a1a;">UR</span> es agua en euskera. El euskera podría ser la caja negra de una humanidad en colisión constante. Desde el Sistema Mundo Sumerio en su planificación de <span style="color:#b01a1a;">UR</span>-be piramidal y su posterior us-<span style="color:#b01a1a;">ur</span>-pación de lo esencial, el H₂O VITAL para transformarla en tráfico comercial hasta el "AQUÍ" relativo y extraterrestre.</p>
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Lo que siguió fue inevitable: si el <span style="color:#b01a1a;">UR</span> estaba en NAT-<span style="color:#b01a1a;">UR</span>-ALEZA, estaba en todas partes. En <span style="color:#b01a1a;">UR</span>uguay y en <span style="color:#b01a1a;">UR</span>ubamba. En <span style="color:#b01a1a;">UR</span>ano y en Merc<span style="color:#b01a1a;">UR</span>io. En la b-<span style="color:#b01a1a;">UR</span>-ocracia y en la us-<span style="color:#b01a1a;">UR</span>-pación. En el ADN flotando en <span style="color:#b01a1a;">UR</span>-A. En el metano y el amoníaco bajo cien mil atmósferas de presión en los gigantes helados del cosmos.</p>
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El símbolo que une todo nació de la fusión de dos logos: el círculo-vacío de Oteiza — en sello de Beltza Records desde el principio — y la estrella tartésica de ocho puntas del escudo de Doneztebe en el sello de Beltza Experience. En el centro, en rojo: <strong style="color:#b01a1a;">UR</strong>. La humanidad extraterrestre resumida en una forma.</p>
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Lo que sigue es una "tesis" inverosímil, rigurosa y descabellada a partes iguales. Una cosmogonía paleolingüística construida con tres herramientas: <strong>etimología, toponimia y humor extraterrestre</strong>.</p>
+
+      <div style="margin:1.5rem 0;">
+        <img src="https://live.staticflickr.com/65535/55179963413_2c48f2aba2_b.jpg" alt="El Geroglífico UR · J.M. Sansinenea · 1969" style="width:75%; height:auto; display:block; margin:0 auto; filter:sepia(0.3) contrast(1.05);">
+        <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-top:0.4rem; text-align:center;">· El Geroglífico <span style="color:#b01a1a;">UR</span> · J.M. Sansinenea · 1969 · (i)</p>
+        <p style="font-family:'Courier Prime',monospace; font-size:0.9rem; color:#555; line-height:1.7; margin-top:0.8rem; font-style:italic;">(i) Según un Académico de Lengua Vasca. — Nosotros creemos que esta palabra LUDIÁN para señalar la Tierra como planeta, es una composición moderna, que deriva de L<span style="color:#b01a1a;">UR</span>: tierra (donde se siembran las plantas.)</p>
+      </div>
+
+      <img src="https://live.staticflickr.com/65535/55175703266_f652b0cdf1_h.jpg" alt="NATURAL · Os Garabatos · Postal enviada por José Esteve Vázquez" style="width:100%; height:auto; display:block; margin-top:1.5rem;">
+      <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-top:0.4rem; text-align:center;">· NATURAL · Os Garabatos · Postal enviada por José Esteve Vázquez · O-<span style="color:#b01a1a;">UR</span>-ense · 2019 ·</p>
+
+    
+      <div class="glosario">
+        <div class="glosario-title">GLOSA-<span style="color:#b01a1a;">UR</span>-IO · PÁG. 01</div>
+        <ol>
+          <li><strong><span style="color:#b01a1a;">UR</span> / <span style="color:#b01a1a;">UR</span>-A</strong> — Agua en euskera. Fonema primordial pre-indoeuropeo. Base de la cosmogonía paleolingüística.</li>
+          <li><strong>L<span style="color:#b01a1a;">UR</span></strong> — Tierra en euskera. El contenedor del agua. Lo que el agua moldea.</li>
+          <li><strong>IT-<span style="color:#b01a1a;">UR</span>-I</strong> — Manantial en euskera. El nacedero. El punto donde el <span style="color:#b01a1a;">UR</span> emerge libre.</li>
+          <li><strong>NAT-<span style="color:#b01a1a;">UR</span>-A</strong> — Lo nacido del agua. Del latín <em>nasci</em> + <span style="color:#b01a1a;">UR</span> + A. No "naturaleza" — origen hídrico de lo vivo.</li>
+          <li><strong>UR-be</strong> — Ciudad. Del sumerio <span style="color:#b01a1a;">UR</span> (agua) + be (lugar de). Primera us-<span style="color:#b01a1a;">UR</span>-pación física del flujo libre.</li>
+          <li><strong>US-<span style="color:#b01a1a;">UR</span>-PACIÓN</strong> — Del latín <em>usus</em> (uso) + <span style="color:#b01a1a;">UR</span> (agua) + <em>pactio</em> (pacto). Tomar el agua mediante contrato que la convierte en propiedad.</li>
+          <li><strong>Intuición Beltza</strong> — Método empírico de conocimiento anterior a la academia. La ciencia del que llegó primero.</li>
+          <li><strong>SHARP</strong> — <em>Skinheads Against Racial Prejudice</em>. En el <span style="color:#b01a1a;">UR</span>-book: teoría de que nadie es de aquí — todos somos extraterrestres del <span style="color:#b01a1a;">UR</span> cósmico.</li>
+        </ol>
+      </div>
+
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#b01a1a; margin-top:2rem; text-align:right; border-top:1px solid rgba(176,26,26,0.2); padding-top:0.8rem;">· Pág. 01 · <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS</div>
+    </article>
+    <div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
+
+
+  </main>
+  <!-- SIDEBAR DERECHA — ÍNDICE -->
+  <aside id="sidebar" style="width:430px; min-width:430px; background:var(--black); padding:0 0 0 clamp(0.5rem,2vw,1.75rem); display:flex; flex-direction:column;">
+    <div style="background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; color:#0a0a0a; padding:1.5rem 1.2rem 2rem 1.2rem; min-height:100%;">
+        <div style="font-family:'Bebas Neue',sans-serif; font-size:1.4rem; font-weight:700; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.5rem;">ÍNDICE <span style="color:#b01a1a;">UR</span>-BOOK</div>
+        <a href="#pub-intro" style="display:block; font-family:'Bebas Neue',sans-serif; font-size:1.05rem; font-weight:700; letter-spacing:0.2em; color:#b01a1a; text-decoration:none; margin-bottom:0.8rem; border-bottom:1px solid rgba(176,26,26,0.4); padding-bottom:0.5rem;">→ LEER INTRODUCCIÓN</a>
+
+        <input id="bur" type="text" placeholder="buscar en el índice..." oninput="burFiltrar(this.value)">
+        <nav id="burNav">
+          <div class="il" id="ilA">A</div>
+          <a href="#pub-intro" class="ie">· Abismo</a>
+          <a href="#pub-intro" class="ie">· Acción Directa Digital</a>
+          <a href="#pub-intro" class="ie">· ADN · <span style="color:#b01a1a;">UR</span>-A</a>
+          <a href="#pub-intro" class="ie">· Agua</a>
+          <a href="#pub-intro" class="ie">· Alquimia</a>
+          <a href="#pub-intro" class="ie">· Aquae Urentae · As Burgas</a>
+          <a href="#pub-intro" class="ie">· Aurora · Aurum</a>
+          <a href="#pub-intro" class="ie">· Acuíferos Fósiles · Ogallala · Guaraní</a>
+          <a href="#pub-intro" class="ie">· África · Dioses del Agua · Ría</a>
+          <a href="#pub-intro" class="ie">· América · Civilizaciones Hídricas</a>
+          <a href="#pub-intro" class="ie">· Ártico · Arktos · Hielo Estratégico · Oso</a>
+          <a href="#pub-intro" class="ie">· Asia · Rutas del <span style="color:#b01a1a;">UR</span></a>
+          <a href="#pub-intro" class="ie">· A · Agua en Sumerio · 𒀀 · Signo Más Antiguo</a>
+          <a href="#pub-intro" class="ie">· Arca de Agua Petrificada · El Toro como Memoria</a>
+          <a href="#pub-intro" class="ie">· Acequias Andalusíes · Culturas Hidráulicas</a>
+          <a href="#pub-intro" class="ie">· Atlas del <span style="color:#b01a1a;">UR</span> Oculto · Fonema Transhistórico</a>
+
+          <div class="il" id="ilB">B</div>
+          <a href="#pub-intro" class="ie">· Bajau · Nómadas del Mar</a>
+          <a href="#pub-intro" class="ie">· Beltza Experience</a>
+          <a href="#pub-intro" class="ie">· Beltza Records</a>
+          <a href="#pub-intro" class="ie">· Bidasoa · Doneztebe</a>
+          <a href="#pub-intro" class="ie">· Brigadas Interestelares</a>
+          <a href="#pub-intro" class="ie">· B-<span style="color:#b01a1a;">UR</span>-OCRACIA</a>
+          <a href="#pub-intro" class="ie">· B-<span style="color:#b01a1a;">UR</span>-gos · B-<span style="color:#b01a1a;">UR</span>-gundi · Ham-B-<span style="color:#b01a1a;">UR</span>-go · Edin-B-<span style="color:#b01a1a;">UR</span>-gh</a>
+          <a href="#pub-intro" class="ie">· B-<span style="color:#b01a1a;">UR</span>-gas · As B-<span style="color:#b01a1a;">UR</span>-gas · Agua que Arde · F-<span style="color:#b01a1a;">UR</span>-or</a>
+          <a href="#pub-intro" class="ie">· Burgus · Castro · Torre · <span style="color:#b01a1a;">UR</span>-be antes de <span style="color:#b01a1a;">UR</span>-be</a>
+          <a href="#pub-intro" class="ie">· Beduinos · Toro como Depósito de Agua · Sahara Fértil</a>
+          <a href="#pub-intro" class="ie">· BAS-<span style="color:#b01a1a;">UR</span>-A · El <span style="color:#b01a1a;">UR</span> Convertido en Residuo</a>
+          <a href="#pub-intro" class="ie">· BAS-<span style="color:#b01a1a;">UR</span>-A · Continentes Plásticos · Océanos de la Tierra</a>
+          <a href="#pub-intro" class="ie">· BAS-<span style="color:#b01a1a;">UR</span>-A Estelar · 27.000 Objetos en Órbita · Vertedero Cósmico</a>
+          <a href="#pub-intro" class="ie">· BAS-<span style="color:#b01a1a;">UR</span>-A-PIENS · Evolución Inversa del <span style="color:#b01a1a;">UR</span>-Sapiens</a>
+          <a href="#pub-intro" class="ie">· BAS-<span style="color:#b01a1a;">UR</span>-A · BAS (Maleza) + <span style="color:#b01a1a;">UR</span> + A · Lo que el Sistema Desecha</a>
+          <a href="#pub-intro" class="ie">· Bahía de Osaka · Naniwa · Olas Peligrosas · <span style="color:#b01a1a;">UR</span> Puro</a>
+          <a href="#pub-intro" class="ie">· B-<span style="color:#b01a1a;">UR</span>-g · Castillo · Burgués · Usurpador del <span style="color:#b01a1a;">UR</span></a>
+
+          <div class="il" id="ilC">C</div>
+          <a href="#pub-intro" class="ie">· Columna Durruti</a>
+          <a href="#pub-intro" class="ie">· Cosmos</a>
+          <a href="#pub-intro" class="ie">· Cosmogonía</a>
+          <a href="#pub-intro" class="ie">· C-<span style="color:#b01a1a;">UR</span>-A · Curare</a>
+          <a href="#pub-intro" class="ie">· Castellano · Sustrato <span style="color:#b01a1a;">UR</span> · Pidgin Ibérico</a>
+          <a href="#pub-intro" class="ie">· Civitas · Civis · Us-UR-pación Semántica</a>
+          <a href="#pub-intro" class="ie">· Contabilidad · Tablilla de Arcilla</a>
+          <a href="#pub-intro" class="ie">· Cauce vs Matriz · El Agua que Dejó de Fluir</a>
+          <a href="#pub-intro" class="ie">· Canal de Panamá · <span style="color:#b01a1a;">UR</span> Quirúrgico</a>
+          <a href="#pub-intro" class="ie">· Cabo de Hornos · Extremo Sur</a>
+          <a href="#pub-intro" class="ie">· Chip Fósil Digital</a>
+          <a href="#pub-intro" class="ie">· Circo Pre/Post Romano · Espectáculo de Control</a>
+          <a href="#pub-intro" class="ie">· Cruz · T · Estoque · Altar del <span style="color:#b01a1a;">UR</span></a>
+          <a href="#pub-intro" class="ie">· Cosmos · Código Fuente <span style="color:#b01a1a;">UR</span></a>
+          <a href="#pub-intro" class="ie">· Cosmogonía · Nacer del Agua vs Us-<span style="color:#b01a1a;">UR</span>-par el Agua</a>
+          <a href="#pub-intro" class="ie">· Cuernos en U · Canal · Útero · Pinturas Rupestres</a>
+          <a href="#pub-intro" class="ie">· Cuevas del Sahara · Tassili n'Ajjer · Acacus</a>
+          <a href="#pub-intro" class="ie">· Cultura de la Extracción · <span style="color:#b01a1a;">UR</span> hasta la Muerte</a>
+          <a href="#pub-intro" class="ie">· C-<span style="color:#b01a1a;">UR</span>-a · Cuidado del Agua · Cura Falsa sin <span style="color:#b01a1a;">UR</span></a>
+          <a href="#pub-intro" class="ie">· Chib-<span style="color:#b01a1a;">UR</span>-I · Sangre como Agua Roja · <span style="color:#b01a1a;">UR</span> Sacrificial</a>
+          <a href="#pub-intro" class="ie">· Cult-<span style="color:#b01a1a;">UR</span>-A · Cultivo del <span style="color:#b01a1a;">UR</span> · Máscara del Tsunami</a>
+
+          <div class="il" id="ilD">D</div>
+          <a href="#pub-intro" class="ie">· Des-<span style="color:#b01a1a;">UR</span>-pación</a>
+          <a href="#pub-intro" class="ie">· Derribos Arias · Banda sin Fut-UR-o · Afro-Beat Sepultado</a>
+          <a href="#pub-intro" class="ie">· Des-infección · "Nos van a desinfectar y no nos vamos a enterar"</a>
+
+          <div class="il" id="ilE">E</div>
+          <a href="#pub-intro" class="ie">· E-<span style="color:#b01a1a;">UR</span>-I · Lluvia</a>
+          <a href="#pub-intro" class="ie">· EH · Euskal Herria</a>
+          <a href="#pub-intro" class="ie">· EL-<span style="color:#b01a1a;">UR</span> · Nieve</a>
+          <a href="#pub-intro" class="ie">· Estrella Tartésica</a>
+          <a href="#pub-intro" class="ie">· Etimología</a>
+          <a href="#pub-intro" class="ie">· E-<span style="color:#b01a1a;">UR</span>-PA · Europa</a>
+          <a href="#pub-intro" class="ie">· Extraterrestre</a>
+          <a href="#pub-intro" class="ie">· Estrechos Civilizatorios</a>
+          <a href="#pub-intro" class="ie">· Estrecho de Ormuz · <span style="color:#b01a1a;">UR</span> Fósil</a>
+          <a href="#pub-intro" class="ie">· Electrónica Lunar · Kid Baltan · Tom Dissevelt · In Orbit 1957</a>
+          <a href="#pub-intro" class="ie">· Erro · Raíz en Euskera · Error del Sistema</a>
+          <a href="#pub-intro" class="ie">· Erro eta Harro · Raíz y Orgullo</a>
+          <a href="#pub-intro" class="ie">· Escri-T-<span style="color:#b01a1a;">UR</span>-A · Cáncer del Fluir</a>
+
+          <div class="il" id="ilF">F</div>
+          <a href="#pub-intro" class="ie">· F-<span style="color:#b01a1a;">UR</span>-OR · Furor Hídrico</a>
+          <a href="#pub-intro" class="ie">· F→H · El Defecto Vasco · <span style="color:#b01a1a;">UR</span></a>
+          <a href="#pub-intro" class="ie">· Fut-<span style="color:#b01a1a;">UR</span>-o · No hay · Ya no hay Pogo en la <span style="color:#b01a1a;">UR</span>-be</a>
+          <a href="#pub-intro" class="ie">· Free Jazz · Flujo sin T · El Agua que rompe el Canal</a>
+          <a href="#pub-intro" class="ie">· Funkadelic · Parliament · P-Funk · UR Cósmico Afro</a>
+          <a href="#pub-intro" class="ie">· Free your mind · Des-UR-pación del Cuerpo</a>
+          <a href="#pub-intro" class="ie">· Fósil Fonético · <span style="color:#b01a1a;">UR</span> como Prueba de Origen</a>
+          <a href="#pub-intro" class="ie">· Fuk-<span style="color:#b01a1a;">UR</span>-A · Felicidad del <span style="color:#b01a1a;">UR</span> · Fukuoka · Bahía</a>
+          <a href="#pub-intro" class="ie">· Fuk-<span style="color:#b01a1a;">UR</span>-shima · Tsunami Nuclear · El <span style="color:#b01a1a;">UR</span> se venga</a>
+          <a href="#pub-intro" class="ie">· F-<span style="color:#b01a1a;">UR</span>-ushira · El Agua Antigua bajo la Ciudad</a>
+          <a href="#pub-intro" class="ie">· Fut-<span style="color:#b01a1a;">UR</span>-ismo Sónico · Luigi Russolo Reescrito por el Tsunami</a>
+          <a href="#pub-intro" class="ie">· Fut-<span style="color:#b01a1a;">UR</span>-o · Fut-<span style="color:#b01a1a;">UR</span>us · Lo que Será del Agua</a>
+
+          <div class="il" id="ilG">G</div>
+          <a href="#pub-intro" class="ie">· Galicia</a>
+          <a href="#pub-intro" class="ie">· G-<span style="color:#b01a1a;">UR</span>-Ú · Peso del Agua</a>
+          <a href="#pub-intro" class="ie">· Gibraltar · Tartessos · Estaño</a>
+
+          <div class="il" id="ilH">H</div>
+          <a href="#pub-intro" class="ie">· Hídrica</a>
+          <a href="#pub-intro" class="ie">· Humanidad</a>
+          <a href="#pub-intro" class="ie">· Humor</a>
+          <a href="#pub-intro" class="ie">· H-<span style="color:#b01a1a;">UR</span> · Éxodo · Moisés</a>
+          <a href="#pub-intro" class="ie">· Hydrargyros · Hg · Plata Líquida</a>
+          <a href="#pub-intro" class="ie">· Hawkwind · Space Ritual · In Search of Space · UR Cósmico</a>
+          <a href="#pub-intro" class="ie">· Hawkwind · Astounding Sounds · Amazing Music · 1976</a>
+          <a href="#pub-intro" class="ie">· Hawkwind → Motörhead → Punk · RADiX del UR sin Permiso</a>
+          <a href="#pub-intro" class="ie">· Homo T-<span style="color:#b01a1a;">UR</span>-icus · BAS-<span style="color:#b01a1a;">UR</span>-A-Piens · Evolución Inversa</a>
+          <a href="#pub-intro" class="ie">· H-<span style="color:#b01a1a;">UR</span>-mana · Última Filosofía · El <span style="color:#b01a1a;">UR</span> que no se rinde</a>
+
+          <div class="il" id="ilI">I</div>
+          <a href="#pub-intro" class="ie">· Intuición</a>
+          <a href="#pub-intro" class="ie">· Ishtar · Inanna</a>
+          <a href="#pub-intro" class="ie">· IT-<span style="color:#b01a1a;">UR</span>-I · Manantial</a>
+          <a href="#pub-intro" class="ie">· Inanna · Escriba · Arcilla</a>
+          <a href="#pub-intro" class="ie">· Iraq · I-rak · Tierra del <span style="color:#b01a1a;">UR</span></a>
+          <a href="#pub-intro" class="ie">· IA · Hija de la <span style="color:#b01a1a;">UR</span>-be · T-OR-T-<span style="color:#b01a1a;">UR</span>-A Simbólica</a>
+
+          <div class="il" id="ilJ">J</div>
+          <a href="#pub-intro" class="ie">· J.M. Sansinenea</a>
+          <a href="#pub-intro" class="ie">· J-<span style="color:#b01a1a;">UR</span>-ídico · Dispositivo Normativo de la P-<span style="color:#b01a1a;">UR</span>-ficación</a>
+          <a href="#pub-intro" class="ie">· J-<span style="color:#b01a1a;">UR</span>-isprudencia Oceánica · La Ley del <span style="color:#b01a1a;">UR</span> Libre</a>
+          <a href="#pub-intro" class="ie">· Japón · Hidrónima · UR en Cada Sílaba</a>
+
+          <div class="il" id="ilK">K</div>
+          <a href="#pub-intro" class="ie">· K-<span style="color:#b01a1a;">UR</span>-DISTÁN</a>
+          <a href="#pub-intro" class="ie">· K · Krinein · Corte · Separar · Juzgar</a>
+          <a href="#pub-intro" class="ie">· K abandonada por el Latín · Conservada en la RADiX</a>
+          <a href="#pub-intro" class="ie">· Kid Baltan · Dick Raaijmakers · <span style="color:#b01a1a;">UR</span>-Sapiens con Oscilador</a>
+          <a href="#pub-intro" class="ie">· K-<span style="color:#b01a1a;">UR</span>-ra · Lugar del Agua · Kura · Depósito de <span style="color:#b01a1a;">UR</span></a>
+
+          <div class="il" id="ilL">L</div>
+          <a href="#pub-intro" class="ie">· L<span style="color:#b01a1a;">UR</span> · Tierra</a>
+          <a href="#pub-intro" class="ie">· Vida Vegetal</a>
+          <a href="#pub-intro" class="ie">· Lápiz · Lapis · Piedra que Escribe</a>
+          <a href="#pub-intro" class="ie">· Lunar · <span style="color:#b01a1a;">UR</span> en Órbita · Agua Congelada antes de la <span style="color:#b01a1a;">UR</span>-be</a>
+          <a href="#pub-intro" class="ie">· Lemmy · Bajo como Canal del UR Telúrico · Hawkwind</a>
+
+          <div class="il" id="ilM">M</div>
+          <a href="#pub-intro" class="ie">· Malerreka · Doneztebe</a>
+          <a href="#pub-intro" class="ie">· Merc-<span style="color:#b01a1a;">UR</span>-io</a>
+          <a href="#pub-intro" class="ie">· Mesopotamia · Sumeria</a>
+          <a href="#pub-intro" class="ie">· Met-AL-<span style="color:#b01a1a;">UR</span>-gia</a>
+          <a href="#pub-intro" class="ie">· Miño · Auria · O-<span style="color:#b01a1a;">UR</span>-ense</a>
+          <a href="#pub-intro" class="ie">· M-<span style="color:#b01a1a;">UR</span>-mullo</a>
+          <a href="#pub-intro" class="ie">· MARI · Agujero Negro · Útero Celeste · Expulsa Free Cosmic UR</a>
+          <a href="#pub-intro" class="ie">· MARI · Diosa Vasca · Montaña · Tormenta · <span style="color:#b01a1a;">UR</span> Libre</a>
+          <a href="#pub-intro" class="ie">· Maggot Brain · RADiX que Sobrevive la T-OR-T-UR-A</a>
+          <a href="#pub-intro" class="ie">· Mother Ship · Nave Cósmica · <span style="color:#b01a1a;">UR</span>-SAPIENS Afro</a>
+          <a href="#pub-intro" class="ie">· Michael Moorcock · Chamán del Free Cosmic UR · Hawkwind</a>
+          <a href="#pub-intro" class="ie">· Mitología · Dioses del Agua</a>
+          <a href="#pub-intro" class="ie">· Música · Resistencia · Flujo</a>
+          <a href="#pub-intro" class="ie">· Música <span style="color:#b01a1a;">UR</span>-bana · Coltrane · Sun Ra · Lonnie Liston · Clinton</a>
+          <a href="#pub-intro" class="ie">· Mitología de la Intuición Empírica</a>
+          <a href="#pub-intro" class="ie">· Microplásticos · Sangre = Agua + Hierro + Plástico</a>
+          <a href="#pub-intro" class="ie">· Micro-chips de Derribo · Afro-Beat Sepultado</a>
+          <a href="#pub-intro" class="ie">· Mina de O-UR-o</a>
+          <a href="#pub-intro" class="ie">· M-<span style="color:#b01a1a;">UR</span>-alla · Arquitectura de la P-<span style="color:#b01a1a;">UR</span>-ficación</a>
+          <a href="#pub-intro" class="ie">· M-<span style="color:#b01a1a;">UR</span>-akan · El Agua del Pueblo que Sube</a>
+          <a href="#pub-intro" class="ie">· Mik-<span style="color:#b01a1a;">UR</span>-riya · El <span style="color:#b01a1a;">UR</span> Sagrado Almacenado · Isla Mikura</a>
+          <a href="#pub-intro" class="ie">· Manifiesto del Fut-<span style="color:#b01a1a;">UR</span>-ismo Sónico · Russolo + Tsunami</a>
+
+          <div class="il" id="ilN">N</div>
+          <a href="#pub-intro" class="ie">· Nabia · Diosa del Río</a>
+          <a href="#pub-intro" class="ie">· Nabu · Sabiduría · Escritura</a>
+          <a href="#pub-intro" class="ie">· NAT-<span style="color:#b01a1a;">UR</span>-ALEZA</a>
+          <a href="#pub-intro" class="ie">· Nat-<span style="color:#b01a1a;">UR</span>-a</a>
+          <a href="#pub-intro" class="ie">· Nat-<span style="color:#b01a1a;">UR</span>-e</a>
+          <a href="#pub-intro" class="ie">· Nat-<span style="color:#b01a1a;">UR</span>-aleza</a>
+          <a href="#pub-intro" class="ie">· Nascis · Us-<span style="color:#b01a1a;">UR</span>-pador · Nacer de... pero ¿de qué?</a>
+          <a href="#pub-intro" class="ie">· Nómadas del Sahara · Memoria del UR Perdido</a>
+          <a href="#pub-intro" class="ie">· Nomen-clat-<span style="color:#b01a1a;">UR</span>-a · -<span style="color:#b01a1a;">UR</span>-A · Agua en el Nombre</a>
+          <a href="#pub-intro" class="ie">· NO · <span style="color:#b01a1a;">UR</span>·NO · El Cielo Húmedo</a>
+          <a href="#pub-intro" class="ie">· Nam-<span style="color:#b01a1a;">UR</span>-o · Namur · El <span style="color:#b01a1a;">UR</span> en el Nombre</a>
+          <a href="#pub-intro" class="ie">· Nei-<span style="color:#b01a1a;">UR</span>-A · El Agua de la Abuela · Neira · Galicia</a>
+          <a href="#pub-intro" class="ie">· No hay Fut-<span style="color:#b01a1a;">UR</span>-o · El Tsunami abolió el tiempo lineal</a>
+
+          <div class="il" id="ilO">O</div>
+          <a href="#pub-intro" class="ie">· Öcalan · Orígenes Civilización</a>
+          <a href="#pub-intro" class="ie">· Oro · Aurum · Semilla Dorada</a>
+          <a href="#pub-intro" class="ie">· Os Garabatos</a>
+          <a href="#pub-intro" class="ie">· Oteiza · Arantzazu</a>
+          <a href="#pub-intro" class="ie">· O-<span style="color:#b01a1a;">UR</span>-RENSE · O<span style="color:#b01a1a;">UR</span>anos</a>
+          <a href="#pub-intro" class="ie">· Oceanía · Bajau · Pacífico</a>
+          <a href="#pub-intro" class="ie">· One Nation Under a Groove · <span style="color:#b01a1a;">UR</span> sin Canales</a>
+          <a href="#pub-intro" class="ie">· OR · Energía Primordial · Señalador · Boca · Alma</a>
+          <a href="#pub-intro" class="ie">· OR · Grito Ahogado · Oro Enterrado · Fuego Contenido</a>
+          <a href="#pub-intro" class="ie">· OR · Hitita "hura" · Fuerza Telúrica</a>
+          <a href="#pub-intro" class="ie">· OR · Señalador de la Víctima · Orden que Decide</a>
+          <a href="#pub-intro" class="ie">· Osc-<span style="color:#b01a1a;">UR</span>-idad · El <span style="color:#b01a1a;">UR</span> que se esconde · Agua Subterránea</a>
+
+          <div class="il" id="ilP">P</div>
+          <a href="#pub-intro" class="ie">· Paleolingüística</a>
+          <a href="#pub-intro" class="ie">· Planeta 9 · Nabu · <span style="color:#b01a1a;">UR</span>ano II</a>
+          <a href="#pub-intro" class="ie">· Petróleo · <span style="color:#b01a1a;">UR</span> Fósil</a>
+          <a href="#pub-intro" class="ie">· Panamá · Istmo · <span style="color:#b01a1a;">UR</span> Cortado</a>
+          <a href="#pub-intro" class="ie">· Política · Estrechos · Poder</a>
+          <a href="#pub-intro" class="ie">· Pidgin Ibérico · Sustrato Vasco</a>
+          <a href="#pub-intro" class="ie">· Piel de T-a-UR-o · Tauroske · Iberia</a>
+          <a href="#pub-intro" class="ie">· Poder · T como Jeroglífico del Control</a>
+          <a href="#pub-intro" class="ie">· Plástico · BAS-UR-A Fósil · Great Pacific Garbage Patch</a>
+          <a href="#pub-intro" class="ie">· P-<span style="color:#b01a1a;">UR</span>-itano · El que Purifica el <span style="color:#b01a1a;">UR</span> Secándolo</a>
+          <a href="#pub-intro" class="ie">· P-<span style="color:#b01a1a;">UR</span>-ficación · Matar el <span style="color:#b01a1a;">UR</span> para hacerlo Potable</a>
+          <a href="#pub-intro" class="ie">· P-<span style="color:#b01a1a;">UR</span>-ficación · Usurpación Activa · Teológica+Industrial</a>
+          <a href="#pub-intro" class="ie">· Partitura Concreta · Tsunami de <span style="color:#b01a1a;">UR</span> Op.0 · 13'13"</a>
+
+          <div class="il" id="ilQ">Q</div>
+          <a href="#pub-intro" class="ie">· Qanats Persas · Culturas Hidráulicas · Control del <span style="color:#b01a1a;">UR</span></a>
+
+          <div class="il" id="ilR">R</div>
+          <a href="#pub-intro" class="ie">· Roteta · Molino de Agua</a>
+          <a href="#pub-intro" class="ie">· Rattus Norvegicus · <span style="color:#b01a1a;">UR</span>-Sapiens Surviviente</a>
+          <a href="#pub-intro" class="ie">· Ruta del Estaño · Tartessos → Britania</a>
+          <a href="#pub-intro" class="ie">· Ruta del Petróleo · Ormuz → Refinerías</a>
+          <a href="#pub-intro" class="ie">· Ruta del Silicio · Malaca → Taiwán</a>
+          <a href="#pub-intro" class="ie">· RADiX · Raíz · La Raíz que busca el <span style="color:#b01a1a;">UR</span></a>
+          <a href="#pub-intro" class="ie">· Radical · Lo que va a la Raíz</a>
+          <a href="#pub-intro" class="ie">· Rock Radikal Basko · RADiX Vasca · Afroamericana</a>
+
+          <div class="il" id="ilS">S</div>
+          <a href="#pub-intro" class="ie">· SAPIENS</a>
+          <a href="#pub-intro" class="ie">· Sat-<span style="color:#b01a1a;">UR</span>-no · Cronos · Cosecha</a>
+          <a href="#pub-intro" class="ie">· Señor <span style="color:#b01a1a;">UR</span>-beltz</a>
+          <a href="#pub-intro" class="ie">· Sistema Mundo</a>
+          <a href="#pub-intro" class="ie">· S-<span style="color:#b01a1a;">UR</span> · Tiro · Fenicia</a>
+          <a href="#pub-intro" class="ie">· Silicio Hidratado</a>
+          <a href="#pub-intro" class="ie">· Silicio · <span style="color:#b01a1a;">UR</span>-Silicio · En busca de la Raíz</a>
+          <a href="#pub-intro" class="ie">· Sistema Mundo Judeo-Cristiano · T sobre el UR</a>
+          <a href="#pub-intro" class="ie">· Semiótica del Poder · T · Cruz · Ruedo</a>
+          <a href="#pub-intro" class="ie">· Sacrificio · «Esto es mi cuerpo · Esta es mi sangre»</a>
+          <a href="#pub-intro" class="ie">· Sahara Fértil · Verde hace 10.000 años · UR Perdido</a>
+          <a href="#pub-intro" class="ie">· Sed como Arma · El Primer Instrumento de Dominación</a>
+          <a href="#pub-intro" class="ie">· Sostenible · Cambio Climático · Superventas de la UR-be</a>
+          <a href="#pub-intro" class="ie">· Sun Ra · Sat-<span style="color:#b01a1a;">UR</span>-no · Cosmic Free Jazz · El <span style="color:#b01a1a;">UR</span> Solar</a>
+          <a href="#pub-intro" class="ie">· Sun Ra · Afro-Beat · Restitución del Orden Universal</a>
+          <a href="#pub-intro" class="ie">· Sustancia · Lo que algo ES · No se debe poseer · T-ener</a>
+
+          <div class="il" id="ilT">T</div>
+          <a href="#pub-intro" class="ie">· Tartessos · T-<span style="color:#b01a1a;">UR</span>-tessós</a>
+          <a href="#pub-intro" class="ie">· Telúrico · Tellus</a>
+          <a href="#pub-intro" class="ie">· Tierra</a>
+          <a href="#pub-intro" class="ie">· Toponimia</a>
+          <a href="#pub-intro" class="ie">· T-<span style="color:#b01a1a;">UR</span>-ismo · Homo-T-<span style="color:#b01a1a;">UR</span>-isticus</a>
+          <a href="#pub-intro" class="ie">· T · Tau · Cruz · Marca · Canal de Control</a>
+          <a href="#pub-intro" class="ie">· T-auromaquia · Arte del Control · Circo Ibérico</a>
+          <a href="#pub-intro" class="ie">· T-a-<span style="color:#b01a1a;">UR</span>-us · Piel de Toro · Continente Ibérico</a>
+          <a href="#pub-intro" class="ie">· Tau · Marca de Ezequiel · Cruz Judeo-Cristiana</a>
+          <a href="#pub-intro" class="ie">· T-OR-T-<span style="color:#b01a1a;">UR</span>-A Sistémica · Canal que Cierra el <span style="color:#b01a1a;">UR</span></a>
+          <a href="#pub-intro" class="ie">· T-OR-T-<span style="color:#b01a1a;">UR</span>-A · Sentencia · No Palabra</a>
+          <a href="#pub-intro" class="ie">· T-OR-T-<span style="color:#b01a1a;">UR</span>-A · Doble Canalización Sistémica · Sed = Muerte</a>
+          <a href="#pub-intro" class="ie">· T-OR-Ta · OR entre Dos Canales · Humillación del Poder</a>
+          <a href="#pub-intro" class="ie">· T-OR-O · Ecuación Alquímica · T + OR = Sacrificio</a>
+          <a href="#pub-intro" class="ie">· Tassili n'Ajjer · Pinturas del <span style="color:#b01a1a;">UR</span> Perdido</a>
+          <a href="#pub-intro" class="ie">· Teflón · Amianto · El BAS-UR-A que se come</a>
+          <a href="#pub-intro" class="ie">· Tort-<span style="color:#b01a1a;">UR</span>-A · El Agua Retorcida · Presa como Potro</a>
+          <a href="#pub-intro" class="ie">· Tsunami de <span style="color:#b01a1a;">UR</span> · NO HAY FUT-<span style="color:#b01a1a;">UR</span>-O · El Presente Eterno</a>
+
+          <div class="il" id="ilU">U</div>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span></a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span> de Caldea · Primera <span style="color:#b01a1a;">UR</span>-be</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-A · Río</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-DIMBRE · Tejido Cósmico</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-LAÑO · Nube</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-SAPIENS</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-UMEA</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>ANO · O<span style="color:#b01a1a;">UR</span>anos</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>ARTU</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-ALES · Montes del <span style="color:#b01a1a;">UR</span></a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>UGUAY</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>UBAMBA</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>basa · <span style="color:#b01a1a;">UR</span>ederra</a>
+          <a href="#pub-intro" class="ie">· US-<span style="color:#b01a1a;">UR</span>-PACIÓN SISTÉMICA</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-í · Poblado Hídrico</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-be · Ciudad · Dicotomía Sumeria/Latina</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-bana · Música · Tribus · Escenas</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-uk · Primera Ciudad · Iraq</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>·SI · Ursus · Oso · Ártico · Hielo</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-A = URA = Agua · Fundamento · Matriz · Útero</a>
+          <a href="#pub-intro" class="ie">· US-<span style="color:#b01a1a;">UR</span>-PACIÓN · US(quemar)+<span style="color:#b01a1a;">UR</span>(agua)+PACIÓN(pacto)</a>
+          <a href="#pub-intro" class="ie">· Uro · Toro Salvaje · El <span style="color:#b01a1a;">UR</span> que caminaba</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-Sapiens · Fósil Fonético · Prueba de lo que Existió</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span> Fósil · Petróleo</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span> Virtual · Agric. Industrial · 15.000L/kg</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span> Ultrapura · Fábricas de Chips</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-A-ga · La Exclamación del Agua · Pasajes</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-A-zipi · Debajo del Agua · <span style="color:#b01a1a;">UR</span>-azpi euskera</a>
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-ano · Cielo que Contiene el <span style="color:#b01a1a;">UR</span> · Castración de Urano</a>
+          <a href="#pub-intro" class="ie">· Us-<span style="color:#b01a1a;">UR</span>ario Ex-Proletario</a>
+
+          <div class="il" id="ilW">W</div>
+          <a href="#pub-intro" class="ie">· Whanganui · El <span style="color:#b01a1a;">UR</span> Maorí con Personalidad J-<span style="color:#b01a1a;">UR</span>-ÍDICA</a>
+          <a href="#pub-intro" class="ie">· Whanganui · Primer Río con Derechos · 2017 · Post-J-<span style="color:#b01a1a;">UR</span>-ÍDICO</a>
+
+          <div class="il" id="ilZ">Z</div>
+          <a href="#pub-intro" class="ie">· ZARA · Contabilidad L-<span style="color:#b01a1a;">UR</span>-terana</a>
+
+          <a href="#pub-intro" class="ie">· <span style="color:#b01a1a;">UR</span>-Sapiens Acupuntado · Meridianos del <span style="color:#b01a1a;">UR</span> · IT-<span style="color:#b01a1a;">UR</span>-I Interno</a>
+
+          <a href="#pub-cosmos" class="ie">· <span style="color:#b01a1a;">UR</span>-Dantza · Aurresku Marciano · Danza del Agua Primordial</a>
+          <a href="#pub-cosmos" class="ie">· Marte · <span style="color:#b01a1a;">UR</span> Polar · Canales Secos · Us-<span style="color:#b01a1a;">UR</span>-pación Planetaria</a>
+          <a href="#pub-cosmos" class="ie">· Rattus Norvegicus Euskaldun · Vascos de Marte · Memoria Hídrica</a>
+          <a href="#pub-cosmos" class="ie">· "Ura non dago?" · La Primera Pregunta del Universo</a>
+          <a href="#pub-cosmos" class="ie">· RATTUS · Uskonto On Vaara · 1984 · Punk Finlandés · FINIS-<span style="color:#b01a1a;">UR</span></a>
+          <a href="#pub-cosmos" class="ie">· FINIS-<span style="color:#b01a1a;">UR</span> · Finlandia · El <span style="color:#b01a1a;">UR</span> Nórdico · Última Frontera</a>
+          <a href="#pub-cosmos" class="ie">· Uskonto · Religión en Finés · US-<span style="color:#b01a1a;">UR</span>-pación del Espíritu</a>
+
+          <div class="il" id="ilFINIS">FINIS-<span style="color:#b01a1a;">UR</span></div>
+          <a href="#pub-finisur" class="ie">· FINIS-<span style="color:#b01a1a;">UR</span> · El <span style="color:#b01a1a;">UR</span> Nórdico · Báltico · Pre-Indoeuropeo</a>
+          <a href="#pub-finisur" class="ie">· VESI · Agua en Finés · <span style="color:#b01a1a;">UR</span> Báltico</a>
+          <a href="#pub-finisur" class="ie">· T-<span style="color:#b01a1a;">UR</span>-KU · Primera Us-<span style="color:#b01a1a;">UR</span>-pación Finlandesa</a>
+          <a href="#pub-finisur" class="ie">· JARVI · Lago · JOKI · Río · Toponimia Hídrica</a>
+          <a href="#pub-finisur" class="ie">· TUNT-<span style="color:#b01a1a;">UR</span>-I · Monte del <span style="color:#b01a1a;">UR</span> · Paisaje Hídrico Nórdico</a>
+          <a href="#pub-finisur" class="ie">· Lapones · <span style="color:#b01a1a;">UR</span>-Sapiens Arrinconado al Norte</a>
+          <a href="#pub-finisur" class="ie">· Lenguas <span style="color:#b01a1a;">UR</span>-A-nianas · Fino-Húngaras · Pre-Célticas</a>
+          <a href="#pub-finisur" class="ie">· KI-<span style="color:#b01a1a;">UR</span>-U-VESI · Alondra de Agua · Mosquito del <span style="color:#b01a1a;">UR</span></a>
+          <a href="#pub-finisur" class="ie">· USKONTO · Religión = US-<span style="color:#b01a1a;">UR</span>-pación del Espíritu</a>
+          <a href="#pub-finisur" class="ie">· Xabatenea 1538 · Primera Escritura Vasca · <span style="color:#b01a1a;">UR</span> escri-T-<span style="color:#b01a1a;">UR</span>-A</a>
+          <a href="#pub-finisur" class="ie">· 9500 años <span style="color:#b01a1a;">UR</span>-Sapiens Finlandés · 25000 Piezas Piedra · 100 Bronce</a>
+          <a href="#pub-finisur" class="ie">· <span style="color:#b01a1a;">UR</span>-SAPIENS MAKE GREAT AND BACK AGAIN!</a>
+
+          <a href="#pub-finisur" class="ie">· <span style="color:#b01a1a;">UR</span>-Dantza · Aurresku Marciano · Danza del Agua Primordial</a>
+          <a href="#pub-finisur" class="ie">· Marte · <span style="color:#b01a1a;">UR</span> Polar · Canales Secos · Sequía Planetaria</a>
+          <a href="#pub-finisur" class="ie">· Rattus Norvegicus Euskaldun · Vascos de Marte · Memoria Hídrica</a>
+          <a href="#pub-finisur" class="ie">· "Ura non dago?" · La Primera Pregunta del Universo</a>
+          <a href="#pub-finisur" class="ie">· Real Sociedad en Marte · Liga Marciana · Sin VAR · Beti Aurrera</a>
+
+          <a href="#pub-finisur" class="ie">· TX-<span style="color:#b01a1a;">UR</span>-I ETA <span style="color:#b01a1a;">UR</span>-DIN · Hooliganismo Hídrico Donostiarra · 2x<span style="color:#b01a1a;">UR</span></a>
+
+          <a href="#pub-finisur" class="ie">· The Molotovs · "Welcome to <span style="color:#b01a1a;">UR</span>-BIA" Tour · London Punk · Aizkorri</a>
+          <a href="#pub-finisur" class="ie">· <span style="color:#b01a1a;">UR</span>-BIA · <span style="color:#b01a1a;">UR</span> + BI · Dos Aguas · Meseta Aizkorri · Gipuzkoa</a>
+          <a href="#pub-finisur" class="ie">· <span style="color:#b01a1a;">UR</span>-BI ET OR-BI-T · Papa · <span style="color:#b01a1a;">UR</span>-be Sumeria · Órbita del OR</a>
+
+        </nav>
+        <div style="margin-top:2rem; overflow:hidden; width:100%;">
+          <img src="https://live.staticflickr.com/65535/55193187163_3f9ea91f74_h.jpg" alt="UR-Sapiens Acupuntado" style="width:100%; max-width:100%; height:auto; display:block;">
+          <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-top:0.4rem; text-align:center;">· <span style="color:#b01a1a;">UR</span>-Sapiens Acupuntado · Los Meridianos como Canales del <span style="color:#b01a1a;">UR</span> · Los puntos IT-<span style="color:#b01a1a;">UR</span>-I · Foto: Luis Beltza ·</p>
+        </div>
+        <script>
+        function burFiltrar(q) {
+          q = q.toLowerCase().trim();
+          document.querySelectorAll('#burNav .ie').forEach(a => {
+            a.classList.toggle('hh', q !== '' && !a.textContent.toLowerCase().includes(q));
+          });
+          document.querySelectorAll('#burNav .il').forEach(div => {
+            if (q === '') { div.classList.remove('hh'); return; }
+            let el = div.nextElementSibling, v = false;
+            while (el && !el.classList.contains('il')) {
+              if (!el.classList.contains('hh')) v = true;
+              el = el.nextElementSibling;
+            }
+            div.classList.toggle('hh', !v);
+          });
+        }
+        </script>
+    </div>
+  </aside>
+
+</div><!-- /flex -->
+
+    <!-- MARQUEE PALABRAS ANCHO TOTAL -->
+    <div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
+    <div style="background:#b01a1a; padding:0.4rem 0; overflow:hidden; white-space:nowrap; width:100%; margin:0;">
+      <div style="display:inline-block; animation:marquee 40s linear infinite; font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#f2ede6; will-change:transform;">NAT-UR-ALEZA · UR · B-UR-OCRACIA · US-UR-PACIÓN · K-UR-DISTÁN · UR-UMEA · SISTEMA MUNDO · HÍDRICA · COSMOGONÍA · PALEOLINGÜÍSTICA · SANSINENEA · BRIGADAS INTERESTELARES · EL-UR · UR-LAÑO · E-UR-I · IT-UR-I · UR-A · URARTU · URUGUAY · URUBAMBA · URANO · MERCURIO · ADN · SAPIENS · EXTRATERRESTRE · INTUICIÓN · ETIMOLOGÍA · TOPONIMIA · HUMOR · O-UR-RENSE · NATURA · NATURE · NATURALEZA · COSMOS · TIERRA · AGUA · LUR · SATURNO · NABU · NABIA · TARTESSOS · SUMERIA · METALURGIA · AURORA · ABISMO · T-UR-ISMO · COLUMNA DURRUTI · SHARP · G-UR-Ú · F-UR-OR · UR-DIMBRE · ROTETA · MALERREKA · BAS-UR-A-PIENS · MICROPLÁSTICOS · FREE COSMIC UR · SUN RA · HAWKWIND · DERRIBOS ARIAS · TSUNAMI DE UR · &nbsp;&nbsp;&nbsp; NAT-UR-ALEZA · UR · B-UR-OCRACIA · US-UR-PACIÓN · K-UR-DISTÁN · UR-UMEA · SISTEMA MUNDO · HÍDRICA · COSMOGONÍA · PALEOLINGÜÍSTICA · SANSINENEA · BRIGADAS INTERESTELARES · EL-UR · UR-LAÑO · E-UR-I · IT-UR-I · UR-A · URARTU · URUGUAY · URUBAMBA · URANO · MERCURIO · ADN · SAPIENS · EXTRATERRESTRE · INTUICIÓN · ETIMOLOGÍA · TOPONIMIA · HUMOR · O-UR-RENSE · NATURA · NATURE · NATURALEZA · COSMOS · TIERRA · AGUA · LUR · SATURNO · NABU · NABIA · TARTESSOS · SUMERIA · METALURGIA · AURORA · ABISMO · T-UR-ISMO · COLUMNA DURRUTI · SHARP · G-UR-Ú · F-UR-OR · UR-DIMBRE · ROTETA · MALERREKA · BAS-UR-A-PIENS · MICROPLÁSTICOS · FREE COSMIC UR · SUN RA · HAWKWIND · DERRIBOS ARIAS · TSUNAMI DE UR ·</div>
+    </div>
+
+</div><!-- /ur-marco -->
+
+<!-- LÍNEA NEGRA SEPARADORA -->
+<div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
+
 <img src="https://live.staticflickr.com/65535/55170955237_80ec8c3d1d_k.jpg" alt="14 · UR-SAPIENS · Jorge Oteiza · Arantzazu" style="width:100%; height:auto; display:block; filter:contrast(1.05);">
 <div style="background:var(--black); padding:0.8rem clamp(2rem,8vw,7rem); text-align:center;">
-  <span style="font-family:'Courier Prime',monospace; font-size:0.9rem; letter-spacing:0.2em; color:var(--amber);">· Arantzazu · Jorge Oteiza · El Último Apóstol · Díscolo · Inadaptado · Desubicado de cualquier credo · Foto: Luis Beltza ·</span>
+  <span style="font-family:'Courier Prime',monospace; font-size:0.9rem; letter-spacing:0.2em; color:#c8922a;">· Arantzazu · Jorge Oteiza · El Último Apóstol · Díscolo · Inadaptado · Desubicado de cualquier credo · Foto: Luis Beltza ·</span>
 </div>
 
 <div class="brand-slash" style="justify-content:space-between; align-items:center; padding:0.55em clamp(1rem,3vw,2rem);">
@@ -383,24 +1069,22 @@ window.addEventListener('resize', fitLines);
   <img src="https://live.staticflickr.com/65535/55173125591_3066404ecb_o.png" alt="UR-SAPIENS · Símbolo" style="height:clamp(2.5rem,6vw,4.5rem); width:auto; display:block;">
 </div>
 
-</div><!-- /ur-marco -->
-
 <footer class="footer" style="padding:0.9rem clamp(0.5rem,2vw,1.75rem);">
-  <div class="footer-left">
-    <div class="footer-brand">BELTZA RECORDS · DONOSTIA _ DONEZTEBE</div>
-  </div>
-  <div class="footer-right">
-    <div class="footer-links">
-      <a href="https://www.beltzarecords.com/beltzaexperience" target="_blank">beltzarecords.com</a>
-      &nbsp;·&nbsp;
-      <a href="https://beltzaexperience.github.io/Manifiesto-Beltza/" target="_blank">MANIFIESTO</a>
-      &nbsp;·&nbsp;
-      <a href="https://beltzaexperience.github.io/magic-bus/" target="_blank">MAGIC BUS</a>
-      &nbsp;·&nbsp;
-      <span style="color:var(--white);">UR-SAPIENS</span>
-    </div>
-  </div>
+  <div class="footer-left"><div class="footer-brand">BELTZA RECORDS · DONOSTIA _ DONEZTEBE</div></div>
+  <div class="footer-right"><div class="footer-links">
+    <a href="https://www.beltzarecords.com/beltzaexperience" target="_blank">beltzarecords.com</a> &nbsp;·&nbsp;
+    <a href="https://beltzaexperience.github.io/Manifiesto-Beltza/" target="_blank">MANIFIESTO</a> &nbsp;·&nbsp;
+    <a href="https://beltzaexperience.github.io/magic-bus/" target="_blank">MAGIC BUS</a> &nbsp;·&nbsp;
+    <span style="color:#f2ede6;">UR-SAPIENS</span>
+  </div></div>
 </footer>
+
+<script>
+function toggleSidebar() {
+  const s = document.getElementById('sidebar');
+  s.style.display = s.style.display === 'block' ? 'none' : 'block';
+}
+</script>
 
 </body>
 </html>
