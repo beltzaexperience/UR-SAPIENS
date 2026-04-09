@@ -228,3 +228,8 @@ body{background:var(--black);color:var(--white);font-family:'Courier Prime',mono
           #bur::placeholder { color:rgba(242,237,230,0.7); }
           .hh { display:none !important; }
         
+/* DADÁ-UR-ISTA entries */
+.ie-dada { display:block; font-family:'Courier Prime',monospace; font-size:1.05rem; color:#0a0a0a; text-decoration:none; padding:0.3rem 0 0.3rem 1.2em; text-indent:-1.2em; border-bottom:1px dashed rgba(176,26,26,0.25); line-height:1.4; font-style:italic; }
+.ie-dada:hover { color:#b01a1a; }
+.ie-dada::before { content:"∿ "; color:rgba(176,26,26,0.5); font-style:normal; }
+.il-dada { font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.2em; color:rgba(176,26,26,0.6); margin-top:0.9rem; border-bottom:1px dashed rgba(176,26,26,0.3); padding-bottom:0.2rem; }
