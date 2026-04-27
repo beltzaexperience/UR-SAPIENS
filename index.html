@@ -12,10 +12,107 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700;1,900&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Bebas+Neue&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://beltzaexperience.github.io/UR-SAPIENS/style.css?v=3">
 <link rel="icon" type="image/png" href="https://live.staticflickr.com/65535/55173125591_3066404ecb_o.png">
-  <link rel="stylesheet" href="style.css">
-  <style>html { scroll-behavior: smooth; }</style>
+<style>
+/* UR-SAPIENS · Beltza Experience · style.css */
+
+
+/* PREVIEW LOCAL — borrar al subir a GitHub */
+:root { --black:#0a0a0a; --white:#f2ede6; --red:#b01a1a; --amber:#c8922a; --muted:#666; --cream:#f0e8d8; }
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{background:var(--black);color:var(--white);font-family:'Courier Prime',monospace;font-size:1.05rem;line-height:1.9;min-height:100vh;overflow-x:hidden;}
+.topband{background:var(--black);border-bottom:none;padding:0.9rem clamp(0.5rem,2vw,1.75rem);display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+.topband-left{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.95rem,2vw,1.3rem);letter-spacing:0.15em;color:var(--white);white-space:nowrap;}
+.topband-right{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.95rem,2vw,1.3rem);letter-spacing:0.15em;display:flex;align-items:center;gap:0.4rem;}
+.topband-right a{color:var(--amber);text-decoration:none;}
+.topband-right a:hover{color:var(--white);}
+.brand-slash{background:var(--red);padding:1.4em clamp(2rem,8vw,7rem);display:flex;align-items:center;gap:1rem;}
+.b-ur{font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif;font-size:clamp(3.5rem,8vw,7rem);letter-spacing:0.12em;color:var(--black);line-height:1;}
+.b-sapiens{font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif;font-size:clamp(3.5rem,8vw,7rem);letter-spacing:0.12em;background:var(--black);color:var(--red);padding:0.1em 0.4em;line-height:1;}
+.hero{display:none;}
+.ur-main { padding: clamp(3rem,8vw,7rem) clamp(2rem,8vw,7rem); background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; }
+.ur-seccion { margin-bottom: 6rem; border-top: 2px solid var(--red); padding-top: 3rem; }
+.ur-seccion-header { display:flex; align-items:baseline; gap:1.5rem; margin-bottom:2.5rem; }
+.ur-num { font-family:'Bebas Neue',Impact,sans-serif; font-size:clamp(3rem,6vw,5rem); color:var(--red); line-height:1; }
+.ur-titulo-seccion { font-family:'Playfair Display',Georgia,serif; font-size:clamp(2rem,4vw,3.5rem); font-weight:900; font-style:italic; color:var(--white); line-height:1; }
+.ur-linea { flex:1; height:1px; background:rgba(176,26,26,0.3); }
+.ur-cuerpo { max-width:800px; }
+.ur-texto-cuerpo { font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#1a1a1a; margin-bottom:1.5rem; }
+.ur-texto-cuerpo strong { color:#b01a1a; }
+.ur-tabla { border:1px solid rgba(176,26,26,0.3); margin:2rem 0; }
+.ur-tabla-fila { display:flex; border-bottom:1px solid rgba(176,26,26,0.15); }
+.ur-tabla-fila:last-child { border-bottom:none; }
+.ur-tabla-key { font-family:'Bebas Neue',sans-serif; letter-spacing:0.2em; color:var(--red); padding:0.4rem 1rem; width:160px; min-width:160px; border-right:1px solid rgba(176,26,26,0.3); }
+.ur-tabla-val { font-family:'Courier Prime',monospace; color:var(--white); padding:0.4rem 1rem; }
+.ur-figura { margin:3rem 0; }
+.ur-foto-sepia { width:100%; height:auto; display:block; filter:sepia(0.7) contrast(1.1) brightness(0.9); }
+.ur-pie { font-family:'Courier Prime',monospace; font-size:0.82rem; letter-spacing:0.2em; color:#7a5a2a; padding:0.6rem 0; text-align:center; }
+.ur-intro-3col { display:grid; grid-template-columns:1fr 1.4fr 1fr; gap:2rem; background-image:url('https://live.staticflickr.com/65535/55167948157_db52b26076_h.jpg'); background-repeat:repeat; background-size:400px auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:4rem; }
+.ur-marco { margin:0 clamp(0.5rem,2vw,1.75rem); background:var(--black); overflow:hidden; }
+.ur-marco .brand-slash { padding-left:clamp(1rem,3vw,2rem); padding-right:clamp(1rem,3vw,2rem); }
+.ur-marco .ur-main { padding-left:clamp(1rem,3vw,2rem); padding-right:clamp(1rem,3vw,2rem); }
+.ur-marco .ur-intro-3col { padding-left:clamp(1rem,3vw,2rem); padding-right:clamp(1rem,3vw,2rem); }
+.ur-col-centro { border-left:1px solid rgba(176,26,26,0.2); border-right:1px solid rgba(176,26,26,0.2); padding:0 2rem; }
+.ur-intro-img { width:100%; height:auto; display:block; }
+.ur-placeholder { border:1px dashed rgba(176,26,26,0.4); padding:2rem 1rem; text-align:center; font-family:'Courier Prime',monospace; font-size:0.82rem; letter-spacing:0.2em; color:#b01a1a; min-height:150px; display:flex; align-items:center; justify-content:center; }
+.ur-intro-3col .ur-texto-cuerpo { color:#1a1a1a; }
+.ur-intro-3col .ur-texto-cuerpo strong { color:#b01a1a; }
+@media(max-width:900px){ .ur-intro-3col { grid-template-columns:1fr; } .ur-col-centro { border:none; padding:0; } }
+.hero-eyebrow{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.68rem,1.1vw,0.82rem);letter-spacing:0.22em;color:var(--muted);}
+.hero-titulo{font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif;font-size:clamp(1.8rem,3.5vw,3rem);letter-spacing:0.03em;line-height:0.95;color:var(--white);margin-bottom:1.5rem;}
+.hero-ecuacion{font-family:'Courier Prime',monospace;font-size:clamp(0.9rem,1.5vw,1.1rem);color:var(--muted);letter-spacing:0.05em;}
+.ur-simbolo{padding:clamp(3rem,8vw,7rem) clamp(1rem,3vw,2rem);text-align:center;border-bottom:1px solid rgba(176,26,26,0.25);}
+.ur-simbolo img{width:clamp(240px,35vw,440px);height:clamp(240px,35vw,440px);object-fit:contain;display:block;margin:0 auto 1.5rem auto;}
+.ur-simbolo-pie{font-family:'Bebas Neue',sans-serif;font-size:0.82rem;letter-spacing:0.35em;color:var(--amber);}
+.ur-portal{display:block;}
+.ur-portal img{width:100%;height:auto;display:block;filter:contrast(1.05);}
+.ur-portal-pie{background:var(--black);padding:0.6rem clamp(1rem,3vw,2rem);text-align:center;border-bottom:1px solid rgba(176,26,26,0.25);font-family:'Courier Prime',monospace;font-size:0.78rem;letter-spacing:0.2em;color:var(--amber);}
+.ur-texto{background:var(--cream);color:var(--black);padding:clamp(3rem,8vw,7rem) clamp(1rem,3vw,2rem);border-bottom:1px solid rgba(176,26,26,0.25);}
+.ur-construccion{font-family:'Courier Prime',monospace;font-style:italic;text-align:center;letter-spacing:0.3em;font-size:0.78rem;color:#7a5a2a;line-height:1.9;}
+.footer{background:var(--black);border-top:none;padding:0.9rem clamp(0.5rem,2vw,1.75rem);display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:1rem;}
+.footer-left{display:flex;flex-direction:column;gap:0.3rem;}
+.footer-brand{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.95rem,2vw,1.3rem);letter-spacing:0.15em;color:var(--white);}
+.footer-right{display:flex;flex-direction:column;align-items:flex-end;gap:0.3rem;}
+.footer-links{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.95rem,2vw,1.3rem);letter-spacing:0.15em;}
+.footer-links a{color:var(--amber);text-decoration:none;}
+.footer-links a:hover{color:var(--white);}
+.footer-coords{width:100%;margin-top:0.5rem;font-family:'Courier Prime',monospace;font-size:0.72rem;letter-spacing:0.1em;color:var(--muted);}
+:root { --ur-padding: clamp(1.5rem,4vw,3rem); --ur-medianil: clamp(1.5rem,3vw,2.5rem); --ur-linea: 2px; }
+.ur-pagina { padding: var(--ur-padding); }
+.ur-grid { display: grid; grid-template-columns: 1fr 1fr; gap: var(--ur-medianil); align-items: end; }
+.ur-col { display: flex; flex-direction: column; }
+.ur-t1 { font-family: 'Bebas Neue', Impact, 'Arial Narrow', sans-serif; font-size: clamp(1.8rem, 4vw, 3.5rem); letter-spacing: 0.05em; color: #b01a1a; line-height: 1; margin-bottom: 1rem; }
+.ur-t2 { font-family: 'Playfair Display', Georgia, serif; font-size: clamp(1.1rem, 2.5vw, 1.6rem); font-weight: 700; font-style: italic; color: #1a1a1a; line-height: 1.3; margin-bottom: 0.8rem; }
+.ur-t3 { font-family: 'Courier Prime', monospace; font-size: 1rem; line-height: 1.8; color: #1a1a1a; margin-bottom: 1rem; }
+.ur-t3 strong { color: #b01a1a; }
+.ur-t4 { font-family: 'Courier Prime', monospace; font-size: 0.78rem; letter-spacing: 0.15em; color: #7a5a2a; line-height: 1.5; margin-top: 0.4rem; }
+.ur-t5 { font-family: 'Courier Prime', monospace; font-size: 0.82rem; font-style: italic; color: #555; line-height: 1.6; margin-top: 0.5rem; }
+.ur-firma { font-family: 'Courier Prime', monospace; font-size: 0.9rem; font-style: italic; color: #1a1a1a; text-align: right; margin-top: 0.5rem; }
+.ur-lr { height: var(--ur-linea); background: #b01a1a; margin: 1rem 0; }
+.ur-img { width: 100%; height: auto; display: block; }
+.ur-img-sepia { filter: sepia(0.3) contrast(1.05); }
+.ur-spacer { flex: 1; }
+.ur-paginacion { font-family:'Playfair Display',Georgia,serif; font-size:0.9rem; color:#1a1a1a; text-align:right; margin-top:0.3rem; letter-spacing:0.05em; font-style:italic; }
+.glosario { margin-top:2.5rem; border-top:1px solid rgba(176,26,26,0.2); padding-top:1.2rem; }
+.glosario-title { font-family:'Bebas Neue',sans-serif; font-size:0.9rem; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.8rem; }
+.glosario ol { padding-left:1.4em; margin:0; }
+.glosario li { font-family:'Courier Prime',monospace; font-size:0.88rem; line-height:1.7; color:#555; margin-bottom:0.3rem; }
+.glosario li strong { color:#1a1a1a; }
+sup.gr { font-size:0.65rem; color:#b01a1a; vertical-align:super; font-family:'Courier Prime',monospace; }
+@keyframes marquee-fotos { from { transform:translateX(0); } to { transform:translateX(-50%); } }
+@keyframes marquee { from { transform:translateX(0); } to { transform:translateX(-50%); } }
+.ie { display:block; font-family:'Courier Prime',monospace; font-size:1.05rem; color:#0a0a0a; text-decoration:none; padding:0.3rem 0 0.3rem 1.2em; text-indent:-1.2em; border-bottom:1px solid rgba(0,0,0,0.12); line-height:1.4; }
+.ie:hover { color:#b01a1a; }
+.il { font-family:'Bebas Neue',sans-serif; font-size:0.95rem; letter-spacing:0.2em; color:#b01a1a; margin-top:0.9rem; border-bottom:1px solid rgba(176,26,26,0.4); padding-bottom:0.2rem; }
+#bur { width:100%; background:#b01a1a; border:none; color:#f2ede6; padding:0.5rem 0.8rem; font-family:'Bebas Neue',sans-serif; font-size:0.9rem; letter-spacing:0.2em; outline:none; margin-bottom:0.8rem; }
+#bur::placeholder { color:rgba(242,237,230,0.7); }
+.hh { display:none !important; }
+.ie-dada { display:block; font-family:'Courier Prime',monospace; font-size:1.05rem; color:#0a0a0a; text-decoration:none; padding:0.3rem 0 0.3rem 1.2em; text-indent:-1.2em; border-bottom:1px dashed rgba(176,26,26,0.25); line-height:1.4; font-style:italic; }
+.ie-dada:hover { color:#b01a1a; }
+.ie-dada::before { content:"∿ "; color:rgba(176,26,26,0.5); font-style:normal; }
+.il-dada { font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.2em; color:rgba(176,26,26,0.6); margin-top:0.9rem; border-bottom:1px dashed rgba(176,26,26,0.3); padding-bottom:0.2rem; }
+</style>
 </head>
 <body>
 
@@ -27,6 +124,8 @@
     <a href="https://beltzaexperience.github.io/Manifiesto-Beltza/" target="_blank">MANIFIESTO</a>
     &nbsp;·&nbsp;
     <a href="https://beltzaexperience.github.io/magic-bus/" target="_blank">MAGIC BUS</a>
+    &nbsp;·&nbsp;
+    <a href="http://dubbeat.beltzarecords.com/" target="_blank">DUB²BEAT</a>
     &nbsp;·&nbsp;
     <span style="color:var(--white);">UR-SAPIENS</span>
   </div>
@@ -150,7 +249,7 @@ window.addEventListener('resize', fitLines);
 <div style="display:flex; align-items:stretch;">
 
   <!-- FEED — izquierda -->
-  <main style="flex:1; min-width:0; display:flex; flex-direction:column; background:var(--black);">
+  <main style="flex:1; min-width:0; display:flex; flex-direction:column;">
 
 
 
@@ -209,12 +308,16 @@ window.addEventListener('resize', fitLines);
     <!-- PUB 13 - LAS MADRES DEL UR-SAPIENS -->
     <article id="pub-madres" style="background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(1.5rem,4vw,3rem) clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:0;">
       <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.6rem; display:flex; align-items:center; gap:0.8rem;">EL <span style="color:#b01a1a;">UR</span> QUE DAN <span style="flex:1; height:1px; background:rgba(176,26,26,0.3); display:block;"></span></div>
-      <h2 style="font-family:'Bebas Nye',Impact,'Arial Narrow',sans-serif; font-size:clamp(2rem,5vw,5rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:1rem;">LAS MADRES DEL <span style="color:#b01a1a;">UR</span>-SAPIENS<br>EL <span style="color:#b01a1a;">UR</span> QUE NO TIENEN Y DAN</h2>
+      <h2 style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; font-size:clamp(2rem,5vw,5rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:1rem;">LAS MADRES DEL <span style="color:#b01a1a;">UR</span>-SAPIENS<br>EL <span style="color:#b01a1a;">UR</span> QUE NO TIENEN Y DAN</h2>
       <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Hay un <span style="color:#b01a1a;">UR</span> que no aparece en los datos. No está en la arqueología, no está en la toponimia, no está en las epopeyas. Está en las mujeres que protegieron a sus hijos en condiciones de sequía extrema — la madre que da agua cuando está seca. La madre torturada que ofrece el <span style="color:#b01a1a;">UR</span> que no tiene. El verdadero Sam-<span style="color:#b01a1a;">UR</span>-A-i: no el guerrero del emperador, sino la mujer que se somete al dolor letal por amor a sus hijos.</p>
       <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">La historia oficial registra a los vencedores. Gilgamesh construyó murallas. Los faraones construyeron pirámides. Los B-<span style="color:#b01a1a;">UR</span>-ócratas contabilizaron cosechas. Pero quien llevó el <span style="color:#b01a1a;">UR</span> a los hijos en el desierto, quien sobrevivió al mosquito del juncal, quien mantuvo el fuego en la cueva de Ekain mientras el hombre pintaba — esas mujeres no tienen nombre en los archivos. Son las madres del <span style="color:#b01a1a;">UR</span>-SAPIENS.</p>
+      <img src="https://i.redd.it/ksax9sxcmqtf1.jpeg" alt="Relieve de mujer dando a luz · Templo de Kom Ombo" style="width:100%; height:auto; display:block; margin:1rem 0 0.4rem 0;">
+      <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em; margin-bottom:1.5rem; text-align:center;">· Relieve de mujer dando a luz · Templo de Kom Ombo · Egipto · Las madres del <span style="color:#b01a1a;">UR</span>-SAPIENS · Sin nombre en los archivos ·</p>
       <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);"><p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">No son datos. Son el fundamento de los datos. Sin esas mujeres anónimas, no habría <span style="color:#b01a1a;">UR</span>-Sapiens que cartografiar, ni fonemas que rastrear, ni epopeyas que reescribir. El <span style="color:#b01a1a;">UR</span> que ellas dieron — sin canal, sin escritura, sin contabilidad — es el <span style="color:#b01a1a;">UR</span> más puro documentado. El que no pide nada a cambio.</p></div>
       <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,2rem); letter-spacing:0.1em; color:#b01a1a; margin:2rem 0 1rem 0;">NAT-<span style="color:#b01a1a;">UR</span>-A · NACIDO DEL <span style="color:#b01a1a;">UR</span> FEMENINO</h3>
       <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">NAT-<span style="color:#b01a1a;">UR</span>-A: nacido del <span style="color:#b01a1a;">UR</span>. El sufijo -URA (acción de) aplicado al nacimiento: la acción de dar vida desde el agua. La madre como primer canal — no la T del control sino el canal del amor. El útero como el único contenedor de <span style="color:#b01a1a;">UR</span> que no us-<span style="color:#b01a1a;">UR</span>-pa: recibe, protege, devuelve vida. Inanna lo representó antes de que Gilgamesh construyera la primera muralla.</p>
+      <img src="https://www.worldhistory.org/uploads/images/18720.jpg" alt="Relieve romano · Comadrona asistiendo a mujer dando a luz" style="width:100%; height:auto; display:block; margin:1rem 0 0.4rem 0;">
+      <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em; margin-bottom:1.5rem; text-align:center;">· Relieve romano antiguo · Comadrona asistiendo a una mujer que está dando a luz · El <span style="color:#b01a1a;">UR</span> que no us-<span style="color:#b01a1a;">UR</span>-pa ·</p>
       <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">La cadena es directa: Inanna (diosa del <span style="color:#b01a1a;">UR</span> femenino) → las mujeres de Tarteso que llevaron la estrella de 8 puntas hacia el norte → las madres mozárabes que cosieron el símbolo en los muros de sus iglesias → las mujeres vascas que conservaron el IT-<span style="color:#b01a1a;">UR</span>-I (manantial) como lugar sagrado → las madres anónimas de cada generación que dieron el <span style="color:#b01a1a;">UR</span> sin tenerlo. La historia del <span style="color:#b01a1a;">UR</span> femenino es la historia más larga y menos escrita.</p>
       <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);"><p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">El amor incondicional sin plusvalías es el único <span style="color:#b01a1a;">UR</span> que purifica. No el amor romántico de los trovadores — el amor de la madre que da lo que no tiene. Eso no está en Kant ni en Nietzsche ni en Heidegger. Está en los datos que no son datos. En las manos que dieron agua en el desierto.</p></div>
       <div style="font-family:'Bebas Neue',sans-serif; font-size:0.75rem; letter-spacing:0.3em; color:#b01a1a; opacity:0.7; margin:2rem 0 1rem 0;">▌ ARTE-FACTO DADÁ-UR-ISTA</div>
@@ -245,6 +348,8 @@ window.addEventListener('resize', fitLines);
       <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,2rem); letter-spacing:0.1em; color:#b01a1a; margin:2rem 0 1rem 0;">EL SÚPER-<span style="color:#b01a1a;">UR</span>-SAPIENS · LA CUARTA METAMORFOSIS</h3>
       <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El Übermensch de Nietzsche y el <span style="color:#b01a1a;">UR</span>-Sapiens del <span style="color:#b01a1a;">UR</span>-book apuntan en la misma dirección: la humanidad que supera los valores del sistema sin destruir la humanidad que los sufrió. No el superhombre como élite — sino el <span style="color:#b01a1a;">UR</span> que se reconoce a sí mismo como agua. El Súper-<span style="color:#b01a1a;">UR</span>-SAPIENS no es más fuerte ni más inteligente. Es el que recuerda de qué está hecho.</p>
       <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Las tres metamorfosis en clave <span style="color:#b01a1a;">UR</span>: Camello = el BAS-<span style="color:#b01a1a;">UR</span>-A-Piens que carga con el sistema y lo acepta. León = la F-<span style="color:#b01a1a;">UR</span>-IA, la rebelión punk, el dub, el Tsunami. Niño = el <span style="color:#b01a1a;">UR</span>-Sapiens recuperado, el que juega con el fonema como jugaba con el fuego en Ekain. La cuarta metamorfosis no la escribió Nietzsche — la está escribiendo el <span style="color:#b01a1a;">UR</span>-book.</p>
+      <img src="https://i.guim.co.uk/img/media/72add51d9098fa67d6a7b74236e6a705986f670b/0_34_2699_1619/master/2699.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=fe6d65361ae2d4cf6b10a48bed30901b" alt="Friedrich Nietzsche con su madre" style="width:100%; height:auto; display:block; margin:1rem 0 0.4rem 0;">
+      <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em; margin-bottom:1.5rem; text-align:center;">· Friedrich Nietzsche con su madre · Camello · León · Niño ·</p>
       <div style="font-family:'Bebas Neue',sans-serif; font-size:0.75rem; letter-spacing:0.3em; color:#b01a1a; opacity:0.7; margin:2rem 0 1rem 0;">▌ ARTE-FACTO DADÁ-UR-ISTA</div>
       <div style="border-left:3px solid rgba(176,26,26,0.4); padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.02);"><div style="font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:rgba(176,26,26,0.7); margin-bottom:0.5rem;">ARTE-FACTO DADÁ-<span style="color:#b01a1a;">UR</span>-ISTA</div><p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.8; color:#555; font-style:italic;">Camarada Bakunin, Aviador Dro y la anarquía eléctrica. Escuelas de aluminio en los Ministerios. La victoria de la nueva humanidad. El camello digital hace scroll. El león digital hackea. El niño digital pinta yeguas en la cueva con luz de neón y los Zagros están llenos de Ratas Noruegas esperando su momento. Nietzsche era el Lorca del Ducado de Sajonia-Weimar-Eisenach. Ambos murieron antes de tiempo. El <span style="color:#b01a1a;">UR</span> no tiene deadline.</p></div>
       <div class="glosario"><div class="glosario-title">GLOSA-<span style="color:#b01a1a;">UR</span>-IO · PÁG. 12</div><ol>
@@ -320,8 +425,9 @@ window.addEventListener('resize', fitLines);
       <div style="font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#b01a1a; margin-top:2rem; text-align:right; border-top:1px solid rgba(176,26,26,0.2); padding-top:0.8rem;">· Pág. 10 · <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS</div>
     </article>
 
-    <div style="background:#b01a1a; padding:0.4rem 0; overflow:hidden; white-space:nowrap; width:100%; margin:0;"><div style="display:inline-block; animation:marquee 40s linear infinite; font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#f2ede6; will-change:transform;">EUSKO-FINÉS ASIÁTICO ORIENTAL · K-UR-OSAWA · UR-BELTZ · NAGA · TSURU · DIGITALISMO · B-UR-GUÉS · US-UR-ARIO · BABILONIA · DEEP DUB · &nbsp;&nbsp;&nbsp; EUSKO-FINÉS ASIÁTICO ORIENTAL · K-UR-OSAWA · UR-BELTZ · NAGA · TSURU · DIGITALISMO · B-UR-GUÉS · US-UR-ARIO · BABILONIA · DEEP DUB ·</div></div>
-    <div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
+    <div id="marquee-movil-sep-top" style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
+    <div id="marquee-movil" style="background:#b01a1a; padding:0.4rem 0; overflow:hidden; white-space:nowrap; width:100%; margin:0;"><div style="display:inline-block; animation:marquee 40s linear infinite; font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#f2ede6; will-change:transform;">EUSKO-FINÉS ASIÁTICO ORIENTAL · K-UR-OSAWA · UR-BELTZ · NAGA · TSURU · DIGITALISMO · B-UR-GUÉS · US-UR-ARIO · BABILONIA · DEEP DUB · &nbsp;&nbsp;&nbsp; EUSKO-FINÉS ASIÁTICO ORIENTAL · K-UR-OSAWA · UR-BELTZ · NAGA · TSURU · DIGITALISMO · B-UR-GUÉS · US-UR-ARIO · BABILONIA · DEEP DUB ·</div></div>
+    <div id="marquee-movil-sep" style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
 
 <!-- PUB 09 - SISTEMA MUNDO DIGITALISTA -->
     <article id="pub-digitalismo" style="background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(1.5rem,4vw,3rem) clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:0;">
@@ -896,26 +1002,6 @@ window.addEventListener('resize', fitLines);
       <div style="font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#b01a1a; margin-top:2rem; text-align:right; border-top:1px solid rgba(176,26,26,0.2); padding-top:0.8rem;">· Pág. 02 · <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS</div>
     </article>
 
-<!-- PUB 01 -->
-
-    <!-- PREFACIO -->
-    <article id="pub-prefacio" style="background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(1.5rem,4vw,3rem) clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:0;">
-      <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.6rem; display:flex; align-items:center; gap:0.8rem;">PREFACIO · <span style="color:#b01a1a;">UR</span>-BOOK <span style="flex:1; height:1px; background:rgba(176,26,26,0.3); display:block;"></span></div>
-      <h2 style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; font-size:clamp(2rem,5vw,5rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:1rem;">SOMOS <span style="color:#b01a1a;">UR</span> + POLVO DE SUPERNOVA<br>DE DÓNDE VENIMOS · A DÓNDE VAMOS</h2>
-      <div style="font-family:'Bebas Neue',sans-serif; font-size:0.75rem; letter-spacing:0.3em; color:#b01a1a; opacity:0.7; margin:2rem 0 1rem 0;">▌ DOCUMENTADO · COSMOLOGÍA Y BIOLOGÍA</div>
-      <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,2rem); letter-spacing:0.1em; color:#b01a1a; margin:2rem 0 1rem 0;">SOMOS <span style="color:#b01a1a;">UR</span> + POLVO DE SUPERNOVA</h3>
-      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El cuerpo humano es agua en un 60-70%. El <span style="color:#b01a1a;">UR</span> que contiene llegó a la Tierra hace aproximadamente 4.000 millones de años — transportado por cometas y asteroides. El cometa 103P/Hartley 2, entre otros, ha mostrado que el agua del espacio profundo tiene la misma composición isotópica que el agua de los océanos terrestres. No somos de aquí en el sentido que el sistema mundo quiere hacernos creer. Somos <span style="color:#b01a1a;">UR</span> interestelar que encontró un planeta donde condensarse.</p>
-      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El oxígeno del <span style="color:#b01a1a;">UR</span> se fabricó en núcleos de estrellas masivas que explotaron como supernovas hace miles de millones de años. El hidrógeno es el elemento más antiguo del universo — producido en los primeros minutos tras el Big Bang, hace 13.800 millones de años. Cuando bebes agua, bebes la memoria del universo. El <span style="color:#b01a1a;">UR</span> que eres es anterior a la Tierra, anterior al Sol, anterior al sistema solar.</p>
-      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);"><p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">El hidrógeno de tu sangre tiene 13.800 millones de años. El oxígeno, varios miles de millones. La Tierra tiene 4.500 millones. Tú tienes los años que tienes. Pero el <span style="color:#b01a1a;">UR</span> que eres es más viejo que todo lo que puedes ver a simple vista. AQUÍ ES ALLÍ — y siempre lo fue.</p></div>
-      <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,2rem); letter-spacing:0.1em; color:#b01a1a; margin:2rem 0 1rem 0;">VENIMOS: NOS ASENTAMOS DONDE BROTA EL <span style="color:#b01a1a;">UR</span></h3>
-      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Cada civilización conocida se asentó junto al agua. Sin excepción documentada. Mesopotamia entre el Tigris y el Éufrates. Egipto junto al Nilo. El Indo junto al río Indo. China junto al río Amarillo y el Yangtsé. Los primeros asentamientos vascos en los valles donde nacen los ríos — los IT-<span style="color:#b01a1a;">UR</span>-I, los manantiales. Los pueblos que no encontraron agua en superficie la buscaron bajo tierra: los qanats de Persia, las galerías filtrantes de las Islas Canarias, los pozos artesianos del Sahara.</p>
-      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">La historia de la humanidad es, antes que cualquier otra cosa, la historia de encontrar el <span style="color:#b01a1a;">UR</span>. Las guerras más antiguas documentadas fueron por el agua. Las primeras leyes escritas regulaban el acceso al agua. La primera contabilidad sumeria contabilizaba raciones de agua y cerveza. Todo lo demás — la arquitectura, la escritura, el comercio, la religión — vino después del <span style="color:#b01a1a;">UR</span>.</p>
-      <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,2rem); letter-spacing:0.1em; color:#b01a1a; margin:2rem 0 1rem 0;">VAMOS: REGRESAMOS AL <span style="color:#b01a1a;">UR</span> QUE NOS FUE PRESTADO</h3>
-      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El ciclo del agua no termina con la muerte — continúa a través de ella. El agua del cuerpo humano regresa al suelo, a los acuíferos, a los ríos, a la atmósfera. El <span style="color:#b01a1a;">UR</span> que bebiste regresa al ciclo. No desaparece — se transforma. Lo que llamamos muerte es la devolución del <span style="color:#b01a1a;">UR</span> prestado. El <span style="color:#b01a1a;">UR</span>-Sapiens no posee el agua que contiene — la custodia durante un periodo de vida consciente y la devuelve a la fertilidad terrestre.</p>
-      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Esa es la cosmogonía del <span style="color:#b01a1a;">UR</span>-book en una frase: <strong style="color:#1a1a1a;">somos <span style="color:#b01a1a;">UR</span> + polvo de supernova que se reconoce a sí mismo durante un instante y luego regresa.</strong> El instante puede durar 80 años o 40.000 — como los <span style="color:#b01a1a;">UR</span>-Sapiens de Ekain que pintaron yeguas preñadas en la oscuridad y devolvieron el <span style="color:#b01a1a;">UR</span> al ciclo sin haberlo us-<span style="color:#b01a1a;">UR</span>-pado nunca.</p>
-      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);"><p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">Seamos <span style="color:#b01a1a;">UR</span>, amigos. No metafóricamente — literalmente. El <span style="color:#b01a1a;">UR</span> que somos es el mismo <span style="color:#b01a1a;">UR</span> que fueron las madres del desierto, los constructores de qanats, los pintores de Ekain, los músicos que convirtieron el M-<span style="color:#b01a1a;">UR</span>-mullo en ritmo. Cuando el sistema mundo diga que eres un us-<span style="color:#b01a1a;">UR</span>-ario, recuerda que eres <span style="color:#b01a1a;">UR</span> + polvo de supernova. Y que eso es suficiente.</p></div>
-    </article>
-
     <article id="pub-intro" style="flex:1; background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(1.5rem,4vw,3rem) clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:0; margin-right:0;">
       <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.6rem; display:flex; align-items:center; gap:0.8rem;">INTRODUCCIÓN <span style="flex:1; height:1px; background:rgba(176,26,26,0.3); display:block;"></span></div>
       <h2 style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; font-size:clamp(2rem,5vw,5rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:1rem;"><span style="color:#b01a1a;">UR</span>: COSMOGONÍA PALEOLINGÜÍSTICA Y SU POSTERIOR US-<span style="color:#b01a1a;">UR</span>-PACIÓN SISTÉMICA</h2>
@@ -955,11 +1041,34 @@ window.addEventListener('resize', fitLines);
       <div style="font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#b01a1a; margin-top:2rem; text-align:right; border-top:1px solid rgba(176,26,26,0.2); padding-top:0.8rem;">· Pág. 01 · <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS</div>
     </article>
 
+
+<!-- PUB 01 -->
+
+    <!-- PREFACIO -->
+    <article id="pub-prefacio" style="background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(1.5rem,4vw,3rem) clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:0;">
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.6rem; display:flex; align-items:center; gap:0.8rem;">PREFACIO · <span style="color:#b01a1a;">UR</span>-BOOK <span style="flex:1; height:1px; background:rgba(176,26,26,0.3); display:block;"></span></div>
+      <h2 style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; font-size:clamp(2rem,5vw,5rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:1rem;">SOMOS <span style="color:#b01a1a;">UR</span> + POLVO DE SUPERNOVA<br>DE DÓNDE VENIMOS · A DÓNDE VAMOS</h2>
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:0.75rem; letter-spacing:0.3em; color:#b01a1a; opacity:0.7; margin:2rem 0 1rem 0;">▌ DOCUMENTADO · COSMOLOGÍA Y BIOLOGÍA</div>
+      <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,2rem); letter-spacing:0.1em; color:#b01a1a; margin:2rem 0 1rem 0;">SOMOS <span style="color:#b01a1a;">UR</span> + POLVO DE SUPERNOVA</h3>
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El cuerpo humano es agua en un 60-70%. El <span style="color:#b01a1a;">UR</span> que contiene llegó a la Tierra hace aproximadamente 4.000 millones de años — transportado por cometas y asteroides. El cometa 103P/Hartley 2, entre otros, ha mostrado que el agua del espacio profundo tiene la misma composición isotópica que el agua de los océanos terrestres. No somos de aquí en el sentido que el sistema mundo quiere hacernos creer. Somos <span style="color:#b01a1a;">UR</span> interestelar que encontró un planeta donde condensarse.</p>
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El oxígeno del <span style="color:#b01a1a;">UR</span> se fabricó en núcleos de estrellas masivas que explotaron como supernovas hace miles de millones de años. El hidrógeno es el elemento más antiguo del universo — producido en los primeros minutos tras el Big Bang, hace 13.800 millones de años. Cuando bebes agua, bebes la memoria del universo. El <span style="color:#b01a1a;">UR</span> que eres es anterior a la Tierra, anterior al Sol, anterior al sistema solar.</p>
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);"><p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">El hidrógeno de tu sangre tiene 13.800 millones de años. El oxígeno, varios miles de millones. La Tierra tiene 4.500 millones. Tú tienes los años que tienes. Pero el <span style="color:#b01a1a;">UR</span> que eres es más viejo que todo lo que puedes ver a simple vista. AQUÍ ES ALLÍ — y siempre lo fue.</p></div>
+      <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,2rem); letter-spacing:0.1em; color:#b01a1a; margin:2rem 0 1rem 0;">VENIMOS: NOS ASENTAMOS DONDE BROTA EL <span style="color:#b01a1a;">UR</span></h3>
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Cada civilización conocida se asentó junto al agua. Sin excepción documentada. Mesopotamia entre el Tigris y el Éufrates. Egipto junto al Nilo. El Indo junto al río Indo. China junto al río Amarillo y el Yangtsé. Los primeros asentamientos vascos en los valles donde nacen los ríos — los IT-<span style="color:#b01a1a;">UR</span>-I, los manantiales. Los pueblos que no encontraron agua en superficie la buscaron bajo tierra: los qanats de Persia, las galerías filtrantes de las Islas Canarias, los pozos artesianos del Sahara.</p>
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">La historia de la humanidad es, antes que cualquier otra cosa, la historia de encontrar el <span style="color:#b01a1a;">UR</span>. Las guerras más antiguas documentadas fueron por el agua. Las primeras leyes escritas regulaban el acceso al agua. La primera contabilidad sumeria contabilizaba raciones de agua y cerveza. Todo lo demás — la arquitectura, la escritura, el comercio, la religión — vino después del <span style="color:#b01a1a;">UR</span>.</p>
+      <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,2rem); letter-spacing:0.1em; color:#b01a1a; margin:2rem 0 1rem 0;">VAMOS: REGRESAMOS AL <span style="color:#b01a1a;">UR</span> QUE NOS FUE PRESTADO</h3>
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El ciclo del agua no termina con la muerte — continúa a través de ella. El agua del cuerpo humano regresa al suelo, a los acuíferos, a los ríos, a la atmósfera. El <span style="color:#b01a1a;">UR</span> que bebiste regresa al ciclo. No desaparece — se transforma. Lo que llamamos muerte es la devolución del <span style="color:#b01a1a;">UR</span> prestado. El <span style="color:#b01a1a;">UR</span>-Sapiens no posee el agua que contiene — la custodia durante un periodo de vida consciente y la devuelve a la fertilidad terrestre.</p>
+      <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Esa es la cosmogonía del <span style="color:#b01a1a;">UR</span>-book en una frase: <strong style="color:#1a1a1a;">somos <span style="color:#b01a1a;">UR</span> + polvo de supernova que se reconoce a sí mismo durante un instante y luego regresa.</strong> El instante puede durar 80 años o 40.000 — como los <span style="color:#b01a1a;">UR</span>-Sapiens de Ekain que pintaron yeguas preñadas en la oscuridad y devolvieron el <span style="color:#b01a1a;">UR</span> al ciclo sin haberlo us-<span style="color:#b01a1a;">UR</span>-pado nunca.</p>
+      <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);"><p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">Seamos <span style="color:#b01a1a;">UR</span>, amigos. No metafóricamente — literalmente. El <span style="color:#b01a1a;">UR</span> que somos es el mismo <span style="color:#b01a1a;">UR</span> que fueron las madres del desierto, los constructores de qanats, los pintores de Ekain, los músicos que convirtieron el M-<span style="color:#b01a1a;">UR</span>-mullo en ritmo. Cuando el sistema mundo diga que eres un us-<span style="color:#b01a1a;">UR</span>-ario, recuerda que eres <span style="color:#b01a1a;">UR</span> + polvo de supernova. Y que eso es suficiente.</p></div>
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#b01a1a; margin-top:2rem; text-align:right; border-top:1px solid rgba(176,26,26,0.2); padding-top:0.8rem;">· Prefacio · <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS</div>
+    </article>
+
     </main>
   <!-- SIDEBAR DERECHA — ÍNDICE -->
   <aside id="sidebar" style="width:430px; min-width:430px; background:var(--black); padding:0 0 0 clamp(0.5rem,2vw,1.75rem); display:flex; flex-direction:column;">
     <div style="background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; color:#0a0a0a; padding:1.5rem 1.2rem 2rem 1.2rem; min-height:100%;">
         <div style="font-family:'Bebas Neue',sans-serif; font-size:1.4rem; font-weight:700; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.5rem;">ÍNDICE <span style="color:#b01a1a;">UR</span>-BOOK</div>
+        <a id="btnOrden" onclick="toggleOrden()" href="#" style="display:block; font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.2em; color:#b01a1a; text-decoration:none; margin-bottom:0.5rem; border:1px solid #b01a1a; padding:0.4rem 0.8rem;">⇄ CRONOLÓGICO</a>
         <a href="#pub-intro" style="display:block; font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.2em; color:#b01a1a; text-decoration:none; margin-bottom:0.8rem; border:1px solid #b01a1a; padding:0.4rem 0.8rem;">→ LEER INTRODUCCIÓN</a>
 
         <input id="bur" type="text" placeholder="buscar en el índice..." oninput="burFiltrar(this.value)">
@@ -1281,8 +1390,6 @@ window.addEventListener('resize', fitLines);
           <div class="il" id="ilR">R</div>
           <img src="https://ronnierocket.com/wp-content/uploads/2019/08/41175-original-stranglers-rattus-norvegicus-rat.jpg" alt="The Stranglers · Rattus Norvegicus · 1977" style="width:100%; height:auto; display:block; margin:0.5rem 0 0.3rem 0;">
           <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em; margin-bottom:0.8rem; text-align:center;">· The Stranglers · Rattus Norvegicus · 1977 · La Rata Noruega del Punk · Hermana de las Ratas Vascas de Marte ·</p>
-          <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Stranglers_rattus_norvegicus.jpg" alt="Rattus Norvegicus · The Stranglers · 1977" style="width:100%; height:auto; display:block; margin:0.5rem 0 0.3rem 0;">
-          <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em; margin-bottom:0.8rem; text-align:center;">· Rattus Norvegicus · The Stranglers · 1977 · Fotografía real · La Rata Noruega con el soul del atardecer ·</p>
           <a href="#pub-intro" class="ie">· Roteta · Molino de Agua</a>
           <a href="#pub-intro" class="ie">· Rattus Norvegicus · <span style="color:#b01a1a;">UR</span>-Sapiens Surviviente</a>
           <a href="#pub-intro" class="ie">· Ruta del Estaño · Tartessos → Britania</a>
@@ -1452,6 +1559,9 @@ window.addEventListener('resize', fitLines);
 
 </div><!-- /flex -->
 
+<!-- LÍNEA NEGRA SEPARADORA -->
+<div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
+
 <div style="background:#b01a1a; padding:0.4rem 0; overflow:hidden; white-space:nowrap; width:100%; margin:0;">
   <div style="display:inline-block; animation:marquee 40s linear infinite; font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.3em; color:#f2ede6; will-change:transform;">NAT-UR-ALEZA · UR · B-UR-OCRACIA · US-UR-PACIÓN · K-UR-DISTÁN · UR-UMEA · SISTEMA MUNDO · HÍDRICA · COSMOGONÍA · PALEOLINGÜÍSTICA · SANSINENEA · BRIGADAS INTERESTELARES · EL-UR · UR-LAÑO · E-UR-I · IT-UR-I · UR-A · URARTU · URUGUAY · URUBAMBA · URANO · MERCURIO · ADN · SAPIENS · EXTRATERRESTRE · INTUICIÓN · ETIMOLOGÍA · TOPONIMIA · HUMOR · O-UR-RENSE · NATURA · NATURE · NATURALEZA · COSMOS · TIERRA · AGUA · LUR · SATURNO · NABU · NABIA · TARTESSOS · SUMERIA · METALURGIA · AURORA · ABISMO · T-UR-ISMO · COLUMNA DURRUTI · SHARP · G-UR-Ú · F-UR-OR · UR-DIMBRE · ROTETA · MALERREKA · BAS-UR-A-PIENS · MICROPLÁSTICOS · FREE COSMIC UR · SUN RA · HAWKWIND · DERRIBOS ARIAS · TSUNAMI DE UR · &nbsp;&nbsp;&nbsp; NAT-UR-ALEZA · UR · B-UR-OCRACIA · US-UR-PACIÓN · K-UR-DISTÁN · UR-UMEA · SISTEMA MUNDO · HÍDRICA · COSMOGONÍA · PALEOLINGÜÍSTICA · SANSINENEA · BRIGADAS INTERESTELARES · EL-UR · UR-LAÑO · E-UR-I · IT-UR-I · UR-A · URARTU · URUGUAY · URUBAMBA · URANO · MERCURIO · ADN · SAPIENS · EXTRATERRESTRE · INTUICIÓN · ETIMOLOGÍA · TOPONIMIA · HUMOR · O-UR-RENSE · NATURA · NATURE · NATURALEZA · COSMOS · TIERRA · AGUA · LUR · SATURNO · NABU · NABIA · TARTESSOS · SUMERIA · METALURGIA · AURORA · ABISMO · T-UR-ISMO · COLUMNA DURRUTI · SHARP · G-UR-Ú · F-UR-OR · UR-DIMBRE · ROTETA · MALERREKA · BAS-UR-A-PIENS · MICROPLÁSTICOS · FREE COSMIC UR · SUN RA · HAWKWIND · DERRIBOS ARIAS · TSUNAMI DE UR ·</div>
 </div>
@@ -1489,5 +1599,57 @@ function toggleSidebar() {
 }
 </script>
 
+<script>
+let cronologico = false;
+
+function colocarMarquee() {
+  const feed = document.querySelector('main');
+  const top  = document.getElementById('marquee-movil-sep-top');
+  const mq   = document.getElementById('marquee-movil');
+  const sep  = document.getElementById('marquee-movil-sep');
+  if (!mq || !sep || !top) return;
+
+  if (cronologico) {
+    const intro = document.getElementById('pub-intro');
+    if (intro) {
+      feed.insertBefore(sep, intro);
+      feed.insertBefore(mq, sep);
+      feed.insertBefore(top, mq);
+    }
+  } else {
+    const articles = feed.querySelectorAll('article');
+    if (articles.length > 1) {
+      articles[0].after(top);
+      top.after(mq);
+      mq.after(sep);
+    }
+  }
+}
+
+function toggleOrden() {
+  cronologico = !cronologico;
+  const feed = document.querySelector('main');
+  const btn  = document.getElementById('btnOrden');
+  const articles = Array.from(feed.querySelectorAll('article'));
+  articles.reverse().forEach(a => feed.appendChild(a));
+  // PREFACIO y INTRO — orden fijo según modo
+  const prefacio = document.getElementById('pub-prefacio');
+  const intro    = document.getElementById('pub-intro');
+  if (prefacio && intro) {
+    if (cronologico) {
+      feed.insertBefore(prefacio, intro);
+    } else {
+      feed.insertBefore(intro, prefacio);
+    }
+  }
+  colocarMarquee();
+  btn.textContent = cronologico ? '⇄ DIARIO' : '⇄ CRONOLÓGICO';
+  btn.style.color = '#b01a1a';
+  btn.style.borderColor = '#b01a1a';
+}
+
+// Posición inicial al cargar (modo diario)
+document.addEventListener('DOMContentLoaded', colocarMarquee);
+</script>
 </body>
 </html>
