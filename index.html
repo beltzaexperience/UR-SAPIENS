@@ -59,6 +59,74 @@ body{background:var(--black);color:var(--white);font-family:'Courier Prime',mono
 .ur-intro-3col .ur-texto-cuerpo { color:#1a1a1a; }
 .ur-intro-3col .ur-texto-cuerpo strong { color:#b01a1a; }
 @media(max-width:900px){ .ur-intro-3col { grid-template-columns:1fr; } .ur-col-centro { border:none; padding:0; } }
+
+/* =============================================
+   MÓVIL — max-width: 768px
+   ============================================= */
+@media (max-width: 768px) {
+
+  /* TOPBAND — ocultar links, mostrar solo hamburger */
+  .topband { padding:0.6rem 0.8rem; flex-wrap:nowrap; }
+  .topband-right { display:none; }
+  .topband-left { font-size:0.78rem; letter-spacing:0.1em; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:60vw; }
+
+  /* HAMBURGER — visible solo en móvil */
+  #btn-hamburger { display:flex !important; }
+
+  /* BRAND-SLASH */
+  .brand-slash { padding:0.8rem 1rem; gap:0.6rem; }
+  .b-ur, .b-sapiens { font-size:clamp(2.8rem,12vw,4.5rem); }
+
+  /* WRAPPER — feed a full width, sidebar oculto */
+  #ur-book-wrapper { display:block !important; }
+
+  /* SIDEBAR — drawer desde la derecha */
+  #sidebar {
+    position: fixed !important;
+    top: 0; right: 0; bottom: 0;
+    width: 85vw !important;
+    min-width: 0 !important;
+    max-width: 380px;
+    z-index: 1000;
+    overflow-y: auto;
+    transform: translateX(100%);
+    transition: transform 0.3s cubic-bezier(.4,0,.2,1);
+    box-shadow: -4px 0 24px rgba(0,0,0,0.5);
+    padding: 0 !important;
+  }
+  #sidebar.open {
+    transform: translateX(0);
+  }
+
+  /* OVERLAY */
+  #sidebar-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.65);
+    z-index: 999;
+  }
+  #sidebar-overlay.open { display:block; }
+
+  /* ARTÍCULOS — padding reducido */
+  article { padding:1.4rem 1rem 2rem 1rem !important; }
+  article h2 { font-size:clamp(1.6rem,7vw,2.8rem) !important; }
+  article h3 { font-size:clamp(1rem,4.5vw,1.5rem) !important; }
+  article p  { font-size:1rem !important; line-height:1.8 !important; }
+
+  /* ur-main padding */
+  .ur-main { padding:clamp(1.5rem,5vw,3rem) clamp(1rem,4vw,2rem) !important; }
+
+  /* MARQUEE FOTOS */
+  .mq-inner img { height:44vw !important; }
+
+  /* FOOTER */
+  .footer { flex-direction:column; gap:0.4rem; }
+  .footer-right { align-items:flex-start; }
+}
+
+/* Hamburger — oculto en desktop */
+#btn-hamburger { display:none; }
 .hero-eyebrow{font-family:'Bebas Neue',sans-serif;font-size:clamp(0.68rem,1.1vw,0.82rem);letter-spacing:0.22em;color:var(--muted);}
 .hero-titulo{font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif;font-size:clamp(1.8rem,3.5vw,3rem);letter-spacing:0.03em;line-height:0.95;color:var(--white);margin-bottom:1.5rem;}
 .hero-ecuacion{font-family:'Courier Prime',monospace;font-size:clamp(0.9rem,1.5vw,1.1rem);color:var(--muted);letter-spacing:0.05em;}
@@ -129,6 +197,7 @@ sup.gr { font-size:0.65rem; color:#b01a1a; vertical-align:super; font-family:'Co
     &nbsp;·&nbsp;
     <span style="color:var(--white);">UR-SAPIENS</span>
   </div>
+  <button id="btn-hamburger" onclick="toggleSidebar()" style="background:none; border:1px solid rgba(176,26,26,.6); cursor:pointer; font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.15em; color:#b01a1a; padding:0.3rem 0.7rem;">☰ ÍNDICE</button>
 </div>
 
 <div class="ur-marco">
@@ -197,6 +266,8 @@ window.addEventListener('resize', fitLines);
 <!-- MARQUEE 6 FOTOS -->
 <div style="overflow:hidden; width:100%; border-top:10px solid var(--red); border-bottom:10px solid var(--red); background:var(--black); cursor:pointer;" onclick="this.querySelector('.mq-inner').style.animationPlayState = this.querySelector('.mq-inner').style.animationPlayState === 'paused' ? 'running' : 'paused'">
   <div class="mq-inner" style="display:flex; gap:10px; width:max-content; animation:marquee-fotos 70s linear infinite;">
+    <img src="https://live.staticflickr.com/65535/55236981648_5f42c0dde9_c.jpg" alt="Nervión · Abril 2026" style="height:20vw; width:auto; display:block; flex-shrink:0;">
+    <img src="https://live.staticflickr.com/65535/55235929977_c1b649f444_c.jpg" alt="Nervión · Abril 2026" style="height:20vw; width:auto; display:block; flex-shrink:0;">
     <img src="https://live.staticflickr.com/65535/55180401359_10333f327e_z.jpg" alt="Doneztebe" style="height:20vw; width:auto; display:block; flex-shrink:0;">
     <img src="https://live.staticflickr.com/65535/55179538086_b8c128e828_c.jpg" alt="NATURAL · Os Garabatos" style="height:20vw; width:auto; display:block; flex-shrink:0;">
     <img src="https://live.staticflickr.com/65535/55179803119_539eb9b0d4_z.jpg" alt="UR-SAPIENS" style="height:20vw; width:auto; display:block; flex-shrink:0;">
@@ -246,7 +317,8 @@ window.addEventListener('resize', fitLines);
 <div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
 
 <!-- WRAPPER UR-BOOK — dentro del ur-marco -->
-<div style="display:flex; align-items:stretch;">
+<div id="sidebar-overlay" onclick="closeSidebar()"></div>
+<div id="ur-book-wrapper" style="display:flex; align-items:stretch;">
 
   <!-- FEED — izquierda -->
   <main style="flex:1; min-width:0; display:flex; flex-direction:column;">
@@ -372,9 +444,13 @@ window.addEventListener('resize', fitLines);
       <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Inanna es la deidad femenina más importante de Sumer — anterior a 3000 a.C., documentada desde aproximadamente 3500 a.C. Reina del Cielo y de la Tierra. Su símbolo: la estrella de 8 puntas, representación del planeta Venus. Sus dominios: el amor, la fertilidad, la guerra y la justicia. La dualidad completa del <span style="color:#b01a1a;">UR</span> femenino antes de la T.</p>
       <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Su esposo Dumuzi, el dios pastor, representa la unión del <span style="color:#b01a1a;">UR</span> con la tierra. Cuando Inanna desciende al Inframundo y necesita un sustituto para escapar, es Dumuzi quien paga el precio. El ciclo de la vegetación como mitología hídrica: el <span style="color:#b01a1a;">UR</span> que sacrifica al que la contiene para seguir fluyendo.</p>
       <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);"><p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">La estrella de 8 puntas de Inanna aparece documentada en sellos cilíndricos acadios y asirios, en tablillas de arcilla, en orfebrería mesopotámica. Cuando los fenicios adoptaron su culto como Astarté y lo llevaron al Mediterráneo, llevaron también el símbolo. La estrella viajó por mar.</p></div>
+      <img src="https://www.camas.es/export/sites/camas/.galleries/imagenes-eventos/Fig.-2.2.jpg" alt="Escultura de bronce de Astarté · Inscripción fenicia" style="width:100%; height:auto; display:block; margin:1rem 0 0.4rem 0;">
+      <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em; margin-bottom:1.5rem; text-align:center;">· Escultura de bronce de Astarté y detalle de su inscripción en caracteres fenicios · Astarté es la versión fenicia de Inanna — misma diosa del <span style="color:#b01a1a;">UR</span> femenino, mismo símbolo de estrella de 8 puntas, viajando del Mediterráneo oriental a Tarteso ·</p>
       <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,2rem); letter-spacing:0.1em; color:#b01a1a; margin:2rem 0 1rem 0;">GILGAMESH Y LA DERROTA DEL TORO CELESTE</h3>
       <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">La Epopeya de Gilgamesh (c. 2100 a.C.) es la obra literaria más antigua conocida. Gilgamesh, rey de Uruk, rechaza a Inanna e insulta su historial. Inanna envía al Toro Celeste (Gugalanna) a destruirle. Gilgamesh y Enkidu matan al Toro. Los dioses castigan a Enkidu con la muerte. Gilgamesh, aterrado, busca la inmortalidad y fracasa.</p>
       <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">La primera epopeya de la humanidad no celebra la victoria del patriarcado — documenta su coste. Gilgamesh construyó las murallas de Uruk (la primera T sobre el <span style="color:#b01a1a;">UR</span>) y lo perdió todo: a Enkidu, la inmortalidad, a Inanna. Al final acaricia sus propias murallas. La escri-T-<span style="color:#b01a1a;">UR</span>-A del vencedor es, desde el principio, una elegía.</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/O.1054_color.jpg" alt="Gilgamesh matando al Toro Celeste · Relieve de terracota · c. 2250–1900 a.C." style="width:100%; height:auto; display:block; margin:1rem 0 0.4rem 0;">
+      <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em; margin-bottom:1.5rem; text-align:center;">· Relieve de terracota · Antigua Mesopotamia · c. 2250–1900 a.C. · Gilgamesh matando al T-<span style="color:#b01a1a;">UR</span>-o Celeste · Tablilla VI de la Epopeya de Gilgamesh · Inanna envió al toro — Gilgamesh lo mató — y pagó por ello para siempre ·</p>
       <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);"><p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">Fue Gilgamesh quien construyó las murallas de Uruk. El primer <span style="color:#b01a1a;">UR</span>-be. La T sobre el <span style="color:#b01a1a;">UR</span>. El primer documento literario de la humanidad es la historia de cómo el héroe masculino derrota al símbolo hídrico-femenino y paga por ello para siempre. Ag-<span style="color:#b01a1a;">UR</span> al L-<span style="color:#b01a1a;">UR</span> fértil.</p></div>
       <div style="font-family:'Bebas Neue',sans-serif; font-size:0.75rem; letter-spacing:0.3em; color:#b01a1a; opacity:0.7; margin:2rem 0 1rem 0;">▌ ESPECULACIÓN RAZONADA</div>
       <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,2rem); letter-spacing:0.1em; color:#b01a1a; margin:2rem 0 1rem 0;">DEL CARAMBOLO A DONEZTEBE · LA ESTRELLA VIAJA</h3>
@@ -876,16 +952,12 @@ window.addEventListener('resize', fitLines);
       <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Ahora nuestra sangre es agua + hierro + <strong>plástico</strong>. Microplásticos en la sangre, en la leche materna, en la placenta, en el cerebro. La escri-T-<span style="color:#b01a1a;">UR</span>-A Sumeria tardó 5.000 años en convertir el <span style="color:#b01a1a;">UR</span> libre en propiedad. La industria petroquímica tardó 80 años en inyectarlo en vena. Una T-OR-T-<span style="color:#b01a1a;">UR</span>-A sistémica de dimensiones incomprensibles para el BAS-<span style="color:#b01a1a;">UR</span>-A-Piens. Porque el BAS-<span style="color:#b01a1a;">UR</span>-A-Piens no sabe quién fue.</p>
 
 
-      <div style="display:flex; gap:1.5rem; margin:2rem 0; align-items:flex-start;">
-        <div style="flex:1;">
-          <img src="https://live.staticflickr.com/36/122905566_fbe99c0d8a.jpg" alt="BAS-UR-A · Portada LP · Beltza Label · Ilustración David Navascues" style="width:100%; height:auto; display:block;">
-          <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-top:0.4rem; text-align:center;">· BAS-<span style="color:#b01a1a;">UR</span>-A · Portada LP · Beltza Label · Ilustración: David Navascues · Primer disco publicado por Beltza Label ·</p>
-        </div>
-        <div style="flex:1;">
-          <p style="font-family:'Courier Prime',monospace; font-size:1rem; line-height:1.8; color:#333; font-style:italic;">"Este es nuestro primer paso público en la edición de esta máquina del 0di0. Este es el primer álbum (LP) que Beltza Label va a publicar y esta es la portada que necesitaba. La adaptación de un estilo muy concreto a una temática alejada de sus vivencias es simplemente magistral. La sensación que produce a nivel estético es totalmente comparable a las sensaciones que BAS-<span style="color:#b01a1a;">UR</span>-A sentían a principios de los 80's y que expresaban en sus canciones."<br><br>
-          <strong style="color:#b01a1a;">Ten mucho cuidado. Llegan... BAS-<span style="color:#b01a1a;">UR</span>-A!!!</strong><br>
-          <span style="font-size:0.85rem; color:#888;">— Beltza Label · 100% looser culture)))</span></p>
-        </div>
+      <div style="margin:2rem 0;">
+        <img src="https://live.staticflickr.com/36/122905566_fbe99c0d8a.jpg" alt="BAS-UR-A · Portada LP · Beltza Label · Ilustración David Navascues" style="width:100%; height:auto; display:block;">
+        <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; color:#666; letter-spacing:0.1em; margin-top:0.4rem; text-align:center;">· BAS-<span style="color:#b01a1a;">UR</span>-A · Portada LP · Beltza Label · Ilustración: David Navascues · Primer disco publicado por Beltza Label ·</p>
+        <p style="font-family:'Courier Prime',monospace; font-size:1rem; line-height:1.8; color:#333; font-style:italic; margin-top:1.2rem;">"Este es nuestro primer paso público en la edición de esta máquina del 0di0. Este es el primer álbum (LP) que Beltza Label va a publicar y esta es la portada que necesitaba. La adaptación de un estilo muy concreto a una temática alejada de sus vivencias es simplemente magistral. La sensación que produce a nivel estético es totalmente comparable a las sensaciones que BAS-<span style="color:#b01a1a;">UR</span>-A sentían a principios de los 80's y que expresaban en sus canciones."<br><br>
+        <strong style="color:#b01a1a;">Ten mucho cuidado. Llegan... BAS-<span style="color:#b01a1a;">UR</span>-A!!!</strong><br>
+        <span style="font-size:0.85rem; color:#888;">— Beltza Label · 100% looser culture)))</span></p>
       </div>
       <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
         <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">Come plástico en sartenes de teflón. Esnifa amianto en obras sin protección. Bebe <span style="color:#b01a1a;">UR</span> con cloro, flúor y restos farmacéuticos. Respira dióxido de nitrógeno en las arterias de la <span style="color:#b01a1a;">UR</span>-be. Y lo llaman <em>estilo de vida</em>.</p>
@@ -1050,6 +1122,8 @@ window.addEventListener('resize', fitLines);
       <h2 style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; font-size:clamp(2rem,5vw,5rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:1rem;">SOMOS <span style="color:#b01a1a;">UR</span> + POLVO DE SUPERNOVA<br>DE DÓNDE VENIMOS · A DÓNDE VAMOS</h2>
       <div style="font-family:'Bebas Neue',sans-serif; font-size:0.75rem; letter-spacing:0.3em; color:#b01a1a; opacity:0.7; margin:2rem 0 1rem 0;">▌ DOCUMENTADO · COSMOLOGÍA Y BIOLOGÍA</div>
       <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,2rem); letter-spacing:0.1em; color:#b01a1a; margin:2rem 0 1rem 0;">SOMOS <span style="color:#b01a1a;">UR</span> + POLVO DE SUPERNOVA</h3>
+      <img src="https://astroaventura.net/wp-content/uploads/2025/11/eso2520a-1.jpg" alt="Supernova captada en el instante exacto de su estallido" style="width:100%; height:auto; display:block; margin:1rem 0 0.4rem 0;">
+      <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em; margin-bottom:1.5rem; text-align:center;">· Una supernova observada en el instante exacto de su estallido · La forma inicial de una explosión estelar · El oxígeno de tu sangre nació así · Somos <span style="color:#b01a1a;">UR</span> + polvo de supernova ·</p>
       <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El cuerpo humano es agua en un 60-70%. El <span style="color:#b01a1a;">UR</span> que contiene llegó a la Tierra hace aproximadamente 4.000 millones de años — transportado por cometas y asteroides. El cometa 103P/Hartley 2, entre otros, ha mostrado que el agua del espacio profundo tiene la misma composición isotópica que el agua de los océanos terrestres. No somos de aquí en el sentido que el sistema mundo quiere hacernos creer. Somos <span style="color:#b01a1a;">UR</span> interestelar que encontró un planeta donde condensarse.</p>
       <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El oxígeno del <span style="color:#b01a1a;">UR</span> se fabricó en núcleos de estrellas masivas que explotaron como supernovas hace miles de millones de años. El hidrógeno es el elemento más antiguo del universo — producido en los primeros minutos tras el Big Bang, hace 13.800 millones de años. Cuando bebes agua, bebes la memoria del universo. El <span style="color:#b01a1a;">UR</span> que eres es anterior a la Tierra, anterior al Sol, anterior al sistema solar.</p>
       <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);"><p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:1.8; color:#333; font-style:italic;">El hidrógeno de tu sangre tiene 13.800 millones de años. El oxígeno, varios miles de millones. La Tierra tiene 4.500 millones. Tú tienes los años que tienes. Pero el <span style="color:#b01a1a;">UR</span> que eres es más viejo que todo lo que puedes ver a simple vista. AQUÍ ES ALLÍ — y siempre lo fue.</p></div>
@@ -1066,8 +1140,11 @@ window.addEventListener('resize', fitLines);
     </main>
   <!-- SIDEBAR DERECHA — ÍNDICE -->
   <aside id="sidebar" style="width:430px; min-width:430px; background:var(--black); padding:0 0 0 clamp(0.5rem,2vw,1.75rem); display:flex; flex-direction:column;">
+    <div id="sidebar-close" style="display:none; padding:0.7rem 1rem; text-align:right;">
+      <button onclick="closeSidebar()" style="background:none; border:1px solid rgba(176,26,26,.6); cursor:pointer; font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.15em; color:#b01a1a; padding:0.3rem 0.7rem;">✕ CERRAR</button>
+    </div>
     <div style="background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; color:#0a0a0a; padding:1.5rem 1.2rem 2rem 1.2rem; min-height:100%;">
-        <div style="font-family:'Bebas Neue',sans-serif; font-size:1.4rem; font-weight:700; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.5rem;">ÍNDICE <span style="color:#b01a1a;">UR</span>-BOOK</div>
+        <div style="font-family:'Bebas Neue',sans-serif; font-size:1.4rem; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.5rem;">ÍNDICE <span style="color:#b01a1a;">UR</span>-BOOK</div>
         <a id="btnOrden" onclick="toggleOrden()" href="#" style="display:block; font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.2em; color:#b01a1a; text-decoration:none; margin-bottom:0.5rem; border:1px solid #b01a1a; padding:0.4rem 0.8rem;">⇄ CRONOLÓGICO</a>
         <a href="#pub-intro" style="display:block; font-family:'Bebas Neue',sans-serif; font-size:0.85rem; letter-spacing:0.2em; color:#b01a1a; text-decoration:none; margin-bottom:0.8rem; border:1px solid #b01a1a; padding:0.4rem 0.8rem;">→ LEER INTRODUCCIÓN</a>
 
@@ -1557,7 +1634,7 @@ window.addEventListener('resize', fitLines);
   </aside>
 
 
-</div><!-- /flex -->
+</div><!-- /ur-book-wrapper -->
 
 <!-- LÍNEA NEGRA SEPARADORA -->
 <div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
@@ -1588,15 +1665,44 @@ window.addEventListener('resize', fitLines);
     <a href="https://www.beltzarecords.com/beltzaexperience" target="_blank">beltzarecords.com</a> &nbsp;·&nbsp;
     <a href="https://beltzaexperience.github.io/Manifiesto-Beltza/" target="_blank">MANIFIESTO</a> &nbsp;·&nbsp;
     <a href="https://beltzaexperience.github.io/magic-bus/" target="_blank">MAGIC BUS</a> &nbsp;·&nbsp;
+    <a href="http://dubbeat.beltzarecords.com/" target="_blank">DUB²BEAT</a> &nbsp;·&nbsp;
     <span style="color:#f2ede6;">UR-SAPIENS</span>
   </div></div>
 </footer>
 
 <script>
+function isMobile() { return window.innerWidth <= 768; }
+
 function toggleSidebar() {
-  const s = document.getElementById('sidebar');
-  s.style.display = s.style.display === 'block' ? 'none' : 'block';
+  const sidebar  = document.getElementById('sidebar');
+  const overlay  = document.getElementById('sidebar-overlay');
+  const closeBtn = document.getElementById('sidebar-close');
+  if (isMobile()) {
+    sidebar.classList.toggle('open');
+    overlay.classList.toggle('open');
+    closeBtn.style.display = sidebar.classList.contains('open') ? 'block' : 'none';
+  } else {
+    sidebar.style.display = sidebar.style.display === 'none' ? 'flex' : 'none';
+  }
 }
+
+function closeSidebar() {
+  const sidebar  = document.getElementById('sidebar');
+  const overlay  = document.getElementById('sidebar-overlay');
+  const closeBtn = document.getElementById('sidebar-close');
+  sidebar.classList.remove('open');
+  overlay.classList.remove('open');
+  closeBtn.style.display = 'none';
+}
+
+// Cerrar drawer al pulsar un link del índice en móvil
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('#sidebar a[href^="#"]').forEach(function(a) {
+    a.addEventListener('click', function() {
+      if (isMobile()) closeSidebar();
+    });
+  });
+});
 </script>
 
 <script>
