@@ -65,10 +65,10 @@ body{background:var(--black);color:var(--white);font-family:'Courier Prime',mono
    ============================================= */
 @media (max-width: 768px) {
 
-  /* TOPBAND — ocultar links, mostrar solo hamburger */
-  .topband { padding:0.6rem 0.8rem; flex-wrap:nowrap; }
-  .topband-right { display:none; }
-  .topband-left { font-size:0.78rem; letter-spacing:0.1em; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:60vw; }
+  /* TOPBAND — flex-wrap, links visibles */
+  .topband { padding:0.5rem 0.8rem; flex-wrap:wrap; gap:0.3rem; }
+  .topband-right { flex-wrap:wrap; gap:0.2rem 0.3rem; font-size:0.72rem; }
+  .topband-left { font-size:0.72rem; letter-spacing:0.08em; }
 
   /* HAMBURGER — visible solo en móvil */
   #btn-hamburger { display:flex !important; }
@@ -76,6 +76,10 @@ body{background:var(--black);color:var(--white);font-family:'Courier Prime',mono
   /* BRAND-SLASH */
   .brand-slash { padding:0.8rem 1rem; gap:0.6rem; }
   .b-ur, .b-sapiens { font-size:clamp(2.8rem,12vw,4.5rem); }
+
+  /* PC₁ — logo full width, título oculto */
+  #ur-simbolo-box { width:100% !important; }
+  #ur-titulo { display:none !important; }
 
   /* WRAPPER — feed a full width, sidebar oculto */
   #ur-book-wrapper { display:block !important; }
@@ -87,6 +91,7 @@ body{background:var(--black);color:var(--white);font-family:'Courier Prime',mono
     width: 85vw !important;
     min-width: 0 !important;
     max-width: 380px;
+    background: var(--black) !important;
     z-index: 1000;
     overflow-y: auto;
     transform: translateX(100%);
@@ -94,21 +99,15 @@ body{background:var(--black);color:var(--white);font-family:'Courier Prime',mono
     box-shadow: -4px 0 24px rgba(0,0,0,0.5);
     padding: 0 !important;
   }
-  #sidebar.open {
-    transform: translateX(0);
-  }
+  #sidebar.open { transform: translateX(0); }
+  /* Restaurar padding al div interior del sidebar */
+  #sidebar > div { padding: 0.8rem 1rem 2rem 1rem !important; }
 
   /* OVERLAY */
-  #sidebar-overlay {
-    display: none;
-    position: fixed;
-    inset: 0;
-    background: rgba(0,0,0,0.65);
-    z-index: 999;
-  }
+  #sidebar-overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,0.65); z-index:999; }
   #sidebar-overlay.open { display:block; }
 
-  /* ARTÍCULOS — padding reducido */
+  /* ARTÍCULOS */
   article { padding:1.4rem 1rem 2rem 1rem !important; }
   article h2 { font-size:clamp(1.6rem,7vw,2.8rem) !important; }
   article h3 { font-size:clamp(1rem,4.5vw,1.5rem) !important; }
