@@ -79,19 +79,21 @@
 </div>
 <script>
 function fitLines() {
-  const container = document.getElementById('ur-titulo');
-  if (!container) return;
-  const width = container.clientWidth - 40;
-  const lines = container.querySelectorAll('.fit-line');
-  lines.forEach(line => {
-    let lo = 1, hi = 300, mid;
-    while (lo < hi - 1) {
-      mid = Math.floor((lo + hi) / 2);
-      line.style.fontSize = mid + 'px';
-      if (line.scrollWidth <= width) lo = mid;
-      else hi = mid;
-    }
-    line.style.fontSize = lo + 'px';
+  ['ur-titulo', 'bridge-title'].forEach(id => {
+    const container = document.getElementById(id);
+    if (!container) return;
+    const width = container.clientWidth - 40;
+    const lines = container.querySelectorAll('.fit-line');
+    lines.forEach(line => {
+      let lo = 1, hi = 300, mid;
+      while (lo < hi - 1) {
+        mid = Math.floor((lo + hi) / 2);
+        line.style.fontSize = mid + 'px';
+        if (line.scrollWidth <= width) lo = mid;
+        else hi = mid;
+      }
+      line.style.fontSize = lo + 'px';
+    });
   });
 }
 document.fonts.ready.then(() => setTimeout(fitLines, 100));
@@ -1001,7 +1003,7 @@ window.addEventListener('resize', fitLines);
         <p style="font-family:'Courier Prime',monospace; font-size:0.75rem; color:#666; letter-spacing:0.06em; margin-bottom:0.6rem;">· Ninguna persona es ilegal · todos y todas vinimos de allí buscando un planeta azul aquí · Make the world <span style="color:#b01a1a;">UR</span>-Beltz again for dance together!!! ·</p>
         <a onclick="rayuela('pub-intro')" href="#pub-intro" class="ie">· 0001 · Int-<span style="color:#b01a1a;">ur</span>-oducción · Cosmogonía paleolingüística</a>
         <a onclick="rayuela('pub-intro')" href="#pub-intro" style="display:block; cursor:pointer;"><img src="https://live.staticflickr.com/65535/55282861108_abee5cd4f5_b.jpg" alt="Autorretrato · UR-BELTZA · Pila bautismal medieval · Elizondo" style="width:100%; height:auto; display:block; margin:0.4rem 0 0.3rem 0;" onerror="this.style.display='none'"></a>
-        <p style="font-family:'Courier Prime',monospace; font-size:0.75rem; color:#666; letter-spacing:0.06em; margin-bottom:0.6rem;">· Autorretrato · UR-BELTZA · Aula de cultura de Elizondo · Alegoría Digitalista · Pila bautismal medieval — el UR estancado y sagrado · Yo soy el UR que bendecirá la LUR ·</p>
+        <p style="font-family:'Courier Prime',monospace; font-size:0.75rem; color:#666; letter-spacing:0.06em; margin-bottom:0.6rem;">· Autorretrato · <span style="color:#b01a1a;">UR</span>-BELTZA · Aula de cultura de Elizondo · Alegoría Digitalista · Pila bautismal medieval — el <span style="color:#b01a1a;">UR</span> estancado y sagrado · Yo soy el UR que bendecirá la LUR ·</p>
         <a onclick="rayuela('pub-urabe')" href="#pub-urabe" class="ie">· 0002 · <span style="color:#b01a1a;">UR</span>-BE VS <span style="color:#b01a1a;">UR</span> · La primera us<span style="color:#b01a1a;">UR</span>pación</a>
         <a onclick="rayuela('pub-urabe')" href="#pub-urabe" style="display:block; cursor:pointer;"><img src="https://images.ecestaticos.com/shUMj69Wo0kiT8GeNPAHRGjBVHQ=/4x75:633x429/1440x810/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc98%2Ff2d%2Fd50%2Fc98f2dd50e720d006dae3dffc354d89a.jpg" alt="UR-uk · La primera ciudad" style="width:100%; height:auto; display:block; margin:0.4rem 0 0.3rem 0;" onerror="this.style.display='none'"></a>
         <p style="font-family:'Courier Prime',monospace; font-size:0.75rem; color:#666; letter-spacing:0.06em; margin-bottom:0.6rem;">· <span style="color:#b01a1a;">UR</span>-uk · Iraq · ¿Antes que nada, estaba Uruk? · La primera ciudad · La primera escri-T-<span style="color:#b01a1a;">UR</span>-A contable · La primera sociedad piramidal · Ahora un cartel turístico atestigua la T sobre el <span style="color:#b01a1a;">UR</span> en árabe e inglés ·</p>
@@ -1064,11 +1066,11 @@ window.addEventListener('resize', fitLines);
           <a href="#pub-intro" class="ie">· Atlas del <span style="color:#b01a1a;">UR</span> Oculto · Fonema Transhistórico</a>
 
           <a href="#pub-palimpsesto" class="ie">· A-GUA-DALQUIVIR · Río como Oráculo del Palimpsesto Ibérico</a>
-          <a href="#pub-cosmos" class="ie">· Ag-<span style="color:#b01a1a;">UR</span> · Augurio · La Despedida del Agua</a>
+          <a href="#pub-cosmos" class="ie">· Ag-<span style="color:#b01a1a;">UR</span> · Aug<span style="color:#b01a1a;">ur</span>io · La Despedida del Agua</a>
           <a href="#pub-palimpsesto" class="ie">· Atlántida · Doñana · <span style="color:#b01a1a;">UR</span> Sepultado bajo las Torres de Hércules</a>
 
           <a href="#pub-palimpsesto" class="ie">· A-GUA-DALQUIVIR · Río como Oráculo del Palimpsesto Ibérico</a>
-          <a href="#pub-cosmos" class="ie">· Ag-<span style="color:#b01a1a;">UR</span> · Augurio · La Despedida del Agua · us-<span style="color:#b01a1a;">UR</span>-A del Latín</a>
+          <a href="#pub-cosmos" class="ie">· Ag-<span style="color:#b01a1a;">UR</span> · Aug<span style="color:#b01a1a;">ur</span>io · La Despedida del Agua · us-<span style="color:#b01a1a;">UR</span>-A del Latín</a>
           <a href="#pub-palimpsesto" class="ie">· Atlántida · Doñana · <span style="color:#b01a1a;">UR</span> Sepultado bajo las Torres de Hércules</a>
           <a href="#pub-basura" class="ie">· ABS-<span style="color:#b01a1a;">UR</span>-DO · Alejado del M-<span style="color:#b01a1a;">UR</span>-mullo · Alejado del Sonido Primigenio</a>
           <a href="#pub-digitalismo" class="ie">· AB-<span style="color:#b01a1a;">UR</span>-RIR · El <span style="color:#b01a1a;">UR</span> que se retira · El que pierde el flujo</a>
@@ -1620,7 +1622,7 @@ window.addEventListener('resize', fitLines);
 <!-- TEXTO MONTAÑA DE HUMO — HERO DE LA ESCOMBRERA -->
 <div style="background-image:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDQiPgo8dGV4dCB4PSIyIiB5PSIxMCIgZmlsbD0iIzlhOGE2YSIgb3BhY2l0eT0iMC40NSIgZm9udC1mYW1pbHk9IkNvdXJpZXIgUHJpbWUsIG1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBsZXR0ZXItc3BhY2luZz0iMC41Ij5VUkFndWFsaWJyZW3DoXRyaXrDunRlcm9Qcmltb3JkaWFsTkFUVVJBTEVaQW5hY2lkb2RlbFVSSVRVUkltYW5hbnRpYWxVUmJldXN1cnBhY2nDszwvdGV4dD4KPHRleHQgeD0iMiIgeT0iMjAiIGZpbGw9IiM5YThhNmEiIG9wYWNpdHk9IjAuNDUiIGZvbnQtZmFtaWx5PSJDb3VyaWVyIFByaW1lLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOCIgbGV0dGVyLXNwYWNpbmc9IjAuNSI+bkJBU1VSQXBhbGltcHNlc3RvTEVDVFVSQU5BVFVSQVZFU0lKw4RSVmlKT0tpVFVOVFVSSVNBVFVSTk9VUkFub2ZyZWVVUk5BQlVJbmFubmFOPC90ZXh0Pgo8dGV4dCB4PSIyIiB5PSIzMCIgZmlsbD0iIzlhOGE2YSIgb3BhY2l0eT0iMC40NSIgZm9udC1mYW1pbHk9IkNvdXJpZXIgUHJpbWUsIG1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBsZXR0ZXItc3BhY2luZz0iMC41Ij5pZXR6c2NoZVphcmF0aHVzdHJhTlVUR2ViU2h1UWFuYXRLaGV0dGFyYVRhc3NpbGlTYWhhcmFEZXJzdU1hc3Npc1RFRkzDk05Qcm9hemFSdW48L3RleHQ+Cjx0ZXh0IHg9IjIiIHk9IjQwIiBmaWxsPSIjOWE4YTZhIiBvcGFjaXR5PSIwLjQ1IiBmb250LWZhbWlseT0iQ291cmllciBQcmltZSwgbW9ub3NwYWNlIiBmb250LXNpemU9IjgiIGxldHRlci1zcGFjaW5nPSIwLjUiPmFVckZ1dGhhcmtOZWJ1bG9zYUhpZXJybzYwRVBJQ0FCZXJnc29uUGxhdMOzbkR1csOpZUZ1dFVSaXNtb1J1c3NvbG9Uc3VuYW1pQ29tZXRhPC90ZXh0Pgo8L3N2Zz4='), url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat, repeat-y; background-size:600px auto, 100% auto; padding:clamp(3rem,8vw,7rem) clamp(2rem,8vw,7rem); color:#1a1a1a;">
 
-  <div style="font-family:'Bebas Neue',sans-serif; font-size:0.75rem; letter-spacing:0.3em; color:#b01a1a; margin-bottom:1.5rem;">▌ BAS<span style="color:#b01a1a;">UR</span>A · ESCOMBRERA · FOTOPERIODISMO</div>
+  <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.2em; color:#b01a1a; margin-bottom:1.5rem;">▌ BAS<span style="color:#b01a1a;">UR</span>A · ESCOMBRERA · FOTOPERIODISMO</div>
 
   <h2 style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; font-size:clamp(2.5rem,6vw,6rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:1.5rem;">LA MONTAÑA DE HUMO</h2>
 
@@ -1629,11 +1631,11 @@ window.addEventListener('resize', fitLines);
     <p style="font-family:'Courier Prime',monospace; font-size:1rem; color:#666; margin-top:0.5rem;">— <em>Lágrima</em> · Jaime Gil de Biedma</p>
   </div>
 
-  <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">40 hectáreas resbaladizas en las que más de 2.000 personas escarban día y noche buscando un pedazo redentor de plástico o metal. 600 toneladas de bas-<span style="color:#b01a1a;">ur</span>a, miseria e injusticia engrandecen cada día la montaña. Sus habitantes deambulan entre el humo, los cristales y las ratas — a veces mueren por enfermedades infecciosas, a veces atropellados por camiones, a veces asfixiados, a veces tragados literalmente por la tierra cuando el suelo hirviente se resquebraja y los devora.</p>
+  <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">40 hectáreas resbaladizas en las que más de 2.000 personas escarban día y noche buscando un pedazo redentor de plástico o metal. 600 toneladas de bas<span style="color:#b01a1a;">ur</span>a, miseria e injusticia engrandecen cada día la montaña. Sus habitantes deambulan entre el humo, los cristales y las ratas — a veces mueren por enfermedades infecciosas, a veces atropellados por camiones, a veces asfixiados, a veces tragados literalmente por la tierra cuando el suelo hirviente se resquebraja y los devora.</p>
 
   <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">Un símbolo desolador de la atroz pirámide que habitamos inconscientes. Un lugar donde sobrevivir es clavar un garfio de metal en la impotencia.</p>
 
-  <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El nuevo vertedero se construyó para limpiar la imagen del país — para alejar el drama de la ciudad y vender al turismo una Camboya sin miseria. Vallado, rodeado por un <strong style="color:#b01a1a;">canal de agua</strong>, vigilado por guardias armados. Periodistas y ONGs tienen prohibido el paso. La pobreza no desaparece de un país porque alejes el vertedero de la capital. Cuando vuelvas a Camboya visita Stung Meanchey — en la montaña de humo creció la hierba y ahora es una montaña verde.</p>
+  <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:1.2rem;">El nuevo vertedero se construyó para limpiar la imagen del país — para alejar el drama de la ciudad y vender al t<span style="color:#b01a1a;">ur</span>ismo una Camboya sin miseria. Vallado, rodeado por un <strong style="color:#b01a1a;">canal de agua</strong>, vigilado por guardias armados. Periodistas y ONGs tienen prohibido el paso. La pobreza no desaparece de un país porque alejes el vertedero de la capital. Cuando vuelvas a Camboya visita Stung Meanchey — en la montaña de humo creció la hierba y ahora es una montaña verde.</p>
 
   <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.04);">
     <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.8; color:#333; font-style:italic;">La fotografía no puede cambiar la realidad pero puede mostrarla. Y ese poder implica un deber: mirar y recordar. Ocultar el presente y vivir sin pasado nos aboca, inexorablemente, a un frágil fut<span style="color:#b01a1a;">ur</span>o construido a base de trampas y mentiras.</p>
@@ -1644,24 +1646,49 @@ window.addEventListener('resize', fitLines);
 
 <div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
 
+<!-- RIACHUELO — MARQUEE PALIMPSESTO -->
+<div style="overflow:hidden; white-space:nowrap; background-image:url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat-y; background-size:100% auto; padding:1.2rem 0;">
+  <div style="display:inline-block; animation:marquee-fotos 90s linear infinite; will-change:transform; font-family:'Courier Prime',monospace; font-size:1.05rem; letter-spacing:0.12em; color:#8a7a5a; white-space:nowrap;">
+    &nbsp;&nbsp;&nbsp;BASURApiens · el UR degradado · Stung Meanchey · 600 toneladas · Montaña de Humo · McCullin · la fotografía no puede cambiar la realidad pero puede mostrarla · Make America White Again · Ley de Sedición 1798 · ninguna persona es ilegal · todos vinimos del mismo cometa · Nebulosa Boomerang · 1°C sobre el cero absoluto · hierro-60 · polvo de supernova en el hielo antártico · EPICA · AQUÍ ES ALLÍ · Bergson · la intuición no es misticismo · la materia con pensamiento simbólico · Bienaventurados los de corazón puro · el UR que purifica · cementerio de Biarritz · el agua de los muertos · el agua de los vivos · Ezkurra · Bidasoa · Doneztebe · escri-T-UR-A · doctrina usurpa la intuición · paratexto · el umbral del texto · los escombros que sostienen el edificio · lo que no cabe en el artículo y no puede perderse · caricatura del burgués · La tribune des propriétaires · anglopuritanos están locos · Astérix y Obelix · fut-uro frágil construido a base de trampas y mentiras · BASURApiens · el UR degradado · Stung Meanchey · 600 toneladas · Montaña de Humo · McCullin · la fotografía no puede cambiar la realidad pero puede mostrarla · Make America White Again · Ley de Sedición 1798 · ninguna persona es ilegal · todos vinimos del mismo cometa · Nebulosa Boomerang · 1°C sobre el cero absoluto · hierro-60 · polvo de supernova en el hielo antártico · EPICA · AQUÍ ES ALLÍ · Bergson · la intuición no es misticismo · la materia con pensamiento simbólico · Bienaventurados los de corazón puro · el UR que purifica · cementerio de Biarritz · el agua de los muertos · el agua de los vivos · Ezkurra · Bidasoa · Doneztebe · escri-T-UR-A · doctrina usurpa la intuición · paratexto · el umbral del texto · los escombros que sostienen el edificio · lo que no cabe en el artículo y no puede perderse · caricatura del burgués · La tribune des propriétaires · anglopuritanos están locos · Astérix y Obelix · futuro frágil construido a base de trampas y mentiras &nbsp;&nbsp;&nbsp;
+  </div>
+</div>
+
+<!-- PUENTE MÁS ALLÁ DEL TEXTO — ESCOMBRERA SISTÉMICA -->
+<div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
+<div style="background-image:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDQiPgo8dGV4dCB4PSIyIiB5PSIxMCIgZmlsbD0iIzlhOGE2YSIgb3BhY2l0eT0iMC40NSIgZm9udC1mYW1pbHk9IkNvdXJpZXIgUHJpbWUsIG1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBsZXR0ZXItc3BhY2luZz0iMC41Ij5VUkFndWFsaWJyZW3DoXRyaXrDunRlcm9Qcmltb3JkaWFsTkFUVVJBTEVaQW5hY2lkb2RlbFVSSVRVUkltYW5hbnRpYWxVUmJldXN1cnBhY2nDszwvdGV4dD4KPHRleHQgeD0iMiIgeT0iMjAiIGZpbGw9IiM5YThhNmEiIG9wYWNpdHk9IjAuNDUiIGZvbnQtZmFtaWx5PSJDb3VyaWVyIFByaW1lLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOCIgbGV0dGVyLXNwYWNpbmc9IjAuNSI+bkJBU1VSQXBhbGltcHNlc3RvTEVDVFVSQU5BVFVSQVZFU0lKw4RSVmlKT0tpVFVOVFVSSVNBVFVSTk9VUkFub2ZyZWVVUk5BQlVJbmFubmFOPC90ZXh0Pgo8dGV4dCB4PSIyIiB5PSIzMCIgZmlsbD0iIzlhOGE2YSIgb3BhY2l0eT0iMC40NSIgZm9udC1mYW1pbHk9IkNvdXJpZXIgUHJpbWUsIG1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBsZXR0ZXItc3BhY2luZz0iMC41Ij5pZXR6c2NoZVphcmF0aHVzdHJhTlVUR2ViU2h1UWFuYXRLaGV0dGFyYVRhc3NpbGlTYWhhcmFEZXJzdU1hc3Npc1RFRkzDk05Qcm9hemFSdW48L3RleHQ+Cjx0ZXh0IHg9IjIiIHk9IjQwIiBmaWxsPSIjOWE4YTZhIiBvcGFjaXR5PSIwLjQ1IiBmb250LWZhbWlseT0iQ291cmllciBQcmltZSwgbW9ub3NwYWNlIiBmb250LXNpemU9IjgiIGxldHRlci1zcGFjaW5nPSIwLjUiPmFVckZ1dGhhcmtOZWJ1bG9zYUhpZXJybzYwRVBJQ0FCZXJnc29uUGxhdMOzbkR1csOpZUZ1dFVSaXNtb1J1c3NvbG9Uc3VuYW1pQ29tZXRhPC90ZXh0Pgo8L3N2Zz4='), url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat, repeat-y; background-size:600px auto, 100% auto; padding:clamp(3rem,8vw,7rem) clamp(2rem,8vw,7rem); color:#1a1a1a;">
+
+  <div style="display:flex; align-items:stretch; gap:0; margin-bottom:1.5rem;">
+    <div style="flex-shrink:0; width:clamp(170px,23vw,330px);">
+      <a href="https://www.flickr.com/photos/beltzascene2/55173125591" target="_blank">
+        <img src="https://live.staticflickr.com/65535/55173125591_3066404ecb_o.png" alt="UR-SAPIENS · Símbolo" style="width:100%; height:auto; display:block;">
+      </a>
+    </div>
+    <div id="bridge-title" style="flex:1; border-left:3px solid #b01a1a; border-right:3px solid #b01a1a; padding:0 clamp(1rem,2vw,2rem); display:flex; flex-direction:column; justify-content:space-between; overflow:hidden;">
+      <p class="fit-line" style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; letter-spacing:0.02em; color:#1a1a1a; line-height:1; white-space:nowrap;">MÁS ALLÁ DEL <span style="color:#b01a1a;">TEXTO</span></p>
+      <div style="flex:1;"></div>
+      <p style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1rem,2vw,1.5rem); letter-spacing:0.25em; color:#1a1a1a; line-height:1; text-align:center; padding:0.3rem 0;"><span style="color:#b01a1a;">ᚢ</span> · <span style="color:#b01a1a;">ᚦ</span></p>
+      <div style="flex:1;"></div>
+      <p class="fit-line" style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; letter-spacing:0.02em; color:#1a1a1a; line-height:1; white-space:nowrap;"><span style="color:#b01a1a;">ESCOMBRERA</span> SISTÉMICA</p>
+    </div>
+  </div>
+
+  <p style="font-family:'Courier Prime',monospace; font-size:1.15rem; line-height:2.05; color:#333; margin-bottom:2rem;">El paratexto — el umbral del texto — la zona de nadie entre el artículo y el archivo. Los escombros que sostienen el edificio: todo lo que el sistema descarta como ruido y el <span style="color:#b01a1a;">UR</span>-Sapiens reconoce como señal. Lo que no cabe en el artículo y no puede perderse: la intuición antes del arreglo, el dato que contradice la tesis, la emoción que desborda el método. La escombrera sistémica no es el bas<span style="color:#b01a1a;">ur</span>ero del texto — es su cimiento. <span style="font-family:'Bebas Neue',sans-serif; letter-spacing:0.15em;"><span style="color:#b01a1a;">UR</span> <span style="color:#1a1a1a;">ETA</span> <span style="color:#b01a1a;">RU</span></span></p>
+
+</div>
+<div style="height:clamp(0.5rem,2vw,1.75rem); background:var(--black);"></div>
+
 <div id="escombrera-wrapper" style="display:flex; align-items:stretch;">
   <main id="escombrera-main" style="flex:1; min-width:0; overflow:hidden;">
     <!-- MÁS ALLÁ DEL TEXTO — paratexto -->
-    <article id="mas-alla-del-texto" style="background-image:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDQiPgo8dGV4dCB4PSIyIiB5PSIxMCIgZmlsbD0iIzlhOGE2YSIgb3BhY2l0eT0iMC40NSIgZm9udC1mYW1pbHk9IkNvdXJpZXIgUHJpbWUsIG1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBsZXR0ZXItc3BhY2luZz0iMC41Ij5VUkFndWFsaWJyZW3DoXRyaXrDunRlcm9Qcmltb3JkaWFsTkFUVVJBTEVaQW5hY2lkb2RlbFVSSVRVUkltYW5hbnRpYWxVUmJldXN1cnBhY2nDszwvdGV4dD4KPHRleHQgeD0iMiIgeT0iMjAiIGZpbGw9IiM5YThhNmEiIG9wYWNpdHk9IjAuNDUiIGZvbnQtZmFtaWx5PSJDb3VyaWVyIFByaW1lLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOCIgbGV0dGVyLXNwYWNpbmc9IjAuNSI+bkJBU1VSQXBhbGltcHNlc3RvTEVDVFVSQU5BVFVSQVZFU0lKw4RSVmlKT0tpVFVOVFVSSVNBVFVSTk9VUkFub2ZyZWVVUk5BQlVJbmFubmFOPC90ZXh0Pgo8dGV4dCB4PSIyIiB5PSIzMCIgZmlsbD0iIzlhOGE2YSIgb3BhY2l0eT0iMC40NSIgZm9udC1mYW1pbHk9IkNvdXJpZXIgUHJpbWUsIG1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBsZXR0ZXItc3BhY2luZz0iMC41Ij5pZXR6c2NoZVphcmF0aHVzdHJhTlVUR2ViU2h1UWFuYXRLaGV0dGFyYVRhc3NpbGlTYWhhcmFEZXJzdU1hc3Npc1RFRkzDk05Qcm9hemFSdW48L3RleHQ+Cjx0ZXh0IHg9IjIiIHk9IjQwIiBmaWxsPSIjOWE4YTZhIiBvcGFjaXR5PSIwLjQ1IiBmb250LWZhbWlseT0iQ291cmllciBQcmltZSwgbW9ub3NwYWNlIiBmb250LXNpemU9IjgiIGxldHRlci1zcGFjaW5nPSIwLjUiPmFVckZ1dGhhcmtOZWJ1bG9zYUhpZXJybzYwRVBJQ0FCZXJnc29uUGxhdMOzbkR1csOpZUZ1dFVSaXNtb1J1c3NvbG9Uc3VuYW1pQ29tZXRhPC90ZXh0Pgo8L3N2Zz4='), url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat, repeat-y; background-size:600px auto, 100% auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(1.5rem,4vw,3rem) clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:0; border-top:2px solid #b01a1a;">
+    <article id="mas-alla-del-texto" style="background-image:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDQiPgo8dGV4dCB4PSIyIiB5PSIxMCIgZmlsbD0iIzlhOGE2YSIgb3BhY2l0eT0iMC40NSIgZm9udC1mYW1pbHk9IkNvdXJpZXIgUHJpbWUsIG1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBsZXR0ZXItc3BhY2luZz0iMC41Ij5VUkFndWFsaWJyZW3DoXRyaXrDunRlcm9Qcmltb3JkaWFsTkFUVVJBTEVaQW5hY2lkb2RlbFVSSVRVUkltYW5hbnRpYWxVUmJldXN1cnBhY2nDszwvdGV4dD4KPHRleHQgeD0iMiIgeT0iMjAiIGZpbGw9IiM5YThhNmEiIG9wYWNpdHk9IjAuNDUiIGZvbnQtZmFtaWx5PSJDb3VyaWVyIFByaW1lLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOCIgbGV0dGVyLXNwYWNpbmc9IjAuNSI+bkJBU1VSQXBhbGltcHNlc3RvTEVDVFVSQU5BVFVSQVZFU0lKw4RSVmlKT0tpVFVOVFVSSVNBVFVSTk9VUkFub2ZyZWVVUk5BQlVJbmFubmFOPC90ZXh0Pgo8dGV4dCB4PSIyIiB5PSIzMCIgZmlsbD0iIzlhOGE2YSIgb3BhY2l0eT0iMC40NSIgZm9udC1mYW1pbHk9IkNvdXJpZXIgUHJpbWUsIG1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBsZXR0ZXItc3BhY2luZz0iMC41Ij5pZXR6c2NoZVphcmF0aHVzdHJhTlVUR2ViU2h1UWFuYXRLaGV0dGFyYVRhc3NpbGlTYWhhcmFEZXJzdU1hc3Npc1RFRkzDk05Qcm9hemFSdW48L3RleHQ+Cjx0ZXh0IHg9IjIiIHk9IjQwIiBmaWxsPSIjOWE4YTZhIiBvcGFjaXR5PSIwLjQ1IiBmb250LWZhbWlseT0iQ291cmllciBQcmltZSwgbW9ub3NwYWNlIiBmb250LXNpemU9IjgiIGxldHRlci1zcGFjaW5nPSIwLjUiPmFVckZ1dGhhcmtOZWJ1bG9zYUhpZXJybzYwRVBJQ0FCZXJnc29uUGxhdMOzbkR1csOpZUZ1dFVSaXNtb1J1c3NvbG9Uc3VuYW1pQ29tZXRhPC90ZXh0Pgo8L3N2Zz4='), url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat, repeat-y; background-size:600px auto, 100% auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(1.5rem,4vw,3rem) clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:0; border-top:none;">
 
-      <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.6rem; display:flex; align-items:center; gap:0.8rem;">PARATEXTO <span style="flex:1; height:1px; background:rgba(176,26,26,0.3); display:block;"></span></div>
+      <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1rem,2vw,1.5rem); letter-spacing:0.15em; color:#b01a1a; margin:2rem 0 1rem 0;">▌ SOBRE LAS CONTRADICCIONES</h3>
 
-      <h2 style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; font-size:clamp(2rem,5vw,4rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:2rem;">MÁS ALLÁ DEL TEXTO</h2>
-
-      <p style="font-family:'Courier Prime',monospace; font-size:0.85rem; letter-spacing:0.15em; color:#b01a1a; margin-bottom:2rem; font-style:italic;">El umbral del texto · Los escombros que sostienen el edificio · Lo que no cabe en el artículo y no puede perderse</p>
-
-      <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1rem,2vw,1.5rem); letter-spacing:0.15em; color:#b01a1a; margin:2rem 0 1rem 0;">SOBRE LAS CONTRADICCIONES</h3>
-
-      <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333; margin-bottom:1.2rem;">La intuición es una teología sin doctrina. La doctrina us<span style="color:#b01a1a;">UR</span>pa la intuición para convertirla en poder. El pensamiento simbólico nace cuando la vida se reconoce a sí misma y agradece su propia existencia. Por eso decir "gracias la vida" es afirmar una pertenencia compartida: somos consciencia del cosmos, pero también sus hijos y sus símbolos.</p>
+      <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333; margin-bottom:1.2rem;">La intuición es una teología sin doctrina. La doctrina us<span style="color:#b01a1a;">ur</span>pa la intuición para convertirla en poder. El pensamiento simbólico nace cuando la vida se reconoce a sí misma y agradece su propia existencia. Por eso decir "gracias la vida" es afirmar una pertenencia compartida: somos consciencia del cosmos, pero también sus hijos y sus símbolos.</p>
 
       <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333; margin-bottom:1.2rem;">Las páginas de este libro nacen hablando en voz alta con la intuición, y luego se corrigen en diálogo con distintas voces. Esa contradicción no es un fallo del proyecto: forma parte de él. Trabajar con inteligencias artificiales y otras fuentes también es parte de la escritura. El libro critica al sistema, pero no finge pureza. Está lleno de tensiones, y esas tensiones llenan los vacíos que la sabiduría no sabe llenar sola.</p>
 
-      <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333; margin-bottom:1.2rem;">Es una escritura de estudio de grabación: una idea entra como intuición, vuelve como arreglo, y termina quedándose como estribillo.</p>
+      <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333; margin-bottom:1.2rem;">Es una escri-T-<span style="color:#b01a1a;">UR</span>-A de estudio de grabación: una idea entra como intuición, vuelve como arreglo, y termina quedándose como estribillo.</p>
 
       <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:2rem 0; background:rgba(176,26,26,0.08);">
         <p style="font-family:'Courier Prime',monospace; font-size:1rem; line-height:1.8; color:#333; font-style:italic;">— el ingeniero universal<br>— Beltza</p>
@@ -1674,9 +1701,7 @@ window.addEventListener('resize', fitLines);
     <!-- EL MÁS AQUÍ — primer escombro del paratexto -->
     <article id="el-mas-aqui" style="background-image:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDQiPgo8dGV4dCB4PSIyIiB5PSIxMCIgZmlsbD0iIzlhOGE2YSIgb3BhY2l0eT0iMC40NSIgZm9udC1mYW1pbHk9IkNvdXJpZXIgUHJpbWUsIG1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBsZXR0ZXItc3BhY2luZz0iMC41Ij5VUkFndWFsaWJyZW3DoXRyaXrDunRlcm9Qcmltb3JkaWFsTkFUVVJBTEVaQW5hY2lkb2RlbFVSSVRVUkltYW5hbnRpYWxVUmJldXN1cnBhY2nDszwvdGV4dD4KPHRleHQgeD0iMiIgeT0iMjAiIGZpbGw9IiM5YThhNmEiIG9wYWNpdHk9IjAuNDUiIGZvbnQtZmFtaWx5PSJDb3VyaWVyIFByaW1lLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOCIgbGV0dGVyLXNwYWNpbmc9IjAuNSI+bkJBU1VSQXBhbGltcHNlc3RvTEVDVFVSQU5BVFVSQVZFU0lKw4RSVmlKT0tpVFVOVFVSSVNBVFVSTk9VUkFub2ZyZWVVUk5BQlVJbmFubmFOPC90ZXh0Pgo8dGV4dCB4PSIyIiB5PSIzMCIgZmlsbD0iIzlhOGE2YSIgb3BhY2l0eT0iMC40NSIgZm9udC1mYW1pbHk9IkNvdXJpZXIgUHJpbWUsIG1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBsZXR0ZXItc3BhY2luZz0iMC41Ij5pZXR6c2NoZVphcmF0aHVzdHJhTlVUR2ViU2h1UWFuYXRLaGV0dGFyYVRhc3NpbGlTYWhhcmFEZXJzdU1hc3Npc1RFRkzDk05Qcm9hemFSdW48L3RleHQ+Cjx0ZXh0IHg9IjIiIHk9IjQwIiBmaWxsPSIjOWE4YTZhIiBvcGFjaXR5PSIwLjQ1IiBmb250LWZhbWlseT0iQ291cmllciBQcmltZSwgbW9ub3NwYWNlIiBmb250LXNpemU9IjgiIGxldHRlci1zcGFjaW5nPSIwLjUiPmFVckZ1dGhhcmtOZWJ1bG9zYUhpZXJybzYwRVBJQ0FCZXJnc29uUGxhdMOzbkR1csOpZUZ1dFVSaXNtb1J1c3NvbG9Uc3VuYW1pQ29tZXRhPC90ZXh0Pgo8L3N2Zz4='), url('https://live.staticflickr.com/65535/55167948157_ee65a87707_o.jpg'); background-repeat:repeat, repeat-y; background-size:600px auto, 100% auto; color:#1a1a1a; padding:clamp(2rem,5vw,4rem) clamp(1.5rem,4vw,3rem) clamp(2rem,5vw,4rem) clamp(2rem,8vw,7rem); margin-bottom:0; border-top:1px solid rgba(176,26,26,0.3);">
 
-      <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.35em; color:#b01a1a; margin-bottom:0.6rem; display:flex; align-items:center; gap:0.8rem;">MÁS ALLÁ DEL TEXTO <span style="flex:1; height:1px; background:rgba(176,26,26,0.3); display:block;"></span></div>
-
-      <h2 style="font-family:'Bebas Neue',Impact,'Arial Narrow',sans-serif; font-size:clamp(2rem,5vw,4rem); line-height:0.9; letter-spacing:0.02em; color:#1a1a1a; margin-bottom:2rem;">EL MÁS AQUÍ<br><span style="font-size:0.5em; letter-spacing:0.2em; color:#b01a1a;">TEOLOGÍA DE LA INTUICIÓN</span></h2>
+      <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1rem,2vw,1.5rem); letter-spacing:0.15em; color:#b01a1a; margin:2rem 0 1rem 0;">▌ EL MÁS AQUÍ · TEOLOGÍA DE LA INTUICIÓN</h3>
 
       <a href="https://live.staticflickr.com/65535/55280395804_b227f3821f_b.jpg" target="_blank">
         <img src="https://live.staticflickr.com/65535/55280395804_b227f3821f_b.jpg" alt="La intuición · Yunierki Rojas Pichi · Maranatha · Remedios · Cuba" style="width:75%; height:auto; display:block; margin:0 auto 0.5rem auto;">
@@ -1702,7 +1727,7 @@ window.addEventListener('resize', fitLines);
 
       <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333; margin-bottom:1.2rem;">El filósofo francés postulaba que el intelecto es p<span style="color:#b01a1a;">ur</span>amente instrumental y pragmático: sirve para sobrevivir y actuar sobre la materia, pero al hacerlo "fotografía" o "paraliza" la realidad, despojándola de su dinamismo. El intelecto no ve el <span style="color:#b01a1a;">UR</span> — ve el canal.</p>
 
-      <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333; margin-bottom:1.2rem;"><strong style="color:#333;">La D<span style="color:#b01a1a;">ur</span>ación (<em>Durée</em>):</strong> la verdadera realidad es el tiempo vivido — un fluir continuo e indivisible donde el pasado se funde con el presente y fluye hacia el fut<span style="color:#b01a1a;">ur</span>o, en constante creación. La d<span style="color:#b01a1a;">ur</span>ación no se mide: se vive. Como el <span style="color:#b01a1a;">UR</span>.</p>
+      <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333; margin-bottom:1.2rem;"><strong style="color:#333;">La D<span style="color:#b01a1a;">ur</span>ación (<em>D<span style="color:#b01a1a;">ur</span>ée</em>):</strong> la verdadera realidad es el tiempo vivido — un fluir continuo e indivisible donde el pasado se funde con el presente y fluye hacia el fut<span style="color:#b01a1a;">ur</span>o, en constante creación. La d<span style="color:#b01a1a;">ur</span>ación no se mide: se vive. Como el <span style="color:#b01a1a;">UR</span>.</p>
 
       <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333; margin-bottom:1.2rem;"><strong style="color:#333;">La intuición:</strong> frente al análisis conceptual, Bergson propone la intuición como un esfuerzo intelectual de simpatía — la capacidad de "ponerse dentro" del objeto mismo para captar su esencia dinámica desde adentro. No rodear el <span style="color:#b01a1a;">UR</span>: entrar en él.</p>
 
@@ -1717,12 +1742,14 @@ window.addEventListener('resize', fitLines);
       <a href="https://live.staticflickr.com/65535/55279258807_2a0c022987_b.jpg" target="_blank">
         <img src="https://live.staticflickr.com/65535/55279258807_2a0c022987_b.jpg" alt="Ángel · IN MEMORIAM · Beati mundo corde · Foto Luis Beltza" style="width:100%; height:auto; display:block; margin:2rem 0 0.5rem 0;">
       </a>
-      <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em; margin-bottom:2rem; text-align:center;">· IN MEMORIAM · <em>Beati mundo corde quoniam ipsi Deum videbunt</em> · Bienaventurados los de corazón p<span style="color:#b01a1a;">ur</span>o, porque ellos verán el <span style="color:#b01a1a;">UR</span> · Foto: Luis Beltza ·</p>
+      <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em; margin-bottom:2rem; text-align:center;">· IN MEMORIAM · <em>Beati mundo corde quoniam ipsi Deum videbunt</em> · Bienavent<span style="color:#b01a1a;">ur</span>ados los de corazón p<span style="color:#b01a1a;">ur</span>o, porque ellos verán el <span style="color:#b01a1a;">UR</span> · Foto: Luis Beltza ·</p>
 
             <p style="font-family:'Courier Prime',monospace; font-size:0.82rem; color:#666; letter-spacing:0.08em; margin-top:2rem; border-top:1px solid rgba(176,26,26,0.15); padding-top:0.8rem;">Pichi ha transitado desde su vida bohemia de joven de ciudad a la de profesional consagrado a la producción estética y hombre de fe. La ciudad de Remedios — que cimenta en Zaida del Río y Carlos Enríquez sus horcones fundamentales — es la raíz formal de su trabajo. De ese legado bebe en cuanto al trazo pleno de transparencias propio de la vanguardia de inicios del siglo XX en Cuba. <em>Maranatha</em>: del arameo al griego. Significa "El Señor viene".</p>
 
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:0.75rem; letter-spacing:0.3em; color:#b01a1a; opacity:0.6; margin-top:3rem; text-align:right;">· Más allá del texto · EL MÁS AQUÍ · TEOLOGÍA DE LA INTUICIÓN · Pág. -02 · <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS</div>
+
       <div style="margin:3rem 0 1rem 0; border-top:1px solid rgba(176,26,26,0.2); padding-top:2rem;">
-        <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.2em; color:#b01a1a; margin-bottom:1rem;">▌ UR-VÍDEO · <span style="color:#1a1a1a;">FUT</span><span style="color:#b01a1a;">UR</span><span style="color:#1a1a1a;">ISMO SÓNICO</span> · <span style="color:#1a1a1a;">PARTIT</span><span style="color:#b01a1a;">UR</span><span style="color:#1a1a1a;">A CONCRETA</span></div>
+        <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1rem,2vw,1.5rem); letter-spacing:0.15em; color:#b01a1a; margin:2rem 0 1rem 0;">▌ <span style="color:#b01a1a;">UR</span>-VÍDEO · <span style="color:#1a1a1a;">FUT</span><span style="color:#b01a1a;">UR</span><span style="color:#1a1a1a;">ISMO SÓNICO</span> · <span style="color:#1a1a1a;">PARTIT</span><span style="color:#b01a1a;">UR</span><span style="color:#1a1a1a;">A CONCRETA</span></h3>
         <div style="max-width:380px; margin:1rem auto;">
           <video controls playsinline style="width:100%; height:auto; display:block;">
             <source src="ur-video-cementerio-biarritz.mp4" type="video/mp4">
@@ -1731,15 +1758,17 @@ window.addEventListener('resize', fitLines);
         <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em; margin-top:0.5rem; text-align:center;">· <span style="color:#b01a1a;">UR</span>-vídeo · partit<span style="color:#b01a1a;">ur</span>a concreta · Luis Beltza · Beltza Records ·</p>
       </div>
 
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:0.75rem; letter-spacing:0.3em; color:#b01a1a; opacity:0.6; margin-top:3rem; text-align:right;">· Más allá del texto · ▌ UR-VÍDEO · Pág. -03 · <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS</div>
+
       <div style="margin:3rem 0 1rem 0; border-top:1px solid rgba(176,26,26,0.2); padding-top:2rem;">
-        <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.2em; color:#b01a1a; margin-bottom:1rem;">▌ UR-DELTA · ESCOMBRERA POLÍTICA</div>
+        <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1rem,2vw,1.5rem); letter-spacing:0.15em; color:#b01a1a; margin:2rem 0 1rem 0;">▌ <span style="color:#b01a1a;">UR</span>-DELTA · ESCOMBRERA POLÍTICA</h3>
         <img src="https://latinta.com.ar/wp-content/uploads/2017/02/estados-unidos-xenofobia-migrantes.jpg" alt="Make America White Again · xenofobia · 2015" style="width:100%; height:auto; display:block; margin:0 0 0.5rem 0;" onerror="this.style.display='none'">
         <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em; margin-bottom:1.5rem; text-align:center;">· Make America White Again · 2015 · La Ley de Sedición de 1798 lleva 227 años esperando su momento · Todos vinimos del mismo cometa ·</p>
 
-        <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333; margin-bottom:1.2rem;">La Ley de Sedición y Extranjería fue aprobada por John Adams, el segundo presidente de los Estados Unidos, en 1798. Aumentó los requisitos de residencia para obtener la ciudadanía de cinco a catorce años. Prohibió que las personas de naciones consideradas "enemigas" se convirtieran en ciudadanos. Los inmigrantes estaban sujetos a la deportación si eran considerados "peligrosos para la paz y la seguridad de los Estados Unidos".</p>
+        <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333; margin-bottom:1.2rem;">La Ley de Sedición y Extranjería fue aprobada por John Adams, el segundo presidente de los Estados Unidos, en 1798. Aumentó los requisitos de residencia para obtener la ciudadanía de cinco a catorce años. Prohibió que las personas de naciones consideradas "enemigas" se convirtieran en ciudadanos. Los inmigrantes estaban sujetos a la deportación si eran considerados "peligrosos para la paz y la seg<span style="color:#b01a1a;">ur</span>idad de los Estados Unidos".</p>
 
         <div style="border-left:3px solid #b01a1a; padding:1rem 1.5rem; margin:1.5rem 0; background:rgba(176,26,26,0.08);">
-          <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.8; color:#333; font-style:italic;">Estos anglopurita<span style="color:#b01a1a;">ur</span>nos están locos.<br>— Astérix y Obelix · nunca pasan de moda</p>
+          <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.8; color:#333; font-style:italic;">Estos anglop<span style="color:#b01a1a;">ur</span>itanos están locos.<br>— Astérix y Obelix · nunca pasan de moda</p>
         </div>
 
         <p style="font-family:'Courier Prime',monospace; font-size:1.05rem; line-height:1.9; color:#333; margin-bottom:1.2rem;">El cometa que trajo el <span style="color:#b01a1a;">UR</span> hace 4.000 millones de años no pasó por ningún control de aduanas. Ninguna persona es ilegal. Make the world <span style="color:#b01a1a;">UR</span>-Beltz again for dance together!!!</p>
@@ -1748,15 +1777,19 @@ window.addEventListener('resize', fitLines);
 
         <div style="margin-top:2rem; border-top:1px solid rgba(176,26,26,0.15); padding-top:1.5rem;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sem_la_tribune_des_proprietaires.jpg/500px-Sem_la_tribune_des_proprietaires.jpg" alt="La tribune des proprietaires · Georges Goursat (Sem) · 1910" style="width:100%; height:auto; display:block; margin:0 0 0.5rem 0;" onerror="this.style.display='none'">
-          <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em;">· <em>La tribune des propriétaires</em> · Georges G<span style="color:#b01a1a;">ur</span>sat (Sem) · 1910 · W.C. Vanderbilt · Edmond Blanc · Ma<span style="color:#b01a1a;">ur</span>ice de Rothschild · Los mismos cambistas de Massys con sombrero de copa · El b-<span style="color:#b01a1a;">UR</span>-gués sistémico hecho caricatura · Wikipedia ·</p>
+          <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em;">· <em>La tribune des propriétaires</em> · Georges Go<span style="color:#b01a1a;">ur</span>sat (Sem) · 1910 · W.C. Vanderbilt · Edmond Blanc · Ma<span style="color:#b01a1a;">ur</span>ice de Rothschild · Los mismos cambistas de Massys con sombrero de copa · El b-<span style="color:#b01a1a;">UR</span>-gués sistémico hecho caricát<span style="color:#b01a1a;">ur</span>a · Wikipedia ·</p>
         </div>
       </div>
 
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:0.75rem; letter-spacing:0.3em; color:#b01a1a; opacity:0.6; margin-top:3rem; text-align:right;">· Más allá del texto · ▌ UR-DELTA · ESCOMBRERA POLÍTICA · Pág. -04 · <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS</div>
+
       <div style="margin:3rem 0 1rem 0; border-top:1px solid rgba(176,26,26,0.2); padding-top:2rem;">
-        <div style="font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:0.2em; color:#b01a1a; margin-bottom:1rem;">▌ UR-DELTA · ESCOMBRERA CÓSMICA</div>
+        <h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1rem,2vw,1.5rem); letter-spacing:0.15em; color:#b01a1a; margin:2rem 0 1rem 0;">▌ <span style="color:#b01a1a;">UR</span>-DELTA · ESCOMBRERA CÓSMICA</h3>
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Boomerang_nebula.jpg" alt="Nebulosa Boomerang · el objeto más frío del universo" style="width:100%; height:auto; display:block; margin:0 0 0.5rem 0;" onerror="this.style.display='none'">
         <p style="font-family:'Courier Prime',monospace; font-size:0.8rem; color:#666; letter-spacing:0.08em; margin-bottom:1.5rem; text-align:center;">· Nebulosa Boomerang · Constelación de Centa<span style="color:#b01a1a;">ur</span>o · 5.000 años luz · El objeto más frío del universo · 1°C sobre el cero absoluto · Más frío que el fondo del Big Bang · El <span style="color:#b01a1a;">UR</span> congelado en el extremo del cosmos · NASA/ESA Hubble · 1998 ·</p>
       </div>
+
+      <div style="font-family:'Bebas Neue',sans-serif; font-size:0.75rem; letter-spacing:0.3em; color:#b01a1a; opacity:0.6; margin-top:3rem; text-align:right;">· Más allá del texto · ▌ UR-DELTA · ESCOMBRERA CÓSMICA · Pág. -05 · <span style="color:#b01a1a;">UR</span> + E=mc² = SAPIENS</div>
 
     </article>
   </main>
@@ -1768,36 +1801,36 @@ window.addEventListener('resize', fitLines);
         <video controls playsinline style="width:100%; height:auto; display:block;">
           <source src="ur-muertos.mp4" type="video/mp4">
         </video>
-        <p style="font-family:'Courier Prime',monospace; font-size:0.72rem; color:#666; letter-spacing:0.08em; margin-top:0.3rem; text-align:center;">· El <span style="color:#b01a1a;">UR</span> de los muertos · el <span style="color:#b01a1a;">UR</span> que p-<span style="color:#b01a1a;">ur</span>ifica la escombrera · Cementerio de Biarritz ·</p>
+        <p style="font-family:'Courier Prime',monospace; font-size:0.72rem; color:#666; letter-spacing:0.08em; margin-top:0.3rem; text-align:center;">· El <span style="color:#b01a1a;">UR</span> de los muertos · el <span style="color:#b01a1a;">UR</span> que p<span style="color:#b01a1a;">ur</span>ifica la escombrera · Cementerio de Biarritz ·</p>
       </div>
 
       <div style="max-width:380px; margin:0 auto 1rem auto;">
         <video controls playsinline style="width:100%; height:auto; display:block;">
           <source src="ur-vivos.mp4" type="video/mp4">
         </video>
-        <p style="font-family:'Courier Prime',monospace; font-size:0.72rem; color:#666; letter-spacing:0.08em; margin-top:0.3rem; text-align:center;">· El <span style="color:#b01a1a;">UR</span> de los vivos · Ezkurra fluyendo hacia el Bidasoa · Doneztebe ·</p>
+        <p style="font-family:'Courier Prime',monospace; font-size:0.72rem; color:#666; letter-spacing:0.08em; margin-top:0.3rem; text-align:center;">· El <span style="color:#b01a1a;">UR</span> de los vivos · Ezk<span style="color:#b01a1a;">ur</span>ra fluyendo hacia el Bidasoa · Doneztebe ·</p>
       </div>
 
       <nav>
 <div class="il">· A ·</div>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· Ag-<span style="color:#b01a1a;">UR</span> · Augurio · la despedida del agua</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· Ag-<span style="color:#b01a1a;">UR</span> · Aug<span style="color:#b01a1a;">ur</span>io · la despedida del agua</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Ángel · IN MEMORIAM · Beati mundo corde · Biarritz</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Also Sprach Zarathustra · Deodato · Kubrick</a>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· Astérix y Obelix · Estos anglopurita<span style="color:#b01a1a;">ur</span>nos están locos</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· Astérix y Obelix · Estos anglop<span style="color:#b01a1a;">ur</span>itanos están locos</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Acuífero fósil · Ogallala · Guaraní</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· AQUÍ ES ALLÍ · Hierro-60 · polvo de supernova</a>
 <div class="il">· B ·</div>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· BAS<span style="color:#b01a1a;">UR</span>A · el UR degradado · residuo final</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· BAS<span style="color:#b01a1a;">UR</span>A · el <span style="color:#b01a1a;">UR</span> degradado · residuo final</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Bergson · Henri · intuición como instinto espiritual</a>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· Bienaventurados los de corazón p<span style="color:#b01a1a;">ur</span>o · Mateo 5:8</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· Bienavent<span style="color:#b01a1a;">ur</span>ados los de corazón p<span style="color:#b01a1a;">ur</span>o · Mateo 5:8</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Boomerang · Nebulosa · el objeto más frío del universo</a>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· Bautismal · Pila · UR estancado y sagrado · Elizondo</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· Bautismal · Pila · <span style="color:#b01a1a;">UR</span> estancado y sagrado · Elizondo</a>
 <div class="il">· C ·</div>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Camboya · Stung Meanchey · Phnom Penh</a>
 <a href="#mas-alla-del-texto" onclick="return false;" class="ie">· Contradicciones · el método Beltza</a>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· Corazón puro · los que verán el UR</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· Corazón p<span style="color:#b01a1a;">ur</span>o · los que verán el <span style="color:#b01a1a;">UR</span></a>
 <div class="il">· D ·</div>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· Durée · La duración · Bergson · tiempo vivido</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· D<span style="color:#b01a1a;">ur</span>ée · La d<span style="color:#b01a1a;">ur</span>ación · Bergson · tiempo vivido</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Deodato · Eumir · jazz-funk brasileño</a>
 <div class="il">· E ·</div>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Eckhart · Maestro · unión con el <span style="color:#b01a1a;">UR</span> · intuición pura</a>
@@ -1805,30 +1838,30 @@ window.addEventListener('resize', fitLines);
 <a href="#mas-alla-del-texto" onclick="return false;" class="ie">· Escombrera · el umbral del texto</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Escombrera Política · <span style="color:#b01a1a;">UR</span>-Delta</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Escombrera Cósmica · Nebulosa Boomerang</a>
-<a href="#mas-alla-del-texto" onclick="return false;" class="ie">· Estudio de grabación · intuición como método de escritura</a>
+<a href="#mas-alla-del-texto" onclick="return false;" class="ie">· Estudio de grabación · intuición como método de escri-T-<span style="color:#b01a1a;">UR</span>-A</a>
 <div class="il">· F ·</div>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Fe intuitiva · certeza innata · sin necesidad de pasar por caja</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Fotoperiodismo · Jesús G. Pastor · Camboya</a>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· Fut-<span style="color:#b01a1a;">UR</span>-o frágil · construido a base de trampas y mentiras</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· Fut<span style="color:#b01a1a;">ur</span>o frágil · construido a base de trampas y mentiras</a>
 <div class="il">· G ·</div>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Gil de Biedma · Jaime · Lágrima · llantos inaudibles</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Garfio de metal · sobrevivir en el vertedero</a>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· Goursat · Georges (Sem) · La tribune des propriétaires · 1910</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· Go<span style="color:#b01a1a;">ur</span>sat · Georges (Sem) · La tribune des propriétaires · 1910</a>
 <div class="il">· H ·</div>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Hierro-60 · ⁶⁰Fe · polvo de supernova en el hielo antártico</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Hielo antártico · registro de vuelo de la Tierra</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Homo heidelbergensis · húmero femenino · Lezetxiki</a>
 <div class="il">· I ·</div>
-<a href="#mas-alla-del-texto" onclick="return false;" class="ie">· IA · inteligencia artificial · herramienta de escritura</a>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· Iluminación interior · Agustín · el UR en el alma</a>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· Instinto espiritual · Bergson · intuición elevada</a>
+<a href="#mas-alla-del-texto" onclick="return false;" class="ie">· IA · inteligencia artificial · herramienta de escri-T-<span style="color:#b01a1a;">UR</span>-A</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· Iluminación interior · Agustín · el <span style="color:#b01a1a;">UR</span> en el alma</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· Instinto espirit<span style="color:#b01a1a;">ur</span>al · Bergson · intuición elevada</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Intuición · no es misticismo · la materia con pensamiento simbólico</a>
 <div class="il">· J ·</div>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Juan de la Cruz · San · contemplación amorosa</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Jesús G. Pastor · fotoperiodismo · Montaña de Humo</a>
 <div class="il">· K ·</div>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Koll · Dominik · Helmholtz Dresden-Rossendorf · hierro-60</a>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· Karst · Lezetxiki · UR que disuelve la caliza</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· Karst · Lezetxiki · <span style="color:#b01a1a;">UR</span> que disuelve la caliza</a>
 <div class="il">· L ·</div>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Ley de Sedición 1798 · John Adams · xenofobia institucional</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Lezetxiki · Arrasate · Gipuzkoa · TAV · acuífero</a>
@@ -1842,7 +1875,7 @@ window.addEventListener('resize', fitLines);
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Materia con pensamiento simbólico · La</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· McCullin · Don · la fotografía muestra la realidad</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Montaña de Humo · Stung Meanchey · 2.000 personas</a>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· Monte de Humo · 600 toneladas de basura diarias</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· Monte de Humo · 600 toneladas de bas<span style="color:#b01a1a;">ur</span>as diarias</a>
 <div class="il">· N ·</div>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Ninguna persona es ilegal · todos vinimos del mismo cometa</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Nube Interestelar Local · hierro-60 · 80.000 años</a>
@@ -1856,7 +1889,7 @@ window.addEventListener('resize', fitLines);
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Platón · el alma recuerda · intuición como memoria</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Propriétaires · La tribune des · Sem · 1910</a>
 <div class="il">· R ·</div>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· Rothschild · Maurice de · La tribune des propriétaires</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· Rothschild · Ma<span style="color:#b01a1a;">ur</span>ice de · La tribune des propriétaires</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Rojas · Yunierki (Pichi) · Maranatha · Remedios · Cuba</a>
 <div class="il">· S ·</div>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Sedición · Ley de · 1798 · John Adams</a>
@@ -1872,12 +1905,12 @@ window.addEventListener('resize', fitLines);
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· <span style="color:#b01a1a;">UR</span>-A · autorretrato · pila bautismal · Elizondo</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· <span style="color:#b01a1a;">UR</span>-BELTZA · alegoría digitalista</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· <span style="color:#b01a1a;">UR</span>-Delta · escombrera política</a>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· UR estancado y sagrado · pila bautismal medieval</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· <span style="color:#b01a1a;">UR</span> estancado y sagrado · pila bautismal medieval</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· <span style="color:#b01a1a;">UR</span>-vídeo · partit<span style="color:#b01a1a;">ur</span>a concreta · cementerio Biarritz</a>
 <div class="il">· V ·</div>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Vanderbilt · W.C. · La tribune des propriétaires</a>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Vertedero · Camboya · Dangkao · el engaño del traslado</a>
-<a href="#el-mas-aqui" onclick="return false;" class="ie">· Video · <span style="color:#b01a1a;">UR</span> · cementerio de Biarritz · partitura concreta</a>
+<a href="#el-mas-aqui" onclick="return false;" class="ie">· Video · <span style="color:#b01a1a;">UR</span> · cementerio de Biarritz · partit<span style="color:#b01a1a;">ur</span>a concreta</a>
 <div class="il">· X ·</div>
 <a href="#el-mas-aqui" onclick="return false;" class="ie">· Xenofobia · Ley de Sedición 1798 · antiinmigrante</a>
 <div class="il">· Y ·</div>
