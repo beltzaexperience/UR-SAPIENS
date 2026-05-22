@@ -273,7 +273,36 @@ Este ciclo es la columna del libro. No todo tiene que nombrarlo explícitamente,
 
 ---
 
-## REGISTRO DE DECISIONES
+## UR-VÍDEOS — MÉTODO CORRECTO (sin Flickr, sin Vimeo)
+
+Flickr no expone vídeos en su CDN como hace con las fotos. El `data-flickr-embed` enlaza a `flickr.com` — no válido (cuenta privada/censurada desde 2005). Vimeo funciona pero requiere pasos extra.
+
+**Solución: `<video>` HTML5 nativo con mp4 convertido**
+
+El flujo es el mismo que con las fotos pero con un paso de conversión:
+
+1. Convertir el archivo original (`.mov`, `.mp4`) a mp4 comprimido:
+```bash
+ffmpeg -i original.mov -vcodec libx264 -crf 28 -preset slow -acodec aac -b:a 128k -movflags +faststart -vf "scale=-2:720" ur-video.mp4
+```
+Resultado típico: 53MB `.mov` → 1,1MB `.mp4`
+
+2. Subir el `.mp4` al repositorio de GitHub junto al `index.html`
+
+3. Insertar en el HTML:
+```html
+<div style="max-width:380px; margin:1rem auto;">
+  <video controls playsinline style="width:100%; height:auto; display:block;">
+    <source src="[nombre-archivo].mp4" type="video/mp4">
+  </video>
+</div>
+```
+
+**Tamaño oficial UR-vídeos verticales**: `max-width:380px; margin:1rem auto` — mismo que el vídeo de As Burgas en Vimeo.
+
+**Sin dependencias externas. Sin Flickr. Sin Vimeo. Funciona en local y en GitHub Pages.**
+
+**Registrado**: Mayo 2026 · primer UR-vídeo en paratexto *El Más Aquí* · `ur-video.mp4`
 
 | Fecha | Decisión |
 |---|---|
@@ -294,3 +323,44 @@ Este ciclo es la columna del libro. No todo tiene que nombrarlo explícitamente,
 
 *Gora UR · Ag-UR · Beti UR*
 *UR + E = mc² = SAPIENS*
+
+---
+
+## NORMAS PARATEXTO — CORRECCIONES DEFINITIVAS (Mayo 2026)
+
+### UR en rojo — norma absolutista
+- **TODA** palabra que contenga el fonema UR debe marcarlo en rojo: `<span style="color:#b01a1a;">ur</span>` o `<span style="color:#b01a1a;">UR</span>`
+- **Sin guiones** antes ni después del span: `basura` → `bas<span>UR</span>a`, NO `bas-UR-a`
+- **Excepción**: palabras donde el UR no es fonema real (pureza, sabiduría, escritura cuando ya está marcada como escri-T-UR-A) — dejar sin marcar
+- **En títulos rojos**: si la palabra contiene UR, la palabra completa pasa a negro y solo el UR va en rojo
+
+### Títulos en negro (no rojo)
+- `MÁS ALLÁ DEL TEXTO` → negro `#1a1a1a`
+- `EL MÁS AQUÍ` → negro `#1a1a1a`
+- En h3 rojos: palabras con UR pasan a negro con UR en rojo. Ej: `DURACIÓN` → `D<span style="color:#b01a1a;">UR</span>ACIÓN` (negro), `INTUICIÓN` sin forzar
+
+### Tamaños
+- Labels `▌ BAS-UR-A · ESCOMBRERA...` → `font-size:1.1rem` (doble del actual 0.75rem)
+- Misma escala para `▌ UR-DELTA · ESCOMBRERA POLÍTICA` y `▌ UR-DELTA · ESCOMBRERA CÓSMICA`
+- Pie de cita `— Lágrima · Gil de Biedma` y `— Don McCullin...` → `font-size:1rem`
+
+### Quitar guiones de palabras UR
+`p-uramente` → `p<span>ur</span>amente` · `p-uro` → `p<span>ur</span>o` · `d-uración` → `d<span>ur</span>ación` · `fut-uro` → `fut<span>ur</span>o` · `bas-ura` → `bas<span>UR</span>a` · `t-urismo` → `t<span>ur</span>ismo` · `us-UR-pa` → `us<span style="color:#b01a1a;">UR</span>pa`
+
+### Palabras sin UR en rojo (dejar naturales)
+`pureza` · `sabiduría` · `escritura` (excepto cuando es escri-T-UR-A) · `estudio` · `construcción permanente`
+
+### Paginación del paratexto
+`· En construcción permanente ·` → `· Pág. -01 · UR + E=mc² = SAPIENS`
+
+### canal de agua
+En el texto de la Montaña de Humo: `canal de agua` → `canal de <span style="color:#b01a1a;">UR</span>a` NO. → marcar en rojo como concepto: `<strong style="color:#b01a1a;">canal de agua</strong>`
+
+### UR-VÍDEO label
+`FUT-UR-ISMO` → `FUT<span style="color:#b01a1a;">UR</span>ISMO` (FUTURISMO en negro) · `PARTITURA` → `PARTIT<span style="color:#b01a1a;">UR</span>A` (en negro)
+
+### Rothschild
+`Rothschild` → `Roth<span style="color:#b01a1a;">ur</span>...` — NO, no tiene UR. Lo que falta es marcar el texto que lo rodea. Revisar contexto.
+
+### Centauro
+`Centauro` → `Cent<span style="color:#b01a1a;">aur</span>o` — el AUR lleva UR: `Cent<span style="color:#b01a1a;">aur</span>o`
