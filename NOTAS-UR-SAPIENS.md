@@ -3,15 +3,23 @@
 
 ---
 
+## QUIÉN ERES
+
+**Luis Gonzaga Roteta** — Beltza Records & Experience, Donostia / Doneztebe, Nafarroa.
+Fundador de Beltza Records en 1990. Tienda de discos, ultramarinos (Parroquia 13), brocante y rituales culturales.
+Mutilación lingüística propia: euskera y gallego bajo el tardofranquismo.
+Nacido en la Parte Vieja de Donostia. Bautizado en San Vicente → **Koskero**.
+Hijo del UR del molino Roteta (= "molino" en euskera). Tu biografía personal forma parte del libro porque el UR-book también es una biografía hídrica.
+
+---
+
 ## IDENTIDAD DEL PROYECTO
 
 **UR-SAPIENS** es una obra editorial digital: cosmogonía paleolingüística, diccionario insurgente, archivo cultural y biografía hídrica. Rigurosa y descabellada a partes iguales.
 
-**Qué es**: Un qanat — canal subterráneo con pozos de acceso a distintas profundidades. Un vinilo — cara A y cara B, el surco como canal sónico. Una ceremonia: el agua que se reconoce a sí misma.
+**Qué es**: Un qanat — canal subterráneo con pozos de acceso a distintas profundidades. Un vinilo — cara A y cara B, el surco como canal sónico. Una ceremonia: el agua que se reconoce a sí misma. Una biografía hídrica: del molino Roteta a UR-lañó.
 
-**Qué no es**: Tesis doctoral · manifiesto monolingüe · texto sagrado · mitificación del euskera como lengua pura · texto con rencor.
-
-**Autor**: Luis Gonzaga Roteta · Koskero · Parte Vieja de Donostia · Beltza Records & Experience desde 1990 · Bautizado en San Vicente · Hijo del UR del molino Roteta (= molino en euskera).
+**Qué no es**: Tesis doctoral · manifiesto monolingüe · texto sagrado · mitificación del euskera como lengua pura · texto con rencor · obra que se comporta como el sistema que critica.
 
 **URL**: `https://beltzaexperience.github.io/UR-SAPIENS/`
 
@@ -21,12 +29,12 @@
 
 El fonema **UR** (agua en euskera) es un sustrato paleolingüístico preindoeuropeo conservado de forma dispersa y global. Fue **us-UR-pado** sistemáticamente por los sistemas mundo sucesivos — Sumerio → Grecorromano → Moderno → Digitalista — que lo redujeron a sufijo abstracto (-ura) mientras controlaban el agua como recurso.
 
-La tesis no es que el mundo "hable vasco", sino que el agua, como realidad material y simbólica, dejó huellas fonéticas y culturales que el sistema ha domesticado.
+La tesis no es que el mundo "hable vasco", sino que el agua, como realidad material y simbólica, dejó huellas fonéticas y culturales que el sistema ha intentado domesticar. El euskera no es "puro": es **resistente** por geografía, marginalidad y persistencia.
 
 ### Ecuación madre
 ```
 UR + E = mc² = SAPIENS
-Agua + energía cósmica = conciencia
+Agua + energía cósmica = conciencia. No metáfora. Física.
 ```
 
 ---
@@ -55,8 +63,9 @@ Playfair      → pullquotes, paginaciones
 
 ## ARCHIVOS
 
-- `index.html` — CSS inlinado · para local y GitHub Pages
-- `style.css` — CSS separado · alternativa GitHub Pages
+- `index.html` — para GitHub Pages (producción)
+- `index-local.html` — para trabajo local y correcciones
+- `style.css` — CSS separado · `/* PREVIEW LOCAL */` al principio: borrar al subir a GitHub
 
 ---
 
@@ -81,6 +90,13 @@ UR-BOOK wrapper
 Separador negro
 Marquee rojo FIJO (pie)
 Separador negro
+MÁS ALLÁ DEL TEXTO — intro bloque escombrera
+Escombrera wrapper
+  ├── Feed (main#escombrera-main) — artículos escombrera
+  └── Aside (#escombrera-aside) — índice + buscador escombrera
+Separador negro
+Marquee rojo FIJO (pie escombrera)
+Separador negro
 Foto Oteiza Arantzazu
 Brand-slash footer
 Footer
@@ -91,27 +107,28 @@ Footer
 ## ⚠️ LOS MARQUEES — NORMA
 
 ### Marquee de texto superior (fijo)
-- Vive entre la foto Nervión y el bloque PC₁.
+- Entre la foto Nervión y el bloque PC₁.
 - **No tiene id de control JS. No se mueve. Nunca.**
 - Fondo rojo · texto crema · `font-size:0.85rem` · `animation: marquee 80s linear infinite`
 
 ### `id="marquee-movil"` (móvil dentro del feed)
-- Se recoloca automáticamente con `colocarMarquee()`.
+- Se recoloca con `colocarMarquee()`.
 - **Modo diario**: después del primer artículo (`pub-qanats`).
 - **Modo cronológico**: entre `pub-prefacio` y `pub-intro`.
-- Lleva sus separadores propios: `id="marquee-movil-sep-top"` y `id="marquee-movil-sep"`.
+- Lleva sus separadores: `id="marquee-movil-sep-top"` y `id="marquee-movil-sep"`.
 - Fondo rojo · `animation: marquee 40s linear infinite`
 
 ### Marquee de texto inferior (fijo)
-- Vive después del cierre de `#ur-book-wrapper`.
-- **No se mueve. Nunca.**
-- Mismo texto y estilo que el superior.
+- Después del cierre de `#ur-book-wrapper`. **No se mueve. Nunca.**
+
+### Marquee pie escombrera (fijo)
+- Después del cierre de `#escombrera-wrapper`. **No se mueve. Nunca.**
 
 ---
 
-## ARTÍCULOS PUBLICADOS (14 páginas)
+## ARTÍCULOS PUBLICADOS — UR-BOOK (14 páginas)
 
-Orden en el DOM (arriba = más reciente):
+Orden en el DOM (arriba = más reciente, modo DIARIO):
 
 | id | Página | Título |
 |---|---|---|
@@ -131,48 +148,117 @@ Orden en el DOM (arriba = más reciente):
 | pub-intro | 1 | Introducción · Cosmogonía Paleolingüística |
 | pub-prefacio | — | Prefacio · Somos UR + Polvo de Supernova |
 
-**Paginación de cada artículo**: `· Pág. XX · UR + E=mc² = SAPIENS` · alineada a la derecha · Bebas Neue · color rojo.
+**Paginación**: `· Pág. XX · UR + E=mc² = SAPIENS` · derecha · Bebas Neue · rojo.
+
+---
+
+## ARTÍCULOS PUBLICADOS — ESCOMBRERA (6 páginas en negativo)
+
+La escombrera es el espejo RU del UR-book. Vive debajo, separada, con su propio wrapper, aside y JS. Orden en el DOM (modo DIARIO — más reciente primero):
+
+| id | Página | Título |
+|---|---|---|
+| esc-05 | Pág. -05 | UR · RU · El Espejo del Futhark · ᛟ Ōþala |
+| esc-04 | Pág. -04 | UR-Delta · Escombrera Política |
+| esc-03 | Pág. -03 | UR-Delta · Escombrera Cósmica |
+| esc-02 | Pág. -02 | UR-Vídeo · Futurismo Sónico · Partitura Concreta |
+| esc-01 | Pág. -01 · Introducción | El Más Aquí · Teología de la Intuición |
+| esc-prefacio | Prefacio | Sobre las Contradicciones |
+
+**Paginación**: `· Más allá del texto · Pág. -XX · UR + E=mc² = SAPIENS` · derecha · Bebas Neue · rojo · `opacity:0.6`.
+**Excepción prefacio**: `· Más allá del texto · Prefacio · UR + E=mc² = SAPIENS`
 
 ---
 
 ## ORDEN DE LECTURA Y JS
 
-### Modo DIARIO (defecto — más reciente primero)
-`pub-qanats` (14) → ... → `pub-intro` (1) → `pub-prefacio`
+### UR-BOOK
 
-### Modo CRONOLÓGICO
-`pub-prefacio` → `pub-intro` (1) → ... → `pub-qanats` (14)
+**Modo DIARIO** (defecto): `pub-qanats` (14) → ... → `pub-prefacio`
+**Modo CRONOLÓGICO**: `pub-prefacio` → ... → `pub-qanats` (14)
 
-**`toggleOrden()`** — invierte el orden de los `<article>`, reordena prefacio/intro y llama a `colocarMarquee()`.
+- `toggleOrden()` — alterna modos, llama a `colocarMarquee()`
+- `aplicarOrden(orden)` — reordena artículos en `<main>`
+- `colocarMarquee()` — reposiciona `#marquee-movil` según modo
+- `rayuela(id)` — lleva artículo al frente
+- `rayuelaAzar()` — baraja aleatoriamente (Fisher-Yates)
+- `burFiltrar(q)` — filtra índice del sidebar en tiempo real
+- `urBuscar(q)` — busca texto en `main article` (mín. 3 caracteres)
+- `fitLines()` — fit-to-width en PC₁ · ejecuta en `fonts.ready` y `resize`
+- `toggleSidebar()` / `closeSidebar()` — drawer móvil
 
-**`colocarMarquee()`** — reposiciona `#marquee-movil` y sus separadores según el modo activo.
+### ESCOMBRERA
 
-**`burFiltrar()`** — filtro en tiempo real del índice del sidebar.
+**Modo DIARIO** (defecto): `esc-05` → `esc-04` → `esc-03` → `esc-02` → `esc-01` → `esc-prefacio`
+**Modo CRONOLÓGICO**: `esc-prefacio` → `esc-01` → `esc-02` → `esc-03` → `esc-04` → `esc-05`
 
-**`fitLines()`** — ajusta el font-size de los títulos fit-to-width en PC₁ al contenedor disponible. Se ejecuta en `document.fonts.ready` y en `resize`.
-
-**`toggleSidebar()` / `closeSidebar()`** — drawer móvil desde la derecha.
+- `toggleEscombrera()` — alterna modos, botón `#btnOrdenEsc`
+- `aplicarOrdenEsc(orden)` — reordena artículos en `#escombrera-main`
+- `escRayuela(id)` — lleva artículo al frente
+- `escRayuelaAzar()` — baraja aleatoriamente
+- `burFiltrarEsc(q)` — filtra índice `#escNav` en tiempo real
+- `escBuscar(q)` — busca texto en `#escombrera-main article` (mín. 3 caracteres)
 
 ---
 
-## SIDEBAR — ÍNDICE
+## SIDEBAR UR-BOOK — ÍNDICE
 
-- Desktop: ancho fijo `430px`, fondo negro, textura papel
-- Móvil: drawer fijo desde la derecha (`transform: translateX(100%)` → `.open`)
+- Desktop: `430px` fijo, fondo negro, textura papel
+- Móvil: drawer desde la derecha (`transform: translateX(100%)` → `.open`)
 - Overlay `#sidebar-overlay` cierra al tocar fuera
-- Al pulsar un link del índice en móvil → cierra automáticamente
+- Al pulsar link en móvil → cierra automáticamente
 
-**Contenido del sidebar**: Título · botón ⇄ · botón → INTRODUCCIÓN · buscador `#bur` · índice alfabético `.il` + `.ie` + `.ie-dada` (arte-facto dadaísta) + imágenes intermedias.
+**Contenido**: Título · buscador `#bur-input` · `#ur-resultados` · botón `⇄ CRONOLÓGICO` · botón `◈ AZAR` · `PÁGINAS DEL UR-BOOK` · índice alfabético `.il` + `.ie` + `.ie-dada` + imágenes.
+
+## ASIDE ESCOMBRERA — ÍNDICE
+
+- Desktop: `430px` fijo, textura papel
+- **No tiene drawer móvil propio** — hereda el comportamiento del layout
+
+**Contenido**: `ÍNDICE · ESCOMBRERA` · buscador `#esc-input` · `#esc-resultados` · botón `⇄ CRONOLÓGICO` (`#btnOrdenEsc`) · botón `◈ AZAR · ESCOMBRERA` · `PÁGINAS DE LA ESCOMBRERA` · índice alfabético `#escNav` · vídeos UR de los muertos y UR de los vivos.
 
 ---
 
 ## NORMA UR EN ROJO
 
-Cada fonema "ur" visible en el texto: `<span style="color:#b01a1a;">ur</span>` (o `UR` en mayúsculas).
-
+Cada fonema "ur" visible en el texto: `<span style="color:#b01a1a;">ur</span>` (o `UR`).
 La palabra circundante mantiene su color de contexto.
+**En cabeceras con UR**: añadir `white-space:nowrap` al fragmento para evitar saltos.
 
-**En `.block-tag` / cabeceras con UR**: añadir `white-space:nowrap` al fragmento para evitar saltos.
+### Regla absolutista — fonética pura
+**Si la secuencia U+R aparece consecutiva en cualquier palabra, se marca en rojo. Sin excepciones etimológicas.**
+- `natural` → nat<span>ur</span>al ✓ · `durante` → d<span>ur</span>ante ✓ · `seguridad` → seg<span>ur</span>idad ✓
+- `caricatura` → caricát<span>ur</span>a ✓ · `turismo` → t<span>ur</span>ismo ✓ · `futuro` → fut<span>ur</span>o ✓
+- `puritano` → p<span>ur</span>itano ✓ · `destrucción` → destrucción ✗ (no hay UR: d-e-s-t-r-u-c-c-i-ó-n)
+- Sin guiones: nunca `bas-UR-a`, siempre `bas<span>UR</span>a`
+- En títulos rojos: la palabra completa pasa a negro, solo el UR va en rojo
+
+### Erratas frecuentes — palabras SIN UR que se escriben mal con UR
+Estas palabras NO contienen U+R consecutivas y nunca llevan span rojo:
+- `cuernos` (c-u-e-r-n-o-s · la u y la r no son consecutivas)
+- `Futhark` (F-u-t-h-a-r-k · no hay ur) → errata frecuente: `Furthark`
+- `destrucción` (d-e-s-t-r-u-c-c-i-ó-n) → errata frecuente: `destrurcción`
+- `espiritual` (e-s-p-i-r-i-t-u-a-l) → errata frecuente: `espiritural`
+- `guitarra` (g-u-i-t-a-r-r-a)
+- `encuentro` (e-n-c-u-e-n-t-r-o)
+
+---
+
+
+## NORMA CRÉDITOS DE AUTORÍA — ABSOLUTISTA
+
+- **NUNCA** acreditar a Luis Beltza / Beltza Records / Jesús G. Pastor ni ningún otro autor en pies de foto o captions sin indicación expresa del autor.
+- Los créditos de autoría solo aparecen cuando el propio autor los solicita explícitamente en el momento de insertar la imagen.
+- Los pies de foto describen el contenido de la imagen, no su autoría.
+- Excepción ya documentada: el link de texto a perfil de Jesús G. Pastor (crédito editorial explícito, no pie de foto).
+
+## NORMA FLICKR — ABSOLUTISTA
+
+- **NUNCA** usar `href` apuntando a `flickr.com`, `flic.kr`, ni ninguna página/perfil/álbum de Flickr.
+- Las imágenes **sí** pueden servirse desde el CDN `live.staticflickr.com` en atributos `src`.
+- Las imágenes **no son clicables**: van sueltas, sin `<a href>` que las envuelva, independientemente de la URL.
+- **Excepción**: créditos de autor (ej. «Jesús G. Pastor») pueden enlazar al perfil del fotógrafo aunque sea en Flickr — es un crédito de autoría, no un link de navegación.
+- Esta norma aplica a TODO el HTML: artículos, aside, sidebar, footer, topband.
 
 ---
 
@@ -194,21 +280,44 @@ La palabra circundante mantiene su color de contexto.
 | **B-UR-ocracia** | Sistema operativo de la UR-be · no ve el UR, solo el canal |
 | **Qanat** | T comunitaria al servicio del UR · canal para los hijos |
 | **Escri-T-UR-A** | Primera contabilidad del agua usurpada · cuneiforme |
+| **G-UR** | Agua común, colectiva, que gira y se comparte sin apropiación |
+| **B-UR** | Agua baja, subterránea, todavía no capturada |
+| **Hamm-UR/A-bi** | Figura del control del agua, la ley y la canalización |
+| **D-UR-ruti** | Canal roto · insurrección del agua |
 
 ---
 
 ## CAPÍTULOS PENDIENTES DE DESARROLLO
 
-1. **Ins-UR-rección etimológica** — el UR que rompe el dique desde dentro. Marx como ins-UR-recto etimológico.
-2. **El UR global** — Mongolia, Tíbet, África, Oceanía. K-UR-osawa ampliado. Principio antirracista: "el aquí es allí".
-3. **Terror lingüístico / jacobinismo** — Barère 1794. El estado-nación como máquina de exterminio lingüístico.
-4. **La cosmogonía hídrica completa** — H₂O → UR orgánico → Musgo → Roble → Lumbre → Odisea Espacial.
-5. **De UR-Sapiens a UR-suario** — Microplásticos en sangre, esperma, placenta, cerebro. "Inteligencia plástica".
-6. **Anarco-catolicismo basko/galego** — Dorothy Day · Tolstói · Dujobory · Boardman Robinson · George Bellows.
-7. **El ritual del UR** — Bautismo preeclesial. Koskero vs JoseMaritarras. Molino Roteta.
-8. **La leyenda del tiempo** — Camarón 1979. Jazz afro + flamenco gitano. La música como conocimiento superior.
-9. **El digitalismo p-UR-itano** — El agua virtual que enfría los servidores. UR-suario vs UR-Sapiens.
-10. **H-UR-mor como antídoto** — Las Ratas Vascas de Marte. "Ura non dago?" Ag-UR como despedida.
+### 1. Ins-UR-rección etimológica
+El UR que rompe el dique desde dentro. Guerrilla lingüística, desobediencia semántica. Marx como ins-UR-recto etimológico: invierte el orden del relato dominante.
+
+### 2. El UR global
+Mongolia, Tíbet, África, Oceanía. K-UR-osawa: pantano negro, UR estancado con memoria. Principio antirracista: "el aquí es allí" — somos extraterrestres en una tierra extraterrestre. Corrección de tono: el euskera no es "puro", es **resistente**.
+
+### 3. Terror lingüístico / jacobinismo
+Barère 1794: *"el fanatismo habla vasco. Destruyamos estos instrumentos de error."* La Revolución Francesa inventa el exterminio lingüístico moderno. El modelo que copian todos los estados-nación. **Igualdad sin diversidad = otro avatar sumerio.** Rencor CERO.
+
+### 4. La cosmogonía hídrica completa
+H₂O → UR orgánico → Musgo → Roble → Lumbre → Odisea Espacial. Somos hidrógeno del Big Bang que aprendió a respirar oxígeno de supernovas. Las cometas como origen del agua terrestre. Sin UR-Sapiens: universo sin Luz-UR, frío, osc-UR-o.
+
+### 5. De UR-Sapiens a UR-suario
+La resignificación académica como us-UR-pación. Microplásticos en sangre, esperma, placenta, cerebro → "inteligencia plástica". ¿El BAS-UR-A-Piens es causa o consecuencia de la contaminación plástica?
+
+### 6. Anarco-catolicismo basko/galego
+Dorothy Day · Tolstói · Dujobory · Boardman Robinson (*El desertor*, 1916) · George Bellows (*Bienaventurados los pacificadores*, 1917). **Identidad es diversidad. Identidad política es respeto a otras identidades.** Koskero como pertenencia abierta y no excluyente.
+
+### 7. El ritual del UR
+Bautismo como ritual ibérico-materno preeclesial. Koskero vs JoseMaritarras: 500m de rivalidad lúdica, el UR que se divide y se reencuentra. Agiña · Arantzazu · Piedad de San Vicente. El molino Roteta como primera cosmogonía personal.
+
+### 8. La leyenda del tiempo
+Camarón de la Isla, 1979: matemáticas puras + sentimiento puro. Jazz afro + flamenco gitano = misma memoria de la diáspora hídrica. *"La información no es conocimiento. La música es lo mejor."* — Zappa.
+
+### 9. El digitalismo p-UR-itano
+Último avatar sumerio: el canal digital que no se toca. El agua virtual que enfría los servidores que procesan tu recibo del agua. UR-suario vs UR-Sapiens. **AVE SILICIO, LOS QUE VAMOS A MORIR TE SALUDAN.**
+
+### 10. H-UR-mor como antídoto
+La risa como canal donde el sistema no sabe filtrar. Las Ratas Vascas de Marte: *"Ura non dago?"* Ag-UR como despedida = augurio = desear agua al que sigue su camino.
 
 ---
 
@@ -220,7 +329,7 @@ UR-lañó (nube)
 Manantial (IT-UR-I)
       ↓ río
 Molino Roteta
-      ↓ estuario
+      ↓ estuario (dulce / salado)
 Mar (UR salado)
       ↓ evaporación
 UR de los muertos
@@ -232,14 +341,44 @@ Este ciclo es la columna del libro. No todo tiene que nombrarlo explícitamente,
 
 ---
 
+
+## JERARQUÍA TIPOGRÁFICA — ESCOMBRERA
+
+### Títulos de página (nivel h2 — los grandes)
+Bebas Neue · `font-size:clamp(2.5rem,6vw,6rem)` · color negro sobre fondo papel · margen inferior 1.5rem
+
+### Títulos de sección con ▌ (nivel h3 — dentro de cada página)
+`<h3 style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,1.8rem); letter-spacing:0.15em; color:#b01a1a; margin:2rem 0 1rem 0;">`  
+Llevan el ▌ delante. Son el nivel principal de sección.
+
+### Apartados dentro de una sección (sin ▌, sin h3)
+`<p style="font-family:'Bebas Neue',sans-serif; font-size:clamp(1.2rem,2.5vw,1.8rem); letter-spacing:0.15em; color:#b01a1a; margin:0 0 1rem 0;">`  
+Sin ▌. Sin etiqueta h3. Separados del bloque anterior con `border-top:1px solid rgba(176,26,26,0.2)`.  
+Ejemplos: MAYHEM: RUIDO PAGANO · ESPEJO DEL MAL / ᛟ ŌÞALA — LA RUNA ROBADA
+
+### Border-left rojo (`border-left:3px solid #b01a1a`)
+**Solo para citas y pequeñas explicaciones.** Nunca para envolver secciones ni apartados.  
+Siempre con `background:rgba(176,26,26,0.04)` y contenido en cursiva o Playfair.
+
 ## CRITERIOS DE ESCRITURA
 
 - Cada página tiene una **idea madre**. Una sola.
-- La repetición solo se acepta como estribillo, eco o retorno deliberado. Si no cumple función, se corta.
+- La repetición solo si cumple función: estribillo, eco, cierre, retorno deliberado. Si no, se corta.
 - Las deformaciones gráficas (T-OR-T-UR-A, BAS-UR-A-PIENS) son herramientas semánticas, no tics. Cuando dejan de abrir sentido, se retiran.
 - El tono puede ser documental, poético, político, humorístico o autobiográfico — no todo a la vez en cada párrafo.
 - Cada página funciona como una canción: arranque · desarrollo · nudo · salida.
 - Las referencias (sumerios, Ekain, Inanna, qanats, dub, punk, toponimia) aparecen cuando aportan estructura, no por acumulación.
+- Si una idea ya tiene su página, la siguiente no repite — avanza.
+- El lector debe poder avanzar sin entenderlo todo a la primera, pero nunca sentir que lee dos veces la misma cosa.
+
+### Nudos estructurales (ya fijados — no reexplicar)
+- Pág. 1: UR aparece en todas partes
+- Pág. 2: el UR se canaliza y se usurpa
+- Pág. 3: el UR se degrada en BAS-UR-A-Piens
+- Pág. 4: el UR suena como colapso hidráulico
+- Pág. 5: el UR es cósmico y anterior al sistema solar
+
+A partir de ahí esos conceptos se **usan**, no se reexplican.
 
 ---
 
@@ -248,7 +387,31 @@ Este ciclo es la columna del libro. No todo tiene que nombrarlo explícitamente,
 - Revisar ortografía, tildes y consistencia tipográfica.
 - Una sola convención para guiones, mayúsculas y siglas.
 - Evitar duplicados salvo cuando sean deliberados y funcionales.
-- Si una idea ya tiene su página, la siguiente no repite — avanza.
+- Si una frase está bien pero aparece muchas veces: conservar la más fuerte, convertir las demás en ecos o supresiones.
+- Si una idea reaparece en varias páginas: decidir en cuál se explica; en las otras solo referencia breve.
+- Si un bloque mezcla demasiadas funciones: separarlo.
+
+### Criterio de corte
+Si un pasaje **repite sin matiz**, **explica dos veces lo mismo**, **fuerza el juego gráfico** o **retrasa el avance** → cortar. Si una repetición añade ritmo, espejo, remate o memoria → puede quedarse.
+
+---
+
+## MÉTODO EDITORIAL (prompt maestro)
+
+Cuando se entregue un texto al editor, responder en este orden:
+
+1. **Diagnóstico breve** — qué funciona · qué sobra · qué falta · qué está repetido sin aportar
+2. **Corrección limpia** — versión corregida, más clara y respirable
+3. **Notas editoriales** — qué se ha cambiado y por qué
+
+### Reglas de estilo para el editor
+- Mantener el tono del autor: insurgente, poético, musical, documental, irónico
+- No normalizar hasta volverlo académico o plano
+- No matar el humor si existe
+- No suavizar la tensión política
+- Respetar metáforas eficaces
+- Conservar el pulso musical y la cadencia
+- Las deformaciones gráficas se conservan si aportan sentido
 
 ---
 
@@ -267,51 +430,48 @@ Este ciclo es la columna del libro. No todo tiene que nombrarlo explícitamente,
 ## PENDIENTE TÉCNICO
 
 - [ ] Corrección general de textos (en curso)
-- [ ] Fotos pendientes en algunos artículos
+- [ ] Fotos pendientes en algunos artículos del UR-book
 - [ ] Posibles artículos nuevos (páginas 15+)
-- [ ] Revisar comportamiento sidebar en móvil con orden cronológico
+- [ ] Revisar comportamiento aside escombrera en móvil
+- [ ] Drawer móvil para el aside de la escombrera (actualmente sin implementar)
 
 ---
 
-## UR-VÍDEOS — MÉTODO CORRECTO (sin Flickr, sin Vimeo)
+## UR-VÍDEOS — MÉTODO CORRECTO
 
-Flickr no expone vídeos en su CDN como hace con las fotos. El `data-flickr-embed` enlaza a `flickr.com` — no válido (cuenta privada/censurada desde 2005). Vimeo funciona pero requiere pasos extra.
+Flickr no expone vídeos en su CDN. El `data-flickr-embed` no es válido. Vimeo requiere pasos extra. **Solución: `<video>` HTML5 nativo con mp4 convertido.**
 
-**Solución: `<video>` HTML5 nativo con mp4 convertido**
-
-El flujo es el mismo que con las fotos pero con un paso de conversión:
-
-1. Convertir el archivo original (`.mov`, `.mp4`) a mp4 comprimido:
 ```bash
 ffmpeg -i original.mov -vcodec libx264 -crf 28 -preset slow -acodec aac -b:a 128k -movflags +faststart -vf "scale=-2:720" ur-video.mp4
 ```
 Resultado típico: 53MB `.mov` → 1,1MB `.mp4`
 
-2. Subir el `.mp4` al repositorio de GitHub junto al `index.html`
-
-3. Insertar en el HTML:
 ```html
 <div style="max-width:380px; margin:1rem auto;">
   <video controls playsinline style="width:100%; height:auto; display:block;">
-    <source src="[nombre-archivo].mp4" type="video/mp4">
+    <source src="nombre-archivo.mp4" type="video/mp4">
   </video>
 </div>
 ```
 
-**Tamaño oficial UR-vídeos verticales**: `max-width:380px; margin:1rem auto` — mismo que el vídeo de As Burgas en Vimeo.
+**Tamaño oficial UR-vídeos verticales**: `max-width:380px; margin:1rem auto`
 
-**Sin dependencias externas. Sin Flickr. Sin Vimeo. Funciona en local y en GitHub Pages.**
+---
 
-**Registrado**: Mayo 2026 · primer UR-vídeo en paratexto *El Más Aquí* · `ur-video.mp4`
+## REGISTRO DE DECISIONES
 
 | Fecha | Decisión |
 |---|---|
 | 2025–2026 | Arquitectura feed + sidebar establecida |
-| 2026 | 14 páginas publicadas |
+| 2026 | 14 páginas publicadas en UR-book |
 | 2026 | Fondo de papel por artículo (no en `<main>` global) |
 | 2026 | Marquees superiores e inferiores fijos · marquee-movil con JS |
 | 2026 | fitLines() para títulos fit-to-width en PC₁ |
 | 2026 | Sidebar drawer desde la derecha en móvil |
+| Mayo 2026 | Escombrera: 6 artículos separados (esc-prefacio · esc-01 a esc-05) |
+| Mayo 2026 | Escombrera: toggleEscombrera · escRayuela · escBuscar · burFiltrarEsc |
+| Mayo 2026 | Norma Flickr absolutista establecida |
+| Mayo 2026 | Dos archivos: index.html (GitHub) · index-local.html (trabajo local) |
 
 ---
 
@@ -323,44 +483,3 @@ Resultado típico: 53MB `.mov` → 1,1MB `.mp4`
 
 *Gora UR · Ag-UR · Beti UR*
 *UR + E = mc² = SAPIENS*
-
----
-
-## NORMAS PARATEXTO — CORRECCIONES DEFINITIVAS (Mayo 2026)
-
-### UR en rojo — norma absolutista
-- **TODA** palabra que contenga el fonema UR debe marcarlo en rojo: `<span style="color:#b01a1a;">ur</span>` o `<span style="color:#b01a1a;">UR</span>`
-- **Sin guiones** antes ni después del span: `basura` → `bas<span>UR</span>a`, NO `bas-UR-a`
-- **Excepción**: palabras donde el UR no es fonema real (pureza, sabiduría, escritura cuando ya está marcada como escri-T-UR-A) — dejar sin marcar
-- **En títulos rojos**: si la palabra contiene UR, la palabra completa pasa a negro y solo el UR va en rojo
-
-### Títulos en negro (no rojo)
-- `MÁS ALLÁ DEL TEXTO` → negro `#1a1a1a`
-- `EL MÁS AQUÍ` → negro `#1a1a1a`
-- En h3 rojos: palabras con UR pasan a negro con UR en rojo. Ej: `DURACIÓN` → `D<span style="color:#b01a1a;">UR</span>ACIÓN` (negro), `INTUICIÓN` sin forzar
-
-### Tamaños
-- Labels `▌ BAS-UR-A · ESCOMBRERA...` → `font-size:1.1rem` (doble del actual 0.75rem)
-- Misma escala para `▌ UR-DELTA · ESCOMBRERA POLÍTICA` y `▌ UR-DELTA · ESCOMBRERA CÓSMICA`
-- Pie de cita `— Lágrima · Gil de Biedma` y `— Don McCullin...` → `font-size:1rem`
-
-### Quitar guiones de palabras UR
-`p-uramente` → `p<span>ur</span>amente` · `p-uro` → `p<span>ur</span>o` · `d-uración` → `d<span>ur</span>ación` · `fut-uro` → `fut<span>ur</span>o` · `bas-ura` → `bas<span>UR</span>a` · `t-urismo` → `t<span>ur</span>ismo` · `us-UR-pa` → `us<span style="color:#b01a1a;">UR</span>pa`
-
-### Palabras sin UR en rojo (dejar naturales)
-`pureza` · `sabiduría` · `escritura` (excepto cuando es escri-T-UR-A) · `estudio` · `construcción permanente`
-
-### Paginación del paratexto
-`· En construcción permanente ·` → `· Pág. -01 · UR + E=mc² = SAPIENS`
-
-### canal de agua
-En el texto de la Montaña de Humo: `canal de agua` → `canal de <span style="color:#b01a1a;">UR</span>a` NO. → marcar en rojo como concepto: `<strong style="color:#b01a1a;">canal de agua</strong>`
-
-### UR-VÍDEO label
-`FUT-UR-ISMO` → `FUT<span style="color:#b01a1a;">UR</span>ISMO` (FUTURISMO en negro) · `PARTITURA` → `PARTIT<span style="color:#b01a1a;">UR</span>A` (en negro)
-
-### Rothschild
-`Rothschild` → `Roth<span style="color:#b01a1a;">ur</span>...` — NO, no tiene UR. Lo que falta es marcar el texto que lo rodea. Revisar contexto.
-
-### Centauro
-`Centauro` → `Cent<span style="color:#b01a1a;">aur</span>o` — el AUR lleva UR: `Cent<span style="color:#b01a1a;">aur</span>o`
