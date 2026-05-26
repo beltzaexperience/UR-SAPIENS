@@ -613,3 +613,106 @@ La «tesis inverosímil» es el método. No hay que defenderla — hay que habit
 ### FRASE DE ARRANQUE PARA NUEVO CLAUDIUS
 «Soy Luis Gonzaga Roteta, koskero de la Parte Vieja de Donostia, bautizado en San Vicente, hijo del UR del molino Roteta. Estoy desarrollando el UR-book. Tengo el HTML en index.html y las NOTAS. Arrancamos.»
 
+
+---
+
+## METODOLOGÍA DE TRABAJO · EL MÉTODO INS-UR-ECTO
+
+### TRES NIVELES DEL UR-BOOK (estructura explícita desde el inicio)
+1. **DOCUMENTADO** — hechos contrastables, datos, fuentes citables
+2. **ESPECULACIÓN RAZONADA** — hipótesis coherentes pero no demostradas
+3. **ARTE-FACTO DADÁ-UR-ISTA** — ironía, humor, crítica cultural conscientemente no verificable
+
+El libro no confunde niveles pero no los jerarquiza: la especulación razonada tiene el mismo derecho a existir que el dato. El humor no es decoración — es estrategia.
+
+### EL MÉTODO INS-UR-ECTO
+No es etimología académica convencional. Es arqueología del significante:
+- No parte del origen para llegar al significado
+- Parte del significado (el agua libre, la crítica de la canalización)
+- Reescribe los nombres como si fueran cifras que guardan ese secreto
+
+Ejemplos canónicos:
+- Hamm-UR/A-bi = «el que golpea su agua»
+- D-UR-ruti = «el canal del agua roto»
+- Buenavent-UR/A = «la buena llegada del agua»
+- Ins-UR-rección = el agua que vuelve a cortar el dique desde dentro
+- Fact-UR-A = el hacer del agua + el documento del robo
+- Nat-UR-A = el sufijo -ura como UR us-UR-pado por el sistema greco-romano
+
+### EL PALIMPSESTO TOPONÍMICO
+Para leer topónimos hídricos:
+1. Identificar la capa más profunda (raíces hídricas preindoeuropeas)
+2. Detectar capas superiores (griega, latina, árabe, romance)
+3. Preguntarse: ¿qué interés tenía cada imperio en cambiar o conservar el nombre?
+4. El agua conserva los nombres más antiguos porque es anterior a los imperios
+
+Ejemplo: Ampurdán → Emporion (griego, función comercial) / río Ter = raíz preindoeuropea tur-/ter- = «agua corriente» que sobrevivió a todas las capas.
+
+### LA CONTRADICCIÓN COMO MÉTODO
+El UR-book no resuelve la contradicción — la habita.
+El estuario no elige entre dulce y salado: es ambos.
+La contradicción es la puerta de entrada al amor.
+Solo quien acepta sus propias contradicciones puede aceptar las de los demás.
+Identidad es diversidad. La pureza es una categoría de la P-UR-ificación. El UR-book no purifica: documenta resistencia.
+
+### SOBRE LA LENGUA Y LA MUTILACIÓN
+El euskera no conserva la raíz UR porque sea una «lengua pura» o anterior a la corrupción.
+La conserva porque su geografía (valles cerrados, montañas-esponja) y su marginalidad política
+impidieron que la us-UR-pación sistémica la aplanara del todo.
+Es un fósil en un pliegue del terreno, no una esencia intacta.
+
+La mutilación lingüística (euskera, gallego, bretón, occitano...) no la inventó Franco.
+La inventó la modernidad burguesa: la Revolución Francesa de 1794 (informe Barère):
+«El federalismo y la superstición hablan bretón... el fanatismo habla vasco.
+Destruyamos estos instrumentos de error.»
+Rencor cero. Pero memoria total.
+
+### EL DIGITALISMO INCIPIENTE (no capitalismo tardío)
+El capitalismo tardío produce cosas. El digitalismo incipiente produce suscripciones.
+Extrae atención, afecto, tiempo.
+Es el último avatar sumerio: la T del control digital.
+El algoritmo decide qué música llega al oyente como la presa decide qué agua llega al campo.
+Ave Silicio, morituri te salutant.
+
+### MAPA DE LOS 20 DEPÓSITOS (actualizado)
+
+| Dep. | Tema principal |
+|------|----------------|
+| 01 | B-UR-zum · tiniebla · cadena zahorí · Tolkien |
+| 02 | Rumiante · RU espejo de UR · rumiantismo digital |
+| 03 | K-UR-DA · Malerreka · M-UR-O Glaciar |
+| 04 | Çatalhöyük · OR · T-OR-T-UR/A |
+| 05 | De Ekain a UR-uk · la ruta imaginativa |
+| 06 | UR-os del Titicaca · totora · arquitectura flotante |
+| 07 | UR-ubamba · Inca-hispana · Q-UR-T-UBA |
+| 08 | Roteta · Iruretagoyena · Lizarralde · Gordoa · Pagoeta |
+| 09 | La-UR-entina · URI vasco · el poblado como nacedero |
+| 10 | LOC-UR-A · AS-UR · UR-MIA · pleonasmo sagrado |
+| 11 | Nagas · mosquito · carnaval · espata-dantza · Zugarramurdi |
+| 12 | UR-OBORO · umami · garum · curva · beduino · ag-ur |
+| 13 | Cweorð · Futhark hídrico · M-UR-mullo |
+| 14 | B-UR-ga · Ourense · Elgorriaga · UR-beltz · UR-gorri |
+| 15 | Vestvegr · UR-dax · diáspora vikinga · Catoira |
+| 16 | Durruti · Hammurabi · G-UR · B-UR · Dr. Alimantado |
+| 17 | Obispo Gonzalo · Mondoñedo · báculo · Gebō |
+| 18 | INS-UR-RECCIÓN · Incuria · Fact-UR-A · Nat-UR-A us-UR-pada |
+| 19 | Koskero · Xabatenea 1538 · Ritual de lo habitual · Ezkurra |
+| 20 | Leyenda del Tiempo · Ave Silicio · Digitalismo incipiente · Dorothy Day |
+
+---
+
+## GESTIÓN DE PESO DEL ARCHIVO · MÓDULOS FUTUROS
+
+### Estado actual
+- index.html: ~700KB — funcionamiento óptimo, sin problemas
+- GitHub Pages: sirve hasta 100MB, sin queja técnica
+- Alerta preventiva: a ~2MB el móvil empieza a notar lentitud
+
+### Plan de modularización (cuando llegue a ~1.5MB)
+Separar el permafrost en archivo propio:
+1. `index.html` — libro URI + RUI + navegación (~200KB)
+2. `permafrost.js` o `permafrost.html` — 21+ depósitos cargados dinámicamente
+   al abrir el botón `· ᚢ ·` (solo se descarga cuando el lector lo pide)
+3. El JS actual ya tiene `toggleQanat()` — solo hay que añadir `fetch('permafrost.html')`
+
+**NO hacer antes de ~1.5MB** — la complejidad no vale la pena hasta entonces.
