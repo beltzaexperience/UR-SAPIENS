@@ -360,6 +360,23 @@ Ejemplos: MAYHEM: RUIDO PAGANO · ESPEJO DEL MAL / ᛟ ŌÞALA — LA RUNA ROBAD
 **Solo para citas y pequeñas explicaciones.** Nunca para envolver secciones ni apartados.  
 Siempre con `background:rgba(176,26,26,0.04)` y contenido en cursiva o Playfair.
 
+
+## NORMA PROCESO — VERIFICADOR DE DISLEXIAS
+
+Antes de generar cualquier index.html, ejecutar:
+```
+python3 /home/claude/verificador_ur.py
+```
+
+**Método de trabajo correcto para marcar UR:**
+1. Escribir la palabra correcta primero: `arquitectura`
+2. Identificar dónde están la U y la R consecutivas: `arquitectura` → posición 10-11 → `tura`
+3. Poner el span solo ahí: `arquitect<span>ur</span>a`
+
+**Nunca al revés** — nunca partir una palabra para meter un UR donde no hay U+R consecutivas.
+
+El verificador está en `/home/claude/verificador_ur.py` y detecta secuencias imposibles antes del span UR.
+
 ## CRITERIOS DE ESCRITURA
 
 - Cada página tiene una **idea madre**. Una sola.
@@ -454,7 +471,7 @@ Resultado típico: 53MB `.mov` → 1,1MB `.mp4`
 </div>
 ```
 
-**Tamaño oficial UR-vídeos verticales**: `max-width:380px; margin:1rem auto`
+**Tamaño oficial todos los UR-vídeos**: `max-width:380px; margin:0.8rem auto 0.5rem auto` — tanto en artículos como en el aside del índice. Norma única.
 
 ---
 
@@ -483,3 +500,116 @@ Resultado típico: 53MB `.mov` → 1,1MB `.mp4`
 
 *Gora UR · Ag-UR · Beti UR*
 *UR + E = mc² = SAPIENS*
+
+
+---
+
+## ANEXO 1 — UR ALFABETO
+
+El UR Alfabeto vive al final del URI, después de la foto UR-Sapiens Acupuntado. Documentación viva — no índice navegable.
+
+**Qué es**: todas las palabras del UR-book y la escombrera con U+R consecutiva, marcadas con UR en rojo. Norma, manual e investigación zahorí.
+
+**Método**: extracción directa del HTML — solo palabras con span rojo ya marcado. El silicio lee el libro entero.
+
+**Formato**: texto negro · UR rojo · significado hídrico en cursiva ámbar cuando se conoce · sin links · orden alfabético.
+
+**Foto de cabecera**: zahorí con varitas — Borja González Hoyos.
+
+**Actualización**: cada vez que se añade una palabra nueva con UR al libro, se regenera el bloque desde el HTML.
+
+---
+
+## ANEXO 2 — NORMA UR EN TEXTO ROJO (ABSOLUTISTA)
+
+Cuando una palabra con UR aparece en un elemento con `color:#b01a1a` (título, label, div rojo), **toda la palabra pasa a negro** y solo el UR queda en rojo.
+
+**Razón**: el UR rojo no destaca sobre texto rojo — necesita el contraste del negro.
+
+**Corrección**:
+- MAL: `<div style="color:#b01a1a;">LEC-T-<span style="color:#b01a1a;">UR</span>-A</div>`
+- BIEN: `<div style="color:#b01a1a;"><span style="color:#1a1a1a;">LEC-T-</span><span style="color:#b01a1a;">UR</span><span style="color:#1a1a1a;">-A</span></div>`
+
+**Aplica a**: h2, h3, div, span, a — cualquier elemento con texto padre rojo.
+**No aplica a**: texto en negro/crema/ámbar.
+**Precedente**: trabajado en la escombrera con los titulos ▌.
+
+---
+
+## ANEXO 3 — NORMA AZAR · LECTURA · RAYUELA
+
+- URI y RUI: ambos botones usan `rayuelaAzar()` — misma función, 21 artículos
+- Exclusión del artículo visible — garantiza movimiento desde el primer click
+- Si elige URI → `rayuela(id)` · si elige RUI → `escRayuela(id)` + scroll al artículo
+- Botón ᚱ RU/A → `#puente-escombrera` (franja roja antes del marquee) — viaje simbólico
+- Botón ᚢ UR/A → `#ur-book-wrapper` — regreso al libro
+
+---
+
+## PROTOCOLO DE TRABAJO CON CLAUDIUS · MÉTODO ANTI-REPETICIÓN
+
+### REGLA FUNDAMENTAL
+Antes de construir cualquier depósito (qanat) nuevo, Claudius verifica obligatoriamente:
+1. Las **15 páginas URI publicadas** (pub-prefacio, pub-intro, pub-qanats, pub-madres, pub-nietzsche, pub-inanna, pub-asia, pub-digitalismo, pub-tauros, pub-palimpsesto, pub-finisur, pub-cosmos, pub-tsunami, pub-basura, pub-urabe)
+2. Los **depósitos del permafrost** ya construidos (qanat-01 a qanat-17)
+3. Las **6 páginas RUI publicadas** (esc-prefacio, esc-01 a esc-05)
+
+### SI HAY SOLAPAMIENTO
+- Si el concepto ya está EXPLICADO en una página publicada → referencia cruzada, no repetición
+- Si el concepto ya está en otro qanat → referencia cruzada (→ dep. NN)
+- Si algo encaja mejor en otro depósito o página → propuesta explícita antes de construir
+- Si hay duda → preguntar antes de ejecutar
+
+### EJEMPLOS DE SOLAPAMIENTOS RESUELTOS
+- UR-beltz/Kurosawa → explicado en pub-asia, solo se referencia en qanats
+- Futhark/Runas → explicado en esc-05, qanat-13 solo profundiza en Cweorð
+- UR-uk/usurpación → explicado en pub-urabe, qanats solo referencian
+- Beltza Records → movido de qanat-13 a esc-02 (encaja con Futurismo sónico)
+- Mosquito/carnaval → explicado en qanat-11, qanat-12 solo referencia
+- Zugarramurdi → explicado en qanat-11, qanat-15 solo referencia
+
+### ESTRUCTURA DEL M-UR-O GLACIAR (PERMAFROST)
+17 depósitos · cada uno con:
+- Sección LABEL + H2 principal
+- Secciones H3 con ▌
+- Pullquote (border-left rojo)
+- Glosario numerado
+- Sección SEMILLAS pendiente
+- Pie de navegación ← dep.anterior · DEPÓSITO NN · dep.siguiente →
+
+| Dep. | Tema principal |
+|------|----------------|
+| 01 | B-UR-zum · tiniebla · cadena zahorí · Tolkien |
+| 02 | Rumiante · RU espejo de UR · rumiantismo digital |
+| 03 | K-UR-DA · Malerreka · M-UR-O Glaciar |
+| 04 | Çatalhöyük · OR · T-OR-T-UR/A |
+| 05 | De Ekain a UR-uk · la ruta imaginativa |
+| 06 | UR-os del Titicaca · totora · arquitectura flotante |
+| 07 | UR-ubamba · Inca-hispana · Q-UR-T-UBA |
+| 08 | Roteta · Iruretagoyena · Lizarralde · Gordoa · Pagoeta |
+| 09 | La-UR-entina · URI vasco · el poblado como nacedero |
+| 10 | LOC-UR-A · AS-UR · UR-MIA · pleonasmo sagrado |
+| 11 | Nagas · mosquito · carnaval · espata-dantza · Zugarramurdi |
+| 12 | UR-OBORO · umami · garum · curva · beduino · ag-ur |
+| 13 | Cweorð · Futhark hídrico · M-UR-mullo |
+| 14 | B-UR-ga · Ourense · Elgorriaga · UR-beltz · UR-gorri |
+| 15 | Vestvegr · UR-dax · diáspora vikinga · Catoira |
+| 16 | Durruti · Hammurabi · G-UR · B-UR · Dr. Alimantado |
+| 17 | Obispo Gonzalo · Mondoñedo · báculo · Gebō |
+
+### MÉTODO INS-UR-ECTO
+El UR-book no hace etimología académica convencional.
+Hace etimología inversa / zahorí: parte del significado (el agua libre, la crítica de la canalización)
+y reescribe los nombres como si guardaran ese secreto.
+Ejemplos: Hamm-UR/A-bi · D-UR-ruti · Buenavent-UR/A · Ali-ment-UR/A-do.
+La «tesis inverosímil» es el método. No hay que defenderla — hay que habitarla.
+
+### NORMAS DE MARCADO UR (ABSOLUTISTAS)
+1. UR en rojo: U+R consecutivas SIEMPRE en `<span style="color:#b01a1a;">UR</span>`
+2. UR en elemento ya rojo: la palabra entera pasa a negro, solo UR queda rojo
+3. RU en rojo: SOLO cuando la toponimia/etimología lo hace evidente (Pe-RU, RU-sia, I-RU-n)
+4. Verificar con: `python3 /home/claude/verificador_ur.py`
+
+### FRASE DE ARRANQUE PARA NUEVO CLAUDIUS
+«Soy Luis Gonzaga Roteta, koskero de la Parte Vieja de Donostia, bautizado en San Vicente, hijo del UR del molino Roteta. Estoy desarrollando el UR-book. Tengo el HTML en index.html y las NOTAS. Arrancamos.»
+
