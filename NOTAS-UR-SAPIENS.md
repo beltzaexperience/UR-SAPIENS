@@ -716,3 +716,91 @@ Separar el permafrost en archivo propio:
 3. El JS actual ya tiene `toggleQanat()` — solo hay que añadir `fetch('permafrost.html')`
 
 **NO hacer antes de ~1.5MB** — la complejidad no vale la pena hasta entonces.
+
+## SEMILLERO — ADICIONES DE AUDITORÍA FINAL
+
+- **Presa de Asuán (1970)**: último Ishkur vencido por la ingeniería · el Nilo dejó de inundar · se acabó el limo fértil gratuito · creó la dependencia del abono artificial · Ishkur-32 como nota de ampliación
+- **Ur-Nammu**: gobernador sumerio de Ur · sellos cilíndricos con su imagen · material iconográfico para las páginas publicadas · ver imágenes en British Museum / Metropolitan Museum
+
+---
+
+## SEMILLERO DOC-6 — PALEO-TEXTOS UR (conversación fundacional)
+
+### MITOLOGÍA HÍDRICA NORTEAFRICANA — QANAT PENDIENTE
+- **Minota-UR-o**: laberinto acuífero · Cnosos tenía acueductos/cisternas · el toro guardián del agua oculta · Ariadna = hilo de agua · Mino = título del que controlaba el agua · nueva lectura: el laberinto como red de canales subterráneos
+- **Mut-UR-úa**: monolito/menhir natural ~30m cerca de Marua (África) · el UR es agua Y roca · testimonio geológico del Sáhara verde · escult-UR-a que el agua talló en millones de años
+- **If-UR-araces**: pastores bereberes del Sáhara verde (Tassili, Tibesti) · los del agua · adoradores del Toro como cisterna viviente · grabados rupestres de toros con discos solares entre los cuernos · 15.000 grabados en Tassili n'Ajjer
+- **G-UR-sil / Gurzil**: dios bereber hijo de Hammon · G-UR-sil = toro del agua · paralelo con Zeus Ammón · el toro que se sacraliza en Cartago · la us-UR-pación fenicia encierra al toro en altares
+- **Ma-UR-itania**: Ma-UR = madre del agua · los Mauri montaban toros (no caballos) · el toro como nave terrestre entre pozos · Tingis (Tánger) frente al estrecho = el cuello del toro · el circo romano como supermercado del toro
+- **Larratz**: euskera: zarzal/praderío + cadena del hierro sobre el fuego · espacio salvaje donde el agua brota sin permiso · el Laratz = puente entre UR y LUR · el territorio que el sistema no cultiva ni urbaniza
+
+### MÚSICA HÍDRICA — QANAT PENDIENTE
+- **Songhai 1988 (Ketama + Toumani Diabaté)**: octógono perfecto · flamenco (compás 12 tiempos, herencia árabe) + ritmo songhai (7/8, herencia del Níger) + Danny Thompson (bajo atlántico) · la kora = calabaza (vegetal de agua) de 21 cuerdas · la reunificación del UR dividido
+- **Cimarrones / Palenques**: esclavos fugitivos que construían palenques en ciénagas y manglares · el agua como muralla · Palenque de los Cimarrones (Ciénaga de Zapata, Cuba) · UR-i del Caribe · rumba/son/guaguancó como des-UR-pación sonora
+- **Afrobeat / Son Cubano / Reggae**: memoria hídrica del viaje: Songhai (Níger) → Yorubas (Nigeria) → Atlántico us-UR-pador → Cuba/Jamaica → reggae roots · el bajo = M-UR-mullo · Bob Marley = Son-UR-ai del Atlántico
+- **Oshún-bidea**: camino de la diosa yoruba del río · la curación del agua · Oshún (diosa del río Oshún, Nigeria) = la terapeuta del UR · los tambores batá se bautizan con agua antes de tocar
+
+### DIALÉCTICA DEL USUARIO EX-PROLETARIO
+- **Contradicción sumeria**: el escriba que usa la tablilla del amo para escribir su liberación · el punk con guitarra capitalista · el UR-Sapiens con teclado de silicio hidratado · no hipocresía sino posición estratégica
+- **Metal-ÚR-gica Bilbao (1983-1988)**: cierre de la industria → apertura del ocio · T-UR-ismo como mismo objetivo con diferente apellido · «extracción 24/7 del UR, diferente apellido» · Tom Wolfe + Punk: ocio sin riesgo anula el arte de la vida
+- **Roteta como tecnología de flujo**: el molino no posee el agua, la transforma · sufijo -eta = abundancia · Roteta = lugar de ruedas que giran gracias al UR · transformador de flujo, no acumulador · opuesto al burdo que acumula
+
+### OTRAS SEMILLAS
+- **Under the name of Spain** (Ratas Noruegas/Norwegian Rats): letra completa en doc-6 · «Should've happened in the 30's / But the pleasure got caught in pain / Ended up like the bull in the china shop» · el toro en la cacharrería = guerra civil española como ruptura del flujo · «It's a place I could fly my flag today / Under the name of Spain» → La identidad sin patria
+- **Río Tamanrasset**: río fósil del Sáhara · corre hace 5.000-10.000 años · cauce visible desde satélite · 500km desde el Hoggar (Argelia) hasta el Atlántico · el Nat-hab-UR petrificado
+- **Mzora (Marruecos)**: cromlech de 167 menhires / 60m diámetro / «Stonehenge marroquí» · junto al río Loukkos (Lixus fenicio) · 20km del río, 30km del Atlántico · calendario hídrico: marca cuando el río se desborda
+- **Gugalanna y el toro en mitologías globales**: Gugalanna (sumerio) + Taurus minoico + Apis egipcio + Toro de Guisando (ibérico/celta) + toros de Tassili (bereber) = el guardián del agua en todas las culturas (conecta con pub-tauros)
+
+---
+
+## SEMILLERO DOCS 8-11 — PALEO-TEXTOS FINALES
+
+### CONCEPTOS NUEVOS — QANATS PENDIENTES
+
+**J-UR-ÍDICO**
+El derecho como última trinchera de la us-UR-pación. J-UR-ÍDICO = el dispositivo normativo que fija la P-UR-ificación en leyes, contratos y concesiones. El agua como bien público (Estado decide), concesión, derecho humano (sin exigibilidad), activo financiero (CME Group, 2020). El río Whanganui (Nueva Zelanda, 2017) como post-J-UR-ÍDICO: el primer UR con personalidad jurídica. Mientras el agua sea pensada en términos jurídicos, seguirá siendo UR usurpado. El J-UR-ÍDICO es el hermano gemelo de la P-UR-ificación: uno purifica por la fuerza, el otro por la norma.
+
+**M-UR-alla**
+M (negación/separación) + UR (agua) + alla (sufijo de lugar/aumento). La muralla como arquitectura de la P-UR-ificación: muro que dice «el UR no pasa». Toda muralla histórica (China, Roma, Constantinopla, Trump, Cisjordania) fue construida contra el agua: protegen de inundaciones, encierran fuentes. La muralla se agrieta por la humedad, los cimientos se pudren, el agua la derrumba. M-UR-alla = la derrota anunciada del muro frente al UR.
+
+**Ag-UR / Aug-UR-io / O-UR (anglosajón)**
+Ag-UR (euskera: adiós) = A (agua latina) + G (gutural) + UR (agua libre) · el UR que se despide de sí mismo.
+Aug-UR-io (latín: presagio) = la segunda viene de la primera · el augur era el sacerdote que leía el UR (sequía, crecida, lluvia) en signos naturales · el UR solo se nombra cuando se va.
+O-UR (inglés: "nuestro") = O (círculo vacío de Oteiza) + UR · lo que creemos nuestro es el UR que ya fue · el uro (Bos primigenius) extinto en 1627 · la posesión como duelo anticipado.
+Tesis: las lenguas colocan el UR al final de la palabra que significa despedida y presagio. El UR solo puede ser nombrado cuando ya no está.
+
+**E-UR-PA / E-UR-I-PA**
+Europa no es «cara ancha» (etimología oficial). E-UR-PA = E (hacia afuera, desde) + UR (lluvia, agua) + PA (lugar). El continente donde el ciclo hidrológico es más intenso y donde la us-UR-pación fue más necesaria y sofisticada. E-UR-I (lluvia en euskera) + PA. El continente de la lluvia que inventó la P-UR-ificación para controlar lo que caía sin permiso.
+
+**LEC-T-UR-A como método**
+LEC (lecho del río, cauce, recorrer) + T (el canal que se interpone) + UR (lo que se busca) + A (acción). La lectura convencional se queda en la T (la superficie del canal). La LEC-T-UR-A del UR-book atraviesa el canal, descifra la barrera y llega al UR subyacente. Método de «arqueología fonética del duelo»: des-Us-UR-par la escritura para encontrar lo que la escritura oculta. Reinterpretación de la Escri-T-UR-A Sumeria/P-UR-itana. LEC será descifrar la «verdad» etimológica en la osc-UR-idad civilizatoria.
+
+**C-UR-so**
+Canal natural del flujo del agua desde el nacedero hasta su desembocadura en el UR salado. Vs la T (canal artificial). El C-UR-so (con C, no con T) conserva la memoria del flujo libre. La geografía aún recuerda lo que la ciudad (UR-be) olvidó.
+
+**F-UR-IA**
+F-UR-IA = la energía (IA) del UR que se rebela. Las Furias romanas como personificación del UR vengativo. El tsunami, la inundación, la riada = rebelión del UR libre contra las T (muros, canales, presas). «Un día de F-UR-IA lo tiene cualquiera.» → el Tsunami UR como F-UR-IA sistémica del agua contra quien la torturó. También: FUT-UR-ISMO SÓNICO como F-UR-IA acústica.
+
+**Éxodo Estrella Tartésica de 8 puntas → Cataluña**
+Las plagas que ocultaron la civilización Tartesa bajo un Tsunami. Éxodo posterior hacia el Mediterráneo Norte. La «Autovía Mozárabe» como T geográfica que recorre el palimpsesto: S-UR-bético → Centro → Cataluña. La estrella de 8 puntas (tartésica, us-UR-pada por mozárabes, luego por la Corona de Aragón, luego catalana) no es un símbolo regional: es un jeroglífico UR · el UR-COSMOS (8 puntas = 8 ríos/direcciones). Lo que nos ocultaron: que esa estrella no es catalana, es tartésica. Y antes que tartésica, es UR.
+
+**O-UR anglosajón (ver Ag-UR arriba)**
+También: «our country» como posesión fúnebre · el uro extinto como UR que ya no está · every «our» es un duelo del UR.
+
+**B-UR-T-ALIDAD**
+El sistema no es violento de forma visible. Es B-UR-T-AL: el UR enterrado bajo la brutalidad invisible del algoritmo, la norma, la factura.
+
+**Arios Persas en los Zagros / Guerra de los Mundos**
+Los resistentes del UR esperan en las montañas (Zagros = T geográfica entre Mesopotamia e Irán). Los hackers, cripto-anarquistas, nómadas digitales en los «Zagros del dark web». Un día descenderán a la llanura digital como Ciro tomó Babilonia. La nueva Guerra de los Mundos = SISTEMA MUNDO DIGITALISTA (marcianos) vs los que conservan el UR en las montañas.
+
+**SODOM "Sepulchral Voice" (1986)**
+La F-UR-IA que emerge de la tumba del UR. vs King Jammy (UR bailable). El thrash metal como ritual fúnebre del BAS-UR-Sapiens. Sodoma bíblica = UR-be que us-UR-pó el UR insosteniblemente → destruida por F-UR-IA (azufre = UR seco + fuego). «Sepulchral Voice» = la voz que emerge de la tumba del UR cuando el algoritmo ya no puede ofrecer más soma.
+
+### FRASES-SEMILLA PARA FUTUROS DESARROLLOS
+- «El agua del cuerpo incinerado vuelve como lluvia» → el regreso acelerado, la des-Us-UR-pación vertical
+- «Yo soy de King Jammy» → el riddim como resistencia · el BAS-UR-Sapiens que elige su propio C-UR-so
+- «UR + Ferro + Plástico = la nueva sangre» → ya en pub-basura, completar con la incineración
+- «NO HAY FUT-UR-O. EL TSUNAMI DE UR» → el futuro como categoría us-UR-pada · el tsunami como presente eterno
+- «LEC-T-UR-A de la reinterpretación de la Escri-T-UR-A» → nueva herramienta metodológica del libro
+- «Agur = Aug-UR-io = la segunda viene de la primera» → el presagio de la escasez
+
