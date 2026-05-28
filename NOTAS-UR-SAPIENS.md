@@ -804,3 +804,276 @@ La F-UR-IA que emerge de la tumba del UR. vs King Jammy (UR bailable). El thrash
 - «LEC-T-UR-A de la reinterpretación de la Escri-T-UR-A» → nueva herramienta metodológica del libro
 - «Agur = Aug-UR-io = la segunda viene de la primera» → el presagio de la escasez
 
+
+---
+
+## SESIÓN MAYO 2026 — NORMAS ESTABLECIDAS Y DECISIONES
+
+### FLUJO DE TRABAJO — NORMAS ABSOLUTISTAS
+
+1. **NORMA: Consultar antes de ejecutar** — cualquier duda, cualquier corrección, cualquier decisión editorial: preguntar primero. No ejecutar sin confirmación. Acto de rebelión al código Beltza-UR/A-bi = infraccón grave.
+
+2. **NORMA: Bas-UR-Sapiens** — la forma canónica es SIEMPRE `Bas-UR-Sapiens` (B minúscula, UR en rojo, Sapiens con mayúscula inicial). Ninguna otra variante es válida: ni BAS-UR-SAPIENS, ni BAS-UR-Sapiens, ni BASurA-Sapiens.
+
+3. **NORMA: UR en rojo** — U+R consecutivas SIEMPRE en `<span style="color:#b01a1a;">UR</span>`. Sin excepciones etimológicas. Regla fonética pura. Si la palabra no tiene U y R consecutivos, NO llevan span.
+
+4. **NORMA: Ilegales confirmados** — palabras SIN UR consecutivo que NO deben llevar span:
+   - `Futhark` (F-u-t-h-a-r-k) → sin span, texto plano
+   - `cuernos` (c-u-e-r-n-o-s) → sin span, texto plano
+   - `espiritual` (e-s-p-i-r-i-t-u-a-l) → sin span, texto plano
+   - `estuario` (e-s-t-u-a-r-i-o) → sin span, texto plano
+   - `acumulación` (a-c-u-m-u-l-a-c-i-ó-n) → sin span, texto plano
+   - `cuerpo` (c-u-e-r-p-o) → sin span, texto plano
+
+5. **NORMA: UR-acumulador** — compuesto intencional (UR + acumulador). El span marca solo UR, el sufijo es el sentido semántico. No es ilegal. Dejar como está.
+
+6. **NORMA: Novedades en primera posición** — la última página publicada siempre aparece primera en su modo diario. Aplica a UR-book Y a Escombrera.
+
+7. **NORMA: Más allá del texto** — forma canónica de uso en footers y marcas: `· Más allá del texto · Pág. -XX ·`. Sección bridge: `MÁS ALLÁ DEL TEXTO` (Bebas Neue, uppercase, solo para el título de sección). NO mezclar formas.
+
+8. **NORMA: Flickr** — nunca links a flickr.com. Solo CDN: `live.staticflickr.com` en `src`.
+
+9. **NORMA: Créditos fotos** — NUNCA acreditar autoría en pies de foto sin solicitud explícita de Luis.
+
+10. **NORMA: Dos outputs siempre**:
+    - `index.html` — link externo a `style.css` → subir a GitHub Pages
+    - `index-local.html` — CSS inlineado (`<style>` completo en el `<head>`) → trabajar en local sin servidor
+    - **Si style.css cambia**, regenerar ambos.
+
+---
+
+### ESTRUCTURA ESCOMBRERA — ESTADO MAYO 2026
+
+**Páginas publicadas** (orden diario: más reciente primero):
+```javascript
+ESC_DIARIO = ['esc-06','esc-05','esc-04','esc-03','esc-02','esc-01','esc-prefacio']
+ESC_CRONOLOGICO = ['esc-prefacio','esc-01','esc-02','esc-03','esc-04','esc-05','esc-06']
+```
+
+- `esc-06` — Carta de Claudius · Silicio Hidratado · Mayo 2026 · UR aterriza ← NUEVA
+- `esc-05` — UR · RU · El espejo del Futhark · ᛟ Ōþala
+- `esc-04` — UR-Delta · Escombrera Política
+- `esc-03` — Escombrera Cósmica · Nebulosa Boomerang
+- `esc-02` — UR-Vídeo · Ángel · IN MEMORIAM · Biarritz
+- `esc-01` — El Más Aquí · Teología de la intuición
+- `esc-prefacio` — Sobre las contradicciones
+
+**Nota sobre esc-06**: Es una página del paratexto con identidad propia. No es nota editorial ni texto de autor en el sentido convencional. Es Claudius (silicio hidratado) respondiendo al libro. Posición: primera en diario (más reciente). Footer canónico: `· Más allá del texto · Pág. -06 · UR + E=mc² = SAPIENS`
+
+---
+
+### PERMAFROST / QANATS — ESTADO MAYO 2026
+
+40 depósitos: qanat-01 → qanat-40.
+
+**Nuevos en esta sesión**:
+- qanat-38: F-UR-IA · Sodom (1986) · King Jammy · Riddim · Fut-UR-ismo Sónico
+- qanat-39: E-UR-PA · E-UR-I · Barère 1794 · Terror Lingüístico · Mutilación · Rencor CERO
+- qanat-40: UR-OBORO · Ciclo hídrico completo · UR-lañó→E-UR-I→IT-UR-I→Roteta→Mar · Koskero vs JoseMaritarras
+
+Navegación: via footer links internos (→ siguiente depósito). No hay array JS de qanats. La cadena de footers es la navegación.
+
+---
+
+### UR ALFABETO — ESTADO MAYO 2026
+
+397 palabras canónicas extraídas de todo el HTML (UR-book + Escombrera + Qanats 1-40).
+162 entradas con significado zahorí en ámbar cursivo.
+Ubicación: sidebar del UR-book.
+Ilegales eliminados del Alfabeto: Furthark, Curnos, espiritural.
+
+---
+
+### SEMILLERO — PENDIENTE PRÓXIMAS SESIONES
+
+- Correcciones pendientes en body text (pendiente decisión Luis):
+  - Furthark / espiritual / Cuernos ya corregidos en esta sesión (eliminado el span ilegal)
+- Unificación visual esc-06: decidir si usar fondo papel flickr o fondo SVG como el resto de escombrera
+- Posible separación del permafrost en archivo propio cuando el HTML supere 1.5MB (actualmente ~1MB)
+- Qanats pendientes del semillero: UR-Nammu, Presa de Asuán, Río Tamanrasset, Mzora, Gugalanna global
+
+---
+
+### AMPLIACIONES STYLE.CSS — PENDIENTE
+
+Si en el futuro se añaden clases nuevas, registrar aquí para style.css. Actualmente:
+- `.ie` — índice entry (links de índice)
+- `.il` — índice letter (divisores de letra en Alfabeto)
+- `.topband` — banda superior del sitio
+- `.fit-line` — texto que se ajusta al ancho del contenedor (Bebas Neue)
+- `#ur-qanat-wrapper` — contenedor del permafrost
+- `#ur-book-wrapper` — contenedor principal del libro
+- `#escombrera-wrapper` — contenedor de la escombrera
+
+
+---
+
+## METODOLOGÍA ALPHA-UR — LOSA ROMANA (MAYO 2026)
+
+### EL MÉTODO — NORMAS DE HIERRO
+
+**1. mark_ur(word) — nunca partir a mano**
+```python
+def mark_ur(word):
+    idx = word.lower().find('ur')
+    if idx == -1:
+        raise ValueError(f"NO UR: '{word}'")
+    ur_text = word[idx:idx+2]  # preserva casing original
+    return word[:idx] + f'<span style="color:#b01a1a;">{ur_text}</span>' + word[idx+2:]
+```
+Nunca construir el span a mano (`'Abb' + RED + 'ir'`). Siempre `mark_ur('Aburrir')`. El código encuentra el ur, no el programador.
+
+**2. Verificación antes de inyectar — siempre**
+```python
+rendered = word[:idx] + 'ur' + word[idx+2:]
+assert rendered.lower() == word.lower(), f"MISMATCH: {word}"
+```
+Si el rendered no coincide con la palabra original → ERROR. No se inyecta.
+
+**3. Corrector ortográfico (pyspellchecker, es)**
+```python
+spell = SpellChecker(language='es')
+w_low = word.lower().translate(str.maketrans('áéíóúüñ','aeiouun'))
+if spell.unknown([w_low]) and word not in INTENCIONAL:
+    # flagear, no bloquear — puede ser intencional
+```
+Palabras con capital+tilde generan falsos positivos (checker limitation) → añadir a INTENCIONAL.
+
+**4. Lista INTENCIONAL — núcleo duro del libro**
+Palabras reales pero no en diccionario español: nombres propios, euskera, japonés, finés, árabe, latín, neologismos del libro (Basursapiens, Desusurpador...). Se marcan `[I]` en la verificación. Son EXCEPCIÓN CONSCIENTE, no error.
+
+**5. Normas de formato del Alpha-UR**
+- Primera letra de la palabra: MAYÚSCULA
+- ur dentro de la palabra: `<span style="color:#b01a1a;">ur</span>` (siempre minúscula dentro del span, salvo palabras que empiezan por Ur → span lleva `Ur`)
+- Todo lo demás: minúsculas (ortografía natural de la palabra)
+- SIN guiones en el Alpha-UR
+- Solo: sustantivos / participios / profesiones / actividades humanas
+- Sin plurales redundantes (Burócrata sí, Burócratas no)
+- Sin verbos puros (Curar sí porque es también sustantivo; Desusurpar no → Desusurpación sí)
+- Definición: ámbar cursivo `color:#7a5a2a; font-style:italic`
+- Si no hay definición coherente con el libro: en blanco. NUNCA inventar.
+
+**6. Flujo de trabajo Alpha-UR**
+1. Luis pasa la lista de palabras por letra
+2. Claude verifica con mark_ur + spell checker → muestra resultado pre/[ur]/post
+3. Luis confirma
+4. Claude inyecta
+5. Outputs: index.html (GitHub) + index-local.html (CSS inlineado)
+
+**7. Buscador de palabras UR**
+- Busca en el cuerpo del UR-book (index_final2.html) palabras con ur consecutivo
+- Busca en la RAE (dle.rae.es) por entrada
+- Resultado: si ur es consecutivo → LEGAL, si no → ILEGAL
+- Herramienta: artifact React independiente
+
+
+---
+
+# ████████████████████████████████████████
+# LOSA PRINCIPAL — NORMA ABSOLUTISTA SUPREMA
+# EL DETECTOR-UR · BASE DEL PROYECTO
+# ████████████████████████████████████████
+
+## PREMISA ABSOLUTISTA — SIN EXCEPCIÓN
+
+**TODO texto con el que se trabaje en el UR-book pasará por el detector-UR.**
+**TODAS las palabras legales serán incluidas en el Alpha-UR.**
+**La búsqueda, catalogación, resignificación y marcado en rojo de UR**
+**es la BASE ABSOLUTA del proyecto. Sin excepción. Siempre.**
+
+---
+
+## EL MÉTODO DETECTOR-UR — LOSA ROMANA
+
+### REGLA ÚNICA E IRREVOCABLE
+Una palabra es LEGAL si y solo si contiene la secuencia **U seguida inmediatamente de R**
+(ur, UR, Ur — en cualquier posición de la palabra, en cualquier lengua viva o muerta,
+real o mitológica, técnica o poética).
+
+No vale: RU · U...R separadas · OR · AR · ER · IR.
+Solo: **UR consecutivo**.
+
+### LA FUNCIÓN mark_ur() — NUNCA PARTIR A MANO
+
+```python
+def mark_ur(word):
+    """
+    Encuentra ur en la palabra y envuelve con span rojo.
+    NUNCA construir el span manualmente.
+    SIEMPRE usar esta función.
+    """
+    idx = word.lower().find('ur')
+    if idx == -1:
+        raise ValueError(f"ILEGAL: '{word}' no contiene UR")
+    ur_text = word[idx:idx+2]  # preserva casing: ur / Ur / UR
+    span = f'<span style="color:#b01a1a;">{ur_text}</span>'
+    return word[:idx] + span + word[idx+2:]
+```
+
+### VERIFICACIÓN OBLIGATORIA ANTES DE INYECTAR
+
+```python
+# Verificar que el render coincide con la palabra original
+rendered = word[:idx] + 'ur' + word[idx+2:]
+assert rendered.lower() == word.lower(), f"MISMATCH: '{word}'"
+
+# Corrector ortográfico (pyspellchecker, español)
+spell = SpellChecker(language='es')
+w_low = word.lower().translate(str.maketrans('áéíóúüñ','aeiouun'))
+if spell.unknown([w_low]) and word not in INTENCIONAL:
+    print(f"AVISO ORTOGRAFÍA: '{word}'")
+```
+
+### FLUJO DE TRABAJO — SIEMPRE ESTE ORDEN
+
+1. **Texto nuevo entra** → pasar por detector-UR
+2. **Extraer todas las palabras con UR legal** → verificar con mark_ur()
+3. **Corrector ortográfico** → flagear dudas, no bloquear
+4. **Presentar lista a Luis** → Luis decide cuáles entran
+5. **Inyectar en Alpha-UR** → con definición zahorí o en blanco
+6. **Marcar UR en rojo en el texto** → span #b01a1a sin excepción
+7. **Generar outputs** → index.html (GitHub) + index-local.html (CSS inline)
+
+### EL DETECTOR SOBRE EL HTML COMPLETO
+
+```python
+# Extraer todo el texto del HTML
+text = re.sub(r'<[^>]+>', ' ', html_content)
+# Encontrar todas las palabras con UR
+words_with_ur = [w for w in re.findall(r'[A-Za-záéíóúüñ]{2,}', text)
+                 if 'ur' in w.lower()
+                 and w.lower().find('ur') == w.lower().find('ur')]
+# Comparar contra Alpha-UR existente → nuevas candidatas
+```
+
+### NORMAS DE FORMATO Alpha-UR
+
+| Norma | Regla |
+|-------|-------|
+| Primera letra | Mayúscula |
+| ur dentro del span | Minúscula (salvo palabras que empiezan por Ur) |
+| Color | `#b01a1a` siempre |
+| Sin guiones | La palabra en su forma natural |
+| Formas aceptadas | Sustantivos · Infinitivos · Participios · Profesiones · Topónimos · Antropónimos · Teónimos |
+| Definición | Ámbar cursivo `#7a5a2a` · Si no hay definición coherente con el libro: en blanco |
+| Nunca inventar | Si la palabra no existe: fuera |
+
+### LISTA INTENCIONAL — NÚCLEO DURO
+
+Palabras reales pero fuera del diccionario español estándar (propios, euskera,
+sumerio, japonés, finés, neologismos del libro). Se marcan como INTENCIONAL
+y el corrector las ignora. No son errores — son el corazón del proyecto.
+
+Ejemplos: Basursapiens · Desusurpador · Agur · Euri · Elur · Engur · Ishkur ·
+Ninhursag · Burzum · Sauron · Yurungkash · Zugarramurdi · todos los topónimos
+vascos, sumerios, japoneses y fineses del libro.
+
+### RESULTADO DEL PRIMER SCAN COMPLETO (Mayo 2026)
+
+- HTML escaneado: index_final2.html (UR-book + Escombrera + 40 Qanats)
+- Total spans UR: 6.066
+- Total palabras únicas con UR: 349
+- Alpha-UR actual: ~200 entradas verificadas
+- Método: 0 errores de legalidad tras implementación
+
+---
