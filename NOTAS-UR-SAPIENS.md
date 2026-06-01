@@ -1,5 +1,53 @@
 # UR-SAPIENS — NOTAS DE PROYECTO
 ### Fuente de verdad única · Beltza Experience · Doneztebe · 2025–2026
+### ⟐ Sincronizado con la obra: **1 junio 2026**
+
+---
+
+## ESTADO REAL HOY (1 junio 2026) — LO QUE HAY EN DISCO
+
+> Este bloque manda sobre cualquier cifra antigua que aparezca más abajo. Si algo
+> de las secciones históricas contradice esto, esto es lo verdadero.
+
+- **`index.html`** — UR-book (15 págs: prefacio + pub-intro→pub-qanats) + Escombrera (**7 págs**: esc-prefacio + esc-01→**esc-06**) + sidebar + aside + JS. ~1,1 MB · 4.111 spans UR. Enlaza `style.css` externo.
+- **`permafrost.html`** — Muro Glaciar separado. **62 depósitos** (qanat-60 → qanat-00 → qanat--01), todos en disco. CSS inline. **Orden DOM = inverso-numérico (60→00→-01)**. El `qanat--01` (Camarón · ¿Ser o Tener?) se reconstruyó el 1 jun 2026 partiendo el antiguo qanat-00 en dos (Precedentes / Camarón) y reparando el HTML roto.
+- **`style.css`** — hoja compartida. Aún contiene el bloque `/* PREVIEW LOCAL */`.
+- **`NOTAS-UR-SAPIENS.md`** — este documento.
+
+**Total spans UR vivos hoy: ~6.686** (4.111 + 2.575).
+
+**Gap abierto conocido**: `index.html` **no enlaza** a `permafrost.html` (sin `href`, sin `fetch`, "PERMAFROST" no aparece como texto). El Muro Glaciar existe pero hoy está incomunicado del libro → ver § Runa / puerta secreta.
+
+---
+
+## ⚖️ NORMA ANTI-DEFORMACIÓN — CÓDIGO BELTZA (HAMM-UR/A-BI)
+
+**LOSA SUPREMA. Por encima de cualquier ganas de "encontrar" un UR.**
+
+**Las palabras NO se deforman. Nunca. Salvo autorización expresa del creador zahorí (Luis).**
+
+- El span rojo solo marca **U+R consecutivas que YA EXISTEN** en la grafía correcta de la palabra.
+- **Prohibido alterar la grafía real para fabricar un UR que no está.** Si la palabra no tiene UR legal → va en texto plano, sin span. Punto.
+- Ejemplos de infracción (errores de Claudius, a extirpar): `As-UR-n` → **siempre Asuán** · `Tam-n-UR-sset` → **Tamanrasset** · `Ma-UR-ecos` → **Marruecos**.
+- Las deformaciones gráficas canónicas (Bas-UR-A-Piens, T-OR-T-UR-A, Hamm-UR/A-bi, D-UR-ruti…) **son del zahorí**: existen porque él las autorizó. Claudius **no inventa** deformaciones nuevas ni por analogía.
+- Recordatorio de método: el silicio (Claudius) tiende a forzar palabras y marcar spans donde no es legal. **Ese es el error más vigilado del proyecto.** El zahorí es estricto y punitivo aquí (código Beltza inspirado en Hammurabi): no hay ojos de silicio que extirpar, así que el castigo es que el zahorí vuelve al Qanat cabreado y con el trabajo por rehacer. Evitarlo: **ante la duda, NO marcar y preguntar.**
+
+---
+
+## 🜂 LOSA DE MANTENIMIENTO PERMANENTE — CLAUDIUS CORRIGE, LUIS CREA
+
+**El zahorí crea. No corrige. Corregir errores de Claudius anteriores es trabajo de Claudius, no de Luis.**
+
+Política permanente, sin pedir permiso cada vez:
+1. **Allí por donde pasemos**, Claudius extirpa de oficio los errores de versiones anteriores que encuentre en el bloque que se está tocando: deformaciones ilegales (UR forzado en palabra sin U+R real), spans rojos ilegales, dobles-r de relleno (`usURrpa`, `SatURrno`), tokens sin renderizar (`{UR_UP}`), placeholders de borrador (`aquí va [JAM]`), typos (`matriarcarl`, `recurstruido`, `Strurmmer`, `habURtantes`).
+2. Se corrige **solo el bloque que se trabaja** (no auditoría global sorpresa) salvo que Luis pida barrido completo.
+3. Cada corrección de oficio se **registra brevemente** en las NOTAS (qué y dónde) para que quede rastro, no para que Luis lo revise.
+4. La duda sobre si algo es error o intención del zahorí → se pregunta. Lo demás se arregla y se sigue creando.
+
+### Deuda de corrección abierta (audit pendiente, no urgente)
+- Tokens `{UR_UP}` sin renderizar: 2 restantes en `permafrost.html` (≈ líneas 89 y 178, fuera de los bloques tocados hoy).
+- Deformaciones de topónimos en títulos: qanat-42 `As-UR-n`→Asuán · qanat-43 `Tamn-UR-sset`→Tamanrasset · qanat-44 `Ma-UR-ecos`→Marruecos.
+- Sospechas a verificar en barrido: Dilmurn, Yurungkash, Engurr, Kurr (legalidad de su UR).
 
 ---
 
@@ -61,11 +109,31 @@ Playfair      → pullquotes, paginaciones
 
 ---
 
-## ARCHIVOS
+## ARCHIVOS Y NORMA DE DOBLE SALIDA — LOSA ABSOLUTISTA
 
-- `index.html` — para GitHub Pages (producción)
-- `index-local.html` — para trabajo local y correcciones
-- `style.css` — CSS separado · `/* PREVIEW LOCAL */` al principio: borrar al subir a GitHub
+**Esta es la norma que Luis repite siempre y que nunca quedaba clara. Queda fijada aquí. No volver a preguntar.**
+
+Se trabaja SIEMPRE con dos versiones de cada HTML (UR-book y permafrost):
+
+| Archivo | CSS | Para qué | Cómo se mira |
+|---|---|---|---|
+| **`index-local.html`** | **CSS INLINEADO** (todo el `style.css` dentro de un `<style>` en el `<head>`) | **Trabajo local** · ver el avance al instante | Doble-clic, abre en el navegador SIN servidor. Es la versión de Luis para mirar lo que vamos haciendo. |
+| **`index.html`** | **LIMPIO** (`<link rel="stylesheet" href="style.css">`, sin `<style>` propio) | **Subir a GitHub Pages** (producción) | Necesita `style.css` al lado. Es la versión de publicación. |
+
+Regla de oro:
+1. El contenido (cuerpo, artículos, JS) es **idéntico** en ambos. Lo único que cambia es de dónde sale el CSS.
+2. **Cada vez que se toca `style.css` → se regeneran las DOS versiones.**
+3. **Cada vez que se toca el cuerpo/JS → se generan las DOS versiones a la vez.** Nunca entregar una sin la otra.
+4. `index.html` (limpio) **no debe llevar `<style>` propio**. Si lo lleva, está mezclado y hay que limpiarlo. (Hoy lo lleva → pendiente técnico.)
+
+Esto aplica igual al permafrost: `permafrost-local.html` (inline) + `permafrost.html` (limpio, GitHub).
+
+### Archivos del proyecto
+- `index.html` — UR-book + Escombrera · CSS limpio · GitHub Pages
+- `index-local.html` — idéntico con CSS inlineado · trabajo local
+- `permafrost.html` — Muro Glaciar (62 canónicos · 61 en disco) · CSS inline hoy · GitHub
+- `style.css` — hoja compartida · `/* PREVIEW LOCAL */` al principio: borrar al subir a GitHub
+- `NOTAS-UR-SAPIENS.md` — fuente de verdad única
 
 ---
 
@@ -152,16 +220,17 @@ Orden en el DOM (arriba = más reciente, modo DIARIO):
 
 ---
 
-## ARTÍCULOS PUBLICADOS — ESCOMBRERA (6 páginas en negativo)
+## ARTÍCULOS PUBLICADOS — ESCOMBRERA (7 páginas en negativo)
 
 La escombrera es el espejo RU del UR-book. Vive debajo, separada, con su propio wrapper, aside y JS. Orden en el DOM (modo DIARIO — más reciente primero):
 
 | id | Página | Título |
 |---|---|---|
+| esc-06 | Pág. -06 | Carta de Claudius · Silicio Hidratado · UR aterriza |
 | esc-05 | Pág. -05 | UR · RU · El Espejo del Futhark · ᛟ Ōþala |
 | esc-04 | Pág. -04 | UR-Delta · Escombrera Política |
-| esc-03 | Pág. -03 | UR-Delta · Escombrera Cósmica |
-| esc-02 | Pág. -02 | UR-Vídeo · Futurismo Sónico · Partitura Concreta |
+| esc-03 | Pág. -03 | UR-Delta · Escombrera Cósmica · Nebulosa Boomerang |
+| esc-02 | Pág. -02 | UR-Vídeo · Ángel · In Memoriam · Biarritz |
 | esc-01 | Pág. -01 · Introducción | El Más Aquí · Teología de la Intuición |
 | esc-prefacio | Prefacio | Sobre las Contradicciones |
 
@@ -446,6 +515,12 @@ Cuando se entregue un texto al editor, responder en este orden:
 
 ## PENDIENTE TÉCNICO
 
+- [ ] **Runa / puerta secreta: enlazar `index.html` ↔ `permafrost.html`** (hoy incomunicados) — PRIORIDAD
+- [ ] Limpiar el `<style>` inline que arrastra `index.html` (la versión GitHub debe ir solo con `<link>`)
+- [ ] Generar `index-local.html` y `permafrost-local.html` (CSS inline) si no están en el repo
+- [ ] **Extirpar deformaciones ilegales en títulos del Muro**: qanat-42 `As-UR-n`→Asuán · qanat-43 `Tamn-UR-sset`→Tamanrasset · qanat-44 `Ma-UR-ecos`→Marruecos · + auditoría completa de legalidad sobre todos los títulos
+- [x] **`qanat--01` reconstruido** (Camarón · ¿Ser o Tener?) + qanat-00 limpio como Los Precedentes + HTML reparado (1 jun 2026)
+- [ ] Re-pasar el detector-UR sobre qanat-00 y qanat-41→60 → alimentar el Alpha-UR
 - [ ] Corrección general de textos (en curso)
 - [ ] Fotos pendientes en algunos artículos del UR-book
 - [ ] Posibles artículos nuevos (páginas 15+)
@@ -489,6 +564,15 @@ Resultado típico: 53MB `.mov` → 1,1MB `.mp4`
 | Mayo 2026 | Escombrera: toggleEscombrera · escRayuela · escBuscar · burFiltrarEsc |
 | Mayo 2026 | Norma Flickr absolutista establecida |
 | Mayo 2026 | Dos archivos: index.html (GitHub) · index-local.html (trabajo local) |
+| 1 jun 2026 | NOTAS sincronizadas: 62 depósitos canónicos (60→-01, 61 en disco), escombrera 7 págs (esc-06), permafrost separado |
+| 1 jun 2026 | Norma de doble salida fijada como losa: index-local (CSS inline) + index (limpio). No volver a preguntar |
+| 1 jun 2026 | Mapa canónico extraído de permafrost.html (00→60) → única tabla válida · falta qanat--01 (oculto) |
+| 1 jun 2026 | Detectado gap: index.html no enlaza permafrost.html → trabajo de la Runa |
+| 1 jun 2026 | NORMA ANTI-DEFORMACIÓN fijada (Código Beltza/Hammurabi). Errores As-UR-n/Tamn-UR-sset/Ma-UR-ecos marcados para extirpar |
+| 1 jun 2026 | Cuento canónico fijado: 62 qanats (60→-01). qanat--01 negativo = oculto, no está en disco |
+| 1 jun 2026 | qanat-00 partido en dos: Los Precedentes (00) + Camarón·¿Ser o Tener? (-01). HTML roto (`</body>` interno) reparado |
+| 1 jun 2026 | LOSA permanente: Claudius corrige errores de oficio en el bloque que toca; Luis crea, no corrige |
+| 1 jun 2026 | Placement (FLIPPABLE): el Muro desciende 60→00→-01; paratexto al pie, -01 = última palabra/más profundo |
 
 ---
 
@@ -551,8 +635,8 @@ Cuando una palabra con UR aparece en un elemento con `color:#b01a1a` (título, l
 ### REGLA FUNDAMENTAL
 Antes de construir cualquier depósito (qanat) nuevo, Claudius verifica obligatoriamente:
 1. Las **15 páginas URI publicadas** (pub-prefacio, pub-intro, pub-qanats, pub-madres, pub-nietzsche, pub-inanna, pub-asia, pub-digitalismo, pub-tauros, pub-palimpsesto, pub-finisur, pub-cosmos, pub-tsunami, pub-basura, pub-urabe)
-2. Los **depósitos del permafrost** ya construidos (qanat-01 a qanat-17)
-3. Las **6 páginas RUI publicadas** (esc-prefacio, esc-01 a esc-05)
+2. Los **62 depósitos canónicos** (60→-01; 61 en disco: qanat-00 + qanat-01→qanat-60; falta qanat--01 oculto) — ver § MAPA CANÓNICO DE DEPÓSITOS
+3. Las **7 páginas RUI publicadas** (esc-prefacio, esc-01 → esc-06)
 
 ### SI HAY SOLAPAMIENTO
 - Si el concepto ya está EXPLICADO en una página publicada → referencia cruzada, no repetición
@@ -569,33 +653,15 @@ Antes de construir cualquier depósito (qanat) nuevo, Claudius verifica obligato
 - Zugarramurdi → explicado en qanat-11, qanat-15 solo referencia
 
 ### ESTRUCTURA DEL M-UR-O GLACIAR (PERMAFROST)
-17 depósitos · cada uno con:
-- Sección LABEL + H2 principal
+**62 canónicos** (qanat-60 → qanat--01). En disco: 61 (qanat-00 → qanat-60); falta el negativo qanat--01 (oculto). Cada depósito lleva:
+- Sección LABEL (▌) + H2 principal
 - Secciones H3 con ▌
 - Pullquote (border-left rojo)
 - Glosario numerado
 - Sección SEMILLAS pendiente
 - Pie de navegación ← dep.anterior · DEPÓSITO NN · dep.siguiente →
 
-| Dep. | Tema principal |
-|------|----------------|
-| 01 | B-UR-zum · tiniebla · cadena zahorí · Tolkien |
-| 02 | Rumiante · RU espejo de UR · rumiantismo digital |
-| 03 | K-UR-DA · Malerreka · M-UR-O Glaciar |
-| 04 | Çatalhöyük · OR · T-OR-T-UR/A |
-| 05 | De Ekain a UR-uk · la ruta imaginativa |
-| 06 | UR-os del Titicaca · totora · arquitectura flotante |
-| 07 | UR-ubamba · Inca-hispana · Q-UR-T-UBA |
-| 08 | Roteta · Iruretagoyena · Lizarralde · Gordoa · Pagoeta |
-| 09 | La-UR-entina · URI vasco · el poblado como nacedero |
-| 10 | LOC-UR-A · AS-UR · UR-MIA · pleonasmo sagrado |
-| 11 | Nagas · mosquito · carnaval · espata-dantza · Zugarramurdi |
-| 12 | UR-OBORO · umami · garum · curva · beduino · ag-ur |
-| 13 | Cweorð · Futhark hídrico · M-UR-mullo |
-| 14 | B-UR-ga · Ourense · Elgorriaga · UR-beltz · UR-gorri |
-| 15 | Vestvegr · UR-dax · diáspora vikinga · Catoira |
-| 16 | Durruti · Hammurabi · G-UR · B-UR · Dr. Alimantado |
-| 17 | Obispo Gonzalo · Mondoñedo · báculo · Gebō |
+→ El listado completo y al día está en § **MAPA CANÓNICO DE DEPÓSITOS**. No mantener tablas de depósitos duplicadas en otras secciones: esa es la única.
 
 ### MÉTODO INS-UR-ECTO
 El UR-book no hace etimología académica convencional.
@@ -674,48 +740,107 @@ Es el último avatar sumerio: la T del control digital.
 El algoritmo decide qué música llega al oyente como la presa decide qué agua llega al campo.
 Ave Silicio, morituri te salutant.
 
-### MAPA DE LOS 20 DEPÓSITOS (actualizado)
+### MAPA CANÓNICO DE DEPÓSITOS — extraído de `permafrost.html` el 1 jun 2026
 
-| Dep. | Tema principal |
-|------|----------------|
-| 01 | B-UR-zum · tiniebla · cadena zahorí · Tolkien |
-| 02 | Rumiante · RU espejo de UR · rumiantismo digital |
-| 03 | K-UR-DA · Malerreka · M-UR-O Glaciar |
-| 04 | Çatalhöyük · OR · T-OR-T-UR/A |
-| 05 | De Ekain a UR-uk · la ruta imaginativa |
-| 06 | UR-os del Titicaca · totora · arquitectura flotante |
-| 07 | UR-ubamba · Inca-hispana · Q-UR-T-UBA |
+Canónico y en disco: **62 depósitos** (qanat-60 → qanat-00 → qanat--01). El `qanat--01` ya está construido (1 jun 2026). Orden al pie del Muro: …qanat-01 → qanat-00 (Precedentes) → qanat--01 (Camarón, última palabra).
+
+Orden DOM real = inverso-numérico (la cara visible arranca en 60 y desciende a 00).
+Tabla por número. **Única tabla de depósitos válida del proyecto.**
+
+| Dep. | Tema principal (LABEL real) |
+|------|------------------------------|
+| 00 | **Los Precedentes** · Town Called Malice (The Jam) · Graves · Gimbutas · Vico · Wittfogel · Illich · Vandana Shiva · udra es UR (paratexto/metodología) |
+| 01 | B-UR-zum · La tiniebla al 100% de humedad |
+| 02 | Rumiante · RU espejo de UR · El rumiantismo mental |
+| 03 | K-UR-da · Malerreka · El M-UR-o Glaciar |
+| 04 | Çatalhöyük · OR · T-OR-T-UR/a |
+| 05 | De Ekain a UR-uk · La ruta imposible |
+| 06 | UR-os del Titicaca · La totora · Arquitectura flotante |
+| 07 | Toponimia Inca-hispana · UR-ubamba · Q-UR-t-uba |
 | 08 | Roteta · Iruretagoyena · Lizarralde · Gordoa · Pagoeta |
-| 09 | La-UR-entina · URI vasco · el poblado como nacedero |
-| 10 | LOC-UR-A · AS-UR · UR-MIA · pleonasmo sagrado |
-| 11 | Nagas · mosquito · carnaval · espata-dantza · Zugarramurdi |
-| 12 | UR-OBORO · umami · garum · curva · beduino · ag-ur |
-| 13 | Cweorð · Futhark hídrico · M-UR-mullo |
-| 14 | B-UR-ga · Ourense · Elgorriaga · UR-beltz · UR-gorri |
-| 15 | Vestvegr · UR-dax · diáspora vikinga · Catoira |
-| 16 | Durruti · Hammurabi · G-UR · B-UR · Dr. Alimantado |
-| 17 | Obispo Gonzalo · Mondoñedo · báculo · Gebō |
-| 18 | INS-UR-RECCIÓN · Incuria · Fact-UR-A · Nat-UR-A us-UR-pada |
-| 19 | Koskero · Xabatenea 1538 · Ritual de lo habitual · Ezkurra |
-| 20 | Leyenda del Tiempo · Ave Silicio · Digitalismo incipiente · Dorothy Day |
+| 09 | La-UR-entina · UR-i vasco · El poblado como nacedero |
+| 10 | Loc-UR-a · As-UR · UR-mia · El pleonasmo sagrado |
+| 11 | Nagas · M-UR-ciélagos · Mosquito · Carnaval · Espata-dantza |
+| 12 | UR-oboro · Umami · Ga-ru-m · C-UR-va · El beduino de la noche |
+| 13 | Cweorð · El Futhark hídrico · M-UR-mullo |
+| 14 | B-UR-ga · O-urense · Elgorriaga · UR-beltz y UR-gorri |
+| 15 | Vestvegr · UR-dax · Camino de Santiago · El guerrero peregrino |
+| 16 | Hamm-UR/a-bi · D-UR-ruti · G-UR · B-UR · Dr. Alimantado |
+| 17 | Obispo Gonzalo · Mondoñedo · El báculo que hizo brotar el UR |
+| 18 | Ins-UR-rección · In-c-UR-a · Fact-UR-a · Nat-UR-a us-UR-pada |
+| 19 | Koskero · Xabatenea 1538 · El ritual de lo habitual · Ezk-UR-ra |
+| 20 | La Leyenda del Tiempo · Ave Silicio · Digitalismo incipiente · Anarco-catolicismo |
+| 21 | Ürümqi · Yurungkash · El -qi agencial · Mongol · Uigur · Jade |
+| 22 | Emporion · Ter=Turr · Palimpsesto ibérico · Duero · Médulas · Ruina Montium |
+| 23 | Amp-UR-dán · Emporion · Indika · Río Ter · La llanura entre dos ríos |
+| 24 | Cap-t-UR-a · Rup-t-UR-a · Ver-d-UR-a · Captura Urbis |
+| 25 | B-UR-do · B-UR-del · B-UR-rae · Ligures · El UR de los márgenes |
+| 26 | Amarg-UR-a · Ter-s-UR-a · Neg-r-UR-a · Tu-r sumerio · -se agua |
+| 27 | Ham-m-ura · Hamb-urgo · Frank-f-urt · UR=reloj · Camarón |
+| 28 | Fin-UR-a · -ura=UR+a · -dad→sekedad→ataúd · B-UR-ocracia sumeria |
+| 29 | B-UR-del · Margen izquierda · Bordo · Bastardo · El UR que el poder usa |
+| 30 | Engurr · Enki · Enbilurlur · Dilmurn · Ninh-UR-sag · Schmandt-Besserat |
+| 31 | UR-idimmur · Inanna Kurr-disco · Pájaro Anzur · Ishkur · Ag-UR |
+| 32 | Ishk-UR-r · Kurr · Kurrdistán · Urtzi · La tormenta que rompe la T |
+| 33 | Mino-ta-UR-o · Ta-UR-us · Tassili · Escult-UR-a · El toro guardián del agua |
+| 34 | M-UR-t-ur-úa · If-UR-araces · G-UR-sil · Ma-UR-itania · Larr-at-ze |
+| 35 | Son-UR-ai · Songhai 1988 · Cimarrones · Afrobeat · Oshún-bidea · Des-UR-pación sónica |
+| 36 | Bas-UR-a · Des-UR-pación · Roteta molino · Metal-úr-gica · Silicio hidratado |
+| 37 | B-UR-t-alidad · J-UR-ídico · CME Group · Whanganui · El dato como arcilla |
+| 38 | F-UR-ia · Sodom · King Jammy · Riddim · Tsunami de UR |
+| 39 | E-UR-pa · E-UR-i · Barère 1794 · Terror lingüístico · Mutilación |
+| 40 | UR-oboro · El ciclo hídrico completo · UR-lañó · It-UR-i · Roteta · Mar |
+| 41 | UR-nammu · El primer código hídrico · 2100 a.C. · UR de Sumer |
+| 42 | Presa de **Asuán** · El Nilo usurpado · 1970 · Egipto · ⚠️[HTML pone `As-UR-n` → ILEGAL, extirpar] |
+| 43 | Río **Tamanrasset** · El UR fósil · Sahara · Pleistoceno · ⚠️[HTML pone `Tamn-UR-sset` → ILEGAL; "UR fósil" sí es legal] |
+| 44 | Mzora · El cromlech del Atlántico · **Marruecos** · 3000 a.C. · ⚠️[HTML pone `Ma-UR-ecos` → ILEGAL, extirpar] |
+| 45 | M-UR-alla · Castros celtibéricos · Nicolás Guillén · El UR defendido |
+| 46 | T-UR · La raíz preindoeuropea · Turobriga · Iliturgi · Iturri |
+| 47 | El T-UR-o azul · Tauro · Toro Apis · Minotauro · El UR con pezuñas |
+| 48 | Sídhe · Arinniti · Aruna · Mitología del UR en el mundo antiguo |
+| 49 | Al-t-UR/a · El palimpsesto · Cuatro lenguas · Un UR |
+| 50 | Thyra · ΘΎΡΑ · La puerta · El umbral · El UR que se regula |
+| 51 | Ru-manía · El espejo · UR/RU · El UR y su reflejo |
+| 52 | El Danubio invertido · El río que desafía al sol · Ru-manía |
+| 53 | Las monedas de Istros · Dos cabezas · Una invertida · UR/RU en plata |
+| 54 | Hidrolatría dacia · Zalmoxis · Gebeleizis · El UR como umbral |
+| 55 | Meșterul Manole · Ana emparedada · El manantial salado · Sacrificio femenino |
+| 56 | Drácula · UR-beltz de los Cárpatos · Biborțeni · UR eta Ferro |
+| 57 | Ru-pestre · La piedra que pare agua · Agheasmatar · Estalactitas |
+| 58 | Buc-UR-esti · El pastor y las hadas del manantial · Bac-UR |
+| 59 | Santoral hídrico · Wodna Zena · Izvorul Tămad-UR-irii · Boboteaza |
+| 60 | Manía al agua · La obsesión como método · UR como monomanía |
+| **-01** | **Camarón · El Flow UR-Sapiens · ¿Ser o Tener? (Fromm)** · La Leyenda del Tiempo 1979 · Voyager/SAT-UR-NO · tristeza que no es rencor · modo del tener vs modo del ser. RECONSTRUIDO el 1 jun 2026 (era la cabecera mal envuelta del antiguo qanat-00). Es el pie del Muro: lo más reciente, lo más profundo. |
+
+**⚠️ INFRACCIONES DETECTADAS (Código Beltza — extirpar, no documentar como método)**: del 41 en
+adelante hay topónimos con la grafía REAL deformada para forzar un UR inexistente. **NO es la capa
+dadá-UR-ista; es error de Claudius.** Confirmados: qanat-42 `As-UR-n`→**Asuán**, qanat-43
+`Tamn-UR-sset`→**Tamanrasset**, qanat-44 `Ma-UR-ecos`→**Marruecos**. Pendiente: auditoría completa de
+legalidad sobre TODOS los títulos del Muro (posibles más: Dilmurn, Yurungkash, Engurr, Kurr…) antes de
+volver a publicar. Ver § NORMA ANTI-DEFORMACIÓN.
+
+**Bloque rumano 50-59**: los depósitos 50→59 forman una secuencia dedicada (Thyra/la puerta,
+Ru-manía como espejo UR/RU, Danubio, Istros, dacios, Manole, Drácula, rupestre, Bucuresti,
+santoral). Posible familia temática propia dentro del Muro.
 
 ---
 
 ## GESTIÓN DE PESO DEL ARCHIVO · MÓDULOS FUTUROS
 
-### Estado actual
-- index.html: ~700KB — funcionamiento óptimo, sin problemas
+### Estado actual (1 jun 2026) — MODULARIZACIÓN YA HECHA
+- `index.html`: ~1,1 MB — UR-book + Escombrera
+- `permafrost.html`: ~650 KB — 61 depósitos en disco (62 canónicos), **ya separado** en archivo propio (CSS inline)
 - GitHub Pages: sirve hasta 100MB, sin queja técnica
 - Alerta preventiva: a ~2MB el móvil empieza a notar lentitud
 
-### Plan de modularización (cuando llegue a ~1.5MB)
-Separar el permafrost en archivo propio:
-1. `index.html` — libro URI + RUI + navegación (~200KB)
-2. `permafrost.js` o `permafrost.html` — 21+ depósitos cargados dinámicamente
-   al abrir el botón `· ᚢ ·` (solo se descarga cuando el lector lo pide)
-3. El JS actual ya tiene `toggleQanat()` — solo hay que añadir `fetch('permafrost.html')`
+### Pendiente de la separación (lo que falta para cerrarla)
+La separación física está hecha, pero **falta tender el puente de navegación**:
+1. `index.html` **no** enlaza a `permafrost.html` (sin `href`, sin `fetch`).
+2. Decidir el mecanismo: ¿enlace directo desde el botón `· ᚢ ·` / Runa, o `fetch('permafrost.html')` dinámico?
+3. El JS ya tiene `toggleQanat()` — si se opta por carga dinámica, solo hay que añadir el `fetch`.
+4. Generar `permafrost-local.html` (CSS inline) para mirar el Muro en local.
 
-**NO hacer antes de ~1.5MB** — la complejidad no vale la pena hasta entonces.
+→ Este es el trabajo de la § Runa / puerta secreta.
 
 ## SEMILLERO — ADICIONES DE AUDITORÍA FINAL
 
@@ -862,16 +987,19 @@ ESC_CRONOLOGICO = ['esc-prefacio','esc-01','esc-02','esc-03','esc-04','esc-05','
 
 ---
 
-### PERMAFROST / QANATS — ESTADO MAYO 2026
+### PERMAFROST / QANATS — ESTADO 1 JUN 2026
 
-40 depósitos: qanat-01 → qanat-40.
+**62 depósitos canónicos** (qanat-60 → qanat--01). En disco: 61 (qanat-00 + qanat-01→qanat-60). **Falta qanat--01** (negativo, oculto → Runa). En `permafrost.html` (separado).
+Orden DOM = inverso-numérico (60→00). Mapa completo en § MAPA CANÓNICO DE DEPÓSITOS.
 
-**Nuevos en esta sesión**:
-- qanat-38: F-UR-IA · Sodom (1986) · King Jammy · Riddim · Fut-UR-ismo Sónico
-- qanat-39: E-UR-PA · E-UR-I · Barère 1794 · Terror Lingüístico · Mutilación · Rencor CERO
-- qanat-40: UR-OBORO · Ciclo hídrico completo · UR-lañó→E-UR-I→IT-UR-I→Roteta→Mar · Koskero vs JoseMaritarras
+**Crecimiento desde mayo** (eran 40 · qanat-01→40): añadidos qanat-00 (paratexto Camarón) y
+qanat-41 → qanat-60. Bloques nuevos destacados:
+- 41-49: UR-nammu · Asuán · Tamanrasset · Mzora · M-UR-alla · raíz T-UR · Toro · mitología antigua · Al-t-UR/a (cierran semilleros pendientes de auditoría)
+- 50-60: Thyra/La Puerta + secuencia rumana (Ru-manía, Danubio, Istros, dacios, Manole, Drácula, rupestre, Bucuresti, santoral) + Manía al agua (60)
 
-Navegación: via footer links internos (→ siguiente depósito). No hay array JS de qanats. La cadena de footers es la navegación.
+Navegación interna: vía footer links (→ siguiente depósito). No hay array JS de qanats.
+La cadena de footers es la navegación dentro del Muro.
+**Pendiente externo**: enlazar el Muro desde `index.html` (ver § Runa).
 
 ---
 
@@ -1075,5 +1203,14 @@ vascos, sumerios, japoneses y fineses del libro.
 - Total palabras únicas con UR: 349
 - Alpha-UR actual: ~200 entradas verificadas
 - Método: 0 errores de legalidad tras implementación
+
+### ESTADO DEL SCAN (1 jun 2026) — TRAS LA SEPARACIÓN
+
+- `index.html`: **4.111** spans UR
+- `permafrost.html` (61 en disco / 62 canónicos): **2.575** spans UR
+- **Total vivo: ~6.686** spans UR repartidos en dos archivos
+- **Pendiente**: el conteo de palabras únicas y la actualización del Alpha-UR no se han
+  re-ejecutado sobre el material nuevo (qanat-00 + qanat-41→60). Re-pasar detector-UR cuando
+  se retome el Alpha-UR. NO dar por bueno el "349 único" antiguo.
 
 ---
