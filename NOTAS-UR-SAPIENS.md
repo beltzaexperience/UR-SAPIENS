@@ -16,7 +16,22 @@
 
 **Total spans UR vivos hoy: ~6.686** (4.111 + 2.575).
 
-**Gap abierto conocido**: `index.html` **no enlaza** a `permafrost.html` (sin `href`, sin `fetch`, "PERMAFROST" no aparece como texto). El Muro Glaciar existe pero hoy está incomunicado del libro → ver § Runa / puerta secreta.
+**Gap CERRADO (1 jun 2026)**: `index.html` ya enlaza el Muro vía la **Runa secreta ᚱ** (fetch de `permafrost.html` + inyección inline). Ver § RUNA · PUERTA SECRETA. Además se eliminaron del libro 40 qanats abandonados (el permafrost viejo incrustado): `index.html` pasó de ~1,1 MB a ~546 KB.
+
+---
+
+## ᚱ RUNA · PUERTA SECRETA DEL MURO GLACIAR — LOSA
+
+**Cómo el libro enlaza con el Muro (permafrost.html). Implementado 1 jun 2026.**
+
+- **Secreto: `Ag-UR`** (= Agur euskera = el AVE romano: despedida y bienvenida a la vez). Se guarda como **hash djb2** en el JS (`urHash`), nunca en claro. Entrada normalizada a minúsculas sin guiones ni espacios → `agur`. Hash objetivo: `2090075636`.
+- **Mecanismo ritual, NO seguridad**: GitHub Pages es estático; `permafrost.html` es alcanzable por su URL directa para quien la conozca — y a Luis le parece bien (si navegas el repo y te interesa, lo encuentras; si navegas el libro, la ᚱ solo se abre a los iniciados). El hash solo evita que la palabra esté en claro en el código.
+- **Flujo**: teclear `Ag-UR` → clic en ᚱ (o Enter) → si acierta, trae el Muro y lo **inyecta inline en el libro** (`#muro-glaciar`): el Muro fluye dentro del libro. Si falla → `∿ el UR no te reconoce`.
+- **Fallback local (`file://`)**: el fetch no funciona por CORS a doble-clic → la Runa redirige a `permafrost.html` (página aparte). Por eso en LOCAL se revisa cada archivo por separado; en WEB se unen.
+- **Ubicación**: widget nuevo en la zona de las runas del puente escombrera, en el hueco del botón discreto viejo (`· ᚢ ·`). NO toca las runas de navegación (`ᚱ RU/A · LA ESCOMBRERA`, `ᚢ UR/A · EL LIBRO`).
+- **Glifo**: ᚱ (RU = Roteta/Molino, el flujo que desciende). La ᚢ queda para vuelta al libro.
+- **Cierre**: el Muro inyectado lleva barra `⊠ CERRAR · ᚱ · MURO` (`cerrarMuro()`).
+- **JS**: `urHash` · `abrirRuna` · `descenderMuro` · `revelarMuro` · `cerrarMuro`. `#muro-glaciar` usa `data-cargado` para no recargar.
 
 ---
 
@@ -515,8 +530,8 @@ Cuando se entregue un texto al editor, responder en este orden:
 
 ## PENDIENTE TÉCNICO
 
-- [ ] **Runa / puerta secreta: enlazar `index.html` ↔ `permafrost.html`** (hoy incomunicados) — PRIORIDAD
-- [ ] Limpiar el `<style>` inline que arrastra `index.html` (la versión GitHub debe ir solo con `<link>`)
+- [x] **Runa secreta ᚱ: index.html enlaza el Muro** (Ag-UR · fetch+inyección · fallback local) — HECHO 1 jun 2026
+- [~] El `<style>` inline de index.html es mínimo (placeholder #esc-input/#bur-input), no duplica style.css → se deja
 - [ ] Generar `index-local.html` y `permafrost-local.html` (CSS inline) si no están en el repo
 - [ ] **Extirpar deformaciones ilegales en títulos del Muro**: qanat-42 `As-UR-n`→Asuán · qanat-43 `Tamn-UR-sset`→Tamanrasset · qanat-44 `Ma-UR-ecos`→Marruecos · + auditoría completa de legalidad sobre todos los títulos
 - [x] **`qanat--01` reconstruido** (Camarón · ¿Ser o Tener?) + qanat-00 limpio como Los Precedentes + HTML reparado (1 jun 2026)
@@ -573,6 +588,9 @@ Resultado típico: 53MB `.mov` → 1,1MB `.mp4`
 | 1 jun 2026 | qanat-00 partido en dos: Los Precedentes (00) + Camarón·¿Ser o Tener? (-01). HTML roto (`</body>` interno) reparado |
 | 1 jun 2026 | LOSA permanente: Claudius corrige errores de oficio en el bloque que toca; Luis crea, no corrige |
 | 1 jun 2026 | Placement (FLIPPABLE): el Muro desciende 60→00→-01; paratexto al pie, -01 = última palabra/más profundo |
+| 1 jun 2026 | [R] implementada: Runa secreta ᚱ + Ag-UR (hash) abre el Muro (fetch+inyección inline) · fallback local→redirect |
+| 1 jun 2026 | Limpieza: 40 qanats abandonados eliminados de index.html (−6.182 líneas, ~1,1 MB → ~546 KB) |
+| 1 jun 2026 | Generados index.html (limpio, link style.css) + index-local.html (CSS inline) |
 
 ---
 
