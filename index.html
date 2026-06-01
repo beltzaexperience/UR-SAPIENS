@@ -2532,8 +2532,6 @@ window.addEventListener('resize', fitLines);
     <div id="runa-msg" style="font-family:'Courier Prime',monospace; font-size:0.72rem; letter-spacing:0.2em; color:#666; margin-top:0.5rem; min-height:1.1em;"></div>
   </div>
 </div>
-<!-- el Muro Glaciar fluye aquí dentro del libro -->
-<div id="muro-glaciar" style="display:none; background:#0a0a0a;"></div>
 
 <!-- UR-BOOK sidebar (original) standalone -->
 <!-- /ur-book-wrapper -->
@@ -2921,25 +2919,15 @@ document.addEventListener('DOMContentLoaded', function() {
 
 </script>
 <script>
-/* ᚱ RU-NA SECRETA · Ag-UR abre el Muro Glaciar (permafrost.html) y lo hace fluir en el libro */
+/* ᚱ RU-NA SECRETA · Ag-UR abre el Muro Glaciar (permafrost.html) en pestaña nueva */
 function urHash(s){s=(s||'').toLowerCase().replace(/[^a-z0-9]/g,'');var h=5381;for(var i=0;i<s.length;i++){h=((h<<5)+h+s.charCodeAt(i))>>>0;}return h;}
 function abrirRuna(){var c=document.getElementById('runa-caja');var open=c.style.display==='none';c.style.display=open?'block':'none';if(open){var i=document.getElementById('runa-secreto');if(i){i.value='';i.focus();}document.getElementById('runa-msg').textContent='';}}
-function cerrarMuro(){var m=document.getElementById('muro-glaciar');m.style.display='none';document.getElementById('runa-caja').style.display='none';document.getElementById('runa-muro').scrollIntoView({behavior:'smooth'});}
-function revelarMuro(){var m=document.getElementById('muro-glaciar');m.style.display='block';m.scrollIntoView({behavior:'smooth'});}
 function descenderMuro(){
   var msg=document.getElementById('runa-msg');
   var val=(document.getElementById('runa-secreto')||{}).value||'';
   if(urHash(val)!==2090075636){msg.textContent='∿ el UR no te reconoce';return;}
-  msg.textContent='∿ Ag-UR · el Muro desciende…';
-  var m=document.getElementById('muro-glaciar');
-  if(m.getAttribute('data-cargado')==='1'){revelarMuro();return;}
-  fetch('permafrost.html').then(function(r){if(!r.ok)throw 0;return r.text();}).then(function(t){
-    var doc=new DOMParser().parseFromString(t,'text/html');
-    var cerrar='<div style="background:#0a0a0a; padding:1rem clamp(1.5rem,4vw,3rem); text-align:right;"><span onclick="cerrarMuro()" style="font-family:\'Bebas Neue\',sans-serif; font-size:0.78rem; letter-spacing:0.35em; color:#444; cursor:pointer; user-select:none;">⊠ CERRAR · ᚱ · MURO</span></div>';
-    m.innerHTML=cerrar+doc.body.innerHTML;
-    m.setAttribute('data-cargado','1');
-    revelarMuro();
-  }).catch(function(){window.location.href='permafrost.html';});
+  msg.textContent='∿ Ag-UR · el Muro se abre…';
+  window.open('permafrost.html','_blank');
 }
 </script>
 </body>
