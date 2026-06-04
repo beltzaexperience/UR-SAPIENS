@@ -1,4 +1,54 @@
 # UR-SAPIENS — NOTAS DE PROYECTO
+
+# ████████████████████████████████████████████████████████
+# LOSA SUPREMA · ORGANIGRAMA DE LA GUERRILLA UR-SAPIENS
+# (estructura REAL del HTML — leer ANTES de tocar nada)
+# ████████████████████████████████████████████████████████
+
+**REGLA CERO: antes de buscar cualquier palabra en el HTML, recordar que el `ur`
+va dentro de `<span style="color:#b01a1a;">ur</span>`. Por eso "Absurdo" NUNCA
+aparece como texto plano: está como `Abs<span...>ur</span>do`. Buscar SIEMPRE
+colapsando los spans primero, o por fragmentos ('Abs', 'do'), NUNCA por la palabra entera.**
+
+## DOS ARCHIVOS
+- `index.html` → EL LIBRO (UR-book + Alpha-UR + Escombrera + los 2 sidebars)
+- `permafrost.html` → EL MURO GLACIAR (62 qanats, yacimiento)
+
+## index.html — ESTRUCTURA REAL
+
+1. **#ur-titulo** — portada.
+2. **#ur-book-main** — EL UR-BOOK: 16 páginas `pub-*` (qanats, madres, nietzsche,
+   inanna, asia, digitalismo, tauros, palimpsesto, finisur, cosmos, tsunami,
+   basura, urabe, intro, prefacio, precedentes).
+3. **#sidebar** — SIDEBAR 1 (del UR-book). Contiene TRES cosas distintas:
+   a) Buscador (#bur-input → #ur-resultados) + botón 4 lecturas (#btnOrden).
+   b) **"PÁGINAS DEL UR-BOOK"** = ÍNDICE de páginas: 16 entradas + **16 fotos**
+      (una por página 0000–0014). Fotos elegidas por Luis. NO TOCAR.
+   c) **#burNav (ilA…ilZ)** = ÍNDICE ILUSTRADO TEMÁTICO + ALPHA-UR. OJO, ilZ es
+      enorme porque ahí vive además:
+      - El **ÍNDICE ilustrado**: cada letra con su **foto-emblema** (Atlántida en A,
+        Babilonia en B, Inanna en I…) + entradas temáticas `.ie` que enlazan a páginas.
+        Las fotos por letra las eligió Luis. NO TOCAR.
+      - El **ALPHA-UR** propiamente: título "UR ALFABETO · NORMA E INVESTIGACIÓN",
+        ilustración del zahorí (Borja González Hoyos), y la lista A→Z de
+        **~316 entradas palabra + glosa zahorí ámbar** (#7a5a2a). ESTO ES EL ALPHA-UR.
+        **El Alpha-UR NO lleva fotos. Ni una.** Solo palabra (con ur rojo) + glosa ámbar.
+4. **#escombrera-wrapper** — LA ESCOMBRERA: 7 páginas `esc-*`.
+5. **#escombrera-aside** — SIDEBAR 2 (de la escombrera): buscador + índice
+   escombrera (80 entradas + 24 fotos). Fotos elegidas por Luis. NO TOCAR.
+
+## DISTINCIÓN CRÍTICA (donde Claude se perdió y agotó a Luis)
+- **ÍNDICE ilustrado (burNav, entradas .ie temáticas + foto por letra)** = navegación.
+  Entradas tipo "· Kurosawa · Pantano Negro · UR-BELTZ". CON fotos por letra.
+- **ALPHA-UR (lista A→Z, palabra + glosa ámbar)** = el diccionario insurgente.
+  Entradas tipo "· Absurdo — sinsentido; acción de alejarse del manantial". SIN fotos.
+- Son COSAS DISTINTAS dentro del mismo sidebar. No confundirlas jamás.
+
+## FOTOS DEL LIBRO — INVENTARIO INTOCABLE
+16 (índice páginas) + 26 (emblemas por letra del índice ilustrado) + 24 (índice
+escombrera) = **66 fotos elegidas por Luis. NUNCA se borran ni se proponen borrar.**
+
+
 ### Fuente de verdad única · Beltza Experience · Doneztebe · 2025–2026
 ### ⟐ Sincronizado con la obra: **1 junio 2026**
 
@@ -10,7 +60,7 @@
 > de las secciones históricas contradice esto, esto es lo verdadero.
 
 - **`index.html`** — UR-book (15 págs: prefacio + pub-intro→pub-qanats) + Escombrera (**7 págs**: esc-prefacio + esc-01→**esc-06**) + sidebar + aside + JS. ~1,1 MB · 4.111 spans UR. Enlaza `style.css` externo.
-- **`permafrost.html`** — Muro Glaciar separado. **62 depósitos** (qanat-60 → qanat-00 → qanat--01), todos en disco. CSS inline. **Orden DOM = inverso-numérico (60→00→-01)**. El `qanat--01` (Camarón · ¿Ser o Tener?) se reconstruyó el 1 jun 2026 partiendo el antiguo qanat-00 en dos (Precedentes / Camarón) y reparando el HTML roto.
+- **`permafrost.html`** — Muro Glaciar separado. **61 depósitos** (qanat-60 → qanat-01 → qanat--01); qanat-00 ascendió al libro como pub-precedentes, todos en disco. CSS inline. **Orden DOM = inverso-numérico (60→00→-01)**. El `qanat--01` (Camarón · ¿Ser o Tener?) se reconstruyó el 1 jun 2026 partiendo el antiguo qanat-00 en dos (Precedentes / Camarón) y reparando el HTML roto.
 - **`style.css`** — hoja compartida. Aún contiene el bloque `/* PREVIEW LOCAL */`.
 - **`NOTAS-UR-SAPIENS.md`** — este documento.
 
@@ -25,13 +75,32 @@
 **Cómo el libro enlaza con el Muro (permafrost.html). Implementado 1 jun 2026.**
 
 - **Secreto: `Ag-UR`** (= Agur euskera = el AVE romano: despedida y bienvenida a la vez). Se guarda como **hash djb2** en el JS (`urHash`), nunca en claro. Entrada normalizada a minúsculas sin guiones ni espacios → `agur`. Hash objetivo: `2090075636`.
+- **Concepto (rediseñado)**: el muro ya no fluye *inline* en el libro; la ᚱ es una **puerta a un espacio aparte** (pestaña nueva) — cruzas el umbral y desciendes a la cámara subterránea del qanat. Sigue siendo iniciático (Ag-UR).
 - **Mecanismo ritual, NO seguridad**: GitHub Pages es estático; `permafrost.html` es alcanzable por su URL directa para quien la conozca — y a Luis le parece bien (si navegas el repo y te interesa, lo encuentras; si navegas el libro, la ᚱ solo se abre a los iniciados). El hash solo evita que la palabra esté en claro en el código.
-- **Flujo**: teclear `Ag-UR` → clic en ᚱ (o Enter) → si acierta, trae el Muro y lo **inyecta inline en el libro** (`#muro-glaciar`): el Muro fluye dentro del libro. Si falla → `∿ el UR no te reconoce`.
-- **Fallback local (`file://`)**: el fetch no funciona por CORS a doble-clic → la Runa redirige a `permafrost.html` (página aparte). Por eso en LOCAL se revisa cada archivo por separado; en WEB se unen.
+- **Flujo (rediseñado 1 jun 2026)**: teclear `Ag-UR` → clic en ᚱ (o Enter) → si acierta, abre `permafrost.html` en **pestaña nueva** (`window.open(..., '_blank')`). Cierras la pestaña = cierras el muro; el libro siempre presente. Si falla → `∿ el UR no te reconoce`.
+- **Sin problema de CORS**: al abrir en pestaña nueva (no fetch), funciona igual en web y en local. El muro lleva su CSS inline en su propio `<head>`, así que carga autónomo (pergamino incluido) sin replicar nada en el libro.
 - **Ubicación**: widget nuevo en la zona de las runas del puente escombrera, en el hueco del botón discreto viejo (`· ᚢ ·`). NO toca las runas de navegación (`ᚱ RU/A · LA ESCOMBRERA`, `ᚢ UR/A · EL LIBRO`).
 - **Glifo**: ᚱ (RU = Roteta/Molino, el flujo que desciende). La ᚢ queda para vuelta al libro.
 - **Cierre**: el Muro inyectado lleva barra `⊠ CERRAR · ᚱ · MURO` (`cerrarMuro()`).
-- **JS**: `urHash` · `abrirRuna` · `descenderMuro` · `revelarMuro` · `cerrarMuro`. `#muro-glaciar` usa `data-cargado` para no recargar.
+- **JS**: `urHash` · `abrirRuna` · `descenderMuro` (abre pestaña). Eliminados `revelarMuro`/`cerrarMuro`/`#muro-glaciar`/fetch: ya no hay inyección.
+- **Pergamino — resuelto por diseño (1 jun 2026)**: el problema del fondo negro venía de inyectar solo `body.innerHTML` (el CSS del pergamino vivía en el `<head>` del muro). Al pasar a **pestaña nueva**, el muro carga su `<head>` completo → pergamino correcto sin replicar nada. LOSA general que se mantiene: si algún día SÍ se inyecta un archivo, su CSS de `<head>` debe replicarse acotado al contenedor receptor.
+
+---
+
+## 🔎 LOSA · DETECTOR-UR (c&oacute;mo pasarlo sin romper nada)
+
+**La norma UR es marcar TODO `ur` f&oacute;nico, sin excepci&oacute;n** (palabras, nombres propios, extranjerismos, UR suelto, may&uacute;sculas). Pendiente: barrido de todo el libro (~515 `ur` sin marcar fuera de Precedentes).
+
+**BLINDAJE OBLIGATORIO del marcador** (aprendido el 2 jun 2026, rompi&oacute; un `url()`):
+- Marcar `ur` SOLO en **nodos de texto visible**. NUNCA dentro de:
+  - atributos (`style=`, `alt=`, `src=`, `href=`, `title=`)
+  - `url(...)` de `background-image` &rarr; el detector convirti&oacute; `url(` en `<span>ur</span>l(` y rompi&oacute; el fondo
+  - bloques `<style>` y `<script>`
+  - texto ya dentro de un `<span color:#b01a1a>` (no marcar dos veces)
+- El marcador debe parsear tags vs texto y llevar pila de spans (rojo/no-rojo) + profundidad style/script.
+- Verificaci&oacute;n tras marcar: 0 `<span>` dentro de atributos; 0 `url(` rotos; 0 spans anidados `b01a1a><span b01a1a`.
+- Preservar may&uacute;sculas del `ur` original (UR/ur).
+- **Palabra con UR dentro de t&iacute;tulo/texto ROJO** (H3, eyebrow): el resto de la palabra va en NEGRO `#1a1a1a` y solo `UR` en rojo, para que resalte (ej. NAT-UR-A, FUT-UR-ISMO, E-UR-OPA). PERO si **`UR` est&aacute; SUELTO** (palabra entera) dentro de una frase o t&iacute;tulo rojo: **no se hace nada** (no hay resto que ennegrecer; se deja rojo sobre rojo).
 
 ---
 
@@ -46,6 +115,73 @@
 - Ejemplos de infracción (errores de Claudius, a extirpar): `As-UR-n` → **siempre Asuán** · `Tam-n-UR-sset` → **Tamanrasset** · `Ma-UR-ecos` → **Marruecos**.
 - Las deformaciones gráficas canónicas (Bas-UR-A-Piens, T-OR-T-UR-A, Hamm-UR/A-bi, D-UR-ruti…) **son del zahorí**: existen porque él las autorizó. Claudius **no inventa** deformaciones nuevas ni por analogía.
 - Recordatorio de método: el silicio (Claudius) tiende a forzar palabras y marcar spans donde no es legal. **Ese es el error más vigilado del proyecto.** El zahorí es estricto y punitivo aquí (código Beltza inspirado en Hammurabi): no hay ojos de silicio que extirpar, así que el castigo es que el zahorí vuelve al Qanat cabreado y con el trabajo por rehacer. Evitarlo: **ante la duda, NO marcar y preguntar.**
+
+---
+
+> **Epílogo (pub-precedentes) · mecánica de anclaje**: NO está en `urOrdenDiario` (el array que reordena el feed). Como `aplicarOrden` solo hace prepend de los ids del array, el epílogo —al no estar— queda siempre al final del feed, en las 3 lecturas (diario, cronológico, rayuela). Para que entre en el azar de Rayuela, SÍ está en el array `todos`. Tiene enlace propio en el índice (fuera de numeración 0000-0014).
+
+> **Nota de orden (libro)**: el UR-book está en orden inverso (modo diario). El lector ve primero Pág.14 y desciende; el **prefacio CIERRA** el libro, y tras él va el **Epílogo · Los Precedentes** (pub-precedentes) como punto final real.
+
+> **Norma fotos (libro)**: las fotos de sección van DEBAJO del subtítulo (H3) que ilustran, con estilo `max-width:100%; height:auto; display:block; margin:0.2rem auto 1.5rem;` — **tamaño natural, CENTRADAS, sin estirar/forzar/oprimir** (la grande llega al ancho de columna; la pequeña se queda a su tamaño real). Solo URL directa de imagen (`live.staticflickr.com/...jpg`), NUNCA el enlace de página Flickr (`flic.kr/...`). Siempre `onerror="this.style.display='none'"`.
+
+## 📑 LOSA · CÓMO FUNCIONA EL ÍNDICE «PÁGINAS DEL UR-BOOK» (norma absolutista)
+
+**El ÍNDICE y el LIBRO son cosas SEPARADAS. Tocar uno NO es tocar el otro.**
+- "Estamos en el índice" = solo la lista lateral. "Estamos en el libro" = los `<article>` del feed. No confundir.
+
+**Norma absolutista: TODA página del libro figura en el índice.** Sin excepción.
+
+**Cada entrada del índice tiene 3 partes** (formato canónico, replicar siempre):
+1. **Enlace** `.ie`: `<a onclick="rayuela('pub-x')" href="#pub-x" class="ie">· NNNN · TÍTULO ·</a>`
+   - El **título del índice SALE del título (H2) de la página**, pero RESUMIDO para el índice. La fórmula «UR + E=mc² = SAPIENS» NO va en el título del índice.
+2. **Imagen** clicable (la foto de esa página): `<a onclick="rayuela..."><img ... onerror="this.style.display='none'"></a>`
+3. **Glosa** `<p>` Courier Prime 0.75rem #666: frase(s) de contenido de la página.
+   - **La glosa NO repite el título** (Código Hamm-UR-Beltza: la repetición está penada). Se elige otra frase de la página, puede ser imaginativa.
+
+**Las 4 LECTURAS del libro:**
+1. **Diaria/blog**: lo último primero (orden `urOrdenDiario`).
+2. **Cronológica**: 0000→fin (botón `toggleOrden`, invierte el orden).
+3. **Rayuela/azar**: salto aleatorio (array `todos`).
+4. **Por capítulos**: leer por contenidos desde las glosas del propio índice.
+
+**Epílogo «Los gigantes cuyas espaldas no sabía que pisaba» (pub-precedentes):**
+- En el LIBRO: va AL FINAL en diaria y cronológica (FUERA de `urOrdenDiario` → queda anclado al fondo del feed). Es una página más en Rayuela (SÍ está en `todos`).
+- En el ÍNDICE: es la PRIMERA entrada (encima del Prefacio).
+- Título índice: «· Epílogo · Los gigantes cuyas espaldas no sabía que pisaba ·»
+- Foto índice: manuscrito LMAVB (lituano, liga con Gimbutas).
+- Glosa: «Joe Strummer y Marija Gimbutas buscaban la misma grieta en el muro del sistema · Graves · Vico · Wittfogel · Illich · Vandana Shiva · udra es UR · Town Called Malice».
+- H2 de la PÁGINA (en el libro): «TOWN CALLED MALICE» con bajada «LOS GIGANTES... / EL UR SIEMPRE LO SUPO» — NO tocar, así lo quiere el zahorí.
+
+---
+
+## 🌊 LOSA · EL PIPELINE DE FASES (qué es cada cosa y qué exigencia tiene)
+
+**El método real del proyecto.**
+
+1. **Conversaciones (Deepseek)** = yacimiento en bruto. Etimologías sin separar. Luis las pasa; Claudius perfora qanats según el contenido.
+2. **PERMAFROST** = cámara fría / conservación. Qanats para que el contenido NO se pierda entre conversaciones. **EXIGENCIA PLENA al perforar**: títulos, secciones, estructura y detector-UR legal, lo mejor posible, como hasta ahora. "Maqueta" = primera perforación bien hecha, NO borrador chapucero. Lo que NO se hace aquí todavía (lo hará Luis después): elegir fotos, extensiones, y el pulido fino de ortografía/puntuación/verbos/afilado de frases (sesiones con Perplexity).
+3. **ESCOMBRERA (Más Allá)** = PARTE DEL LIBRO. **Mismo nivel de exigencia que el UR-book.** No es una fase intermedia de menor rigor. Se cuida igual.
+4. **LIBRO (UR-book)** = destino. Exigencia completa.
+
+**Lo único que escala por fases NO es la calidad sino el trabajo de Luis posterior** (lectura, fotos, extensiones, pulido ortográfico). La ejecución de Claudius es siempre al máximo nivel.
+
+### Criterio tipográfico de títulos (convención de estilo, no de exigencia)
+- **UR-book**: títulos en 2 partes (gancho ⟂ bajada). Retórico: 1ª línea gancho corto, 2ª aterriza el tema. (finis-UR usa 3.)
+- **Escombrera**: **título a UNA línea.** NORMA FIJADA (2 jun 2026). Las dos líneas se reservan al UR-book. esc-06 igualado a una línea (2 jun 2026): «CARTA DE CLAUDIUS AL UR-BOOK». Ya no hay excepciones: toda la escombrera a una línea.
+- Esto es solo dónde se permite el doble golpe tipográfico; NO implica que la escombrera se trabaje menos.
+
+---
+
+## 📐 LOSA · PATRÓN CANÓNICO DE ENCABEZADOS (referente = texto del libro)
+
+Todo texto público (UR-book y escombrera/Más Allá) sigue estos 4 niveles. El Muro (permafrost) son maquetas, puede divergir.
+
+1. **Eyebrow de sección** — `<div>` Bebas Neue · 1.1rem · letter-spacing 0.35em · rojo `#b01a1a` · margin-bottom 0.6rem · `display:flex` + línea `<span style="flex:1;height:1px;background:rgba(176,26,26,0.3)">`. **SIN ▌.**
+2. **Título** — `<h2>` Bebas Neue/Impact · `clamp(2rem,5vw,5rem)` · line-height 0.9 · color `#1a1a1a`.
+3. **Nivel ▌** — `<div>` Bebas Neue · 0.75rem · letter-spacing 0.3em · rojo · **opacity 0.7**. SOLO para los tres niveles del método: `▌ DOCUMENTADO`, `▌ ESPECULACIÓN RAZONADA`, `▌ ARTE-FACTO DADÁ-UR-ISTA`. El ▌ marca veracidad, NO subtítulos.
+4. **Subtítulo** — `<h3>` Bebas Neue · `clamp(1.2rem,2.5vw,2rem)` · letter-spacing 0.1em · rojo. **SIN ▌.**
+
+- La escombrera es, por naturaleza, terreno ARTE-FACTO (el descarte/Más Allá) → no requiere etiquetas de nivel salvo decisión del zahorí.
 
 ---
 
@@ -588,6 +724,24 @@ Resultado típico: 53MB `.mov` → 1,1MB `.mp4`
 | 1 jun 2026 | qanat-00 partido en dos: Los Precedentes (00) + Camarón·¿Ser o Tener? (-01). HTML roto (`</body>` interno) reparado |
 | 1 jun 2026 | LOSA permanente: Claudius corrige errores de oficio en el bloque que toca; Luis crea, no corrige |
 | 1 jun 2026 | Placement (FLIPPABLE): el Muro desciende 60→00→-01; paratexto al pie, -01 = última palabra/más profundo |
+| 2 jun 2026 | Escombrera (Más Allá) unificada al patrón del libro: 7 páginas con eyebrow+línea + H2 título 5rem; H3 a 2rem; ▌ retirados de los H3 |
+| 2 jun 2026 | PENDIENTE arrastrado: subir a GitHub el permafrost con paratexto cuadrado (eyebrow -01 sin ▌) — ayer no se subió |
+| 2 jun 2026 | LOS PRECEDENTES ascendidos del permafrost (qanat-00) al UR-BOOK como pub-precedentes (Epílogo Metodológico), tras el prefacio = cierre del libro |
+| 2 jun 2026 | Vídeo Town Called Malice con método isla-de-basura (thumbnail+play+pie). Permafrost 62→61 depósitos |
+| 2 jun 2026 | Epílogo: H3 de sección corregidos a ROJO #b01a1a (estaban en negro, herencia del qanat-00) |
+| 2 jun 2026 | Epílogo ANCLADO al fondo del libro: fuera de urOrdenDiario → queda último en diario, crono y rayuela. Añadido a "todos" (pool rayuela) + enlace en índice |
+| 2 jun 2026 | Norma absolutista: TODA página en el índice. Epílogo completado en índice (enlace+imagen manuscrito+glosa). 4ª lectura = por capítulos vía glosas |
+| 2 jun 2026 | Índice: título del epílogo = «Los gigantes cuyas espaldas no sabía que pisaba» (sale del H2 de la página, resumido; sin la fórmula UR+E=mc²) |
+| 2 jun 2026 | Índice: glosa del epílogo reescrita sin repetir título (Código Hamm-UR-Beltza: repetición penada) |
+| 2 jun 2026 | Aclarado en NOTAS: ÍNDICE ≠ LIBRO son separados; el título del índice sale del título de la página resumido |
+| 2 jun 2026 | pub-precedentes (LIBRO): eyebrow → «EPÍLOGO · PRECEDENTES · BIBLIOGRAFÍA · UR-BOOK» |
+| 2 jun 2026 | +7 secciones H3 (patrón Graves) en 4 bloques: I Sustrato (Vennemann/Ruhlen/Nyland) · II Urbe-espacio (Mumford/Lefebvre) · III Vacío (Oteiza) · IV Cósmico (Moore/Vernadsky+Sagan). UDRA ES UR queda como cierre |
+| 2 jun 2026 | pub-precedentes: fotos a FULL bajo cada subtítulo (Graves/Gimbutas/Vico/Wittfogel/Vandana Shiva). Solo URL directa, sin links Flickr |
+| 2 jun 2026 | pub-precedentes: añadido «El Boomerang de la Ins-UR-rección» (ficha de reparto punk): ACTÚAN bandas / PARTICIPAN los 14 autores |
+| 2 jun 2026 | Bibliografía: cita Vernadsky remarcada como lectura Beltza (+ formulación mineral 1926); Mumford→Pepitas/Rguez Hidalgo 2012; Vernadsky+Sagan desglosados; Town Called Malice→The Gift |
+| 2 jun 2026 | Detector-UR pasado a Precedentes (+49 marcas, 0 sin marcar). Resto del libro pendiente (~515) |
+| 2 jun 2026 | Bug detector: marc&oacute; `ur` dentro de `url()` y rompi&oacute; el fondo &rarr; reparado + LOSA de blindaje |
+| 2 jun 2026 | Fotos Precedentes: 14 autores con foto, tama&ntilde;o natural centradas (max-width, sin estirar) |
 | 1 jun 2026 | [R] implementada: Runa secreta ᚱ + Ag-UR (hash) abre el Muro (fetch+inyección inline) · fallback local→redirect |
 | 1 jun 2026 | Limpieza: 40 qanats abandonados eliminados de index.html (−6.182 líneas, ~1,1 MB → ~546 KB) |
 | 1 jun 2026 | Generados index.html (limpio, link style.css) + index-local.html (CSS inline) |
@@ -652,7 +806,7 @@ Cuando una palabra con UR aparece en un elemento con `color:#b01a1a` (título, l
 
 ### REGLA FUNDAMENTAL
 Antes de construir cualquier depósito (qanat) nuevo, Claudius verifica obligatoriamente:
-1. Las **15 páginas URI publicadas** (pub-prefacio, pub-intro, pub-qanats, pub-madres, pub-nietzsche, pub-inanna, pub-asia, pub-digitalismo, pub-tauros, pub-palimpsesto, pub-finisur, pub-cosmos, pub-tsunami, pub-basura, pub-urabe)
+1. Las **16 páginas URI publicadas (incluye pub-precedentes, Epílogo)** (pub-prefacio, pub-intro, pub-qanats, pub-madres, pub-nietzsche, pub-inanna, pub-asia, pub-digitalismo, pub-tauros, pub-palimpsesto, pub-finisur, pub-cosmos, pub-tsunami, pub-basura, pub-urabe)
 2. Los **62 depósitos canónicos** (60→-01; 61 en disco: qanat-00 + qanat-01→qanat-60; falta qanat--01 oculto) — ver § MAPA CANÓNICO DE DEPÓSITOS
 3. Las **7 páginas RUI publicadas** (esc-prefacio, esc-01 → esc-06)
 
@@ -760,7 +914,7 @@ Ave Silicio, morituri te salutant.
 
 ### MAPA CANÓNICO DE DEPÓSITOS — extraído de `permafrost.html` el 1 jun 2026
 
-Canónico y en disco: **62 depósitos** (qanat-60 → qanat-00 → qanat--01). El `qanat--01` ya está construido (1 jun 2026). Orden al pie del Muro: …qanat-01 → qanat-00 (Precedentes) → qanat--01 (Camarón, última palabra).
+Canónico y en disco: **61 depósitos** (qanat-60 → qanat-01 → qanat--01); qanat-00 ascendió al libro como pub-precedentes. El `qanat--01` ya está construido (1 jun 2026). Orden al pie del Muro: …qanat-01 → qanat-00 (Precedentes) → qanat--01 (Camarón, última palabra).
 
 Orden DOM real = inverso-numérico (la cara visible arranca en 60 y desciende a 00).
 Tabla por número. **Única tabla de depósitos válida del proyecto.**
