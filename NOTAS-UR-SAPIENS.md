@@ -1,5 +1,109 @@
 # UR-SAPIENS — NOTAS DE PROYECTO
 
+# ████████████████████████████████████████████████████████████████
+# ⊕ OR-GANIGRAMA TOTAL · LOCALIZACIÓN DEFINITIVA · PARA TODOS LOS CLAUDIUS
+# Verificado y medido sobre el HTML el 5 jun 2026. MANDA sobre todo lo de abajo.
+# ████████████████████████████████████████████████████████████████
+
+> Escrito tras perder tiempo repetidamente localizando mal los índices y el
+> Alpha-UR. Si vas a tocar índices, Alpha-UR o fotos: LEE ESTO ENTERO PRIMERO.
+
+## REGLA CERO (la que más tiempo nos ha costado)
+El `ur` SIEMPRE va dentro de `<span style="color:#b01a1a;">ur</span>` (y `UR`, `or`,
+`OR`, `ru`, `RU` igual). Por eso NINGUNA palabra con UR aparece como texto plano:
+"Absurdo" está como `Abs<span...>ur</span>do`. **Buscar SIEMPRE por fragmentos
+('Abs', 'Rothsch', 'Ma') o colapsando spans primero — NUNCA por la palabra entera.**
+
+## LOS DOS ARCHIVOS
+- `index.html`  → EL LIBRO completo (UR-book + Alpha-UR + Escombrera + 2 sidebars + JS).
+                  Enlaza `style.css` EXTERNO.
+- `permafrost.html` → EL MURO GLACIAR aparte (qanats; material en bruto). CSS INLINE.
+- NORMA DOBLE SALIDA: cada cambio de cuerpo/CSS regenera SIEMPRE `index-local.html`
+  (CSS inline, para revisar a doble-clic) + `index.html` (limpio, para GitHub).
+  Para GitHub se suben: `index.html` + `permafrost.html` (style.css solo si cambió).
+
+## ███ HAY TRES ZONAS CON DIVISORES `class="il"` ███
+## Esta es la trampa nº1. Las tres comparten clase CSS pero NO son lo mismo.
+## Distínguelas SIEMPRE por el id del contenedor + formato del divisor + función JS.
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│ ZONA 1 · SIDEBAR UR-BOOK            contenedor: <aside id="sidebar">       │
+│   posición en archivo: ~245k (la PRIMERA)                                 │
+│   divisor de letra:  <div class="il" id="ilA">A</div>   ← LETRA SOLA + id  │
+│   enlaces:           class="ie"  ·  onclick rayuela('pub-..')             │
+│   destino:           href="#pub-..."  (páginas del UR-book)               │
+│   fotos:             SÍ — una foto-emblema por letra (Atlántida=A, etc.)   │
+│   contiene además:   índice "PÁGINAS DEL UR-BOOK" (16 entradas + 16 fotos) │
+└─────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│ ZONA 2 · ALPHA-UR (diccionario)     contenedor: id="ur-alfabeto"          │
+│   posición en archivo: ~326k (EN MEDIO, dentro del sidebar UR-book)       │
+│   divisor de letra:  <div class="il">· A ·</div>   ← CON · X · · SIN id    │
+│   contenido:         entradas de DICCIONARIO, no navegación:              │
+│                      <span display:block>· Palabra[ur rojo] <span ámbar   │
+│                      #7a5a2a italic>— glosa</span></span>                 │
+│   destino:           NINGUNO (no son enlaces)                             │
+│   fotos:             NO. NI UNA. Solo palabra (ur rojo) + glosa ámbar.    │
+│   título:            "UR ALFABETO · NORMA E INVESTIGACIÓN" + zahorí dibujo │
+│   nº entradas:       ~360 (crece). id="ur-alfabeto" lo añadimos para el    │
+│                      botón "α UR ALFABETO" de los dos índices.            │
+└─────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│ ZONA 3 · SIDEBAR ESCOMBRERA         contenedor: <aside id="escombrera-aside">│
+│   posición en archivo: ~565k (la ÚLTIMA)                                  │
+│   divisor de letra:  <div class="il">· A ·</div>   ← CON · X · · SIN id    │
+│                      (FORMATO IDÉNTICO al Alpha-UR → por eso se confunden) │
+│   enlaces:           class="ie"  ·  onclick escRayuela('esc-..')          │
+│   destino:           href="#esc-..."  (páginas de la escombrera)          │
+│   fotos:             SÍ — algunas entradas llevan foto + glosa 0.75rem.   │
+│   nº enlaces:        ~80  ·  nº fotos: 22 (y subiendo, Luis las añade)     │
+└─────────────────────────────────────────────────────────────────────────┘
+
+## CÓMO LOCALIZAR SIN FALLAR (líneas de localización)
+1. NUNCA buscar "la letra M" a secas: devuelve la zona equivocada (hay 3).
+2. Para el SIDEBAR ESCOMBRERA: anclar primero en `<aside id="escombrera-aside"`,
+   acotar hasta su `</aside>`, y dentro buscar la entrada por su TEXTO
+   (ej. 'Rothschild'), no por la letra. La letra `· R ·` aparece en 3 sitios.
+3. Para el ALPHA-UR: anclar en `id="ur-alfabeto"` y acotar hasta
+   `id="puente-escombrera"`. Insertar entradas tras el divisor `<div class="il">· X ·</div>`
+   (· literal, NO &middot;, en el divisor; PERO las entradas usan &middot; al inicio).
+4. Para el SIDEBAR UR-BOOK: anclar en `<aside id="sidebar"` (sin guion) y usar los
+   id="ilX" (letra sola), que son ÚNICOS de esta zona.
+5. Distinguir función JS: `rayuela(` = UR-book · `escRayuela(` = escombrera.
+
+## ENTRADA CON FOTO EN EL SIDEBAR ESCOMBRERA — PLANTILLA EXACTA
+Se inserta JUSTO DESPUÉS del `<a class="ie">` de texto de esa entrada:
+```
+<a href="#esc-NN" onclick="escRayuela('esc-NN'); return false;" style="display:block; cursor:pointer;"><img src="URL_DIRECTA" alt="DESCRIPCIÓN" style="width:100%; height:auto; display:block; margin:0.4rem 0 0.3rem 0;" onerror="this.style.display='none'"></a>
+<p style="font-family:'Courier Prime',monospace; font-size:0.75rem; color:#666; letter-spacing:0.06em; margin-bottom:0.6rem;">· GLOSA con <span style="color:#b01a1a;">UR</span> si aplica ·</p>
+```
+- URL imagen: directa al archivo (Wikimedia commons/X/XX/... sirve; evitar /thumb/ si se puede). Flickr: el `.png`/`.jpg` directo.
+- `onerror="this.style.display='none'"`: oculta la img si el enlace muere (no rompe maqueta).
+
+## ENTRADA NUEVA EN EL ALPHA-UR — PLANTILLA EXACTA
+Se inserta tras el divisor `<div class="il">· X ·</div>` de su letra:
+```
+<span style="display:block; font-family:'Courier Prime',monospace; font-size:1.05rem; color:#0a0a0a; padding:0.2rem 0 0.2rem 1.2em; text-indent:-1.2em; border-bottom:1px solid rgba(0,0,0,0.08); line-height:1.4;">&middot; Pal[ur rojo]abra <span style="font-style:italic; color:#7a5a2a; font-size:0.88rem;">&mdash; glosa</span></span>
+```
+- VERIFICAR el ur con: idx = palabra.lower().find('ur'); marcar SOLO si idx>=0.
+- Contar la entrada DENTRO del alfabeto (no en todo el doc): la palabra puede salir
+  también en su propia glosa → 2 ocurrencias es normal, 1 como ENTRADA (display:block).
+
+## FOTOS = INTOCABLES
+Todas las fotos (las 3 zonas) las elige LUIS. NUNCA se borran ni se proponen borrar.
+Claudius solo AÑADE cuando Luis pasa una imagen + letra + aprueba glosa.
+
+## VERIFICACIÓN OBLIGATORIA tras tocar índices/alfabeto/fotos
+- spans abren == cierran  (`<span` vs `</span>`)
+- 0 spans dentro de atributos: regex `(?:alt|src|href|style)="[^"]*<span`
+- articles 23/23 en index
+- funciones JS intactas: rayuela, escRayuela, toggleOrden, toggleEscombrera, aplicarOrden, urOrdenDiario, escBuscar
+- la entrada nueva aparece 1× como entrada (no duplicada)
+
+
+
 # ████████████████████████████████████████████████████████
 # LOSA SUPREMA · ORGANIGRAMA DE LA GUERRILLA UR-SAPIENS
 # (estructura REAL del HTML — leer ANTES de tocar nada)
@@ -1386,3 +1490,11 @@ vascos, sumerios, japoneses y fineses del libro.
   se retome el Alpha-UR. NO dar por bueno el "349 único" antiguo.
 
 ---
+
+
+---
+
+## CRITERIO RU ROJO (afinado 6 jun 2026)
+El RU en rojo NO se pone en cualquier palabra con r+u. Solo es legal donde es ESPEJO DELIBERADO del UR: kurrulla (k-UR-RU-lla, el UR y su espejo juntos), K-UR-RULLA, y "la RU reflejada" (cuando se explica el concepto espejo). 
+NO se marca RU en: palabras comunes (grulla, grullas, erudito), ni nombres propios/apellidos (Larruquert, Irulegi). Esos van en NEGRO aunque tengan r+u.
+Y recordatorio previo: U suelta NUNCA en rojo (solo UR o RU completos). RU no genera entrada en Alpha-UR (solo UR).
