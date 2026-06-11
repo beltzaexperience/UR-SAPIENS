@@ -1498,3 +1498,26 @@ vascos, sumerios, japoneses y fineses del libro.
 El RU en rojo NO se pone en cualquier palabra con r+u. Solo es legal donde es ESPEJO DELIBERADO del UR: kurrulla (k-UR-RU-lla, el UR y su espejo juntos), K-UR-RULLA, y "la RU reflejada" (cuando se explica el concepto espejo). 
 NO se marca RU en: palabras comunes (grulla, grullas, erudito), ni nombres propios/apellidos (Larruquert, Irulegi). Esos van en NEGRO aunque tengan r+u.
 Y recordatorio previo: U suelta NUNCA en rojo (solo UR o RU completos). RU no genera entrada en Alpha-UR (solo UR).
+
+---
+
+## SESIÓN 09 JUN 2026 — CUATRO QANATS NUEVOS (permafrost 63-66)
+
+Construidos cuatro qanats potentes en permafrost.html, estructura completa (divisor 4px + kicker Bebas + h2 título + nota de método + secciones romanas I/II/III/IV con h3 + blockquote rojo + cierre "lo que vinimos a decir"). Orden descendente (el más nuevo arriba). Todos: 0 UR sin marcar, 0 rojos ilegales, divs balanceados (+3 cada uno sobre desbalance preexistente de fábrica).
+
+- **qanat-63 · UR-MENIA**: Mikel Armenio / lápida de Polloe (Papyan Artavazd) / Urartu=Ararat=Urashtu=Ayrarat=Nairi "tierra de los ríos" / lago Van / el khachkar / la UR-menia arcaica (Urmenius) / somos agua. Blockquote: "No se llama así porque haya ríos. Hay ríos porque se llama así."
+- **qanat-64 · LAS DECLINACIONES DEL UR**: cosmogonía UR/RU·AR/RA·ER/RE·IR/RI·OR/RO (agua→árbol→río→tiempo→orden→Roma→ruptura). Declarada como intuición/KAOS, no etimología. AR-te/UR-te. APER-T-UR/A, Joe Strummer + Marvin Gaye. CACÉ 3 inventos míos de UR falso: Strummer (es RU+nombre propio), Sumer (no tiene ur), ocultada (no tiene ur consecutiva). El comanche aplicado a mí mismo.
+- **qanat-65 · YURRO**: huetar de Costa Rica, yurro=manantial documentado (huetarismo), toponimia UR (Curridabat=poblado/Quesada Pacheco, Tucurrique, Turrialba, turrú=árbol, Tures=río), el estrecho de Bering, UR-OLA hermano de Y-URRO. Descartado por contraste: Yuriro/Cotaquerrique/etimologías Turrialba (paja). 
+- **qanat-66 · EL VIAJE DEL UR-SAPIENS / EKAIN**: documental 3 niveles. HECHO: embudo ~1.300 fértiles, Bab el-Mandeb ~60k, Sahul navegando ~65k (primeros marineros), Bering hielo ~25k, Gibraltar NUNCA, Ekain 13-14k. DESMENTIDO: catástrofe Toba (refutada, sin invierno volcánico ni caída genómica, Jurreru/India sobrevivió). HIPÓTESIS ABIERTA: oleadas, White Sands, embudo de hace 900k (2023). El Corto Maltés de Ekain (el sedentario que se quedó). "Hemen non dago ura?"
+
+PENDIENTES de primera mano de Luis: la yegua preñada del logo de sidra Ekain (preguntar a Aitor el sidrero de Zestoa), y las 3 posturas del cromlech (Urbeltz ritual ganadero / Peñalver funerario-Aranzadi / Oteiza puerta estelar — todas de primera mano de Luis en Beltza Records). El epitafio armenio de Mikel Armenio (confirmar transcripción).
+
+---
+
+## QANAT-67 · LAS SUIZAS DEL UR (10 jun 2026)
+Construido desde la conversación de Luis con otra IA sobre toponimia suiza (Zúrich/Turicum, Murten/Morat, Hurden, Ursprung, lago/monte/cantón Uri, Furka, Urezzas Dadoura, burgundios, Jura, Alteuropäisch de Krahe, campos de urnas). Estructura: doble registro honesto.
+- I · EL MAZO ENCIMA DE LA MESA: la etimología oficial (mazo de academia) desmiente UR=agua: *wed- es la raíz real; Zúrich<Turicum<Tūros (nombre galo); Murten<muratum "amurallado"; Hurden<hurþ- (trampas pesca); Ursprung<ur-(prefijo "primigenio")+Sprung(salto). DECLARADO como lo que dice la ciencia.
+- II · LO QUE EL MAZO NO PUEDE APLASTAR: Alteuropäisch (Krahe), campos de urnas (1200-800 a.C.), hidronimia prerromana de significado "desconocido" para la academia. La lectura poética como resistencia.
+- III · PIEDRA HERMANA vs PIEDRA USURPADA: la colina nutre el lago (nacedero), el imperio ve muro/catastro/peaje; T sumeria, Hammurabi, código en piedra → muro → algoritmo.
+- IV · BAS-UR-SAPIENS vs UR-SAPIENS: distinción CLAVE que Luis corrigió a la IA. BAS-UR-SAPIENS=el que canaliza/posee/amuralla/vende el agua (T sumeria, ley, algoritmo). UR-SAPIENS=el que se reconoce como URA, talló el hacha para crear no poseer, la RESISTENCIA, la columna D-UR-RU-TI. Del sílex al silicio, dos formas de empuñar la herramienta. "URA fui, URA soy, URA será."
+MATIZ IMPORTANTE: MAZO = grupo de heavy español de los 80 que Luis ama, NO el mazo del dictador de academia. La otra IA HALAGABA en vez de contrastar; Luis le corrigió la confusión de los dos sapiens. Cita verificada: Columna Durruti (Buenaventura Durruti, mayor columna anarquista GCE, símbolo de resistencia/autogestión).
