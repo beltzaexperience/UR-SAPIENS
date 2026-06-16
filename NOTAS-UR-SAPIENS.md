@@ -1521,3 +1521,118 @@ Construido desde la conversación de Luis con otra IA sobre toponimia suiza (Zú
 - III · PIEDRA HERMANA vs PIEDRA USURPADA: la colina nutre el lago (nacedero), el imperio ve muro/catastro/peaje; T sumeria, Hammurabi, código en piedra → muro → algoritmo.
 - IV · BAS-UR-SAPIENS vs UR-SAPIENS: distinción CLAVE que Luis corrigió a la IA. BAS-UR-SAPIENS=el que canaliza/posee/amuralla/vende el agua (T sumeria, ley, algoritmo). UR-SAPIENS=el que se reconoce como URA, talló el hacha para crear no poseer, la RESISTENCIA, la columna D-UR-RU-TI. Del sílex al silicio, dos formas de empuñar la herramienta. "URA fui, URA soy, URA será."
 MATIZ IMPORTANTE: MAZO = grupo de heavy español de los 80 que Luis ama, NO el mazo del dictador de academia. La otra IA HALAGABA en vez de contrastar; Luis le corrigió la confusión de los dos sapiens. Cita verificada: Columna Durruti (Buenaventura Durruti, mayor columna anarquista GCE, símbolo de resistencia/autogestión).
+
+---
+
+## PENDIENTE · SECCIÓN NUMISMÁTICA "EL VIAJE DE LA ESTRELLA" (Pág.11 Carambolo) — para construir con calma
+
+Material de Google (NO DeepSeek) sobre el viaje de la estrella de 8 puntas Uruk→Doneztebe. Cuatro etapas. TODO VERIFICADO:
+
+**I · CECAS (s. VII-I a.C.)** — la estrella se independiza del templo y pasa a moneda:
+- Cástulo (Linares, Jaén, Oretania): ceca ibérica confirmada, monedas con estrella de 8 puntas + glóbulo central catalogadas (monedaiberica.org). ✓
+- Malaca (Málaga): bronces púnicos, estrella 8 puntas en reverso + leyenda neopúnica. ✓
+- Arse/Saguntum (Sagunto): estrella 8 puntas como motivo principal del reverso. ✓
+
+**II · LADRILLO MUDÉJAR TERUEL (s. VIII-XIV)** — Rub el Hizb (estrella que divide cuartos del Corán). Torres San Martín y El Salvador, azulejo verde/manganeso. Patrimonio UNESCO 28-nov-1986. Eje = AUTOVÍA MUDÉJAR A-23 (Sagunto-Zaragoza), NO "Mozárabe" (Luis reconoció su propio error: él la conocía como mozárabe, es mudéjar).
+- EL HITO DE SINGRA = escultura "Estrella Mudéjar" de Julio Tapia Gasca (Zaragoza, 1957), acero cortén, AÑO 2000, km 154 A-23, 15m alto/18 largo/45 ancho. Representa la curva de la autovía penetrando la estrella de 8 puntas. Luis lo ha visto en persona; también se le conoce como "Hito". Foto de Vito Fonte aportada. ✓ (Claudius se retractó: "Hito" es nombre válido, no error).
+- Las fuentes (laestrelladeljamon, aragonologia) llaman al símbolo "estrella mudéjar O ESTRELLA TARTÉSICA" y dicen que el pueblo tartésico la usaba desde el Neolítico para ofrendas al Sol → RESPALDA la tesis de Luis (tartesa primero, mozárabe/mudéjar después).
+
+**III · PAPEL DE AGUA / FILATELIA (s. XIX)** — la T del Estado pasa del bronce a la tinta:
+- Matasellos "Araña": cuño de tinta en estrella de 8 puntas lobulada, para inutilizar la efigie real del sello (Madrid/Barcelona, ~1850).
+- Filigrana/marca de agua FNMT: estrella de 8 puntas en el tejido del papel de sellos clásicos españoles y coloniales (Cuba, Filipinas, Puerto Rico). Se ve al trasluz. POTENTE PARA EL UR-BOOK: la marca de agua nace del UR líquido (presión de rodillo sobre celulosa húmeda, al drenar el agua cambia la densidad). La T fija su control modificando el cuerpo del flujo hídrico, no con tinta exterior.
+
+**IV · DONEZTEBE (s. XVI)** — la estrella remata el viaje como acta de emancipación civil:
+- Escudo: "de azur, sobre terreno abrupto un árbol de su color natural, atravesado en su base por jabalí de sable siniestrado; en el cantón derecho del jefe una estrella de oro de OCHO puntas con un rabo luminoso" (blasón oficial Ayto. Doneztebe / Gob. Navarra / Wikipedia). ✓
+- Procede del escudo de los Señores de Agorreta; cuando la familia señorial perdió poder, la villa recuperó estatus, alcanzó categoría de BUENA VILLA con derecho de llamamiento a Cortes, y colocó el escudo en la iglesia de San Pedro y la Casa de Regimiento (2ª mitad s.XVI). ✓
+- DISCREPANCIA 8 vs 6 PUNTAS (decisión de Luis: seguir blasón oficial de OCHO + mencionar la discrepancia, lo más honesto): el blasón oficial dice 8 puntas (encaja con cadena de Inanna/Venus), pero el estudio de *Príncipe de Viana* ("El escudo de armas de Santesteban de Lerín") observa que la talla real "ha pasado a tener SEIS puntas". Lectura UR-book: la norma recuerda el origen (8=Venus=diosa del UR), la mano del cantero lo deforma (6=hexagrama). El símbolo se transforma al viajar = refuerza la tesis, no la debilita. Casa Consistorial en calle Mercaderes 18. Posible verificación in situ de Luis (contar puntas en San Pedro y Casa de Regimiento; puede haber varias representaciones distintas).
+
+CORRECCIÓN PENDIENTE YA IDENTIFICADA en Pág.11 actual: "Autovía Mozárabe" (2 sitios) → "Autovía Mudéjar (A-23)". Las otras 5 menciones de "mozárabe" (madres mozárabes, arquitectura mozárabe de San Miguel de Escalada, Estrella Mozárabe) son legítimas y NO se tocan — pero ojo: la estrella de la A-23/Teruel es mudéjar-tartésica, distinta de la mozárabe de Escalada.
+
+---
+
+## ⭐ PENDIENTE IMPORTANTE · ENTRADA NUEVA PARA EL ALFABETO UR: SUSURRO / SUSURRAR / SUSURRADOR
+
+Hallazgo verificado bajo Hammurabeltz (surgió al cerrar el cap.2 de URTZ con "Mejor así, susurra la T"). NO está aún en el Alfabeto UR del index.html. Meterla cuando Luis dé el visto bueno.
+
+**sus-UR-ro** (el UR/agua dentro del murmullo, en sonido Y significado):
+- RAE: *susurro*, del latín *susurrus* = "ruido suave y remiso que naturalmente hacen algunas cosas". 2ª acepción explícita: el sonido "como el que producen las hojas moviéndose al viento o **el agua al correr**". → El susurro ES, por definición de diccionario, el sonido del agua que fluye. No es licencia poética: está contrastado.
+- Etimología: *susurrare* 'zumbar, murmurar', voz onomatopéyica, en español desde el s.XV (La Celestina, 1499). Reduplicación del PIE ***swer-** "zumbar, susurrar" → también da sánscrito *svarati* "resuena", griego *syrinx* "flauta", inglés antiguo *swearm* "enjambre".
+- GIRO DADÁ-INSURRECTO (el oro): de la MISMA raíz *swer-* salen dos ramas gemelas y opuestas: **susurrus** (lo que SÍ se oye, bajito) y **surdus** (sordo, no escuchado) → de *ab-surdus* = "lo que no se escucha, lo que pasa desapercibido" nace ABSURDO. El sistema susurra para volver su violencia inaudible, sorda, absurda. "Susurra la T" es exacto hasta la raíz: el poder que murmura para volverse absurdo.
+- Sinónimos RAE que tienden puentes: murmullo, rumor, runrún, arrullo, bisbiseo. (Ojo: "rumor" y "runrún" llevan RU — posible espejo).
+- Familia: susurrar, susurro, susurrador, susurrido, susurrón.
+
+Fuentes: dle.rae.es/susurro, etymonline (susurrus/susurration/surdus), elcastellano.org (La Palabra del Día, 6-ene-2025), Wikcionario.
+
+**ACTUALIZACIÓN (La Celestina + ampliación qanat-13):**
+- DATO LITERARIO CONTRASTADO: el susurro entra en la prosa castellana en *La Celestina* (Fernando de Rojas, 1499), obra fundacional, ACTO VII, en boca de la PROPIA CELESTINA (alcahueta/hechicera) reprochando a Pármeno estar "susurrando y murmurando contra mí en presencia de Calisto". Las dos palabras-agua (susurro + murmullo) EMPAREJADAS en su nacimiento literario, y en boca de bruja: susurro como conjuro/conspiración = "susurra la T". Bonus: Rojas era CONVERSO (judeoconverso), mugalari del idioma escribiendo en código en los márgenes de la Inquisición — el susurro entró de la mano de quien tenía que susurrar para sobrevivir. Fuente: rinconcastellano.com (acto VII), Wikipedia La Celestina.
+- ABS-UR-DO INSURRECTO (lectura de Luis, ya integrada): ab-surdus = alejarse del sus-UR-ro / m-UR-mullo de UR sin cantimplora provista de UR, adentrándose en "océanos desertificados" hasta que el oído se seca = la SED SEMÁNTICA, deshidratación del sentido. Rima con la académica (ab-surdus = lo no escuchado). Ambas del PIE *swer-.
+- ✅ YA AMPLIADO EN EL PERMAFROST: el qanat-13 (CWEORÐ · EL FUTHARK HÍDRICO · M-UR-MULLO) recibió 3 secciones nuevas (SUS-UR-RO / ABS-UR-DO / LA CELESTINA) + 2 entradas de glosa (Sus-UR-ro, Abs-UR-do) + ampliación de la entrada "Runa". Hecho bajo Hammurabeltz. PENDIENTE AÚN: meterlo también en el ALFABETO UR del index.html (esto sigue pendiente, es otro sitio).
+
+---
+
+## ✅ QANAT-68 · ANGOS-T-UR/A: DOLOR, CANTO Y MUERTE EN EL ORINOCO (permafrost)
+
+Maqueta currada, arriba del Muro (orden descendente). Estructura: el Orinoco es el cauce, la angostura la garganta, lo demás afluentes. 10 secciones + cierre + glosa (7) + indicadores + pie canónico (Depósito 68). Marcado de qanat con guiones.
+
+**Secciones:** El cauce y la garganta (la T de granito / Piedra del Medio / angere) · El Congreso de la garganta (Bolívar 1819) · La ruta del agua negra (Gorée→Cartagena→Magdalena/Canal del Dique + Benkos Biohó) · Afluente cubano (Zulueta, El Negrero) · Afluente vasco (Euskal Herria y su negrero, Iván Zulueta/Arrebato/La fortuna de los Irureta 1964) · Afluente regente (María Cristina de Borbón) · La abolición que no abolía · La leyenda UR-bana (peleas mandinga/Django, desmontaje) · El gorro frigio y el UR rojo · El canto Sentao (mujeres de T-UR-bo y UR-abá, Eustiquia Amaranto, Martina Camargo).
+
+**DATOS verificados bajo Hammurabeltz:**
+- Angostura: lat. angostura < angosto < angere (estrangular), raíz PIE *h₂enǵʰ- (estrecho). Concedida la lingüística del libro (UR consecutiva real; todas las acepciones = agua estrangulada). La Piedra del Medio (granito) estrecha el Orinoco a ~800 m.
+- Congreso/Discurso de Angostura: 15-feb-1819, Santo Tomé de Angostura del Orinoco (hoy Ciudad Bolívar), presidente Francisco Antonio Zea. Frase LITERAL "la proscripción de la esclavitud" (Correo del Orinoco nº19-22). ⚠ El doc de Google decía "...es la ley de las leyes" — NO aparece literal, era adorno. Corregido.
+- Ruta: Cartagena de Indias = principal puerto negrero; río Magdalena + Canal del Dique (115 km, cavado por esclavos) = ruta al interior. Benkos Biohó (mandinga) fundó San Basilio de Palenque, 1599, primer pueblo libre de América.
+- Zulueta: Julián de Zulueta y Amondo (1814-1878), alavés (Anúcita), "El Negrero"/"Príncipe de los Negreros", principal tratante de Cuba, sucursales Londres/Cádiz, 6 ingenios (Central Álava 600 esclavos), inició trata de chinos (124.813 culíes), trata clandestina con la reina regente María Cristina de Borbón, I marqués de Álava. BISNIETO: cineasta Iván Zulueta (Arrebato); su 1er corto "La fortuna de los Irureta" (1964) se inspira en Julián. [Resonancia privada de Luis, NO al texto: Ir-UR-eta ≈ Rot-eta; 1964 = año nac. Luis.]
+- Abolición España: 1817 tratado (prohíbe trata, no esclavitud) · 1837 abolición peninsular (Cuba/PR exentas) · 1870 Ley Moret (libertad de vientres) · 1873 Puerto Rico · 1886 Cuba. España la ÚLTIMA de Europa. Tras 1817 la trata clandestina fue la más brutal/masiva (>1/2 millón a Cuba, dobles bodegas). "Partido negrero" boicoteó la abolición (Cánovas entre obstructores). Ley final = esclavos pagaban su libertad (patronato).
+- Peleas mandinga = MITO (Django/Tarantino, "leyenda UR-bana"). David Blight (Yale): lógica económica, esclavos demasiado valiosos. Sin registro en archivos. Entra como DESMONTAJE.
+- Gorro frigio = pileus romano de manumisión (pretor toca con la vindicta, liberto cubre con píleo). En escudo de Colombia: gorro frigio rojo en lanza = libertad. NACE DE CONFUSIÓN HISTÓRICA (frigio ≠ píleo).
+- Eustiquia Amaranto (¡Eustiquia, no Eustaquia!): "La Justa", Voz Insigne del Bullerengue, †24-dic-2025 en Turbo, 97 años, nac. 29-sep-1928, Brisas de Urabá, sucesora de Arsenia Asprilla Córdoba. Bullerengue Sentao = canto del dolor/muerte/velorio.
+
+**⏳ PENDIENTE AFINAR (en el indicador del qanat también):**
+- Martina Camargo (San Martín de Loba, sur de Bolívar; la Tambora, no bullerengue; nominada Grammy Latino; álbumes Canto y Río; "Me echaron del mundo"; río Magdalena envenenado): verificación LIGERA, falta contrastar a fondo.
+- El rojo antiesclavista de Zea en la bandera: es TRADICIÓN/interpretación, no cita dura. Marcado como tradición en el texto.
+
+---
+
+## ✅ QANAT-68 · PARTE II AÑADIDA · EL UR EN LOS MAPAS (toponimia hídrica)
+
+El qanat-68 ahora tiene DOS PARTES: I) LA ESCLAVITUD (lo ya construido). II) EL UR EN LOS MAPAS · del Orinoco al Amazonas, tierra indígena e indómita. Separador visual + cabecera centrada "II · EL UR EN LOS MAPAS". 5 secciones + cierre, 6 entradas nuevas de glosa.
+
+**Secciones Parte II:** El nombre del río (UR-inoco) · Cataratas y raudales (Atures, Maipures, Apure, Amacuro, Vidal de la Blache 1927) · El veneno y la serpiente (UR-ari/curare/mavacure) · La gente del río (guaraos, curiaras, GUA=agua) · Montes y Magdalena rebautizado (Aburrá, Buriticá, Trimborn).
+
+**DATOS verificados (Hammurabeltz):**
+- Orinoco: forma warao antigua Uorinoko/Uirinoko = "lugar donde se rema" (wiri+noko); también "río padre" / tamanaco "serpiente emplumada". Ordaz lo remontó 1531-1532 (murió 1532, NO 1531). La lectura UR-inoco es guerrilla declarada (desplazamiento O→U); tiene base en la forma vieja que empieza por U.
+- Curare = del caribe wurari/urari/woorari; del "mawa cure" (liana mawa, Strychnos toxifera) → tu MAVAC-UR-E. Raleigh 1595, Humboldt 1807. Variantes todas con UR. ✓
+- Atures y Maipures: cataratas del Orinoco (Humboldt). Apure (río), Amacuro (delta), Curaçao: reales con UR. ✓
+- Aburrá: valle nombrado por los indígenas aburraes, cuenca del Cauca. Buriticá real (Antioquia). Sardela (Juan Bautista Sardela, cronista 1541) = el "Sr. Sardella" de Luis. ✓
+- Guadalquivir = wadi al-kabir (árabe, "el río grande") — etimología sólida del GUA=agua. ✓
+
+**FUENTES citadas (de Luis, reales y autorizadas, entran bajo su firma):** Vidal de la Blache & Gallois, Géographie Universelle t.XV (1927); Humboldt, Del Orinoco al Amazonas; Padre Joseph Gumilla, mapa 1733 (El Orinoco Ilustrado); Joseph de Oviedo y Baños, Historia de la conquista... de Venezuela (1723, mapa "Worinoque"); Albert & Philippe Mahuzier, Chez les Indiens Guaraos; Hermann Trimborn, Señorío y barbarie en el Valle del Cauca (1937, CSIC 1959).
+
+**Topónimos de fuentes (no contrastables uno a uno, bajo firma de Luis):** Mucura, Murioamo, Turiano, Surupamana/Uirapuri, Suapure/Sivapuri, Avaguri, Turagua, Tucuragua, Uricorera, Turumiquire, Omuria, Nuria, Zamuro, Paucura, Murgia, Curume, Urezo, Gayambur/Cayambe-urcu, Duractumini, cerro Untaran, Muraco, soturaos, uri=poblado, uji=¿uri? (serpientes de agua).
+
+**⏳ Posible:** si el qanat-68 pesa demasiado en lectura, cada parte (esclavitud / toponimia) puede volverse depósito propio. Apuntado en el indicador del qanat.
+
+---
+
+## ✅ QANAT-69 · ÁRTICO (capítulo AMÉRICA) · "EL ESPEJO DEL HIELO · ATLAS DEL UR ÁRTICO"
+
+Nuevo qanat construido del material del ATLAS GLOBAL DEL UR OCULTO (ártico/boreal/transatlántico) que pasó Luis. Va ARRIBA del muro (descendente: qanat-69 → qanat-68 → ...). 8 párrafos + 6 secciones + glosa (9) + puentes Rayuela + indicadores + pie "Depósito 69".
+
+**REPARTO del Atlas (decisión de Luis):**
+- ASIA (Kurosawa/Amur/grullas/Urbeltz) → YA EXISTE, fuera de aquí. Olvidar.
+- BULLARENGUE (Petrona Martínez, Etelvina Maldonado, Katajjaq↔Bullarengue) → NO va aquí: se ubica en el capítulo URINOCO. ⏳ PENDIENTE de colocar.
+- RESTO (ártico/boreal) → este qanat-69.
+
+**SECCIONES:** Toponimia ártica (Kuururjuaq/Koroc, Kuuk palíndromo KU-UK, Qurlurniq, Iqaluit/Frobisher) · T-UR-KU el nodo boreal (río Aura) · LOS DOS REFUGIOS S·IBERIA/IBERIA (el hallazgo) · El hacha de Mantle + pidgin vasco-algonquino · Katajjaq las bertsolaris del hielo (Tanya Tagaq, Silla and Rise) · Cian-UR-o y Sócrates (extracción/Sápmi/Mary River).
+
+**EL HALLAZGO — la S de S·IBERIA:** IBERIA con una S delante = SIBERIA. Una sola letra cose los dos refugios del Último Máximo Glacial (Franco-Cantábrico ibérico + sur de Siberia). Luis: "esa S tiene mucha importancia en el UR-book". Marcada como BISAGRA tipográfica (S en negrita con subrayado rojo), NO como UR (Iberia/Siberia no llevan ur consecutiva). A PROFUNDIZAR.
+
+**RAYUELAS (puentes):** → Finis-UR (boreal/Turku/urálico) · → Iberia (refugio gemelo, la S del espejo) · → Urinoco (el agua que nombra, de un hemisferio a otro).
+
+**VERIFICADO Hammurabeltz:**
+- Hacha de Mantle: poblado wendat-huron cerca de Toronto (~1500-1530, 1.500-2.000 hab, 4,2 ha); hacha de hierro forjado de origen VASCO enterrada en casa comunal; el hierro europeo más antiguo del interior de Norteamérica, pre-contacto; de una estación ballenera vasca del Estrecho de Belle Isle (Labrador). Doc "Curse of the Axe"/La Maldición del Hacha (2012), narrado por Robbie Robertson (The Band). ✓
+- Turku: ciudad más antigua de Finlandia, en la desembocadura del río Aura; del eslavo oriental antiguo tǔrgǔ = "mercado/plaza de mercado". Lectura guerrilla K-UR-KU declarada. ✓
+- Pidgin vasco-algonquino (Souriquois): real, propuesto por Peter Bakker (atorra→camisa, anaia→hermano, mendi→monte). ✓
+- Refugios LGM: Franco-Cantábrico (Iberia) + sur de Siberia, reales (paleoclimatología). ✓
+- NO FORZADO (sin ur consecutiva, honestidad Hammurabeltz): Iberia, Siberia, atorra/atorrai (lleva OR no UR), Iqaluit, Koroc, sami, Mantle. Marcado solo ur real: Kuururjuaq, Qurlurniq, Turku, Aura, cianuro, Urales, urálicas, Bas-UR-Sapiens, etc.
+
+**⏳ PENDIENTE:** ubicar el BULLARENGUE (Petrona Martínez, Etelvina Maldonado, el nexo Katajjaq↔Bullarengue↔bertsolarismo, antifonía, cianuro de las cuencas) en el capítulo URINOCO (qanat-68 ya tiene cantadoras: Turbo, Urabá, Martina Camargo — el bullarengue del Atlas lo enriquece).

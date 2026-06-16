@@ -90,7 +90,7 @@ Pieza móvil `<section data-pieza="ur-delta">`. Estructura: divisor 4px + kicker
 - Pichi (Yunierki Rojas), cuadro "La intuición", expo Maranatha, Remedios (Cuba): contenido de Luis. Foto "In Memoriam" de Luis.
 
 ### ⏳ PENDIENTES (los otros 2 capítulos de Cara B, uno por uno):
-### ✅ Cap.2 · CARA B: LA ESCOMBRERA SISTÉMICA — "LOS ESCOMBROS QUE SOSTIENEN EL EDIFICIO"
+### ✅ Cap.2 · CARA B: LA ESCOMBRERA SISTÉMICA — "MONTAÑA DE HUMO: ESCOMBRERA HUMANA" (antes "Los escombros que sostienen el edificio")
 Pieza móvil `<section data-pieza="escombrera">`. 11 párrafos + glosa (5) + indicadores + pie. DATOS Hammurabeltz:
 - Stung Meanchey: AJUSTADO a 7 ha la montaña (~40 contando barrios de chabolas), ~2.000 personas (~600 niños), AJUSTADO a 700 t/día, cerró jul-2009. ✓
 - AÑADIDO dato de oro: nuevo vertedero junto a Choeung Ek (Killing Fields del genocidio jemer) — "la basura nueva sobre la tierra de los muertos". ✓ verificado.
@@ -136,3 +136,125 @@ Pieza móvil `<section data-pieza="escombrera">`. 11 párrafos + glosa (5) + ind
 - GRANO: la imagen central (la escombrera de Phnom Penh como símbolo del sistema, el paratexto como los escombros que sostienen el edificio) es potentísima y muy física. El dato de Choeung Ek (basura nueva sobre los muertos del genocidio) es de los que clavan el capítulo. El giro UR→RU al final tiende el puente al cap.3 (el espejo del Futhark), así que NO queda aislado: cumple su propia nota de encaje.
 - PAJA A VIGILAR: mismo riesgo de densidad que cap.1 — McCullin, Pastor, Bergson, EPICA, Biarritz, Ezkurra se acumulan rápido. El párrafo de EPICA/hierro-60 y el de Bergson son casi idénticos a fragmentos del cap.1 (origen estelar, intuición no-mística): OJO con la REPETICIÓN entre piezas cuando se fije el orden. Si cap.1 y cap.2 van seguidos, conviene podar una de las dos formulaciones del "ningún ser humano es ilegal / hierro-60" para no repetir.
 - DÓNDE GANARÁ EN FRÍO: vigilar esa redundancia inter-piezas (es la ventaja de las piezas móviles: se ve al reordenar). El cierre "el surco se ha terminado, pero el ruido de la aguja sigue latiendo en el pecho" es un final de cara B perfecto, dejarlo respirar solo.
+
+---
+
+## ✅ Cap.3 · CARA B · ANGOS-T-UR/A — "DOLOR, CANTO Y MUERTE EN EL ORINOCO"
+
+Tercera pieza de Cara B en URTZ (`<section data-pieza="angostura">`). Versión LITERARIA UNIFICADA de Luis para la edición impresa (texto limpio que él pasó con parámetros finales). 17 párrafos + glosa (10) + APARATO CRÍTICO (13 citas bibliográficas) + indicadores + pie.
+
+**IMPORTANTE — diferencias con caps. 1 y 2:**
+- Esta pieza usa MARCADO CON GUIONES (ANGOS-T-UR/A, At-UR-es, UR-INOCO, c-UR-i-ara, T-UR-bo, UR-abá), estilo qanat — NO el Alpha-UR sin guiones de cap.1/cap.2. Respetado tal cual lo escribió Luis (los guiones revelan el UR en topónimos). PENDIENTE: decidir al volver si se unifica la norma de URTZ.
+- Luis SUPRIMIÓ el cierre "GORA UR ETA AG-UR" (juego con Claudius, fuera de tono para el cuerpo). Honrado.
+- Incluye APARATO CRÍTICO (bibliografía) que las otras piezas no tienen: Castellanos 1589, Gumilla 1741, Humboldt 1814-25, Mahuzier 1956, Oviedo y Baños 1723, Raleigh 1596, Southey 1810-19, Trimborn 1949, Vidal de la Blache 1927, Blight 2001, Correo del Orinoco 1819, Marrero 1984, Zapata Olivella 1962.
+- Irureta marcado DENTRO del em (Ir-UR-eta, guiño deliberado ≈ Rot-eta, resonancia privada de Luis).
+- Glosa header decía "Cara B · El UR delta" en el original de Luis (parece lapsus, reusó el de cap.1); puesto "GLOSA · ANGOS-T-UR/A" para precisión. Avisado a Luis.
+
+**RELACIÓN CON EL PERMAFROST:** esta es la versión URTZ/impresa. El qanat-68 del permafrost (con sus dos partes) queda FRESCO para el DESHIELO AMAZÓNICO: una página nueva del index.html que Luis hará "cuando vuelva". PENDIENTE.
+
+**Encaje editorial (de Luis):** Cara B, bloque central de canto/violencia/agua/resistencia. Tono épico-documental. Ritmo: apertura sonora → estrangulamiento → cartografía → trata → fuga → canto → cierre. Núcleo de la Cara B, puente entre geografía americana, memoria negra y resistencia musical.
+
+
+---
+
+## ⚖️ NORMA DEL ALFABETO UR EN URTZ (LEY FIJA — decisión de Luis)
+
+**Principio:** en URTZ, llegue el texto como llegue (con guiones, sin ellos, como sea), MANDA EL ALFABETO. Antes de entrar, todo texto se normaliza al Alfabeto UR.
+
+**Reglas:**
+1. **SIN GUIONES que partan palabras.** Nada de ANGOS-T-UR/A, At-UR-es, UR-INOCO, c-UR-i-ara, GU-IRI-NOCO. Se funden en forma natural: Angostura, Atures, Urinoco, curiara, Guirinoco.
+2. **Mayúsculas donde correspondan** (forma natural de la palabra): nombre propio con inicial mayúscula (Urinoco, Urabá, Turbo, Atures), común en minúscula (curiara, urbana, angostura), título/cabecera en versales si el estilo lo pide (ANGOSTURA en el kicker).
+3. **UR / Ur / ur marcados en rojo** (#b01a1a), según el caso:
+   - **UR** (mayúscula, rojo) = SOLO la unidad, el UR-agua suelto (el UR se ahoga, UR + E=mc² = SAPIENS).
+   - **Ur** (inicial, rojo) = nombre propio o palabra que EMPIEZA por ur (Urinoco, Urabá, Uria, Urari, Ursapiens, Urtz).
+   - **ur** (minúscula, rojo) = ur DENTRO de palabra (angostura, Atures, Apure, curiara, murmullo, usurpación, captura).
+4. **Solo se marca u+r consecutiva REAL.** Falsos positivos fuera (ocultar, fortuna, cruel: no llevan ur consecutiva). Mutilaciones prohibidas (no inventar erres: estructural, no "estrurctural").
+5. **Lecturas guerrilla (desplazamiento vocálico O→U u otros) van declaradas** en el cuerpo, no como etimología: Urinoco (de Orinoco), Uria (de Oria), Urina (de Orina).
+6. **Citas latinas/títulos en <em> NO se marcan** (angere, pileus, vindicta, títulos de libros). EXCEPCIÓN puntual: guiños deliberados como Irureta (Ir-ur-eta) sí, por decisión expresa.
+7. El **bloque INDICADORES** (meta, para Luis) NO se marca y queda fuera del verificador.
+
+**Aplicado por primera vez de forma íntegra:** conversión de la pieza ANGOS-T-UR/A (cap.3) → ANGOSTURA, con todos los topónimos amazónicos fundidos (Atures, Maipures, Apure, Amacuro, Urinoco, curiaras, Muraco, Soturaos, Aburrá, Buritica, Mavacure, Urari, Turbo, Urabá, etc.). Cero guiones, cero UR sin marcar, cero mutilaciones.
+
+---
+
+## 🎸 ESTRUCTURA MAESTRA DE URTZ · "SANDINISTA! URBELTZA" (LEY DE ARQUITECTURA)
+
+URTZ se estructura como **Sandinista! de The Clash**: TRIPLE LP, 6 CARAS, 36 CANCIONES. Es la lectura definitiva / edición impresa del UR-book. Título de la estructura: **Sandinista! URbeltza** (el UR negro, el agua Beltza).
+
+**6 caras = 6 capítulos = 6 continentes** (un capítulo por cara, 6 canciones por continente):
+1. **IBÉRICO** (continente propio — ver justificación abajo)
+2. **EUROPA**
+3. **ASIA**
+4. **AMÉRICA**
+5. **ÁFRICA**
+6. **OCEANÍA**
+
+**Libreto interior (liner notes = el paratexto, "los escombros que sostienen el edificio"):**
+- PREFACIO
+- INTRODUCCIÓN
+- EPÍLOGO
+- ALFABETO DE BÚSQUEDA UR (índice/buscador del libro)
+
+**Bonus tracks (el margen):** cosmos, Antártida, peces abisales... lo que no entra en los seis continentes.
+
+**ORDEN DE LECTURA definitivo** (espiral desde la semilla hacia el océano):
+Prefacio → Introducción → Iberia → Europa → Asia → América → África → Oceanía → Bonus Tracks → Epílogo → Alfabeto.
+
+### Reglas de la arquitectura (fijadas por Luis)
+1. **Lo que no tenga continente claro → PREFACIO.** Ej.: "EL UR DELTA / Teología de la intuición" (Leyes de Sedición EE.UU., Bergson, intuición cósmica) = PREFACIO. La intuición es prefacio claro.
+2. **Las 36 canciones son tope FLEXIBLE, no jaula.** Las canciones se pueden ALARGAR UNIENDO piezas. El DUB es denso (se estira), el ROCKABILLY más corto y afilado. Caras que arranquen flacas pueden crecer; no hay obligación de seis llenas desde el día uno.
+3. **Filtro de curaduría permafrost → URTZ.** El permafrost (Muro Glaciar, 68 qanats y subiendo) es la CÁMARA ACORAZADA con todo el material en bruto; se sigue alimentando "la bestia WEB" con todo lo que salga. URTZ es el TRIPLE LP EDITADO: solo las elegidas suben a la lectura definitiva. No todo qanat pasa el filtro. [Luis: el filtro de curad-UR-ía es por hacer su PRIMER proyecto finito.]
+4. **Unificación pendiente (curro de ≥1 año):** al final habrá que unificar criterios de prosa, glosario y todo el conjunto. Es trabajo de largo plazo, asumido.
+
+### IBÉRICO COMO CONTINENTE — fundamento documentado (NO provocación)
+- **Eduardo Hernández-Pacheco** (geólogo y naturalista): acuñó la descripción de la península ibérica como **"continente en miniatura"**, por su inmensa diversidad de climas, suelos y paisajes en un espacio reducido. Lo destacó en su extensa obra sobre el territorio ibérico.
+- **Ian Gibson** (hispanista irlandés): defiende en entrevistas y escritos que la península es un **"minicontinente"** / continente en sí mismo, uniendo España y Portugal, por su apabullante diversidad cultural, paisajística y climática — mucho más que una prolongación de Europa.
+- **Argumento geológico (Luis):** Iberia PODRÍA haber sido un microcontinente si los Pirineos se hubieran separado de Europa en algún momento geológico, como se resquebrajó/derivó América. Posibilidad tectónica real.
+- → El CONTINENTE IBÉRICO empieza con una INTRO IBÉRICA. Las dos perspectivas (geólogo + biógrafo) hay que PROFUNDIZARLAS. [PENDIENTE: verificar/ampliar Hernández-Pacheco e Ian Gibson, desarrollar la intro ibérica.]
+
+### Estado de las piezas YA en URTZ (re-homologar a la nueva estructura)
+- **ANGOSTURA · Dolor, canto y muerte en el Orinoco** → AMÉRICA (sin discusión).
+- **LA ESCOMBRERA SISTÉMICA / Montaña de Humo** (Stung Meanchey, Phnom Penh) → ASIA.
+- **EL UR DELTA / Teología de la intuición** → PREFACIO (no tiene continente claro; decisión de Luis).
+  - ⚠ OJO REPETICIÓN: UR DELTA y ESCOMBRERA comparten el párrafo del hierro-60/EPICA y el de Bergson casi calcados. Si quedan en apartados distintos (prefacio vs Asia), hay que PODAR una de las dos formulaciones.
+
+### PENDIENTES DE COLOCAR
+- **LAS RUNAS** (texto DEFINITIVO, ya redactado, aún NO puesto en URTZ). Pendiente de ubicar en la estructura (¿Europa? ¿bonus? — el Futhark es nórdico → probablemente EUROPA). Recordatorio: era el "Cap.3 · CARA B: MÁS ALLÁ DE LA ESCOMBRERA / el espejo del Futhark" que quedó pendiente.
+- Construir el ANDAMIAJE de URTZ: 6 caras-continente + apartados de libreto como contenedores etiquetados (con sistema de piezas móviles), para ir soltando textos en su sitio.
+
+### NOTA DE FONDO (filosofía del autor, para no perder el norte)
+Luis: "todos mis proyectos son vitales, empiezan pero acabarán cuando devuelva el UR a su estado; sólo tengo un proyecto vital: la autogestión y el libre pensamiento bajo el símbolo del Puño Negro y el sonido de Blood of Heroes." El "proyecto finito" (URTZ como triple LP cerrado) es la excepción deliberada dentro de una obra que, por naturaleza, es infinita (la bestia WEB / el permafrost se sigue alimentando siempre).
+
+---
+
+## 🌉 ACTUALIZACIÓN · PUENTES RAYUELA + BONUS UR ABISAL + ANDAMIAJE
+
+**SISTEMA DE PUENTES (tipo Rayuela de Cortázar):** cada canción lleva NUMERACIÓN y PUENTES a otras canciones con las que conecta (saltar de Euskal Herria al Futhark a Japón siguiendo el cauce del UR). El libro deja de ser lineal: red de afluentes, todo conectado bajo tierra como el permafrost. Cada canción declara sus conexiones (ej. "→ salta a [Futhark], [Japón]"). Mecánica concreta de los puentes: por decidir (numeración + enlaces internos / data-puente).
+
+**BONUS TRACK · UR ABISAL** (verificado Hammurabeltz):
+- Fosa de las Marianas / Challenger Deep: punto más profundo del océano, ~11.000 m, presión >1.000 atmósferas, frío cercano a la congelación, oscuridad total.
+- Zona HADAL = de Hades, dios del inframundo griego. Agua en el inframundo.
+- CLAVE para la tesis: la vida abisal NO depende del sol sino del UR. Fumarolas/respiraderos hidrotermales ("chimeneas negras") liberan agua geotérmica + sulfuros; bacterias prosperan por QUIMIOSÍNTESIS (energía de compuestos químicos, sin luz solar). El reverso de la fotosíntesis: la vida brota del agua caliente y el azufre, no de la luz del amo.
+- Guiño negro: hasta el abismo tiene huella humana (microplásticos y contaminantes en los organismos de la fosa). La T llega al fondo.
+- Bestiario: pez baboso (Liparidae, hasta 8.000 m), barreleye (cabeza transparente), dragonfish bioluminiscente, xenophyophora (amebas gigantes), "nieve marina" (lluvia de materia orgánica). 
+- → BONUS TRACK del libro (junto a cosmos, Antártida). Pendiente de redactar.
+
+**DECISIONES FIJADAS esta vuelta:**
+- UR DELTA / intuición → confirmado PREFACIO. Y SÍ PODAR la repetición hierro-60/EPICA + Bergson que comparte con la ESCOMBRERA (cuando se monte). "Podemos ya."
+- LAS RUNAS → EUROPA (el Futhark es nórdico). Texto definitivo, pendiente de colocar en el andamiaje.
+- Iberia continente: fundamento documentado (Hernández-Pacheco + Ian Gibson + argumento tectónico de los Pirineos). Profundizar.
+
+**ANDAMIAJE:** se construye un esqueleto navegable de URTZ (índice maestro) con las 6 caras-continente + libreto + bonus como contenedores etiquetados, piezas móviles, listos para ir soltando textos. (Ver archivo de andamiaje.)
+
+---
+
+## 🎚️ CAMBIO · FUERA "CARA B" + SONIDOS DE LA CADENA ANALÓGICA
+
+Quitado el rótulo "CARA B" de todas las piezas (obsoleto con la estructura de 6 caras-continente).
+Cada CANCIÓN va ahora precedida por los sonidos que escupe la cadena analógica del vinilo, como ritual antes del tema:
+**AGUJA krrk·fffsht · AMPLI hmmmmm · TOCATA tk·tk·tk · BAFLES bvvvm**
+(monospace, gear en sepia #9a7a4a, sonido en gris #b8b8b8). Las onomatopeyas no llevan ur/ru: no tocan el verificador.
+
+- ESCOMBRERA (Asia 3.1) y ANGOSTURA (América 4.1): llevan el bloque SONIDO + su subtítulo conservado.
+- UR DELTA (Prefacio): solo se le quitó "CARA B" (es libreto, no canción; sin bloque de sonido).
+- PENDIENTE/ABIERTO: el sonido es de momento el MISMO para las dos canciones. Si Luis quiere, cada canción puede tener su propio sonido distinto (crackle propio por tema). Por decidir.
