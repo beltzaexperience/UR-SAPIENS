@@ -258,3 +258,225 @@ Cada CANCIÓN va ahora precedida por los sonidos que escupe la cadena analógica
 - ESCOMBRERA (Asia 3.1) y ANGOSTURA (América 4.1): llevan el bloque SONIDO + su subtítulo conservado.
 - UR DELTA (Prefacio): solo se le quitó "CARA B" (es libreto, no canción; sin bloque de sonido).
 - PENDIENTE/ABIERTO: el sonido es de momento el MISMO para las dos canciones. Si Luis quiere, cada canción puede tener su propio sonido distinto (crackle propio por tema). Por decidir.
+
+---
+
+## 🗺️ ARQUITECTURA DEFINITIVA DE LAS 6 CARAS · 36 CANCIONES (Joe Strummer: guía, no dogma)
+
+Cada cara = continente. Cada canción = región aglutinante. La geografía es la cubeta; la cultura hídrica y los puentes Rayuela hacen el resto.
+
+**CARA 1 · IBÉRICO** (el continente en miniatura):
+Euskal Herria / Cantábrico / Atlántico / Mediterráneo / Central / Portugal
+
+**CARA 2 · EUROPA** (el espejo del Futhark):
+Escandinavia·Norte (LAS RUNAS, pendiente) / Islas Británicas·Atlántico Norte / Europa Central·Rin-Danubio / Mediterráneo Europeo·Grecia-Italia / Europa del Este·Balcanes-Cárpatos / Finlandia·Báltico (Turku, nodo boreal)
+
+**CARA 3 · ASIA** (la escombrera del mundo):
+Anatolia·Cáucaso (URARTÚ, qanat-71) / Mesopotamia·Levante (Sal/Zamzam/Sura, qanat-70) / Asia Central·Turán-Irán (Elburz/Luristán) / Asia del Sur·Indo-Ganges (Annapurna) / Asia del Este·Amur-Japón (Kurosawa/Ama-Lur, en index) / **Asia del Sureste·Mekong → MONTAÑA DE HUMO ● (pieza colocada)**
+
+**CARA 4 · AMÉRICA** (del Orinoco al Amazonas):
+Ártico americano·Inuit (Katajjaq/S-Iberia/Mantle, qanat-69) / América del Norte·Grandes Lagos-Misisipí / Mesoamérica·México-Caribe / **Orinoco·Amazonia → ANGOSTURA ● (pieza colocada)** / Andes·Pacífico / Cono Sur·Patagonia-Tierra del Fuego
+
+**CARA 5 · ÁFRICA** (la cuna del agua):
+Norte de África·Nilo-Sahara / África Occidental·Níger-Senegal (ruta trata, nexo Angostura) / **Cuenca del Congo → ITURI·la iturri congoleña·Leopoldo II·ébola (pendiente)** / África Oriental·Rift Valley-Grandes Lagos / Cuerno de África·Yemen (nexo Levante, qanat-70) / África del Sur·Kalahari-Cabo
+
+**CARA 6 · OCEANÍA** (el UR sin orilla):
+Australia·interior árido / Nueva Guinea·Melanesia / Polinesia·el Pacífico como UR absoluto / Micronesia / Nueva Zelanda·Maorí / Antártida·el hielo primordial (flexible, puede migrar a bonus)
+
+**NOTA STRUMMER:** El Sandinista es la guía, no el dogma. Oceanía puede perder canciones y redistribuir. Las regiones son cubetas orientativas; los puentes Rayuela declaran las conexiones reales entre continentes.
+
+**UR CONDUCTOR:** cada cara tiene su hilo — la salinidad, la estrella de 8 puntas, el agua como poder colectivo. Los hilos se cruzan en los puentes.
+
+**PIEZAS COLOCADAS:** ur-delta→Prefacio / escombrera→Asia(Mekong) / angostura→América(Orinoco).
+**PENDIENTES DE ESCRIBIR:** todo lo demás. Runas→Europa(Escandinavia). ITURI→África(Congo).
+
+---
+
+## 📝 SESIÓN JULIO 2026 · ACTUALIZACIONES Y NUEVAS NORMAS
+
+### ACTUALIZACIÓN · NORMA DE MARCADO (completa, secc. 2)
+
+**Añadido en julio 2026:** La Ü/ü se suma a U/u para el marcado UR.
+- Desde ahora: UR, Ur, ur, **Ür, ür** → todos en rojo.
+- Norma permanente del proyecto, confirmada por Luis.
+- Aplica a *Altzürükü* y cualquier topónimo con diéresis.
+- Los títulos h3 se marcan igual que el cuerpo (ZUR**BELTZ** → el UR en el título).
+- La T como categoría política se escribe entre comillas simples: 'T', no en cursiva ni negrita.
+
+---
+
+## 7 · NORMATIVA DE CURSIVAS (norma definitiva, julio 2026)
+
+Establecida a partir del criterio de Perplexity + revisión de Claudius. Rige para todo el libro.
+
+### Qué va en cursiva
+
+| Categoría | Ejemplos | Criterio |
+|-----------|----------|----------|
+| UR como concepto/protagonista | *UR* | Cuando funciona como concepto arqueológico, foco interpretativo o personaje del libro — no cuando aparece dentro de una palabra |
+| Extranjerismos antiguos y mitológicos | *Abzu*, *Ain*, *Zamzam* | Términos de lenguas antiguas con valor histórico, ritual o simbólico no integrados en el español actual |
+| Latinismos y nombres científicos | *Durius*, *urus* | Formas latinas o denominaciones zoológicas que conservan su forma original |
+| Términos en euskera u otras lenguas peninsulares | *Iturza*, *Laminiturri*, *jauregi*, *Zamaltzain*, *Maskarada*, *Pastorala*, *Godalet Dantza* | Cuando designan realidades específicas analizadas en el libro |
+| Títulos de documentos históricos, leyes, mapas | *Génesis de Eridu*, *Código de Ur-Nammu*, *mapa de Nippur* | Nombres singulares de textos, leyes o cartografías con identidad propia |
+| Títulos de obras artísticas | *El anillo del nibelungo*, *Alien*, *True Democracy* | Películas, óperas, álbumes |
+| Formas musicales o folclóricas como categoría | *La Manchega* | Géneros o palos cuando se usan como categoría analítica |
+
+### Qué NO va en cursiva
+
+- **Topónimos actuales de uso normal:** Ojacastro, Toledo, Las Hurdes, Mesopotamia, Roma
+- **Nombres propios de personas:** Schulten, Segoviano, Sansinenea, Zurbarán
+- **La T como categoría política:** usar comillas simples 'T' — `su antagonista es la 'T': la 'T' que mide, tasa...`
+- **Términos de la glosa en posición de cabecera:** la glosa usa negrita para los headwords; no añadir cursiva encima
+
+### Orden de procesamiento en HTML
+
+1. Aplicar `<em>` a los términos (en texto plano, antes de codificar)
+2. Codificar entidades HTML (á → `&aacute;`, etc.)
+3. Aplicar marcado UR en rojo (`<span style="color:#b01a1a;">`)
+4. El resultado: `<em><span style="color:#b01a1a;">UR</span></em>` (cursiva + rojo simultáneos)
+
+### Modelo de aplicación (Meseta, julio 2026)
+La pieza Central/Meseta ha sido normalizada como modelo. 41 instancias `<em>` aplicadas:
+- *UR* standalone como concepto (~15 instancias)
+- *Abzu* ×5, *Durius* ×1, *URIUS* ×1, *urus* ×2
+- *Ain*, *Zamzam*, *Iturza*, *Laminiturri*, *jauregi*, *La Manchega*
+- *Génesis de Eridu*, *Código de Ur-Nammu*, *mapa de Nippur*
+- 'T' con comillas simples en el párrafo del antagonista
+
+### Pendiente: aplicar la misma norma a las otras piezas ya montadas
+- Xiberua: *Zamaltzain*, *Maskarada*, *Pastorala*, *Godalet Dantza*, *Gorriak/Urdinak*, *mozorro*, *Euritión* (nombre mitológico), *Sigurd* (nórdico), *Axeri Boda*, y el nombre de la ópera *El anillo del nibelungo*
+- Vendée: *Sigurd*, *El anillo del nibelungo*, *Sigournais* (topónimo analizado), *Bourdin*
+- Levante de la Sal: *qirbah*, *ghadir*, *Bahr al-Mayyit*, *Nahr al-Urdun*, *Police & Thieves* (canción), *Your House* (canción), *True Democracy* (álbum)
+- Indo-Ganges: términos sánscritos cuando los haya
+- Escombrera: nombres en khmer si los hay
+
+---
+
+## 8 · BLOQUE A LA MESA (norma definitiva, julio 2026)
+
+Cada pieza de URTZ lleva un bloque gastronómico entre el cuerpo y la glosa.
+
+**Posición:** después del último párrafo del cuerpo, antes del `<div>` de la GLOSA.
+
+**Formato visual:**
+```html
+<div style="border-top:1px solid rgba(176,26,26,0.15); margin-top:2rem; padding:1.2rem 0 0.8rem 0;">
+  <div style="font-family:'Bebas Neue'...; color:#b01a1a;">A LA MESA</div>
+  <p style="font-family:'Courier Prime'...; color:#444; font-size:0.95rem;">...</p>
+</div>
+```
+
+**Criterio de contenido:**
+- 3-5 frases de prosa, no lista de ingredientes ni receta
+- El alimento como otra expresión del UR en el territorio (no decoración)
+- El vino, la leche, el grano, el aceite como formas del agua transformada
+- Tono sofá y copa de vino, no enciclopédico
+- Sin juegos de palabras forzados (es parte del cuerpo narrativo, no del UR-book WEB)
+
+**Mesas montadas:**
+
+| Pieza | A la mesa |
+|-------|-----------|
+| Xiberua · Euskal Herria | Txakoli desde altura + Idiazabal de pastor suletino |
+| Meseta Central | Migas + Valdepeñas + manchego |
+| Vendée · Europa Latina | Muscadet sur lie + mogettes de Vendée |
+| Levante de la Sal · Mesopotamia | Labneh + za'atar + pan de tabún + dátiles |
+| El Gran Receptáculo Sónico · Indo-Ganges | Masala chai + dal + arroz del Ganges + ghee |
+| Escombrera Sistémica · Mekong | Pho + nuoc mam + arroz glutinoso |
+
+**Pendientes (cuando se monten las piezas):**
+- Atlántico / Portugal: pulpo à lagareiro + vinho verde
+- Cantábrico: anchoas de Santoña + sidra asturiana / txakoli
+- Europa Central (Alpes): raclette + Grüner Veltliner
+- Japón / Asia del Este: sashimi de atún + sake junmai
+- Azores / Furnas: caldeirada cocinada en fumarola
+
+---
+
+## 9 · ESTADO ACTUAL DE URTZ (julio 2026)
+
+### Cara 1 · Ibérico — activa
+```
+[PREFACIO] LEC-T-UR-A · PALIMPSESTO IBÉRICO
+● Euskal Herria     → Xiberua / Zurbeltz y el ritual de la máscara
+● Central           → El Atlas UR de la Meseta (Del Rioja al Atlántico)
+○ Cantábrico
+○ Atlántico
+○ Mediterráneo
+○ Portugal
+```
+
+### Cara 2 · Europa
+```
+● Europa Latina · Francia-Italia-Grecia → El Escarpe de Altura y la Fosa del Fango (Vendée)
+○ Escandinavia · Norte      [pendiente: LAS RUNAS]
+○ Islas Británicas
+○ Europa Central · Rin-Danubio
+○ Europa del Este · Balcanes-Cárpatos
+○ Finlandia · Báltico
+```
+
+### Cara 3 · Asia
+```
+● Mesopotamia · Levante         → El Levante de la Sal
+● Asia del Sur · Indo-Ganges    → El Gran Receptáculo Sónico
+● Asia del Sureste · Mekong     → La Escombrera Sistémica
+○ Anatolia · Cáucaso
+○ Asia Central · Turán-Irán
+○ Asia del Este · Amur-Japón
+```
+
+### Cara 4 · América
+```
+● Orinoco · Amazonia            → Dolor, canto y muerte en el Orinoco
+○ Ártico americano · Inuit
+○ América del Norte
+○ Mesoamérica
+○ Andes · Pacífico
+○ Cono Sur
+```
+
+### Cara 5 · África / Cara 6 · Oceanía
+Todas vacías (○).
+
+### Prefacio y Bonus
+- Prefacio general (UR Delta): montado
+- Prefacio Cara 1 Ibérico (Palimpsesto): montado
+
+---
+
+## 10 · ESTADO DEL PERMAFROST (julio 2026)
+
+**73 qanats** en el muro glaciar (numeración inversa: qanat-72 en la cima, qanat--01 en el fondo).
+
+**Qanats desactivados (incorporados a URTZ):**
+- **Qanat-72** · Atlas UR de la Meseta (versión de datos) → desactivado, gris 50%, badge ✓ URTZ
+- **Qanat-71** · T-UR-LEQUE · La torre mozárabe (versión conceptual) → desactivado, gris 50%
+
+**Qanats activos de esta sesión (no desactivados todavía):**
+- Qanat-01 a qanat-70: de sesiones anteriores, estado desconocido en esta sesión
+
+**Norma de desactivación:** cuando el contenido de un qanat se incorpora a URTZ, cambiar el div del qanat en permafrost.html:
+```html
+<!-- de: -->
+<div id="qanat-N" style="padding:clamp(2rem,5vw,4rem)...">
+<!-- a: -->
+<div id="qanat-N" style="padding:clamp(2rem,5vw,4rem)...; opacity:0.5; filter:grayscale(50%); border-left:4px solid #888;">
+<div style="...color:#888;">&#10003; INCORPORADO A URTZ</div>
+```
+
+---
+
+## 11 · NORMA GLOSA EN URTZ (distinción del UR-book WEB)
+
+La glosa de URTZ usa formato limpio de diccionario operativo. **Sin** juegos de palabras tipo "GLOSA-UR-IO" (eso es estilo UR-book WEB). En URTZ:
+
+```html
+GLOSA · [NOMBRE DE LA PIEZA]
+```
+
+Las entradas son breves, precisas, sin redundar con el cuerpo. Máximo 2 líneas por entrada. Los headwords van en `<strong>`, sin cursiva añadida (la jerarquía tipográfica ya es suficiente). El marcado UR rojo sí aplica dentro de las definiciones.
+
+---
+
+*Actualización: julio 2026. La norma de cursivas queda fijada con la pieza Meseta como modelo. Ag-UR.*
