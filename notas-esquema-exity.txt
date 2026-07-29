@@ -69,7 +69,7 @@ Agua en euskera. Motivo central del libro. También origen, flujo, memoria, vida
 El humano que sabe que es agua y materia cósmica.
 
 ### BAS-UR-A-Piens
-El humano que olvidó su condición hídrica y vive como usuario del sistema, desconectado de su origen.
+El humano que olvidó su condición hídrica y vive como usuario del sistema, desconectado del UR.
 
 ### Us-UR-ario
 Figura del sujeto digitalizado, conectado al sistema pero desconectado del UR.
@@ -323,3 +323,34 @@ El equilibrio ideal es este:
 - poético sin volverse opaco.
 
 Ese es el método.
+
+---
+
+## 19. Criterio de continuidad editorial
+
+Cuando una conversación avance durante varios días o el hilo empiece a cargar, conviene consolidar el trabajo en una versión de continuidad. Si el dispositivo principal funciona bien, puede seguirse en la misma conversación; si el equipo secundario o el hilo se vuelven pesados, lo más práctico es abrir una conversación nueva con un prompt maestro que recupere el marco completo sin perder la línea de trabajo.
+
+La conversación nueva no debe sentirse como un reinicio, sino como un traslado de taller. Para eso hay que copiar de forma explícita: el proyecto, la voz, el sistema UR/T, el criterio de corrección, las capas de salida y el tipo de redacción que se viene usando.
+
+### Señales de cambio
+- El hilo se vuelve lento o pesado.
+- Hace falta recuperar contexto una y otra vez.
+- Hay demasiados bloques abiertos y el seguimiento se dispersa.
+- Se necesita separar redacción, revisión y reordenación conceptual.
+
+### Qué mantener al cambiar de conversación
+- El núcleo conceptual UR-SAPIENS.
+- El equilibrio entre rigor y descabello.
+- La preferencia por cadencia literaria frente a explicación redundante.
+- La reserva de los bloques que aún no tienen lugar definitivo.
+- La forma de trabajar por capas, no solo por corrección puntual.
+
+### Prompt maestro de arranque
+
+> Quiero seguir trabajando el proyecto UR-SAPIENS con la misma dinámica editorial que ya hemos desarrollado. Mantén como marco: UR como núcleo poético-conceptual, el sistema UR/T, la biografía hídrica, la mezcla de rigor y descabello, y la distinción entre hecho contrastado, especulación razonada y arte dadá. Trabajamos con dos salidas: versión limpia y, cuando haga falta, versión marcada para maquetación. Prioriza ritmo, legibilidad, cadencia literaria y precisión conceptual. Evita simplificaciones históricas, repeticiones mecánicas, tono dogmático y explicaciones redundantes. Si te doy un fragmento, quiero que lo depures sin romper su energía, que señales qué has cambiado y por qué, y que respetes el tono humano, insurgente y musical del libro. Cuando haya decisiones abiertas, propón la opción más sólida sin alargar innecesariamente la discusión. Si el hilo empieza a cargar, mantén la continuidad sin pedir que se rehaga el proyecto desde cero.
+
+---
+
+## 20. Criterio operativo inmediato
+
+Mientras esta conversación siga funcionando bien, seguimos aquí. Si el rendimiento cae o el hilo se vuelve demasiado pesado, se pasa a una nueva conversación usando el prompt maestro anterior, sin perder el contexto de trabajo.

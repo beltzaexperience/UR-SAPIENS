@@ -280,6 +280,8 @@ Anatolia·Cáucaso (URARTÚ, qanat-71) / Mesopotamia·Levante (Sal/Zamzam/Sura, 
 **CARA 5 · ÁFRICA** (la cuna del agua):
 Norte de África·Nilo-Sahara / África Occidental·Níger-Senegal (ruta trata, nexo Angostura) / **Cuenca del Congo → ITURI·la iturri congoleña·Leopoldo II·ébola (pendiente)** / África Oriental·Rift Valley-Grandes Lagos / Cuerno de África·Yemen (nexo Levante, qanat-70) / África del Sur·Kalahari-Cabo
 
+**NORMA DE HUECOS (fijada 29 jul 2026):** en cuanto un hueco pasa a "● pieza colocada", se borra cualquier etiqueta de semilla que llevara pegada — nada de dejar el rastro de la idea original conviviendo con la pieza terminada. Blanco o negro, pendiente o colocado, sin estado intermedio ("media respuesta", "parcialmente cubierto") que Claude no debe inventar ni anotar. Claude no propone semillas nuevas por iniciativa propia: Luis genera de sobra por su cuenta: lo que hace falta es estructura para contenerlas (macetas), no más semillas. El permafrost es el contenedor de material en bruto; la arquitectura de las 6 Caras es solo el mapa de huecos, pendiente o colocado, nada más.
+
 **CARA 6 · OCEANÍA** (el UR sin orilla):
 Australia·interior árido / Nueva Guinea·Melanesia / Polinesia·el Pacífico como UR absoluto / Micronesia / Nueva Zelanda·Maorí / Antártida·el hielo primordial (flexible, puede migrar a bonus)
 
@@ -311,9 +313,10 @@ Establecida a partir del criterio de Perplexity + revisión de Claudius. Rige pa
 
 ### Qué va en cursiva
 
+**EXCEPCIÓN FIJADA (agosto 2026, decisión de Luis, prevalece sobre el criterio de Perplexity):** UR como concepto/protagonista **NO va en cursiva**. Se queda derecho, solo con el marcado rojo (`<span style="color:#b01a1a;">UR</span>`, sin `<em>`). El consejo original de Perplexity era cursiva; Luis lo revoca por decisión propia — el rojo ya cumple la función de distinguir la palabra, y es la palabra más repetida de todo el libro: doblar cursiva sobre el color más veces que cualquier otro término del texto rompe la propia convención tipográfica de la cursiva (marca de excepción, no de estribillo). Cualquier Claudius futuro debe respetar esto a rajatabla salvo que Luis mismo lo revierta con nuevo razonamiento ortográfico. 105 instancias corregidas en urtz.html el 18 de julio de 2026.
+
 | Categoría | Ejemplos | Criterio |
 |-----------|----------|----------|
-| UR como concepto/protagonista | *UR* | Cuando funciona como concepto arqueológico, foco interpretativo o personaje del libro — no cuando aparece dentro de una palabra |
 | Extranjerismos antiguos y mitológicos | *Abzu*, *Ain*, *Zamzam* | Términos de lenguas antiguas con valor histórico, ritual o simbólico no integrados en el español actual |
 | Latinismos y nombres científicos | *Durius*, *urus* | Formas latinas o denominaciones zoológicas que conservan su forma original |
 | Términos en euskera u otras lenguas peninsulares | *Iturza*, *Laminiturri*, *jauregi*, *Zamaltzain*, *Maskarada*, *Pastorala*, *Godalet Dantza* | Cuando designan realidades específicas analizadas en el libro |
@@ -467,6 +470,34 @@ Todas vacías (○).
 
 ---
 
+## 11B · MÉTODO DE INFORMES DE INVESTIGACIÓN (protocolo fijado 24 jul 2026)
+
+**Origen**: Luis trabaja primero en Chrome (o herramienta de búsqueda IA equivalente), en conversación libre, siguiendo su intuición y su interés real. Pega esa conversación completa aquí. A partir de ahí, el protocolo es fijo:
+
+1. **Chrome investiga y conversa** — Luis pega la conversación entera (sus preguntas + los desarrollos de la IA de búsqueda), sin recortar.
+2. **Código Hammurabeltz** — Claudius verifica cada dato específico por separado: qué se confirma, qué se corrige (con el dato correcto al lado, no solo "está mal"), qué queda como intuición declarada sin base filológica real. Nunca se fuerza un UR donde no hay letra, ni se da por bueno un dato porque "suena bien".
+3. **Informe con TODO el contenido narrativo** — no basta el veredicto condensado. Cada apartado debe llevar el desarrollo narrativo completo de la investigación: las preguntas exactas de Luis, el desarrollo de Chrome (reescrito por Claudius con sus propias palabras, nunca copiado literal — por derechos de autor y porque así se detectan mejor los fallos), sus propias mejoras si Claudius ve que aportan. **Nada de condensar en una frase bonita que cierre el tema** ("no ser Lorca"): pecar de largo y técnico, sin perder la elegancia de prosa que caracteriza el libro (pilares: The Clash, Marvin Gaye).
+4. **Verificación aparte, no mezclada en el cuerpo** — un bloque diferenciado (tipo INDICADORES) con: confirmado / corregido con dato correcto / declarado como intuición. Así Perplexity o quien redacte después sabe qué pisa fuerte y qué es terreno blando.
+5. **Rayuelas señaladas, no desarrolladas** — qué conecta con qué otra pieza ya existente del libro, solo apuntado.
+6. **Propósito**: esto es una PLANTILLA MAESTRA para que Luis pegue directamente en Perplexity y redacte sin tener que releer la investigación entera cada vez ("mi memoria es de pez"). El objetivo es no perder ningún hilo narrativo por el camino, ni tener que preguntarle constantemente a Claudius qué se dejó fuera.
+7. **Semillero** — durante la verificación puede aparecer material genuino pero que no pertenece a la pieza que se está trabajando (otra región, otra época). Se separa en una pestaña aparte llamada SEMILLERO, con nota de a qué otra pieza del mapa UR podría pertenecer en el futuro, sin desarrollar.
+8. **Aplica retroactivamente** cuando Luis lo pida explícitamente para un informe ya montado en versión condensada.
+9. **UR sin la letra, en cualquier materia** — verificar y coser en la narración, sin marcar aparte ni etiquetar como categoría especial, todo personaje, dios, río, mito, leyenda, música, política, culto, arqueología, arte o dato de prehistoria que sostenga la función del UR (origen, agua, resistencia, agradecimiento frente a usurpación) sin llevar la sílaba en su nombre. No hay materia menor para este libro: hay UR en la piedra y en el cosmos: sin UR no hay vida, sin vida no hay universo. Se gana el sitio por mérito propio, nunca por parecido fonético.
+10. **Estándar de calidad de referencia, fijado con precisión el 27 jul 2026** — cuando Luis dice "no te dejes nada" y "todo es todo", es literal, no retórico: cubrir el cien por cien de lo investigado (dioses, guerras, mitos, música, topónimos, pueblos UR, ríos — todo lo que aparezca, sin criterio de selección propio salvo el Hammurabeltz). El **Informe Maestro · AMUR · MANCHURIA** (27 jul 2026) queda fijado como pieza de referencia nombrada — la vara con la que medir si un informe futuro está a la altura o se queda corto. Sus siete rasgos exactos, en las palabras de Luis:
+    - **Profundidad de cada punto**: mucho más desarrollo por tema del que parece razonable a primera vista; nunca un párrafo de resumen cuando la investigación da para tres.
+    - **Tono**: menos veredicto técnico, más relato — y aun así sin perder rigor. Verificar no es sinónimo de sonar a informe universitario.
+    - **Ningún cabo suelto**: ni el más pequeño dato, personaje o hilo de la investigación original queda fuera. Si algo no cabe en el cuerpo, va a la glosa o al semillero — nunca se descarta en silencio.
+    - **Convivencia sin robo de aire**: verificación y narración conviven en el mismo informe sin que una le quite espacio o energía a la otra — la prosa no se vuelve acta, y la verificación no se vuelve nota al margen perdida.
+    - **Código Hammurabeltz**: aplicado siempre, sin excepción, con el dato correcto al lado del error, nunca solo "esto está mal".
+    - **Aportes de investigación propios de Claudius**: buscar por cuenta propia más allá de lo que trajo la conversación original, cuando hay indicio de que puede haber más — insistiendo en esto, sale bien.
+    - **Detalles pequeños que marcan la diferencia de cada capítulo**: lo que no es dato ni verificación ni narración pura, sino el hallazgo que solo aparece si de verdad se ha leído todo con calma — el nombre de tapadera de un crimen que lleva la palabra "agua", el cambio de nombre de un río para borrar una rebelión, ese tipo de cosa.
+    
+    Luis no opinará sobre asuntos que no entiende o que no le conciernen — el criterio de "todo es todo" se aplica a la investigación y a los hechos verificables, no a la interpretación técnica de cuestiones ajenas al libro.
+11. **Confirmación breve, no interrogatorio (fijado 27 jul 2026)** — antes de intervenir en el HTML cuando hay ambigüedad real sobre el alcance del cambio, Claude confirma en una frase su entendimiento de la tarea y pregunta si es correcto, en vez de lanzarse a adivinar o de encadenar varias preguntas. Una sola confirmación, no una serie. Si la tarea ya está clara por contexto o por precedente en la propia sesión (p. ej. "esto es una mejora del texto que ya tenemos, ata tú la glosa y los indicadores como siempre"), no se pregunta: se ejecuta directamente, sin pedir permiso por algo que ya es norma establecida.
+12. **Ubicación fija de los Informes Maestro (fijado con precisión el 28 jul 2026, tras fallo real de colocación)** — un Informe Maestro va **siempre al final de urtz.html**, sin excepción, independientemente de a qué sección del libro pertenecerá la pieza definitiva que se construya a partir de él. No importa si la pieza futura será de introducción, de Cara 1, 2, 3, 4, 5 o 6: mientras el contenido siga en formato "informe" (verificación Hammurabeltz separada, sin glosa ni notas numeradas todavía), se aparca al fondo del documento. Solo cuando se convierte en pieza definitiva narrativa (con notas, glosa e indicadores) se traslada a su sitio regional o temático correspondiente. Esta regla ya se aplicaba como práctica desde el Informe Maestro de Darién/Urabá, pero nunca había quedado escrita — el fallo de aplicarla mal una vez (Informe Maestro de Río Congo, colocado por error en la introducción) confirmó que hacía falta dejarla fijada aquí, no solo en la memoria de la sesión.
+
+---
+
 ## 11 · NORMA GLOSA EN URTZ (distinción del UR-book WEB)
 
 La glosa de URTZ usa formato limpio de diccionario operativo. **Sin** juegos de palabras tipo "GLOSA-UR-IO" (eso es estilo UR-book WEB). En URTZ:
@@ -480,3 +511,4 @@ Las entradas son breves, precisas, sin redundar con el cuerpo. Máximo 2 líneas
 ---
 
 *Actualización: julio 2026. La norma de cursivas queda fijada con la pieza Meseta como modelo. Ag-UR.*
+*Enmienda: 18 julio 2026. UR queda excluido de la cursiva por decisión de Luis (ver excepción fijada arriba). El resto de la normativa de la sección 7 sigue vigente sin cambios.*
