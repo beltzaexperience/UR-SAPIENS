@@ -289,7 +289,7 @@ Australia·interior árido / Nueva Guinea·Melanesia / Polinesia·el Pacífico c
 
 **UR CONDUCTOR:** cada cara tiene su hilo — la salinidad, la estrella de 8 puntas, el agua como poder colectivo. Los hilos se cruzan en los puentes.
 
-**PIEZAS COLOCADAS:** ur-delta→Prefacio / escombrera→Asia(Mekong) / angostura→América(Orinoco).
+**PIEZAS COLOCADAS:** ur-delta→Prefacio / escombrera→Asia(Mekong) / angostura→América(Orinoco) / ania-anaia→América(Ártico americano·Inuit).
 **PENDIENTES DE ESCRIBIR:** todo lo demás. Runas→Europa(Escandinavia). ITURI→África(Congo).
 
 ---
@@ -432,7 +432,7 @@ Cada pieza de URTZ lleva un bloque gastronómico entre el cuerpo y la glosa.
 ### Cara 4 · América
 ```
 ● Orinoco · Amazonia            → Dolor, canto y muerte en el Orinoco
-○ Ártico americano · Inuit
+● Ártico americano · Inuit      → ANIA · ANAIA · UR en el Atlántico Frío
 ○ América del Norte
 ○ Mesoamérica
 ○ Andes · Pacífico
