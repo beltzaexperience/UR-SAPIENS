@@ -28,15 +28,9 @@ No es un anexo ni un apéndice como la Escombrera o el Muro Glaciar. Es la bóve
 
 ---
 
-## 2 · NORMA DE MARCADO (mismo método que el ALFABETO UR / Alpha-UR)
+## 2 · NORMA DE MARCADO
 
-Urtz NO usa la maquinaria de guiones de los qanats. Usa la **forma natural del Alfabeto UR**:
-
-- **SIN GUIONES** que partan palabras. Nada de US-UR-PACIÓN, UR-Sapiens, BAS-UR-Sapiens. Se escribe en forma natural: *usurpación, Ursapiens, Basursapiens, Urlañó, sistemas mundo*.
-- **UR en MAYÚSCULA solo cuando va como UNIDAD** (el UR-agua suelto, el fonema-concepto): «el ciclo del **UR**», «**UR** + E=mc² = SAPIENS».
-- **Dentro de las palabras, ur en MINÚSCULA roja**, forma natural con primera mayúscula de la palabra: **Ur**tz, **Ur**tzi, **Ur**lañó, **Ur**sapiens, Bas**ur**sapiens, us**ur**pación, capt**ur**a, m**ur**o.
-- Span rojo estándar: `<span style="color:#b01a1a;">ur</span>` (minúscula) o `...">UR</span>` (unidad).
-- Reglas heredadas que siguen vigentes: solo u+r consecutivas REALES en rojo; RU rojo solo si es espejo deliberado; nombres propios con UR real sí se marcan; método comanche (nada por descartado, todo por contrastar); cazar UR falsos inventados (incl. los propios de Claudius).
+**Movida a NOTAS-PUNK.md (norma 15), 31 jul 2026.** Toda regla de cómo se escribe una frase o se marca el UR vive ahora solo ahí — esta sección queda vacía a propósito para no duplicar criterio en dos archivos.
 
 ---
 
@@ -48,6 +42,10 @@ Urtz NO usa la maquinaria de guiones de los qanats. Usa la **forma natural del A
 - **Contenedor**: `max-width:900px; margin:0 auto`.
 - Divisor de sección: `<div style="height:4px; background:#b01a1a; width:100%;">`.
 - La «Nota de método» inicial fue ELIMINADA por decisión de Luis (la cámara entra directa).
+- **Respirador interno de capítulo** (herramienta narrativa fijada 6 ago 2026, ver Norma 25 de NOTAS-PUNK.md para el criterio de cuándo usarlo). Se inserta como `<div>` propio, nunca dentro de la etiqueta `<p>` que lo sigue.
+  - **Provisional** (título aún no confirmado por Luis): `font-family:'Bebas Neue',sans-serif; font-size:1rem; letter-spacing:0.3em; color:#b01a1a; margin:2.2rem 0 1.2rem 0; text-align:left; font-style:italic;`
+  - **Definitivo** (título ya confirmado): mismo bloque, sin `font-style:italic;` y con `font-size:1.2rem` en vez de `1rem`.
+  - El indicador `(*-sub)` junto a `NO TOCAR!!!` en el resumen de la pieza marca qué capítulos cerrados tienen respiradores pendientes de revisión de título; se quita al confirmar y pasar a definitivo.
 
 ---
 
@@ -289,7 +287,7 @@ Australia·interior árido / Nueva Guinea·Melanesia / Polinesia·el Pacífico c
 
 **UR CONDUCTOR:** cada cara tiene su hilo — la salinidad, la estrella de 8 puntas, el agua como poder colectivo. Los hilos se cruzan en los puentes.
 
-**PIEZAS COLOCADAS:** ur-delta→Prefacio / escombrera→Asia(Mekong) / angostura→América(Orinoco) / ania-anaia→América(Ártico americano·Inuit).
+**PIEZAS COLOCADAS:** ur-delta→Prefacio / escombrera→Asia(Mekong) / angostura→América(Orinoco).
 **PENDIENTES DE ESCRIBIR:** todo lo demás. Runas→Europa(Escandinavia). ITURI→África(Congo).
 
 ---
@@ -307,46 +305,11 @@ Australia·interior árido / Nueva Guinea·Melanesia / Polinesia·el Pacífico c
 
 ---
 
-## 7 · NORMATIVA DE CURSIVAS (norma definitiva, julio 2026)
+## 7 · NORMATIVA DE CURSIVAS
 
-Establecida a partir del criterio de Perplexity + revisión de Claudius. Rige para todo el libro.
+**Movida a NOTAS-PUNK.md (norma 16), 31 jul 2026.** Incluye la excepción fijada de UR sin cursiva, la tabla de qué va y qué no va en cursiva, y el orden de aplicación en HTML. Queda solo el registro histórico: 105 instancias corregidas en urtz.html el 18 de julio de 2026 al fijar la excepción de UR; la pieza Meseta/Central sirvió de modelo con 41 instancias `<em>` aplicadas ese mismo mes.
 
-### Qué va en cursiva
-
-**EXCEPCIÓN FIJADA (agosto 2026, decisión de Luis, prevalece sobre el criterio de Perplexity):** UR como concepto/protagonista **NO va en cursiva**. Se queda derecho, solo con el marcado rojo (`<span style="color:#b01a1a;">UR</span>`, sin `<em>`). El consejo original de Perplexity era cursiva; Luis lo revoca por decisión propia — el rojo ya cumple la función de distinguir la palabra, y es la palabra más repetida de todo el libro: doblar cursiva sobre el color más veces que cualquier otro término del texto rompe la propia convención tipográfica de la cursiva (marca de excepción, no de estribillo). Cualquier Claudius futuro debe respetar esto a rajatabla salvo que Luis mismo lo revierta con nuevo razonamiento ortográfico. 105 instancias corregidas en urtz.html el 18 de julio de 2026.
-
-| Categoría | Ejemplos | Criterio |
-|-----------|----------|----------|
-| Extranjerismos antiguos y mitológicos | *Abzu*, *Ain*, *Zamzam* | Términos de lenguas antiguas con valor histórico, ritual o simbólico no integrados en el español actual |
-| Latinismos y nombres científicos | *Durius*, *urus* | Formas latinas o denominaciones zoológicas que conservan su forma original |
-| Términos en euskera u otras lenguas peninsulares | *Iturza*, *Laminiturri*, *jauregi*, *Zamaltzain*, *Maskarada*, *Pastorala*, *Godalet Dantza* | Cuando designan realidades específicas analizadas en el libro |
-| Títulos de documentos históricos, leyes, mapas | *Génesis de Eridu*, *Código de Ur-Nammu*, *mapa de Nippur* | Nombres singulares de textos, leyes o cartografías con identidad propia |
-| Títulos de obras artísticas | *El anillo del nibelungo*, *Alien*, *True Democracy* | Películas, óperas, álbumes |
-| Formas musicales o folclóricas como categoría | *La Manchega* | Géneros o palos cuando se usan como categoría analítica |
-
-### Qué NO va en cursiva
-
-- **Topónimos actuales de uso normal:** Ojacastro, Toledo, Las Hurdes, Mesopotamia, Roma
-- **Nombres propios de personas:** Schulten, Segoviano, Sansinenea, Zurbarán
-- **La T como categoría política:** usar comillas simples 'T' — `su antagonista es la 'T': la 'T' que mide, tasa...`
-- **Términos de la glosa en posición de cabecera:** la glosa usa negrita para los headwords; no añadir cursiva encima
-
-### Orden de procesamiento en HTML
-
-1. Aplicar `<em>` a los términos (en texto plano, antes de codificar)
-2. Codificar entidades HTML (á → `&aacute;`, etc.)
-3. Aplicar marcado UR en rojo (`<span style="color:#b01a1a;">`)
-4. El resultado: `<em><span style="color:#b01a1a;">UR</span></em>` (cursiva + rojo simultáneos)
-
-### Modelo de aplicación (Meseta, julio 2026)
-La pieza Central/Meseta ha sido normalizada como modelo. 41 instancias `<em>` aplicadas:
-- *UR* standalone como concepto (~15 instancias)
-- *Abzu* ×5, *Durius* ×1, *URIUS* ×1, *urus* ×2
-- *Ain*, *Zamzam*, *Iturza*, *Laminiturri*, *jauregi*, *La Manchega*
-- *Génesis de Eridu*, *Código de Ur-Nammu*, *mapa de Nippur*
-- 'T' con comillas simples en el párrafo del antagonista
-
-### Pendiente: aplicar la misma norma a las otras piezas ya montadas
+**Pendiente: aplicar la norma de cursivas (ver NOTAS-PUNK.md, norma 16) a las otras piezas ya montadas:**
 - Xiberua: *Zamaltzain*, *Maskarada*, *Pastorala*, *Godalet Dantza*, *Gorriak/Urdinak*, *mozorro*, *Euritión* (nombre mitológico), *Sigurd* (nórdico), *Axeri Boda*, y el nombre de la ópera *El anillo del nibelungo*
 - Vendée: *Sigurd*, *El anillo del nibelungo*, *Sigournais* (topónimo analizado), *Bourdin*
 - Levante de la Sal: *qirbah*, *ghadir*, *Bahr al-Mayyit*, *Nahr al-Urdun*, *Police & Thieves* (canción), *Your House* (canción), *True Democracy* (álbum)
@@ -355,26 +318,9 @@ La pieza Central/Meseta ha sido normalizada como modelo. 41 instancias `<em>` ap
 
 ---
 
-## 8 · BLOQUE A LA MESA (norma definitiva, julio 2026)
+## 8 · BLOQUE A LA MESA
 
-Cada pieza de URTZ lleva un bloque gastronómico entre el cuerpo y la glosa.
-
-**Posición:** después del último párrafo del cuerpo, antes del `<div>` de la GLOSA.
-
-**Formato visual:**
-```html
-<div style="border-top:1px solid rgba(176,26,26,0.15); margin-top:2rem; padding:1.2rem 0 0.8rem 0;">
-  <div style="font-family:'Bebas Neue'...; color:#b01a1a;">A LA MESA</div>
-  <p style="font-family:'Courier Prime'...; color:#444; font-size:0.95rem;">...</p>
-</div>
-```
-
-**Criterio de contenido:**
-- 3-5 frases de prosa, no lista de ingredientes ni receta
-- El alimento como otra expresión del UR en el territorio (no decoración)
-- El vino, la leche, el grano, el aceite como formas del agua transformada
-- Tono sofá y copa de vino, no enciclopédico
-- Sin juegos de palabras forzados (es parte del cuerpo narrativo, no del UR-book WEB)
+**Regla movida a NOTAS-PUNK.md (norma 17), 31 jul 2026.** Posición (después del cuerpo, antes de la glosa) y criterio de contenido viven ahora solo ahí. Aquí queda el registro de qué piezas ya lo tienen:
 
 **Mesas montadas:**
 
@@ -386,6 +332,7 @@ Cada pieza de URTZ lleva un bloque gastronómico entre el cuerpo y la glosa.
 | Levante de la Sal · Mesopotamia | Labneh + za'atar + pan de tabún + dátiles |
 | El Gran Receptáculo Sónico · Indo-Ganges | Masala chai + dal + arroz del Ganges + ghee |
 | Escombrera Sistémica · Mekong | Pho + nuoc mam + arroz glutinoso |
+| UR, el Euskera y la Frontera Invisible | Irouléguy tinto + axoa de ternera al pimiento de Espelette |
 
 **Pendientes (cuando se monten las piezas):**
 - Atlántico / Portugal: pulpo à lagareiro + vinho verde
@@ -432,7 +379,7 @@ Cada pieza de URTZ lleva un bloque gastronómico entre el cuerpo y la glosa.
 ### Cara 4 · América
 ```
 ● Orinoco · Amazonia            → Dolor, canto y muerte en el Orinoco
-● Ártico americano · Inuit      → ANIA · ANAIA · UR en el Atlántico Frío
+○ Ártico americano · Inuit
 ○ América del Norte
 ○ Mesoamérica
 ○ Andes · Pacífico
@@ -498,17 +445,73 @@ Todas vacías (○).
 
 ---
 
-## 11 · NORMA GLOSA EN URTZ (distinción del UR-book WEB)
+## 11 · NORMA GLOSA EN URTZ
 
-La glosa de URTZ usa formato limpio de diccionario operativo. **Sin** juegos de palabras tipo "GLOSA-UR-IO" (eso es estilo UR-book WEB). En URTZ:
-
-```html
-GLOSA · [NOMBRE DE LA PIEZA]
-```
-
-Las entradas son breves, precisas, sin redundar con el cuerpo. Máximo 2 líneas por entrada. Los headwords van en `<strong>`, sin cursiva añadida (la jerarquía tipográfica ya es suficiente). El marcado UR rojo sí aplica dentro de las definiciones.
+**Movida a NOTAS-PUNK.md (norma 18), 31 jul 2026.** El tope de "máximo 2 líneas por entrada" queda derogado ese mismo día — sustituido por un criterio de calidad (cada frase aporta un dato que el cuerpo no tiene), ya que la norma 9 del manifiesto asigna a la glosa el peso completo de la erudición del capítulo.
 
 ---
 
 *Actualización: julio 2026. La norma de cursivas queda fijada con la pieza Meseta como modelo. Ag-UR.*
 *Enmienda: 18 julio 2026. UR queda excluido de la cursiva por decisión de Luis (ver excepción fijada arriba). El resto de la normativa de la sección 7 sigue vigente sin cambios.*
+
+
+## MAPA DE RAYUELAS VIVO (iniciado 30 jul 2026)
+
+Tabla de vínculos entre piezas, actualizada cada vez que se coloca o toca una pieza — para no tener que reconstruir el mapa entero cuando el libro esté completo. Sustituye a las cajas RAYUELAS de los indicadores de trabajo (retirados de urtz.html en esta misma sesión; el contenido vive aquí, no se pierde).
+
+**Piezas sin rayuela registrada todavía** (4): XIBERUA - ZUBEROA - ZURBELTZ Y EL RITUAL DE LA MÁSCARA, EL GRAN RECEPTÁCULO SÓNICO: EL INDO-GANGES Y LA CORONA DEL HIMALAYA, MONTAÑA DE HUMO: ESCOMBRERA HUMANA, DOLOR, CANTO Y MUERTE EN EL ORINOCO.
+
+| Pieza | Rayuelas → |
+|---|---|
+| INTRODUCCIÓN: CÍRCULO SIMBÓLICO — NATURA, UR Y ORIGEN | → EL UR DELTA (bisagra directa: la intuición como método se anuncia aquí y se desarrolla allí) · → CUL-T-UR/A · LEC-T-UR/A (la cultura como contenedor retoma el UR-Sapiens de esta pieza) · → Urdax/Zugarramurdi (pendiente de montar — la lengua aislada y su relación con lo no verificable es el mismo nervio). |
+| UR DELTA: TEOLOGÍA DE LA INTUICIÓN, HUÉRFANA DE DOCTRINA | → Escombrera / Asia (comparten el párrafo del hierro-60/EPICA y a Bergson — ver nota en MEJORA) · → Urdax/Zugarramurdi (pendiente de montar — la intuición mística frente al registro inquisitorial es el mismo choque que aquí entre intuición y T) · → ANGOSTURA (Bolívar y la piedra, otra imagen de umbral cósmico-político). |
+| EL UR CÓSMICO · DEL HIELO INTERESTELAR A LA GARGANTA | → EL UR DELTA (la Nebulosa Boomerang y esta pieza comparten registro cósmico, una fría e inmóvil, la otra cálida y en viaje) · → KOXKERO (Ekain reaparece allí con su propia glosa; aquí se cita en clave cosmológica, allí en clave etnográfica —dos lecturas del mismo lugar) · → CUL-T-UR/A (el cierre sobre la usurpación enlaza directo con la T como compuerta que abre esa pieza) · → EPÍLOGO / Wittfogel y Mumford (la usurpación del UR libre en UR-be es la misma arquitectura de poder hidráulico). |
+| RÍO CONGO: NATURALEZA O SISTEMA | → EL UR DELTA (Sandinista! como modelo estructural del libro entero) · → KOXKERO (Ekain reaparece aquí en clave filosófica de Chesterton, allí en clave etnográfica) · → UR, EL EUSKERA (la lengua aislada como confinamiento conceptual, mismo argumento). |
+| CUL-T-UR/A · LEC-T-UR/A | → Mediterráneo Ibérico / Cabo de Gata (el mismo eje sur-bético, Tarteso y el Estrecho como frontera) · → Angostura (Huelva-Odiel y Orinoco comparten la lógica del estur convertido en frontera y en tributo) · → Meseta Central (la columna que asciende desde el sur hasta el norte vasco, mencionada explícitamente en el propio texto). |
+| UR, EL EUSKERA Y LA FRONTERA INVISIBLE | → Vendée / Francia Atlántica (mismo aparato revolucionario que Bar&egrave;re: la Francia que se come sus propias lenguas y su propio interior) · → Mediterráneo Ibérico / Cabo de Gata (el paralelismo explícito del balate alpujarreño ya está en la propia glosa) · → Euskal Herria (contigua, continuidad regional directa) · → América · ANIA (eco lejano: otra diáspora vasca, otro siglo, la lengua viajando en vez de resistiendo en el sitio). |
+| UR, EL CASTELLANO Y LA FRONTERA INVISIBLE | → Meseta Central (del Rioja al Atlántico · UR viajero: mismo eje de expansión hacia el oeste) · → Euskal Herria (la última frase lo declara sin rodeos: «el UR de los vascos no está solo») · → Cantábrico (pendiente de escribir — costa que recibe el romance en su extremo norte) · → Atlántico (pendiente de escribir — la salida ultramarina que Nebrija ya anuncia). |
+| EL KOXKERO ERRANTE DE BAJA ALCURNIA | → UR, EL EUSKERA (contigua, mismo marcador regional) · → ZUBEROA (comparten a Urbeltz, folclorista) · → EL UR DELTA (la cueva de Ekain conecta con la Nebulosa Boomerang vía Nietzsche/Ekain en el epílogo: «Dios murió en Ekain») · → Cantábrico (pendiente de escribir — el molino y la ferrería de Agorregi son la misma T extractivista que las minas de Ollin). |
+| AMAIA · AMAIUR · MAIA · AMAYA: EL CONFÍN | → KOXKERO (contigua, comparten las lamiak y el sistema kárstico de Urdax/Ikaburu) · → ANGOSTURA (los cenotes mayas y el Orinoco comparten la lógica del agua subterránea como centro del mundo) · → UR, EL CASTELLANO (la Gran Redada es la misma T institucional que persigue al gallego o al euskera, aplicada a un pueblo entero) · → ZUBEROA (contigua, Akelarre y máscara comparten territorio ritual). |
+| XIBERUA - ZUBEROA - ZURBELTZ Y EL RITUAL DE LA MÁSCARA | — (sin rayuelas registradas) |
+| REFUGIO PUNK EN EL DESIERTO | → EL EUSKERA (Barère y la Francia jacobina comparten método con cualquier centro que folkloriza el margen, aunque aquí el margen elige irse por gusto, no por represión) · → EL UR DELTA (Sandinista! y The Clash como modelo estructural explícito del libro entero, Strummer aparece en ambas piezas) · → EPÍLOGO / Town Called Malice (mismo Strummer, mismo gesto: elegir el margen como lugar de verdad). |
+| EL ATLAS UR DE LA MESETA | → UR, EL CASTELLANO (Alfonso X y Nebrija recorren la misma Meseta que este viaje hidronímico) · → CUL-T-UR/A · LEC-T-UR/A (Tarteso y el Estrecho como la otra gran puerta ibérica, en el extremo sur de esta misma columna) · → MESOPOTAMIA / LEVANTE (el Abzu sumerio y los Ojos del Guadiana son la misma imagen del agua que emerge del subsuelo) · → ANGOSTURA (Urius desemboca en Huelva justo donde Colón zarpó en 1492; el Orinoco recibe otra desembocadura, otro imperio). |
+| EL ESCARPE DE ALTURA Y LA FOSA DEL FANGO | → EL EUSKERA (mismo aparato revolucionario/estatal que Barère, aplicado aquí al paisaje en vez de a la lengua) · → MESOPOTAMIA/LEVANTE (el escarpe y la fosa son la misma dualidad altura-refugio/bajo-peligro que estructura esa pieza) · → ANIA (otra figura de umbral entre dos aguas, Ripley y Ania comparten el gesto de descender sin perder la memoria de la altura). |
+| FRONTERA AQUITANO-CELTA: GUERRA EN LA GALIA | → UR, EL EUSKERA Y LA FRONTERA INVISIBLE (misma frontera de contacto y resistencia lingüística, otro ángulo) · → Frontera Franco-Belga/Dunkerque (misma investigación de origen, hermana geográfica) · → EL UR DELTA (la T que acaba encontrando otra T distinta). |
+| FRONTERA FRANCO-BELGA: RÊV-E-UR · SOÑADOR · ESPEJISMO | → UR, EL EUSKERA (mismo tipo de refugio de frontera, otra geografía) · → VENDÉE / EL ESCARPE Y LA FOSA (mismo eje francés, altura/roca frente a fango/carencia) · → Etimología Insurgente / Absurdo-Susurro (parentesco temático de raíces sonoras inciertas, aunque *swer- y resver son familias distintas —no confundir). |
+| FRONTERA FRANCO-BELGA: DUNKERQUE · URBELTZ CELTA | → FRONTERA FRANCO-BELGA: RÊV-E-UR · SOÑADOR · ESPEJISMO (misma franja fronteriza, otro eje narrativo) · → UR ABISAL (la usurpación que llega hasta el fondo más remoto, aquí en Tourcoing) · → Urabá (la Madre de las Aguas, mismo arquetipo sin contacto documentado con el Nikker europeo). |
+| EL LEVANTE DE LA SAL | → Iberia (Elgorriaga/Salinas/Keuper · Hermón=Urbasa) · → Ártico (burro/qirbah: el cuerpo como instrumento) · → Urinoco(angostura/Venturi) · → África/Yemen (llamada-respuesta y rogativas). |
+| EL GRAN RECEPTÁCULO SÓNICO: EL INDO-GANGES Y LA CORONA DEL HIMALAYA | — (sin rayuelas registradas) |
+| MONTAÑA DE HUMO: ESCOMBRERA HUMANA | — (sin rayuelas registradas) |
+| ANIA · ANAIA · UR EN EL ATLÁNTICO FRÍO | → Euskal Herria (el origen de los balleneros; sin esa pieza ésta no se sostiene) · → Cantábrico (pendiente de escribir — el puerto de salida, Pasaia/Getaria, antes de cruzar) · → Ártico · Islandia (Spánverjavígin 1615, la matanza y la reconciliación de 2015, mismo frío que Groenlandia/Katajjaq) · → América del Norte · Grandes Lagos-Misisipí (el hacha de Mantle viaja aguas arriba desde aquí hasta allá). |
+| URABÁ · TAPÓN DE DARIÉN · RAÍCES INDÍGENAS | → Etimología Insurgente/TURBA (misma raíz turbare, mismo verbo en boca de Panquiaco) · → UR ABISAL (la usurpación que llega hasta el fondo más remoto, aquí el oro que nunca se encuentra) · → Frontera Franco-Belga/Dunkerque (mismo arquetipo de deidad acuática —Madre de Aguas/Nikker— en dos continentes sin contacto) · → Ken Saro-Wiwa/Resistencias Hídricas (mismo canto de resistencia frente a la violencia sistémica, aquí los alabaos). |
+| DOLOR, CANTO Y MUERTE EN EL ORINOCO | — (sin rayuelas registradas) |
+| SÁJAURA · MAURITANIA · FUR | → UR ABISAL (agua persistiendo donde todo empuja al derrumbe) · → Ken Saro-Wiwa/Resistencias Hídricas (agua como eje de conflicto y resistencia en África) · → Frontera Franco-Belga/Beausonge y Bojayá/alabaos (mismo patrón de música de resistencia surgida del mestizaje). |
+| ABSURDO | → Susurro (misma raíz *swer-, dos ramas del mismo zumbido: una se pierde, la otra apenas se oye). |
+| SUSURRO | → Absurdo (misma raíz *swer-) · → UR, EL CASTELLANO (Fernando de Rojas y la lengua en los márgenes del poder). |
+| TURBA | → URABÁ (Panquiaco, Turbo, el mismo verbo en su contexto histórico completo) · → UR ABISAL (mismo método: raíz real pero de origen incierto, resonancia sin genealogía cerrada). |
+| HURÓN | → LAUREL · SAN LORENZO · SHARP (hermana natural: mismo gesto de insulto colonial vuelto bandera, misma década punk) · → ANIA (Wendat, colonización franco-americana, mismo territorio). |
+| LAUREL | → HURÓN (hermana natural: mismo gesto de insulto colonial vuelto bandera, misma década punk) · → ANIA (Wendat, colonización franco-americana, mismo territorio) · → EL UR DELTA (Barère y la lengua única: mismo gesto de borrado por nombramiento) · → FRONTERA FRANCO-BELGA (misma familia de resignificación de símbolos usurpados). |
+| SULFURO Y OSCURIDAD: EL UR ABISAL | → UDRA ES UR (mismo método: Kurosawa/Urbeltz, resonancia sin genealogía) · → Etimología Insurgente / Turba (mismo patrón: raíz real pero de origen incierto) · → EL UR DELTA (la T que llega hasta el fondo más remoto del planeta). |
+
+
+---
+
+## 12 · CRITERIO DE CONTINUIDAD EDITORIAL Y PROMPT MAESTRO
+
+*(trasladado y actualizado desde NOTAS-UR-SAPIENS.md §19-20, 31 jul 2026 — allí quedaba descrito para dos capas de salida y un solo cuaderno; aquí se actualiza a los tres archivos reales del proyecto)*
+
+Cuando una conversación avance durante varios días o el hilo empiece a cargar, conviene consolidar el trabajo en una versión de continuidad. Si el dispositivo o hilo principal funciona bien, puede seguirse ahí; si se vuelve pesado, lo más práctico es abrir una conversación nueva con el prompt maestro de abajo, que recupera el marco completo sin perder la línea de trabajo. La conversación nueva no debe sentirse como un reinicio, sino como un traslado de taller.
+
+**Señales de cambio:** el hilo se vuelve lento o pesado · hace falta recuperar contexto una y otra vez · hay demasiados bloques abiertos y el seguimiento se dispersa · se necesita separar redacción, revisión y reordenación conceptual.
+
+**Los tres archivos y qué gobierna cada uno:**
+- **`urtz.html`** — el libro mismo. La única fuente de verdad sobre qué está escrito.
+- **`NOTAS-PUNK.md`** — manual único de redacción: cómo suena una frase, cómo se marca el UR, cursivas, A LA MESA, la glosa, los tres registros (hecho / especulación / dadá), todo lo que responde a "¿cómo se escribe esto?".
+- **`NOTAS-URTZ.md`** (este archivo) — arquitectura y flujo de trabajo: Ley Hammurabeltz, ubicación de informes maestros, mapa de rayuelas, estado de cada Cara, piezas colocadas, todo lo que responde a "¿dónde va esto y en qué estado está?".
+
+### Prompt maestro de arranque
+
+> Quiero seguir trabajando el proyecto UR-SAPIENS / Urtz con la misma dinámica editorial que ya hemos desarrollado. El libro vive en `urtz.html`; el criterio de redacción (marcado UR, cursivas, A LA MESA, glosa, los tres registros hecho/especulación/dadá, y las normas punk de estilo) vive en `NOTAS-PUNK.md`; la arquitectura, el flujo de trabajo y el estado de cada pieza viven en `NOTAS-URTZ.md`. Mantén como marco: UR como núcleo poético-conceptual, el sistema UR/T, la mezcla de rigor y descabello, y la Ley Hammurabeltz (Claudius verifica datos y fechas, sin coba, método comanche). Antes de sustituir cualquier pieza, compara siempre contra lo que ya hay en el archivo y muestra la comparativa antes de tocar nada. Prioriza ritmo, legibilidad, cadencia literaria y precisión conceptual. Evita simplificaciones históricas, repeticiones mecánicas, tono dogmático, moralina y explicaciones redundantes. Si te doy un fragmento para sustituir, compáralo con lo que ya existe, señala qué cambia y por qué, verifica cualquier dato nuevo de forma independiente, y respeta el tono humano, insurgente y musical del libro. Cuando haya decisiones abiertas, propón la opción más sólida sin alargar innecesariamente la discusión, pero nunca sustituyas nada sin confirmación explícita.
+
+### Qué mantener al cambiar de conversación
+El núcleo conceptual UR-SAPIENS · el equilibrio entre rigor y descabello · la preferencia por cadencia literaria frente a explicación redundante · la reserva de los bloques que aún no tienen lugar definitivo · la forma de trabajar por capas, no solo por corrección puntual · las piezas marcadas con calavera (NO TOCAR salvo petición explícita con "abre calavera").
