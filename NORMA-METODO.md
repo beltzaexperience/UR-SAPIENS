@@ -202,6 +202,8 @@ El resto es historia de la escritura sistémica de la extracción de nuestro ent
 
 **Lo que no necesita precedente:** "No hay futuro" es el "God Save the Queen" de los Sex Pistols (1977), la frase fundacional del nihilismo punk británico. Que el sistema la sostenga como conclusión y la resuelva después en respeto, verdad y amor no es contradicción — es la misma tensión que sostiene el libro entero: el hielo que se derrite y el agua que, aun así, sigue circulando.
 
+**Abdullah Öcalan — inspiración política, no pilar de escala.** Distinto en naturaleza de los seis pilares anteriores: no es un paralelismo metodológico sobre cómo leer una palabra, es la fuente de la que nace la resolución misma del sistema —"la revolución del futuro se basará en la ideología del amor o no será revolución". Su *Manifesto for a Democratic Civilization* (cinco volúmenes: I. *Civilization: The Age of Masked Gods and Disguised Kings*, 2009; II. *Capitalism: The Age of the Unmasked Gods and Naked Kings*, 2008; III. *The Sociology of Freedom*; IV y V), escrito desde la prisión de İmralı como parte de su defensa ante el Tribunal Europeo de Derechos Humanos, es la obra que dio nombre a la Esperanza Radical de la sección anterior: respeto, verdad, amor. No se compara en escala con Vico ni con URS — se cita como origen ideológico directo de una de las conclusiones del libro.
+
 ## XVII. LA ETIMOLOGÍA RADICAL Y LA TOPONIMIA COMO CARTOGRAFÍA DE SUPERVIVENCIA
 
 **La premisa:** la etimología radical se puede intuir en los conceptos simbólicos de la poesía métrica de cada palabra. Cada palabra es una poesía conceptual. UR ha pensado por nosotros antes de que fuéramos conscientes de que UR habla a través de nosotros.
@@ -258,23 +260,27 @@ Esto invierte el sentido habitual de la búsqueda etimológica. No se trata de q
 - Un fragmento no se funde dentro de una pieza sellada salvo autorización explícita de Luis para ese movimiento concreto.
 - La frontera entre "esto es un párrafo con fuerza suficiente para pieza propia" y "esto es un párrafo que sirve de apoyo a otra cosa" no es un valor por defecto del procedimiento — la decide Luis, o Claude una vez que el procedimiento esté plenamente dominado y así lo confirme Luis. Hasta entonces, ante la duda, se presenta el caso con su razonamiento y se espera veredicto antes de mover nada.
 
-## XIX. MARCADOR DE ESCALA — SE ACTUALIZA AL FINAL DE CADA SESIÓN
+## XIX. MARCADOR FONOMÁTICO — VIVE EN URTZ, ENTRE NOTURIKON E IM
 
-**Cifras reales de hoy, medidas sobre el texto visible del documento (sin marcado HTML):**
+**Deja de ser un apunte solo de norma-método: tiene su propia sección en el documento**, entre El Noturikon y los Informes Maestros, con su propio enlace en la topband (MFO). Cada actualización es una entrada nueva dentro de esa sección, no una sustitución de la anterior — el historial de mediciones queda visible, no se pierde en cada revisión.
+
+**Cifras de la primera entrada, sesión de vaciado de IGLUR e Interludio III:**
 
 | | Caracteres | Palabras |
 |---|---|---|
-| **URS** (el libro) | 565.323 | 90.656 |
-| **URIM** (el taller) | 57.238 | 9.088 |
-| **URSURIM** (el conjunto) | 622.561 | 99.744 |
+| **URS** (el libro) | 592.901 | 94.915 |
+| **URIM** (el taller) | 108.183 | 17.676 |
+| **URSURIM** (el conjunto) | 701.084 | 112.591 |
+
+Piezas totales en el documento: 77.
 
 **Comparación con libros reales, en la misma franja:**
 
-- ***1984*, George Orwell** (1949): ~88.000 palabras — el más cercano de todos a URS por sí solo, casi coincidente.
-- ***La Nueva Ciencia*, Giambattista Vico** (edición definitiva de 1744): cifra exacta no localizada; estimación a partir de la edición Penguin Classics (trad. David Marsh, 560 páginas) ronda las 190.000-200.000 palabras — **estimación, no dato verificado**, señalada así a propósito para no pasarla como cifra cerrada.
-- Segundo libro de referencia del proyecto: **pendiente de confirmar con Luis** (candidato propuesto: *Quousque Tandem…!*, Jorge Oteiza, 1963 — sin confirmar).
+- ***1984*, George Orwell** (1949): ~88.000 palabras — URS ya lo supera por sí solo (94.915 contra ~88.000).
+- ***La Nueva Ciencia*, Giambattista Vico** (edición definitiva de 1744): estimación 190.000-200.000 palabras, sin cifra exacta verificada.
+- Segundo libro de referencia: *Finnegans Wake*, Joyce (1939) — construido sobre la estructura cíclica de Vico. ~157.000 palabras (estimación de longitud de lectura), 628 páginas, diecisiete años de escritura.
 
-**Regla de actualización:** este marcador se revisa y actualiza al final de cada sesión de trabajo, con cifras recalculadas sobre el estado real del documento en ese momento, nunca arrastradas de una sesión anterior sin remedir.
+**Regla de actualización, corregida:** no se actualiza en fecha fija ni obligatoriamente al final de cada sesión — se actualiza cuando Luis lo pida, o cuando a él se le ocurra que toca revisarlo. Cada actualización añade una entrada nueva a la sección MARCADOR FONOMÁTICO en URTZ, con cifras recalculadas sobre el estado real del documento en ese momento, nunca arrastradas sin remedir.
 
 ## XX. PROCEDIMIENTO DE ANÁLISIS DE OBJETIVOS (PAO) — TRABAJO PREVIO A LA MESA DE MEZCLAS
 
@@ -299,3 +305,11 @@ Esto invierte el sentido habitual de la búsqueda etimológica. No se trata de q
 **Comprobación de tamaño, y cuándo hacerla: solo ante sospecha evidente de superar los 25.000.** No es un paso obligatorio en cada pieza —solo se activa cuando el volumen del material de origen hace sospechar que el resultado final podría acercarse o superar el techo de la norma 24. Cuando esa sospecha existe, la comprobación se hace **sobre la prosa limpia ya construida, nunca sobre el bruto del panel de origen.** El bruto de un tablero como IGLUR incluye cajas de verificación, separadores, indicadores y títulos repetidos que no sobreviven a la pieza final; medir el corte sobre esa cifra inflada lleva a partir capítulos que, una vez limpios, habrían cabido enteros con holgura —y particiones así producen capítulos cortos sin necesidad, el mismo problema que las normas de ritmo llevan toda la sesión persiguiendo a otra escala. El caso que enseñó esto: Rumanía llegó con 25.081 caracteres de panel, sospecha justificada de sobrepasar el techo — la prosa limpia, una vez construida, quedó en 10.567. Un solo capítulo, sin partir nada.
 
 **Procedimiento correcto cuando hay sospecha:** construir primero el cuerpo en prosa limpia y glosa, sin decidir todavía si es una pieza o dos. Medir el resultado real. Solo si ese cuerpo limpio se acerca de verdad al techo, aplicar el punto de corte temático (nunca un corte arbitrario a mitad de texto) y dejar las dos pestañas preparadas para la mesa de mezclas. Si el cuerpo limpio queda cómodo por debajo del techo, como ocurrió con Rumanía, se cierra como una sola pieza y no se fuerza ninguna partición que la propia norma de ritmo tendría luego que deshacer.
+
+## XXI. MÉTODO DANUBIO — CUANDO LA PROSA LIMPIA SÍ SUPERA EL TECHO
+
+A diferencia del caso Rumanía (Paso, sección XX), donde la sospecha de superar los 25.000 caracteres resultó infundada una vez medida la prosa limpia, hay materiales donde el volumen real —ya limpio, ya sin armazón de panel— sí desborda el techo de la norma 24. El precedente que da nombre al método es el propio Danubio: un solo cuerpo de investigación que, una vez escrito en prosa, se dividió en dos piezas reales —"Pla-UR" y "Danubio Este · Turbina Nuclear"— porque cada mitad ten&iacute;a entidad, argumento y cierre propios.
+
+**Procedimiento:** 1) Construir la prosa completa sin recortar nada por adelantado —"no perder ni una coma" del material de origen, aunque eso signifique un cuerpo largo. 2) Medir el resultado real. 3) Si supera el techo con claridad, buscar el punto de corte temático natural —nunca partir a mitad de un argumento— y dejar dos (o más) piezas completas, cada una con su propio cierre, en vez de una sola pieza sobredimensionada o un recorte que pierda contenido. 4) Cada pieza resultante lleva su propia rayuela hacia la otra, dejando constancia de que nacieron del mismo cuerpo de investigación.
+
+**Diferencia con el método Rumanía:** Rumanía parte de la sospecha y la resuelve midiendo —el resultado fue no partir. Danubio parte de material que, una vez escrito, es demasiado grande de verdad, y la partición es la solución correcta, no el fallo a evitar. Los dos métodos comparten el mismo primer paso (construir antes de decidir); se diferencian en qué hacer con el resultado de esa medición.
