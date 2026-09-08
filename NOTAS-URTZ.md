@@ -367,3 +367,18 @@ Lección del caso: antes de dar por hecho que una pieza de IGLUR necesita trasla
 Aclarado por Luis el 01/09/2026: **Semilla** es material que podría convertirse en pieza NUEVA propia. **Compost** es material que solo alimenta o amplía una pieza que YA EXISTE, aunque no esté verificado ni redactado todavía —no hace falta que sea "material sobrante ya comprobado" como los primeros compost del Congo; puede ser una idea sin desarrollar, mientras su destino sea una pieza existente y no una nueva.
 
 **Caso 2 del PEOIM — Andes · Mesoamérica · cenotes maya, resuelto.** La mitad "cenotes maya" ya vivía, bien desarrollada, dentro de la pieza AMAIA (Euskal Herria) — conectando cenotes con el sistema kárstico de Ikaburu/Zugarramurdi. La otra mitad, Titicaca/Uros, no tenía ni una frase escrita — pura idea de ampliación de esa misma pieza AMAIA, con el mismo patrón invertido (Uros flotan sobre el agua, Ikaburu excava bajo ella). Archivada como cuarta pieza de Compost, no como semilla. Pieza borrada de IGLUR. **Quedan 12.**
+
+---
+
+## REGLA 21 — NINGÚN CAMBIO LLEGA A MAIN SIN PULL REQUEST REVISADO POR LUIS
+
+Pedido por Luis el 08/09/2026, norma fija desde ahora: Claude nunca fusiona un cambio directamente en `main`. El mecanismo obligatorio:
+
+1. Claude trabaja siempre sobre una rama distinta de `main` (nunca escribe ni empuja commits directamente ahí).
+2. Al terminar un bloque de trabajo, Claude empuja esa rama a GitHub y abre un Pull Request contra `main` — una página de GitHub que muestra, línea por línea, todo lo que cambiaría en el HTML/MD real si se fusionara.
+3. Luis revisa ese diff en GitHub, a su ritmo, antes de aprobar nada.
+4. Solo cuando Luis fusiona el Pull Request (o pide explícitamente a Claude que lo haga), el cambio pasa a `main` y se vuelve el estado oficial del libro.
+
+**Por qué importa especialmente aquí:** el repo tiene un `CNAME` (`ursapiens.beltzarecords.com`), es decir, `main` es probablemente la rama que se publica en la web real del proyecto — motivo de más para que nada llegue ahí sin que Luis lo haya visto antes.
+
+**Nunca:** empujar commits directamente a `main`, ni fusionar un Pull Request sin permiso explícito de Luis para ese PR concreto, aunque parezca un cambio menor.
