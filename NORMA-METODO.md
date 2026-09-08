@@ -529,11 +529,11 @@ La primera frase no dice nada sobre la riada. Dice algo sobre el propio proceso 
 ## 6. EL PRINCIPIO ACTIVO: EL AMOR POR ESTANDARTE
 **La regla de oro:** El texto elude la soberbia, la prepotencia arrogante y los chovinismos crueles. La demolición de la 'T' se ejecuta mediante el rigor de la lógica, los datos de la ciencia (física cuántica, termodinámica de emergencias, Littlewood) y una profunda empatía radical por los desposeídos de la historia. Cero paraciencias, cero OVNIs paranormales: la realidad material ya es lo suficientemente salvaje.
 
-## 7. LA ARQUITECTURA SÁNTRICA (LA ESTRUCTURA DE LOS TRES ACTOS)
-Cada capítulo del libro elude el formato de artículo cerrado; opera como un álbum conceptual y debe seguir estrictamente este orden de tres movimientos:
+## 7. LA ARQUITECTURA SÁNTRICA (LA ESTRUCTURA DE DOS ACTOS, CON CIERRE OPCIONAL)
+Cada capítulo del libro elude el formato de artículo cerrado; opera como un álbum conceptual y sigue este orden de movimientos — los dos primeros obligatorios, el tercero opcional (ver Sección 17, que ya sustituye cualquier fórmula fija aquí):
 - **Acto I: La Herida / El Ruido del Vinilo.** El capítulo abre siempre con un choque sónico, una vibración musical postpunk (The Clash, Marvin Gaye) que se cruza con una geografía descarnada, una fractura evolutiva o una escombrera industrial (El Congo, Phnom Penh). La entrada es sensorial y política.
 - **Acto II: El Viaje de la Conciencia (De UR a RU).** El núcleo del capítulo rastrea la usurpación. Muestra cómo la 'T' del poder estatal privatiza, canaliza, burocratiza y confina la fluidez del origen (Sumeria, las Leyes de Extranjería, el Capitalismo de Vigilancia). El texto se eleva mediante la física material (EPICA, Littlewood, materia oscura) para demostrar que la lejanía y la ilegalidad son ilusiones.
-- **Acto III: A LA MESA (La Trinchera del Paladar).** El capítulo cierra siempre con el alimento. Tras la devastación sistémica o industrial, la comida (el pho, la nuoc mam, el arroz glutinoso comido con las manos) opera como un ritual político de reconexión con el agua original (UR). Es el retorno a la matriz limpia de aduanas a través del cuerpo.
+- **Cierre opcional, no un tercer acto obligatorio.** Ver Sección 17 — un capítulo puede cerrar con comida, un objeto, un gesto o nada de eso. No es un recetario que mantener, es una posibilidad entre otras.
 
 ## 8. LA LEY DEL TÍPEX (LA RESISTENCIA DEL SIGNO)
 **El concepto:** El poder opera borrando la memoria comunal capa sobre capa (Roma, el imperio árabe, el capitalismo extractivista de Rio Tinto Company Limited). Sustituyen el UR original por el orden contable, la res publica estatal o el wadi colonial.

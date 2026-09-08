@@ -349,3 +349,21 @@ Hallazgo del 01/09/2026: seis párrafos sueltos (ZIGURAT, RESURRECCIÓN, DICTADU
 **Regla:** al buscar cualquier término que contenga las letras U-R en cualquier posición, buscar por fragmentos (`'ZIG'` y `'AT'` por separado, o usar Playwright leyendo `textContent` ya renderizado, que sí une los fragmentos) — nunca dar por buena una ausencia de resultado de una búsqueda de texto plano sin antes comprobar si la palabra contiene UR.
 
 **Aviso serio sobre el propio método de borrado:** en el primer intento de localizar el cierre de este bloque, un patrón de búsqueda que no encontró nada devolvió `-1`, y usar ese `-1` como límite de un `rfind()` posterior buscó "hacia atrás casi hasta el final del archivo", a punto de borrar 744.974 caracteres en vez de 1.682. Se detectó antes de guardar por la propia verificación de tamaño (Regla ya existente), pero confirma por qué esa verificación nunca es opcional: cualquier búsqueda que pueda devolver -1 sin comprobarlo antes de usarla en otra operación es una bomba silenciosa.
+
+---
+
+## PEOIM — nombre completo y primer caso resuelto (01/09/2026)
+
+**PEOIM = Procedimiento Eficaz de Ordenación de los Informes Maestros.** Pasos: mirar cada pieza de IGLUR → decidir su Cara/subsección real → verificar que no exista ya (buscando por fragmentos, nunca palabra completa si contiene UR — Regla 19) → insertarla, repartirla o descartarla según lo que aparezca → actualizar el Marcador en el mismo movimiento.
+
+**Caso 1 — Turtle Island, resuelto sin crear pieza nueva.** El análisis reveló que dos de sus tres ángulos ya vivían en el libro: la cosmología del hueso en la pieza Ezur/Hezur, el contacto vasco-Micmak en Injerto anaia. Solo el fragmento del calendario lunar-mareal (13 placas/28 escamas) era material sin hogar — verificado con fuentes múltiples y archivado como tercera pieza de Compost, no como pieza nueva de URIM. La pieza se borró de IGLUR una vez repartida. **Quedan 13 piezas en IGLUR.**
+
+Lección del caso: antes de dar por hecho que una pieza de IGLUR necesita traslado íntegro, buscar sus temas por separado en urtz.html — puede que ya estén, repartidos en piezas que no llevan el mismo título.
+
+---
+
+## REGLA 20 — SEMILLA VS COMPOST, EL CRITERIO REAL
+
+Aclarado por Luis el 01/09/2026: **Semilla** es material que podría convertirse en pieza NUEVA propia. **Compost** es material que solo alimenta o amplía una pieza que YA EXISTE, aunque no esté verificado ni redactado todavía —no hace falta que sea "material sobrante ya comprobado" como los primeros compost del Congo; puede ser una idea sin desarrollar, mientras su destino sea una pieza existente y no una nueva.
+
+**Caso 2 del PEOIM — Andes · Mesoamérica · cenotes maya, resuelto.** La mitad "cenotes maya" ya vivía, bien desarrollada, dentro de la pieza AMAIA (Euskal Herria) — conectando cenotes con el sistema kárstico de Ikaburu/Zugarramurdi. La otra mitad, Titicaca/Uros, no tenía ni una frase escrita — pura idea de ampliación de esa misma pieza AMAIA, con el mismo patrón invertido (Uros flotan sobre el agua, Ikaburu excava bajo ella). Archivada como cuarta pieza de Compost, no como semilla. Pieza borrada de IGLUR. **Quedan 12.**
