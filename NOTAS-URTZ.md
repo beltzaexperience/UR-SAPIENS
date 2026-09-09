@@ -367,3 +367,28 @@ Lección del caso: antes de dar por hecho que una pieza de IGLUR necesita trasla
 Aclarado por Luis el 01/09/2026: **Semilla** es material que podría convertirse en pieza NUEVA propia. **Compost** es material que solo alimenta o amplía una pieza que YA EXISTE, aunque no esté verificado ni redactado todavía —no hace falta que sea "material sobrante ya comprobado" como los primeros compost del Congo; puede ser una idea sin desarrollar, mientras su destino sea una pieza existente y no una nueva.
 
 **Caso 2 del PEOIM — Andes · Mesoamérica · cenotes maya, resuelto.** La mitad "cenotes maya" ya vivía, bien desarrollada, dentro de la pieza AMAIA (Euskal Herria) — conectando cenotes con el sistema kárstico de Ikaburu/Zugarramurdi. La otra mitad, Titicaca/Uros, no tenía ni una frase escrita — pura idea de ampliación de esa misma pieza AMAIA, con el mismo patrón invertido (Uros flotan sobre el agua, Ikaburu excava bajo ella). Archivada como cuarta pieza de Compost, no como semilla. Pieza borrada de IGLUR. **Quedan 12.**
+
+---
+
+## REGLA 21 — PULL REQUEST OBLIGATORIO SOLO PARA HTML CON MAQUETACIÓN; NOTAS Y NORMAS VAN DIRECTAS
+
+Pedido por Luis el 08-09/09/2026, norma fija desde ahora, con el alcance afinado el 09/09/2026: la exigencia de Pull Request no es plana para todo el repo — depende de si el archivo puede romperse visualmente.
+
+**Requieren Pull Request, siempre, sin excepción — riesgo real de romper maquetación (márgenes, layout, piezas mal cerradas):**
+- `urtz.html`
+- `index.html` / `index-local.html`
+- `permafrost.html`, `LABORATORIO-IGLUR.html` y cualquier otro HTML del libro
+
+Mecanismo para estos archivos:
+1. Claude trabaja siempre sobre una rama distinta de `main` (nunca escribe ni empuja commits directamente ahí).
+2. Al terminar un bloque de trabajo, Claude empuja esa rama a GitHub y abre un Pull Request contra `main` — una página de GitHub que muestra, línea por línea, el diff de texto.
+3. Además del PR, Claude envía el HTML actualizado directamente a Luis (como archivo, igual que antes) para que lo abra en Chrome en local y compruebe visualmente que nada se ha desajustado — el diff de GitHub no renderiza HTML, no sirve para juzgar maquetación por sí solo.
+4. Luis aprueba visualmente (Chrome) y revisa el diff (GitHub) antes de decir que se fusione.
+5. Solo cuando Luis fusiona el Pull Request (o pide explícitamente a Claude que lo haga), el cambio pasa a `main`.
+
+**No requieren Pull Request — sin riesgo de maquetación, edición directa a `main`:**
+- `NOTAS-URTZ.md`, `NORMA-METODO.md`, `NOTAS.md`, `NOTAS-UR-SAPIENS.md`, `NOTAS-URTZ.md`, `GLOSARIO-UR-SAPIENS.md` y cualquier otro `.md` de notas o normas.
+
+**Por qué importa especialmente para los HTML:** el repo tiene un `CNAME` (`ursapiens.beltzarecords.com`) apuntando a lo publicado desde `main` — motivo de más para que ningún cambio de maquetación llegue ahí sin que Luis lo haya visto, tanto en diff como en render real.
+
+**Nunca:** empujar commits directamente a `main`, ni fusionar un Pull Request sin permiso explícito de Luis para ese PR concreto, aunque parezca un cambio menor.
