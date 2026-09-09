@@ -392,3 +392,13 @@ Mecanismo para estos archivos:
 **Por qué importa especialmente para los HTML:** el repo tiene un `CNAME` (`ursapiens.beltzarecords.com`) apuntando a lo publicado desde `main` — motivo de más para que ningún cambio de maquetación llegue ahí sin que Luis lo haya visto, tanto en diff como en render real.
 
 **Nunca:** empujar commits directamente a `main`, ni fusionar un Pull Request sin permiso explícito de Luis para ese PR concreto, aunque parezca un cambio menor.
+
+---
+
+## PENDIENTE — DESAJUSTE DE 1 `<div>` EN `urtz.html` (09/09/2026, sin importancia por el momento)
+
+Detectado el 09/09/2026 al insertar las piezas de Eichenberg y los Compost de Sájaura: `urtz.html` tiene 1 `<div>` abierto de más respecto a `</div>` cerrados (1.230 aperturas contra 1.229 cierres en esa fecha). Verificado que **ya existía antes** de esa sesión (1.218 contra 1.217 en el archivo previo) — no lo causó ninguna edición reciente, viene de alguna sesión anterior sin identificar.
+
+**Por qué no urge:** los navegadores cierran solos las cajas sin cerrar al final de su sección, sin romper el diseño visible — por eso no se nota al mirar la página en Chrome.
+
+**Tarea pendiente, sin prisa:** localizar el `<div>` huérfano exacto entre los más de 1.200 que tiene el archivo, y cerrarlo correctamente. Requiere un barrido dedicado (tipo Regla 16, con Playwright o comparación de anidamiento), no una búsqueda de texto suelta. Se aborda cuando Luis lo pida explícitamente, no antes.
