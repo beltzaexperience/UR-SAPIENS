@@ -159,6 +159,7 @@ Vive en `urtz.html`, entre El Noturikon y los Informes Maestros, con su propio e
 | 23/08/26 | 94.915 | 17.676 | 112.591 | ~380 |
 | 26/08/26 | 101.327 | 18.528 | 119.855 | ~405 |
 | 26/08/26 (corrección) | 99.000 | 18.528 | 117.528 | ~396 |
+| 09/09/26 (auditoría completa, Regla 16) | 113.163 | 22.012 | 135.175 | ~453 |
 
 ---
 
@@ -232,6 +233,8 @@ A partir de hoy, sin excepción: **cualquier cambio que altere el número de pie
 Luis pidió explícitamente, al cierre de la sesión del 28/08-01/09, una auditoría numérica completa del Marcador Fonomático antes de confiar del todo en los totales. Motivo: demasiadas correcciones seguidas sobre el mismo número en una sola sesión (90 → 92 → 91 → 92) por fallos de método distintos cada vez —fila sin fila, pieza duplicada, archivo entregado desincronizado del verificado—. La confianza no se restaura con una explicación más; se restaura con un recuento fresco, íntegro, hecho con la cabeza descansada, no arrastrando la cadena de parches de hoy.
 
 **Al retomar:** no partir de los números actuales como ciertos. Recontar cada categoría y subsección desde cero, con el método de marcas fusionadas por nombre repetido (ya corregido y documentado en las Reglas 11-13), y verificar con `diff` que el archivo entregado coincide exactamente con el verificado antes de dar cualquier cifra por buena.
+
+**RESUELTO — 09/09/26.** Auditoría completa de las 5 pasos de la Regla 16 ejecutada con Playwright (recuento fresco desde `data-nivel`, fusión por Regla 13, exclusión por Regla 15, análisis Compost/Semillas por etiqueta DESTINO literal). 11 filas + TOTAL DEL LIBRO corregidas en `urtz.html` con verificación de tamaño en bytes por cada edición y contraste final contra el DOM renderizado. El lado URS quedó exacto (58=58, cero discrepancias); todas las correcciones fueron piezas URIM reales sin contar. Entrada nueva en el historial de la Regla 9.
 
 ---
 
