@@ -370,15 +370,25 @@ Aclarado por Luis el 01/09/2026: **Semilla** es material que podría convertirse
 
 ---
 
-## REGLA 21 — NINGÚN CAMBIO LLEGA A MAIN SIN PULL REQUEST REVISADO POR LUIS
+## REGLA 21 — PULL REQUEST OBLIGATORIO SOLO PARA HTML CON MAQUETACIÓN; NOTAS Y NORMAS VAN DIRECTAS
 
-Pedido por Luis el 08/09/2026, norma fija desde ahora: Claude nunca fusiona un cambio directamente en `main`. El mecanismo obligatorio:
+Pedido por Luis el 08-09/09/2026, norma fija desde ahora, con el alcance afinado el 09/09/2026: la exigencia de Pull Request no es plana para todo el repo — depende de si el archivo puede romperse visualmente.
 
+**Requieren Pull Request, siempre, sin excepción — riesgo real de romper maquetación (márgenes, layout, piezas mal cerradas):**
+- `urtz.html`
+- `index.html` / `index-local.html`
+- `permafrost.html`, `LABORATORIO-IGLUR.html` y cualquier otro HTML del libro
+
+Mecanismo para estos archivos:
 1. Claude trabaja siempre sobre una rama distinta de `main` (nunca escribe ni empuja commits directamente ahí).
-2. Al terminar un bloque de trabajo, Claude empuja esa rama a GitHub y abre un Pull Request contra `main` — una página de GitHub que muestra, línea por línea, todo lo que cambiaría en el HTML/MD real si se fusionara.
-3. Luis revisa ese diff en GitHub, a su ritmo, antes de aprobar nada.
-4. Solo cuando Luis fusiona el Pull Request (o pide explícitamente a Claude que lo haga), el cambio pasa a `main` y se vuelve el estado oficial del libro.
+2. Al terminar un bloque de trabajo, Claude empuja esa rama a GitHub y abre un Pull Request contra `main` — una página de GitHub que muestra, línea por línea, el diff de texto.
+3. Además del PR, Claude envía el HTML actualizado directamente a Luis (como archivo, igual que antes) para que lo abra en Chrome en local y compruebe visualmente que nada se ha desajustado — el diff de GitHub no renderiza HTML, no sirve para juzgar maquetación por sí solo.
+4. Luis aprueba visualmente (Chrome) y revisa el diff (GitHub) antes de decir que se fusione.
+5. Solo cuando Luis fusiona el Pull Request (o pide explícitamente a Claude que lo haga), el cambio pasa a `main`.
 
-**Por qué importa especialmente aquí:** el repo tiene un `CNAME` (`ursapiens.beltzarecords.com`), es decir, `main` es probablemente la rama que se publica en la web real del proyecto — motivo de más para que nada llegue ahí sin que Luis lo haya visto antes.
+**No requieren Pull Request — sin riesgo de maquetación, edición directa a `main`:**
+- `NOTAS-URTZ.md`, `NORMA-METODO.md`, `NOTAS.md`, `NOTAS-UR-SAPIENS.md`, `NOTAS-URTZ.md`, `GLOSARIO-UR-SAPIENS.md` y cualquier otro `.md` de notas o normas.
+
+**Por qué importa especialmente para los HTML:** el repo tiene un `CNAME` (`ursapiens.beltzarecords.com`) apuntando a lo publicado desde `main` — motivo de más para que ningún cambio de maquetación llegue ahí sin que Luis lo haya visto, tanto en diff como en render real.
 
 **Nunca:** empujar commits directamente a `main`, ni fusionar un Pull Request sin permiso explícito de Luis para ese PR concreto, aunque parezca un cambio menor.
