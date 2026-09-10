@@ -420,3 +420,19 @@ Aclarado por Luis el 10/09/2026, al procesar el primer qanat de `permafrost.html
 **Por qué importa:** a diferencia de IGLUR (que era un laboratorio fallido, sin más función que vaciarse), `permafrost.html` puede seguir teniendo valor como depósito de material en bruto mientras ese material no se haya reescrito de verdad para el libro — borrar un qanat que solo aportó una idea o un fragmento a una pieza nueva más amplia perdería el resto del material original sin necesidad.
 
 **Caso que fijó la regla:** QANAT-01 (B-UR-ZUM) se fusionó con una pieza de la Escombrera de `index.html` en una pieza nueva de Bonus Tracks — prosa propia, no traspaso literal. El qanat sigue intacto en `permafrost.html`.
+
+---
+
+## REGLA 23 — CONTROL DE DUPLICADOS URIM/URS: NO BASTA CON COMPROBAR AL INSERTAR, HAY QUE RE-VERIFICAR LO YA PUESTO
+
+**Muy importante — vive aquí porque de esto depende que los números del Marcador Fonomático cuadren de verdad.** Aclarado por Luis el 10/09/2026.
+
+**El caso que la dispara:** la pieza "UR ANTÁRTIDA · POLVO DE ESTRELLAS" llevaba tiempo en URIM · Bonus Tracks, marcada "investigación en curso, sin convertir todavía en pieza definitiva" — pero el mismo material (Dominik Koll, HZDR, hierro-60, EPICA) ya estaba desarrollado por completo y **sellado** en URS desde hace tiempo, en la pieza "ANTÁRTIDA: EL HIELO PRIMORDIAL" (☠ NO TOCAR!!!). Nadie lo detectó hasta que Luis lo comprobó a mano. Eliminada de URIM sin resto de valor, por PEOIM Paso 2.
+
+**Por qué el PEOIM tal como está no basta:** el Paso 1 de PEOIM ("contraste contra el libro entero") se aplica cuando una pieza **nueva** entra en URIM — compara lo nuevo contra lo que ya existe. Pero no cubre el caso contrario: una pieza que **ya estaba** en URIM desde hace sesiones, y que se volvió duplicado más tarde, cuando URS se desarrolló y la absorbió sin que nadie volviera a mirar el borrador viejo. El contraste de entrada es una foto fija de un momento — el libro sigue creciendo después, y esa foto caduca.
+
+**La regla:** cada vez que se audite el Marcador Fonomático (Regla 16) o cada vez que Luis lo pida explícitamente, el barrido incluye también una pasada de duplicados — no solo recontar piezas y palabras, sino comprobar si alguna pieza de URIM marcada como borrador ("investigación en curso", "sin convertir todavía en pieza definitiva", sin sellar) tiene ya su contenido desarrollado y sellado en URS. El método: cruzar los `data-s` (palabras clave) y los títulos de las piezas URIM sin sellar contra las piezas URS selladas de la misma Cara/subsección — no hace falta leer el libro entero pieza a pieza, con Playwright y una comparación de palabras clave alcanza para detectar los casos evidentes como este.
+
+**Qué hacer con lo que se encuentre:** aplicar PEOIM Paso 2 tal cual — si está completamente absorbido, se borra de URIM sin más; si tiene material verificado que no llegó a la versión sellada, ese resto va a Compost antes de borrar el resto.
+
+**El objetivo de fondo:** que el Marcador Fonomático nunca cuente una pieza dos veces sin que nadie lo sepa — ni de más (URIM duplicando URS) ni de menos (algo real sin contar). No queremos volver al caos de no saber qué está ya mezclado o no.
