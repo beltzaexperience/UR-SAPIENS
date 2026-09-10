@@ -452,6 +452,24 @@ Mismo problema que la sintaxis defensiva (Norma XXII), aplicado a otro recurso. 
 
 > **NOTA (26/08/26):** terreno cercano al de la Norma Punk 4 ("La saturación de la conjunción Y"), aunque no idénticas — la punk 4 mira la conjunción encadenada, esta mira la enumeración por comas. Conviven, ninguna sustituye a la otra.
 
+**Segundo caso, aplicación conjunta (10/09/26) — cuando una sola corrección cruza varias normas a la vez.** Confirma en la práctica el Procedimiento Relojero, punto 7: una frase que incumple varias normas porque esas normas nombran el mismo patrón desde ángulos distintos cuenta como un solo hallazgo, con las normas cruzadas listadas al lado — no como varios hallazgos independientes.
+
+Movimiento 2 · La genealogía del agua (Waikaremoana, Te Urewera) llegó con tres frases encadenadas por comas, cada una síntoma del mismo problema visto desde un ángulo distinto:
+
+- *«Sus brazos se hunden entre valles estrechos, se ensanchan en ensenadas profundas, vuelven a cerrarse.»*
+- *«El agua sube como vapor, se condensa en las cumbres, vuelve como lluvia, se acumula en el lago, se evapora de nuevo.»*
+- *«El bosque es un archivo vivo. Cada árbol puede leerse. Cada surco en la corteza tiene un significado.»*
+
+La información era correcta en los tres casos — la norma no pregunta si el dato es verdadero, pregunta si la acumulación piensa o si ocupa el lugar de la relación (la fórmula operativa de esta sección, arriba). En los tres casos pesaba más la relación que la lista: un cuerpo de agua que se mueve, un ciclo que circula, un bosque que se lee.
+
+**La reescritura, la misma corrección tocando varias normas a la vez:**
+
+- **Punk 4 (saturación de la «y»):** *«Sus brazos se hunden entre valles estrechos y se ensanchan en ensenadas profundas antes de volver a cerrarse.»* El «y» deja de acumular y pasa a unir dos movimientos de un mismo cuerpo; «antes de volver a cerrarse» fija la secuencia espacial.
+- **Punk 10 (gerundio de posterioridad), con su propia excepción aplicada en el mismo párrafo:** se descartó «volviéndose a cerrar» (gerundio de consecuencia posterior) en favor de «antes de volver a cerrarse» — pero en la frase del ciclo del agua los gerundios *subiendo, regresando, volviendo a levantarse* sí se conservaron, porque describen fases simultáneas de un mismo ciclo, no una consecuencia posterior a otra cosa: *«El agua cumple su ciclo entre las cumbres y el lago, subiendo en vapor, regresando como lluvia y volviendo a levantarse desde la superficie.»* Las dos frases parecen pedir la misma corrección — "quitar gerundios" — y piden lo contrario: uno se quita por ser posterioridad, los otros se quedan por ser simultaneidad. Es la misma distinción que la norma 10 ya marca, aplicada dos veces en el mismo movimiento sin contradecirse.
+- **Punk 2 (presente de indicativo) + Norma XXII (menos palabras, más acción, menos sintaxis defensiva):** las tres frases sueltas sobre el bosque se funden en una sola con relación interna, en presente: *«El bosque es un archivo vivo que se lee en cada árbol y en cada surco de la corteza.»* Conserva las tres ideas originales —archivo, lectura, significado— sin la explicación escalonada, y mantiene vigente la función de los árboles grabados en vez de archivarla en pasado.
+
+**Por qué se cuenta como un solo hallazgo con cuatro normas cruzadas, no como cuatro correcciones distintas:** las tres frases originales son la misma enfermedad —la enumeración de esta Norma XXIII ocupando el lugar de la relación— con tres síntomas de superficie distintos: comas encadenadas, un gerundio mal puesto, presente perdido. Corregir la enfermedad corrige los tres síntomas a la vez; de ahí que Punk 2, Punk 4, Punk 10 y XXII aparezcan juntas en el mismo caso sin que eso signifique que la pieza tenía cuatro problemas independientes.
+
 ## XXV. PROHIBIDA LA JUSTIFICACIÓN NARRATIVA — EL TEXTO NUNCA EXPLICA SUS PROPIAS DECISIONES
 
 Distinta de la Norma XXII (sintaxis defensiva). Aquella regula cómo se afirma algo dentro del contenido — el patrón "No es X, es Y". Esta regula si el texto tiene permiso para hablar de sí mismo mientras narra. No lo tiene, nunca.
