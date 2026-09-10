@@ -405,3 +405,18 @@ Detectado el 09/09/2026 al insertar las piezas de Eichenberg y los Compost de S�
 **Por qué no urge:** los navegadores cierran solos las cajas sin cerrar al final de su sección, sin romper el diseño visible — por eso no se nota al mirar la página en Chrome.
 
 **Tarea pendiente, sin prisa:** localizar el `<div>` huérfano exacto entre los más de 1.200 que tiene el archivo, y cerrarlo correctamente. Requiere un barrido dedicado (tipo Regla 16, con Playwright o comparación de anidamiento), no una búsqueda de texto suelta. Se aborda cuando Luis lo pida explícitamente, no antes.
+
+---
+
+## REGLA 22 — FASE 2 (PERMAFROST → URIM): CUÁNDO SE BORRA EL QANAT ORIGINAL Y CUÁNDO NO
+
+Aclarado por Luis el 10/09/2026, al procesar el primer qanat de `permafrost.html`.
+
+**La distinción:** depende de si el material llega a URIM tal cual o reescrito.
+
+- **Nueva redacción (fusión, prosa propia a partir de una o varias fuentes):** el qanat original **no se borra** de `permafrost.html`. Se queda intacto, y la pieza nueva de URIM lleva una nota de origen citando de dónde viene.
+- **Traspaso literal (el texto pasa a URIM prácticamente igual, sin reescritura real):** el qanat original **sí se borra** de `permafrost.html` directamente, con el mismo criterio que ya se aplicó a IGLUR.
+
+**Por qué importa:** a diferencia de IGLUR (que era un laboratorio fallido, sin más función que vaciarse), `permafrost.html` puede seguir teniendo valor como depósito de material en bruto mientras ese material no se haya reescrito de verdad para el libro — borrar un qanat que solo aportó una idea o un fragmento a una pieza nueva más amplia perdería el resto del material original sin necesidad.
+
+**Caso que fijó la regla:** QANAT-01 (B-UR-ZUM) se fusionó con una pieza de la Escombrera de `index.html` en una pieza nueva de Bonus Tracks — prosa propia, no traspaso literal. El qanat sigue intacto en `permafrost.html`.
