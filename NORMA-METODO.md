@@ -750,6 +750,8 @@ La segunda versión no dice nada que la primera no dijera — pero lo dice una s
 
 ## 28. LOS TRES TIEMPOS DEL AGUA (LA NORMA VERBAL GLOBAL)
 
+**Declaración de prioridad (10/09/26), para que quede dicho con el peso que le corresponde, no solo como mecánica de conjugación:** el presente es el tiempo por defecto de este libro — el buque insignia, el que se usa siempre que no haya una razón concreta para salir de él. No es un tiempo verbal más entre varios disponibles, intercambiable según el gusto de la frase: es el estado de reposo de UR, de los símbolos, del mito, de cualquier cosa que sigue siendo cierta mientras el lector lee. El pasado no compite con el presente ni lo sustituye por variedad — cumple una función propia y necesaria, la del plano 2 que sigue: contar lo que le ocurrió una vez a una persona, un pueblo o un hecho histórico concreto, con principio y fin. El libro no es neutral entre los dos tiempos: por defecto se escribe en presente, y se pasa a pasado solo cuando el contenido lo exige —nunca al revés, nunca por costumbre, nunca porque "así suena más narrativo"—.
+
 **El hueco que cubre:** la norma 2 ya obliga a citar autores y voces de investigación en presente ("Gerda Lerner sitúa", no "situó"). Esta norma cubre lo que la 2 no cubre: cómo se conjuga el resto del texto — el mito, la leyenda, el hecho histórico humano, y el instante donde ambos se cruzan.
 
 **Los tres planos, sin la solemnidad de manual técnico:**
