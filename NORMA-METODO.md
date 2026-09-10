@@ -494,7 +494,7 @@ La primera frase no dice nada sobre la riada. Dice algo sobre el propio proceso 
 
 # SECCIÓN PUNK — MANIFIESTO DE ESTILO Y ARQUITECTURA (AUTORIDAD PRINCIPAL EN REDACCIÓN)
 
-> Numeración propia (0-31), independiente de los números romanos de las secciones anteriores — no renumerada, para no romper las referencias cruzadas internas que el propio manifiesto ya usa entre sus normas. Autoridad principal sobre estilo, tono y arquitectura de capítulo, por encima de las normas XXII, XXIII y XXV, marcadas como nota histórica más arriba.
+> Numeración propia (0-32), independiente de los números romanos de las secciones anteriores — no renumerada, para no romper las referencias cruzadas internas que el propio manifiesto ya usa entre sus normas. Autoridad principal sobre estilo, tono y arquitectura de capítulo, por encima de las normas XXII, XXIII y XXV, marcadas como nota histórica más arriba.
 
 ## 0. LAS NORMAS SE SALTAN SI EL SALTO SE DEFIENDE MEJOR QUE LA NORMA
 
@@ -822,3 +822,24 @@ Luis: *"Ese párrafo final sin ningún sentido narrativo, prohibido. Lo tenemos 
 **Alcance de la prohibición: total, sin excepción, ni siquiera para Luis.** No hay caso especial, no hay "pero esta vez funciona", no hay autorización posible que lo levante — es la única norma de este documento que se declara así, por decisión expresa del autor sobre su propio recurso.
 
 **Aplicación:** cuando aparezca, se señala como incumplimiento de la Norma 31 —nunca se corrige sin autorización, ver Norma Fundacional— y se espera instrucción de Luis sobre cómo cerrar el párrafo o la sección de otra manera.
+
+## 32. EL PODRÍA BAJO SOSPECHA (10/09/26)
+
+**La regla:** el texto evita «podría», «puede que», «sería posible», «parecería» y otras formas de posibilidad cuando solo sirven para proteger al narrador de una afirmación que el texto puede formular directamente.
+
+**La prosa distingue tres casos:**
+
+1. **Hecho o acción documentada — indicativo.** *«El bosque cerraba el paso.»* / *«La Corona confiscó las tierras.»*
+2. **Capacidad real de un sujeto — se conserva el modal, porque expresa una posibilidad material concreta, no una duda del narrador.** *«El ejército podía ocupar un claro.»* / *«La lluvia podía borrar el sendero durante una noche.»*
+3. **Hipótesis, lectura simbólica o inferencia — el modal solo se conserva cuando la incertidumbre pertenece al contenido, no a la inseguridad del redactor.** *«La escena puede leerse como una repetición de la frontera colonial.»*
+
+**La prueba, sencilla:** si el verbo puede pasar a indicativo (presente o pasado) sin perder información real, se elimina el «podría».
+- Débil: *«El bosque podría proteger a quienes huyen.»*
+- Directo: *«El bosque protege a quienes huyen.»*
+- Histórico: *«El bosque protegía a quienes huían.»*
+
+**Lo que la norma no prohíbe:** el condicional se queda cuando expresa una condición real, una consecuencia no cumplida o una hipótesis que el texto necesita mantener abierta. *«Sin la niebla, el ejército habría encontrado el paso.»* Lo que se extirpa es el condicional de cobertura —la forma verbal que rebaja una afirmación por prudencia retórica, por tono académico o por miedo a comprometerse—, no el condicional que dice algo real que solo el condicional puede decir.
+
+**Fórmula operativa:** primero indicativo. Después, si la realidad exige incertidumbre, modal. Nunca al revés.
+
+**Cruce con normas ya existentes, para que no se lean como contradicción:** el caso 3 es el mismo terreno que ya cubren la Norma 13 (los tres registros — especulación razonada frente a hecho contrastado) y la Norma 19 («cabe leer esto como...», para causa material no verificada). Un modal o una fórmula de lectura razonada ahí no es cobertura: es honestidad epistémica declarada (Punk 11). Esta norma no los contradice —los delimita—, distinguiendo la incertidumbre real del contenido (que se conserva) de la cobertura retórica del narrador (que se extirpa). Encaja también con la Punk 2 (presente de indicativo) y la concreta: el presente no solo mantiene vivas las ideas —también impide que la prosa se esconda detrás de posibilidades innecesarias.
