@@ -436,3 +436,91 @@ Aclarado por Luis el 10/09/2026, al procesar el primer qanat de `permafrost.html
 **Qué hacer con lo que se encuentre:** aplicar PEOIM Paso 2 tal cual — si está completamente absorbido, se borra de URIM sin más; si tiene material verificado que no llegó a la versión sellada, ese resto va a Compost antes de borrar el resto.
 
 **El objetivo de fondo:** que el Marcador Fonomático nunca cuente una pieza dos veces sin que nadie lo sepa — ni de más (URIM duplicando URS) ni de menos (algo real sin contar). No queremos volver al caos de no saber qué está ya mezclado o no.
+
+---
+
+## REGLA 24 — CRITERIO ESTRICTO DE ETIMOLOGÍA INSURGENTE: DESCOMPONE UNA PALABRA CON UR LITERAL, O NO ES E.I.
+
+Fallo cometido por Claude el 12/09/2026, corregido por Luis: se insertó "RUMIANTE" en Etimología Insurgente razonando sobre el CONCEPTO de rumiante/UR orgánico, sin comprobar la condición mínima de la propia sección. Luis lo señaló sin rodeos: *"No es UR, es RU, y en etimología insurgente solo admite UR."*
+
+**La prueba, antes de meter cualquier pieza en Etimología Insurgente:** ¿la palabra en cuestión contiene el fragmento literal "ur" (en cualquier posición, mayúscula o minúscula)? "Rumiante" tiene "ru", no "ur" — falla la prueba, por mucho que el concepto (agua, sistema digestivo) encaje temáticamente con el resto del libro. Aplicar `'ur' in palabra.lower()` literalmente si hay duda, no fiarse del oído.
+
+**Segunda prueba, más allá de la primera y descubierta el mismo día con otros tres casos (MONTAÑA Y NACEDERO, ÇATALHÖYÜK, LA LEYENDA DEL TIEMPO):** aunque la palabra contenga UR, la pieza tiene que **abrir con una descomposición morfemática real** de esa palabra concreta — el patrón "X-UR-Y: X (significado) + UR (agua) + Y (significado)", como hacen F-UR-IA, E-UR-PA/E-UR-I o EZUR-HEZUR. Un registro de debate metodológico, un ensayo que acuña un concepto propio, o una pieza libre-asociativa que solo *menciona* palabras con UR de pasada no son Etimología Insurgente, aunque vivan dentro de esa cabecera desde hace tiempo — son Biopsia del Sistema Mundo, Bonus Tracks, Compost o Semilla, según su registro real (ver Reglas 25 y 28).
+
+**Caso que enseñó la segunda prueba:** MONTAÑA Y NACEDERO (registro de debate Luis-Claude sobre convergencia vs. difusión) y ÇATALHÖYÜK (acuña el concepto "OR" y la fórmula T-OR-T-URA) se movieron a Biopsia del Sistema Mundo — ambas pertenecen a la misma familia analítica de altura/torre/control del nacedero que ya recorre el libro (alt-UR-a, T-OR-re, T-UR-ris; cf. "El Escarpe de Altura y la Fosa del Fango", Cara 2 · Europa), pero ninguna decompone una palabra propia como entrada de diccionario.
+
+---
+
+## REGLA 25 — COMPOST: SOLO SI HAY UNA PIEZA URS TERMINADA A LA QUE ENGANCHARSE, NUNCA PARA INVESTIGACIÓN EN CURSO
+
+Ampliación de la Regla 20, corregida por Luis el 12/09/2026 tras un error de Claude: se propuso "MONTAÑA Y NACEDERO" como Compost, y Luis corrigió — *"los compost son posibles restos que ensanchan alguna pieza de URS, trozos caídos de las mismas piezas terminadas con algún detalle de interés como para no perderlo."*
+
+**La distinción exacta, más afinada que en la Regla 20:** Compost exige una pieza URS **ya terminada** (sellada o no, pero desarrollada de verdad) a la que el fragmento amplíe con un detalle concreto. Una pieza que se autodeclara "investigación en curso, sin convertir todavía en pieza definitiva" —diga lo que diga su contenido— no es Compost por definición, aunque parezca "material sin desarrollar": es indicio de que sigue siendo una Semilla, o directamente queda donde está hasta que se decida su destino real.
+
+**Procedimiento antes de archivar algo como Compost:** identificar la pieza URS concreta a la que se engancha, nombrarla explícitamente en la propia etiqueta `PARA:` del fragmento, y comprobar que esa pieza URS existe de verdad y no repite ya el mismo contenido (ver Regla 26, más abajo — el control de duplicados no es solo para URIM vs URS entero, también aplica pieza por pieza al decidir un Compost).
+
+**Caso que fijó la regla, el mismo día:** "AVE SILICIO" (fragmento sobre digitalismo y refrigeración de servidores) se comprobó contra "LA MUERTE DE LA INTUICIÓN TENÍA UN PRECIO" (Epílogo, sellada) antes de archivarlo como Compost — esa pieza ya dice, con más rigor y cita, exactamente lo mismo ("el agua se vuelve refrigeración"). El Compost se archivó igualmente, porque aporta un detalle propio (la parodia religiosa "Ave Silicio") que no está en la pieza sellada — pero la comprobación fue el paso obligatorio, no un extra.
+
+---
+
+## REGLA 26 — ANTES DE CREAR UNA SEMILLA NUEVA, COMPROBAR SI YA EXISTE UNA SEMILLA PENDIENTE O UNA PIEZA URS SELLADA SOBRE LO MISMO
+
+Ampliación directa de la Regla 23 (control de duplicados), aplicada esta vez no a URIM-vs-URS-sellada sino a Semillas-nuevas-vs-lo-que-ya-hay. Descubierto el 12/09/2026 al dividir "LA LEYENDA DEL TIEMPO" en tres.
+
+**El caso:** antes de crear la semilla "ANARCO-CATOLICISMO · DUJOBORY · DOROTHY DAY", una comprobación hacia atrás reveló que "UR, EL EUSKERA Y LA FRONTERA INVISIBLE" (Cara 1 · Ibérico, ☠ NO TOCAR!!!) ya cita a Dorothy Day y a los duljoboris como contrafiguras de la diversidad frente a la uniformidad del Estado — con su propia glosa numerada y biografías reales. Y ya existía, además, una Semilla pendiente sin resolver ("FRITZ EICHENBERG · ADE BETHUNE") que señalaba exactamente esta misma familia de figuras y decía, literalmente, "ya desarrolladas en URTZ Euskal Herria" — un aviso que ya estaba escrito y que casi se pasó por alto.
+
+**La regla:** antes de escribir el título de cualquier Semilla nueva, buscar los nombres propios y conceptos centrales del fragmento (personas, movimientos, términos clave) por todo el documento — en piezas URS selladas y en Semillas/Compost ya existentes — no solo comprobar que el fragmento en sí no está repetido, comprobar que el TEMA no tiene ya una pieza o una Semilla pendiente sobre él. Si aparece solape, no se decide unilateralmente fundir o descartar: se archiva igualmente (para no perder el material, Regla 20), pero con el solape completo escrito en su propia etiqueta `DESTINO:`, para que Luis decida con toda la información delante, no para que el aviso se pierda otra vez.
+
+---
+
+## REGLA 27 — EL BUG DEL ANCLAJE QUE FALTA (`data-nivel="categoria"` AUSENTE) ES RECURRENTE, NO UN CASO AISLADO
+
+Ya ocurrió una vez con "Introducción" (categoria seguida de `data-nivel="cara"` sin otra marca categoria intermedia, tragándose el resto del libro en cualquier barrido). Volvió a ocurrir el 12/09/2026 con "○ Interludios" en zona URIM: la cabecera existía, visualmente correcta, pero sin `data-nivel="categoria"` — invisible para cualquier barrido basado en `[data-nivel="categoria"]`, incluidos los de Claude en la misma sesión. Su única pieza, "EL CANSANCIO Y EL BIFAZ", quedaba silenciosamente atribuida a la sub-región anterior (Antártida) en vez de a Interludios.
+
+**Por qué se repite:** cualquier cabecera nueva creada copiando el HTML de otra cabecera sin verificar que el atributo se copió también —o creada a mano, sin plantilla— puede perder el atributo sin que se note visualmente, porque el CSS no depende de `data-nivel` para renderizarse bien. El fallo es invisible en Chrome y solo aparece cuando un script de auditoría lo necesita.
+
+**La regla:** cada vez que se audite el Marcador (Regla 16) o se investigue una discrepancia de conteo, el barrido incluye una comprobación explícita: recorrer TODAS las cabeceras visualmente-categoria del documento (buscando el patrón visual, no solo el atributo) y confirmar que cada una lleva `data-nivel="categoria"` puesto. No basta con confiar en que "ya se corrigió una vez" — el bug es de patrón, no de instancia única, y puede reaparecer en cualquier cabecera escrita a mano.
+
+---
+
+## REGLA 28 — BONUS TRACKS NO ES CAJÓN DE SASTRE: SOLO CURIOSIDAD/FICCIÓN/JUEGO FORMAL, NUNCA ENSAYO CON APARATO DE CITA
+
+Aclarado por Luis el 11/09/2026, al revisar la primera versión de "Biopsia del Sistema Mundo": *"no quiero un bonus tracks, cajón de sastre... ¿Bonus Tracks será el cajón de sastre para piezas que no encuentran lugar o será el lugar para piezas estrictamente bonus tracks?"*
+
+**La distinción real, verificada pieza por pieza:** Bonus Tracks es para registro curioso/experimental — ficción (DISTOPÍA VEGETAL), especulación poética (SULFURO Y OSCURIDAD: EL UR ABISAL), fusión cultural sin aparato de cita (B-UR-ZUM: Tolkien + runas + black metal). Biopsia del Sistema Mundo es para ensayo aplicado con aparato de cita real, que diagnostica un fenómeno concreto del "Sistema Mundo" (DIGITALISMO Y EL TEST GORILA cita a Simons & Chabris 1999 y Von Ahn 2008; RUMIANTISMO cita a Nolen-Hoeksema; la pieza de Etnografía cita a Boas y NAGPRA). La prueba simple: ¿la pieza cita fuentes reales con nombre y fecha para sostener un argumento, o construye una imagen/collage sin pretensión de prueba? Lo primero es Biopsia. Lo segundo es Bonus Tracks.
+
+**Aviso de contaminación retroactiva:** "DIGITALISMO Y EL TEST GORILA" llevaba tiempo mal archivada dentro de Bonus Tracks (URS, sellada) junto a Sulfuro y Distopía Vegetal, pese a tener aparato de cita completo — la contaminación de categoría no es solo un riesgo de las piezas nuevas, ya existía en contenido sellado antes de esta sesión.
+
+---
+
+## REGLA 29 — IMPUGNACIÓN A UR: CONTRAPARTIDA PERSONAL DE INTERLUDIOS, DISTINTA DE RADIO BELTZA
+
+Nueva categoría, creada el 11/09/2026 a petición de Luis. **Definición:** piezas sobre el hartazgo, la duda intelectual y el malestar personal de sostener este proyecto sin recompensa institucional — la voz que impugna el propio proyecto desde dentro, en contraste directo con Interludios ("Defensa Radical y Democrática de UR").
+
+**La distinción con Radio Beltza, que hay que tener clara:** Radio Beltza es biografía general de Luis —quién es, de dónde viene, su historia personal y musical—. Impugnación a UR es específicamente sobre la duda respecto a ESTE proyecto en concreto —el cansancio de la verificación, la crisis de sentido de escribir un libro "innecesario" con ayuda de IA—. Una pieza autobiográfica no va automáticamente a Impugnación a UR solo por ser personal; tiene que tratar la duda o el malestar del propio proyecto.
+
+**Estructura:** por ahora solo URIM (borrador, sin pieza sellada todavía) y URS (cabecera creada vacía, a la espera de que una pieza llegue a estado terminado). Posición fija: justo debajo de los continentes (Cara 1-6), después de Interludios, antes de Etimología Insurgente — en ambos lados, URS y URIM. Ancla propia (`go-impugnacion`) y botón en la topbar (IMP), igual que Biopsia del Sistema Mundo (BSM).
+
+---
+
+## REGLA 30 — CATEGORÍAS CON PAREJA URS/URIM FRENTE A CATEGORÍAS CERRADAS DEL APARATO FIJO
+
+Aclarado a lo largo de la sesión del 10-12/09/2026, al construir Biopsia del Sistema Mundo e Impugnación a UR.
+
+**El libro tiene dos tipos de categoría:**
+
+1. **Aparato fijo, cerrado, solo URS:** Prólogo, Bio Editorial, Radio Beltza, Introducción, Interludios, Epílogo. La propia nota "CONCLUSIONES DE LA OBRA" del libro lo dice: *"está estable y cerrado, sin URIM ni semillas pendientes en ninguno. Esa parte ya no crece."* Estas categorías NO tienen instancia URIM legítima — si aparece una (como pasó con "○ Interludios", ver Regla 27), es un error de traspaso, no una expansión deseada, y su contenido se reubica a la categoría correcta, no se deja creciendo ahí.
+
+2. **Categorías vivas, con pareja URS + URIM:** Etimología Insurgente, Bonus Tracks, Biopsia del Sistema Mundo, Impugnación a UR. Cada una tiene una cabecera "mayor" en URS (con ancla, subtítulo, botón en topbar) para piezas terminadas/selladas, y una cabecera "menor" en URIM (viñeta ○, sin ancla propia, sin subtítulo) para piezas en borrador — el libro "crece por los lados geográficos y por Etimología Insurgente" (y ahora también por Bonus Tracks, Biopsia e Impugnación).
+
+**Importante:** sellado (☠ NO TOCAR) y zona (URS/URIM) son cosas independientes. Una pieza puede estar en URIM sin estar sellada (lo normal) o, en teoría, existir en cualquier zona sin que el sellado dependa de dónde vive — lo que de verdad distingue URS de URIM es si la pieza ya se considera parte fija del libro o sigue en el taller, no su estado editorial interno.
+
+**Antes de crear una cabecera nueva:** decidir primero si la categoría nueva nace ya con pareja URS+URIM (porque hay una pieza terminada lista para sellar, como pasó con Biopsia y Digitalismo y el Test Gorila) o solo con URIM por ahora (porque todo lo que hay es borrador, como Impugnación a UR al nacer). No crear un URS vacío "por si acaso" salvo que el propio botón de topbar lo exija (ver Regla 29).
+
+---
+
+## REGLA 31 — NEXUS-7 DOCUMENTA FALLOS CONCRETOS DE IA REAL, NO ENSAYOS SOBRE TECNOLOGÍA
+
+Confirmado el 11/09/2026 al descartar "¿Puede Nexus-7 soñar con UR?" como destino de QANAT-02 (Rumiantismo/Digitalismo). La categoría existe para catalogar conversaciones reales, puestas a prueba, con IA (Chrome/Gemini u otras), documentando "jugadas ilegales" concretas — fabricación de autoridad, citas inventadas, autocontradicción — con nombre y turno de conversación identificables (ver "URBELTZ VS URWHITE · LA PARTIDA DE AJEDREZ").
+
+**La distinción con Biopsia del Sistema Mundo:** un ensayo general sobre algoritmos, digitalismo o atención (aunque cite fuentes reales y critique sistemas de IA en abstracto) es Biopsia, no Nexus-7. Nexus-7 exige el registro concreto de una interacción real fallida, no una reflexión sobre el fenómeno en general.
