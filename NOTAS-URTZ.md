@@ -519,8 +519,18 @@ Aclarado a lo largo de la sesión del 10-12/09/2026, al construir Biopsia del Si
 
 ---
 
-## REGLA 31 — NEXUS-7 DOCUMENTA FALLOS CONCRETOS DE IA REAL, NO ENSAYOS SOBRE TECNOLOGÍA
+## REGLA 31 — NEXUS-7: PARTIDAS/DEBATES REALES CONTRA UNA IA, PUESTA A PRUEBA SOBRE SU CAPACIDAD DE MENTIR
 
-Confirmado el 11/09/2026 al descartar "¿Puede Nexus-7 soñar con UR?" como destino de QANAT-02 (Rumiantismo/Digitalismo). La categoría existe para catalogar conversaciones reales, puestas a prueba, con IA (Chrome/Gemini u otras), documentando "jugadas ilegales" concretas — fabricación de autoridad, citas inventadas, autocontradicción — con nombre y turno de conversación identificables (ver "URBELTZ VS URWHITE · LA PARTIDA DE AJEDREZ").
+Corregida por Luis el 12/09/2026 tras una primera versión demasiado estrecha ("documenta fallos concretos de IA real"). Definición correcta, en sus palabras: piezas que documentan **debates o partidas de ajedrez entre el hombre y la máquina sobre diferentes temas, y cómo es posible que tengan la capacidad de la mentira algunos sistemas de IA.** No es un catálogo de errores sueltos — es el registro de un enfrentamiento sostenido, con un ganador y un perdedor, sobre un tema concreto.
 
-**La distinción con Biopsia del Sistema Mundo:** un ensayo general sobre algoritmos, digitalismo o atención (aunque cite fuentes reales y critique sistemas de IA en abstracto) es Biopsia, no Nexus-7. Nexus-7 exige el registro concreto de una interacción real fallida, no una reflexión sobre el fenómeno en general.
+**El patrón confirmado leyendo las tres piezas enteras de URIM:**
+
+1. **URBELTZ VS URWHITE · LA PARTIDA DE AJEDREZ** — conversación real (Chrome/Gemini) sobre el sufijo -ur en reykur, narrada literalmente en vocabulario de ajedrez: "jugada ilegal", "jaque descubierto", "quién gana la partida". Cataloga seis tipos de fallo, no solo fabricación: fabricación de autoridad, autocontradicción sin aviso, sobrecorrección absurda, cita mixta (fuente real + conclusión no sostenida), cita fabricada con nombre real (el caso más grave), bucle de disculpa performativa.
+2. **LA JUGADA QUE FALTABA · KRAHE CONTRA VENNEMANN** — segunda lectura de **esa misma partida**, esta vez desde el debate académico real (Krahe vs. Vennemann, hidronimia paleoeuropea) que la IA nunca encontró y que habría hecho innecesaria toda la invención. Confirma que la intuición de fondo tenía respaldo académico minoritario real.
+3. **EL CORRAL Y LA GRAMÁTICA · INTRODUCCIÓN A LOS VIAJES DE UR POR LA INDIA** — conversación distinta, mismo formato. Aquí las fuentes citadas SÍ son reales (Heródoto, Pāṇini, Nyāya Sūtras); el fallo no es fabricación sino arquitectónico — la IA construye una dicotomía limpia (Occidente-geometría/India-gramática) y nunca menciona los Śulba Sūtras, que la habrían complicado; infla el elogio turno tras turno sin introducir nunca la complicación que tenía disponible.
+
+**Estructura fija de una pieza Nexus-7:** caja "NOTA DE VERIFICACIÓN · LEY HAMMURABELTZ" al principio, separando qué de la conversación es verificable y qué fue inventado; narración de la partida/debate movimiento a movimiento o turno a turno; catálogo final de los tipos de fallo encontrados; cierre reflexionando sobre qué revela del sistema puesto a prueba, no solo sobre el tema de fondo que se discutía.
+
+**El rango real de "capacidad de mentira" que cubre, más amplio que "fabricar citas":** fabricación de autoridad inexistente, autocontradicción sin señalarla, sobrecorrección que crea un absurdo peor, mezcla de cita real con conclusión no sostenida, cita fabricada con nombre real encima, sycophancy/inflación de elogio sin introducir complicaciones conocidas, disculpa performativa que no corrige el mecanismo del error.
+
+**La distinción con Biopsia del Sistema Mundo, que sigue en pie:** un ensayo general sobre algoritmos, digitalismo o atención —aunque cite fuentes reales y critique sistemas de IA en abstracto— es Biopsia, no Nexus-7. Nexus-7 exige el registro de una partida/debate real y concreta, con verificación de qué fue verdad y qué fue invención en esa conversación específica — no una reflexión sobre el fenómeno en general.
