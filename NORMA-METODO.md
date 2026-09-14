@@ -40,6 +40,8 @@ Fijo. Sin variantes. Válido para Luis, Claude y Perplexity por igual, cada vez 
 
 ### Fase 1 — Diagnóstico, y solo diagnóstico
 
+**Comprobación previa, antes del punto 1 (14/09/26, Norma VIII ter):** ¿esta pieza activa UR en algún punto —fonema, argumento o cierre temático, ver precedente WHANGANUI— con el mismo peso que el resto del libro? Si la respuesta es no, se dice así, con esas palabras, antes de entrar en cadenas, tiempos verbales o cualquier otra norma: el resto del informe pasa a ser secundario, porque no hay pieza de este libro que pulir todavía. Esta comprobación no sustituye el resto del Procedimiento Relojero — va primero porque, si falla, las demás normas están afinando un texto que aún no es del libro correcto.
+
 1. Leer NORMA-METODO.md completo antes de revisar nada — nunca de memoria, nunca una selección de "las normas que parecen más relevantes a este texto".
 2. Recorrer las secciones I a XXV y las normas punk 0 a 31, en ese orden, una por una, contra el texto.
 3. Para cada norma: marcar cumple / no cumple / no aplica.
@@ -170,6 +172,18 @@ El ilusionismo no es un engaño sino una técnica: hacer que el lector vea agua 
 **Lo que esto prohíbe, sin excepción, en el cuerpo del texto:** la coletilla etimológica repetida — «la coincidencia gráfica no demuestra un parentesco», «no constituye un parentesco etimológico directo», «esta conexión pertenece al registro simbólico, no a una ley etimológica única» y cualquier variante de la misma fórmula. Esa frase nace de pedirle permiso a una academia que, como el propio autor ha señalado, no va a tener en cuenta este libro haga lo que haga. No hace falta seguir pagando ese peaje. UR no se disculpa por ser símbolo. Lo es, y esta sección es la única vez que el libro necesita decirlo.
 
 **Lo que esto NO cambia — la Ley Hammurabeltz sigue intacta para todo lo demás:** fechas, cifras, atribuciones, citas de fuentes, hechos históricos y afirmaciones verificables se siguen comprobando exactamente igual que hasta ahora. Lo que cambia es solo el estatus de UR como símbolo cruzando culturas — eso ya no necesita el disclaimer de cada capítulo, porque está resuelto aquí de una vez. Si un dato histórico concreto es falso (Mariano Anós, el bosque seco, Marang Buru como agua), se sigue corrigiendo con el mismo rigor de siempre. La diferencia es que corregir un dato falso no es lo mismo que justificar por qué UR puede leerse como símbolo — eso último ya no se justifica más: se declara, aquí, y se usa.
+
+## VIII ter. LA ACTIVACIÓN DE UR — CONDICIÓN DE PERTENENCIA AL LIBRO (14/09/26)
+
+**El problema que la dispara:** una pieza puede cumplir todas las demás normas de este documento —cadenas correctas, tiempos verbales correctos, sin tics de negación, investigación hammurabeltz impecable— y seguir sin ser una pieza de este libro. El caso que lo enseñó: "Te Urewera: el bosque que comparece", una crónica histórico-legal completa sobre la personalidad jurídica del bosque maorí, sin una sola mención, marca o decisión sobre el fonema UR en más de 2.000 palabras — pese a que *Urewera* lleva UR en su propio nombre, sin explotar. La pieza pasaba de revisión en revisión, arreglando cadenas y tiempos verbales, sin que nadie preguntara si estaba en el libro correcto.
+
+**La regla, sin rodeos:** la sección VIII bis declara que UR es el eje del libro. Esta norma añade lo que VIII bis no decía: esa declaración no es un permiso que cada pieza pueda dejar sin usar. Es una obligación. Una pieza que no activa UR en ningún punto —ni como fonema, ni como argumento— no es una pieza de UR: Anomalía Rupestre. Es un capítulo de otro libro que por accidente comparte tema con este. Sin esta activación, la pregunta que hay que hacerse no es de estilo: es de fondo —qué se está escribiendo aquí, y si no sería más honesto un libro de instituto convencional que forzar la investigación dentro de este proyecto sin que el proyecto la reclame.
+
+**Cómo se activa, y cómo no — precedente WHANGANUI, pieza ya sellada:** activar UR no significa cazar la sílaba en cada topónimo ni forzar una lectura zahorí sobre palabras que no la piden —eso es justo lo que la Norma XIV ya prohíbe: "el UR se encuentra, no se fabrica"—. "WHANGANUI: EL RÍO QUE NOS NOMBRA", crónica maorí de extensión comparable, sin un solo juego etimológico en el cuerpo, resuelve esto con un único gesto: dos apariciones de la palabra, las dos en el último párrafo, reclamando la historia entera como una instancia del argumento UR-contra-T del libro (Norma XII) —no como coincidencia fonética con ningún término maorí—. El método es temático, no lingüístico: si la pieza ya cuenta, sin saberlo, la lucha del UR (el agua, el mauri, la vida que fluye) contra la T (la Corona, la ley, el mapa, el parque, la policía), el cierre solo tiene que decirlo con las palabras que el libro ya usa en todas las demás piezas.
+
+**Dónde se comprueba, y cuándo:** el Procedimiento Relojero (Fase 1) hace esta pregunta antes que cualquier otra, no después de revisar cadenas o tiempos verbales —ver la comprobación previa añadida ahí—. Si la respuesta es no, el resto del informe de esa revisión es secundario: no hay pieza que pulir hasta que exista pieza de este libro.
+
+**Alcance:** aplica a todo el material nuevo que entre en URIM/URS desde ahora, con prioridad especial en el vaciado de permafrost e IGLUR —investigación que, como Te Urewera, puede llegar completamente verificada y completamente ajena al método todavía.
 
 ## IX. CLASIFICACIÓN
 
