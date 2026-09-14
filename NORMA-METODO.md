@@ -442,6 +442,13 @@ Mismo problema que la sintaxis defensiva (Norma XXII), aplicado a otro recurso. 
 3. ¿La lista muestra una escala verdadera, o solo variedad decorativa?
 4. ¿Una escena o una relación causal transmitiría más que la simple acumulación?
 
+**Escalera de dificultad, cuando las cuatro preguntas no bastan para decidir (14/09/26):** versión más mecánica de la misma prueba, para los casos dudosos.
+- **Dificultad baja:** la cadena se convierte directamente en acciones sucesivas, sin perder nada. Se narra.
+- **Dificultad media:** la cadena admite una escena o relación causal clara sin perder información esencial. Se narra.
+- **Dificultad alta:** la transformación exigiría añadir contexto no disponible, alargar artificialmente el párrafo o perder la función de escala, catálogo o contraste. La cadena permanece.
+
+**Cadena propia de la voz — la excepción que no gana por defecto:** una cadena puede ser un tic deliberado del estilo del libro —el ritmo de esta misma norma, la anáfora, el staccato— y seguir siendo lícita. Pero "es la voz del libro" no es un pase automático sobre una narración material sencilla: si la transformación es de dificultad baja o media, se aplica igual que a cualquier otra cadena. La voz gana el caso por función real —ritmo, escala—, nunca por costumbre.
+
 **Fórmula operativa:** enumerar cuando la cantidad piensa. Narrar cuando la relación importa.
 
 **Regla práctica añadida:** dos cadenas seguidas exigen revisión siempre. No significa que la segunda deba desaparecer automáticamente — significa que tiene que demostrar su necesidad antes de quedarse, no darla por supuesta porque la primera ya la tenía.
