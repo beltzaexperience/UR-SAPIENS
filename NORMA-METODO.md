@@ -687,6 +687,14 @@ Cada capítulo del libro elude el formato de artículo cerrado; opera como un á
 
 **El principio:** La norma 24 mide cuándo un capítulo es demasiado largo. Esta norma corrige un malentendido que podía desprenderse de ella: el respirador (el título-pista de disco insertado dentro del cuerpo, como los de Pla-UR) no existe para capítulos largos — existe para cambios de acorde. Un capítulo corto también puede tener un giro real que merezca un respirador; un capítulo largo puede no tener ninguno si es un único argumento sostenido de principio a fin.
 
+**El test operativo, ancla o respiradero, nunca separador de párrafo (15/09/26):** un subtítulo se gana su sitio de una de dos maneras. O es ancla —marca un giro real del contenido, algo a lo que el lector podría volver por su nombre, un cambio genuino de qué se está contando—. O es respiradero —una pausa que el propio texto necesita porque ha acumulado peso suficiente para cansar antes de seguir—. Si un subtítulo no hace ninguna de las dos cosas, no es una tercera categoría legítima: es un separador de párrafo disfrazado.
+
+**La pregunta que decide:** si quitas el subtítulo y lees el texto seguido, ¿el lector se pierde, o solo nota que ya no hay título? Si se pierde —cambia el tema, cambia el lugar, cambia el siglo—, era ancla de verdad. Si no nota nada salvo la ausencia del título, era decoración.
+
+**La proporción que delata el problema:** un capítulo de mil doscientas palabras con seis subtítulos da unas doscientas palabras por tramo —menos de un minuto de lectura entre "acorde y acorde". Nadie llega agotado de leer mil doscientas palabras seguidas. Eso es la marca de que los subtítulos están ahí por costumbre de maqueta, no porque el capítulo los pida. Como referencia: capítulos de mil palabras raramente necesitan más de dos o tres tramos; solo piezas largas —Timmur, Antártida, dos mil palabras o más— justifican seis o más subtítulos reales, porque ahí sí hay giros suficientes y peso suficiente para pedir aire.
+
+Antes de poner un subtítulo, preguntarse cuál de las dos funciones cumple. Si la respuesta es "ninguna, pero queda bien ahí", no va.
+
 
 ## 26. EL PÁRRAFO COMO UNIDAD (CONTRA LA FRASE-CARTELA)
 
