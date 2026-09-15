@@ -693,6 +693,12 @@ Cada capítulo del libro elude el formato de artículo cerrado; opera como un á
 
 **La proporción que delata el problema:** un capítulo de mil doscientas palabras con seis subtítulos da unas doscientas palabras por tramo —menos de un minuto de lectura entre "acorde y acorde". Nadie llega agotado de leer mil doscientas palabras seguidas. Eso es la marca de que los subtítulos están ahí por costumbre de maqueta, no porque el capítulo los pida. Como referencia: capítulos de mil palabras raramente necesitan más de dos o tres tramos; solo piezas largas —Timmur, Antártida, dos mil palabras o más— justifican seis o más subtítulos reales, porque ahí sí hay giros suficientes y peso suficiente para pedir aire.
 
+**Rango de la norma (15/09/26): cumplimiento absoluto, sin excepción — como la Norma 31.** El test ancla-o-respiradero no admite un subtítulo que quede porque "queda bien ahí". No hay caso especial: todo subtítulo del libro, escrito antes o después de esta norma, tiene que poder defenderse con la pregunta que decide.
+
+**Pero la autoría es de Luis, no de Claude, y el ritmo lo marca Luis.** Los subtítulos, como los títulos de cualquier pieza del libro, los decide Luis —con ayuda de Claude, nunca al revés—. Que la norma sea de cumplimiento absoluto no significa que haya que corregir subtítulos provisionales de inmediato: Luis los sustituye cuando le corresponde, sin prisa, y mientras tanto no bloquean nada. Claude puede aplicar el test para fundir o separar tramos (delimitar dónde va cada ancla o respiradero, como en Te Urewera), pero no inventa ni impone el texto final del subtítulo salvo que Luis se lo pida expresamente.
+
+**El marcador `(*-sub)`:** cuando una pieza se cierra en URS y Luis todavía no ha sustituido sus subtítulos provisionales por los definitivos, la pieza lleva `(*-sub)` junto a la calavera y cualquier otro indicador que ya tenga —el mismo mecanismo que `(*-verb)` (norma 28) y `(*-nod)` (normas XXII-XXIII). No es un error ni resta cumplimiento real: una pieza con `(*-sub)` como única marca está al 99% de las normas superadas, pendiente solo de ese detalle. Se resuelve en la última pasada de corrección, justo antes de que la pieza pase de "☠ NO TOCAR!!!" (sellada, estable, con marcas pendientes conocidas) a la calavera limpia sin marcas —el NO TOCAR absoluto, el estado que hoy solo tiene "Digitalismo y el Test Gorila".
+
 Antes de poner un subtítulo, preguntarse cuál de las dos funciones cumple. Si la respuesta es "ninguna, pero queda bien ahí", no va.
 
 
