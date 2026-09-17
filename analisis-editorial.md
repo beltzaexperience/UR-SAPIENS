@@ -1,0 +1,452 @@
+# ANÁLISIS EDITORIAL — UR: ANOMALÍA RUPESTRE
+
+> Documento interno de trabajo. No constituye una propuesta de envío.
+
+---
+
+## 1. LECTURA VIGENTE — 26/08/2026
+
+UR: Anomalía Rupestre es un proyecto de ensayo narrativo de largo recorrido, todavía en fase de excavación. Su cuerpo principal, URS, reúne actualmente 99.181 palabras; URIM funciona como taller visible, y permafrost.html y LABORATORIO-IGLUR.html conservan materiales de investigación aún no integrados. El corpus completo asciende a 217.850 palabras, pero esa cifra no representa la extensión de un manuscrito editorial — mide el proyecto de trabajo, no el libro.
+
+URS, aislado, está en escala editorial posible (99.181 palabras, dentro del rango razonable de ensayo); el conjunto completo, no necesariamente. La viabilidad de URS no depende solo del número de palabras: dependerá de la legibilidad del recorrido, de la proporción entre cuerpo y aparato, y de la verificabilidad de las afirmaciones. Tener 99.000 palabras elimina un obstáculo de tamaño — deja abiertos los de género, estructura y documentación.
+
+La finalidad editorial no es prioridad inmediata. La tarea actual: terminar el recorrido, revisar las piezas, auditar las afirmaciones documentales, y decidir qué parte del corpus debe convertirse en libro.
+
+**Sobre Txalaparta y Arpa, posición vigente, no la de las primeras valoraciones:** Txalaparta es una referencia territorial y política pertinente, pero su línea definida puede hacer que UR desafine dentro del catálogo — información de primera mano, no publicada en el catálogo y no equivalente a una posición oficial de la editorial. Arpa exigiría una presentación mucho más disciplinada, y el propio Luis desconfía de que su tono coincida con la frecuencia del libro. Ninguna de las dos es destino elegido — ambas son referencias de contraste.
+
+La autoedición editorializada permanece como vía legítima y coherente con el HTML, la separación URS/URIM y la arquitectura visual del proyecto ya construida. No se preparará todavía ninguna propuesta de envío.
+
+---
+
+## 2. ESTADO CUANTITATIVO
+
+| Capa | Caracteres | Palabras | Función |
+|---|---|---|---|
+| URS | 620.096 | 99.181 | Libro principal |
+| URIM | 114.746 | 18.748 | Taller visible |
+| **urtz.html** (URS+URIM) | **734.842** | **117.929** | Libro + taller |
+| permafrost.html | 537.265 | 87.476 | Investigación bruta |
+| LABORATORIO-IGLUR.html | 78.918 | 12.445 | Panel de investigación |
+| **Proyecto completo** | **1.351.025** | **217.850** | Corpus total |
+
+- 91 piezas contabilizadas en el sistema actual de urtz.html (URS+URIM juntos, no solo URS).
+- URS representa entre el 49,6% y el 52,2% del objetivo interno provisional de 190.000-200.000 palabras (Vico). Esta cifra describe el plan de desarrollo actual, no una extensión editorial obligatoria.
+- ≈397 páginas estimadas en la maquetación de trabajo actual, calculadas sobre una densidad de 250 palabras por página.
+- ≈472 páginas estimadas para URS+URIM en esa misma maquetación de trabajo — no del manuscrito publicable.
+- La paginación depende de la conversión, el formato, la tipografía y el aparato crítico final: es cifra de orientación, no editorial.
+
+### Niveles de certeza en afirmaciones sobre catálogos externos
+
+| Tipo de información | Ejemplo | Tratamiento |
+|---|---|---|
+| Fuente oficial | Recepción de manuscritos, líneas declaradas en la web de la editorial | Citar enlace y fecha |
+| Lectura de catálogo | Patrón temático observado en publicaciones recientes | Presentar como observación, no como hecho cerrado |
+| Fuente directa | Información de la hija de Luis sobre Txalaparta | Marcar como conocimiento interno no público |
+
+---
+
+## 3. ARQUITECTURA DEL PROYECTO
+
+### Definición provisional del libro
+
+Ensayo narrativo de largo recorrido que sigue una sílaba —UR— por decenas de lenguas, mitologías, sistemas legales y disciplinas científicas, declarándola símbolo elevado a eje de lectura en vez de tesis lingüística a demostrar. Lee la historia humana como sucesión de capturas del flujo libre —hídrico, lingüístico, neuronal, jurídico— por estructuras de control (la T).
+
+### Conceptos vertebradores
+
+UR · usurpación sistémica · agua y flujo · atractores extraños · memoria · digitalismo · la ideología del amor como solución política · la T (canal, código, ley, infraestructura de control) · morfema libre · anomalía rupestre.
+
+### Mapa de secciones (URS)
+
+Prólogo → Bio Editorial / Radio Beltza → Prefacio → Introducción (vacía, pendiente) → Cara 1-6 (geografía) → Interludios I-III → Etimología Insurgente → El hombre contra la máquina → Al Yazirat Tarif → Bonus Tracks → Epílogo → Noturikon → Marcador Fonomático → Informes Maestros (Compost, Semillas, dossiers en curso). Contraportada como pieza propia, no como texto de cubierta únicamente.
+
+El proyecto UR no vive en un solo documento. Se reparte en tres archivos HTML con funciones distintas, dos de ellos conteniendo dos capas internas cada uno.
+
+### urtz.html — el archivo principal, dividido en URS y URIM
+
+**URS (URTZ/Sandinista)** es el libro propiamente dicho: Prólogo, Bio Editorial, Radio Beltza, Prefacio, Introducción, las seis Caras geográficas (Ibérico, Europa, Asia, América, África, Oceanía), los tres Interludios, Etimología Insurgente, El hombre contra la máquina, Al Yazirat Tarif, Bonus Tracks, Epílogo, Noturikon y la Contraportada. Es la parte destinada a convertirse en manuscrito legible por un lector externo — cada pieza sellada con calavera (☠ NO TOCAR!!!) forma parte de esta capa.
+
+**URIM (URTZ/Informes Maestros)** es el taller visible: dossiers de investigación en curso, Compost (material verificado sin pieza propia todavía), Semillas (ideas con destino apuntado pero sin desarrollar), y las piezas geográficas todavía sin sellar. Vive dentro del mismo urtz.html, después de la sección Informes Maestros, y el Marcador Fonomático mide ambas capas por separado precisamente para poder distinguir "libro" de "taller" en todo momento.
+
+**URSURIM** es la suma de las dos capas — la cifra que mide el documento urtz.html completo, tal como existe hoy, libro y taller juntos en el mismo archivo.
+
+### permafrost.html — el yacimiento en bruto
+
+Depósito de 101 "qanats": fragmentos de investigación sin procesar, numerados sin orden interno, cada uno con material verificado pero sin narrativa que lo una todavía. Es la fuente de la que PEOIM extrae contenido, pieza a pieza, para incorporarlo a URS o URIM tras el contraste correspondiente. Cada qanat vaciado desaparece de este archivo — por eso el archivo se reduce con el tiempo, nunca crece.
+
+### LABORATORIO-IGLUR.html — el panel de control ya casi vaciado
+
+Segundo yacimiento, distinto en formato al anterior: un panel de trabajo con entradas ya organizadas por tema, del que PEOIM ha ido extrayendo material sesión tras sesión. Empezó con 38 entradas; quedan 14. Es, en esencia, el mismo tipo de material que permafrost, pero llegado en un formato de panel en vez de en qanats sueltos.
+
+### La cifra que casi nunca se calcula: el proyecto entero
+
+El Marcador Fonomático, hasta ahora, solo medía urtz.html (URS+URIM). Pero el proyecto real incluye también lo que todavía no se ha vaciado — permafrost.html y LABORATORIO-IGLUR.html siguen siendo parte del corpus total de investigación, aunque no formen parte del libro ni del taller visible todavía.
+
+**Medición del proyecto completo (26/08/26):**
+
+| Capa | Caracteres | Palabras |
+|---|---|---|
+| URS | 620.096 | 99.181 |
+| URIM | 114.746 | 18.748 |
+| **URSURIM** (urtz.html) | **734.842** | **117.929** |
+| permafrost.html (101 qanats) | 537.265 | 87.476 |
+| LABORATORIO-IGLUR.html (14 piezas) | 78.918 | 12.445 |
+| **TOTAL DEL PROYECTO** | **1.351.025** | **217.850** |
+
+Esta cifra total no es la extensión del libro que se publicará — es la extensión de material ya integrado en urtz.html y material todavía conservado en los yacimientos de trabajo. Da una imagen más honesta de la escala real del trabajo que cualquiera de las cifras de URS por sí sola: más de 1,3 millones de caracteres, más de 217.000 palabras, repartidos entre lo ya construido y lo que todavía espera ser excavado.
+
+---
+
+
+
+**Aclaración necesaria para lector externo:** estos archivos no representan tres manuscritos independientes. Son tres estados de una misma investigación: obra organizada, taller visible, y material de excavación. No deben leerse como tres libros, un libro en volúmenes, ni acumulación sin control.
+
+---
+
+## 4. RIESGOS Y DECISIONES PENDIENTES
+
+### Estado de redacción, con detalle
+
+Islandia II y III siguen abiertas desde hace semanas. IGLUR (panel de trabajo) y permafrost.html (101 qanats) siguen en vaciado activo mediante PEOIM. Interludio III completo y sellado. Cuatro piezas selladas han pasado ya el repaso completo previsto para esta fase: Hammurabeltz, sintaxis defensiva y cadenas recurrentes: Digitalismo y el Test Gorila, Contraportada, Desde 1964: UR eta Urbe, Bio Editorial. El resto de piezas selladas llevan marcas `(*-nod)` y/o `(*---)` pendientes de ese mismo repaso.
+
+### Materiales pendientes
+
+Excavación completa de IGLUR y permafrost.html. Repaso de redacción (Normas XXII-XXIII) en las ~29 piezas selladas restantes. Cierre de Islandia II y III. Semillas sin desarrollar (K-UR-T y Shak-UR conceptual, UR eta Urbe de 600 páginas, Stranglers/Bolan, entre otras).
+
+- Escala del proyecto completo muy superior a un ensayo publicable estándar — el corpus completo (217.850 palabras) necesitará selección curada, no publicación íntegra. URS aislado no tiene este problema.
+- Género híbrido sin categoría de catálogo reconocible de inmediato: ni ensayo convencional, ni novela narrativa estándar — libro de pensamiento, mito, historia cultural, tecnología y autobiografía radiofónica.
+- Afirmaciones etimológicas/históricas verificadas pieza a pieza durante la construcción (Hammurabeltz), pero sin auditoría sistemática completa del corpus entero todavía.
+- Preguntas que solo se resolverán al terminar: ¿qué recorrido hace el libro completo? ¿qué corriente lo mantiene unido de principio a fin? ¿qué queda en el lector cuando termina? ¿cuánto del corpus completo pasa a un eventual manuscrito publicable, y cuánto se queda como el taller que lo sostiene?
+
+---
+
+## 5. VÍAS EDITORIALES DE CONTRASTE — SIN DESTINO ELEGIDO
+
+- **Editorial independiente de ensayo:** encaje alto si la arquitectura queda clara al cierre; riesgo de que el catálogo no sepa dónde colocarlo.
+- **Editorial vasca/cultural (Txalaparta como referencia):** alto en territorio, lengua de fondo y sensibilidad política; riesgo confirmado por fuente directa — línea editorial muy definida, UR podría desafinar su guitarra.
+- **Editorial de pensamiento/divulgación (Arpa como referencia):** catálogo de autores ya consolidados, presentación exigente; riesgo de que la escala universal y la forma híbrida desborden su línea, o que el tono no coincida con la frecuencia del libro.
+- **Autoedición editorializada:** control estético y libertad muy altos; exige asumir corrección, producción, distribución y difusión. No es plan de emergencia — es vía coherente con la naturaleza visual y estructural ya presente en el HTML.
+- Anagrama, Sexto Piso, Debate: horizonte para imaginar, no destinos de primer envío. Anagrama tiene la recepción de manuscritos pausada a fecha de esta sesión.
+
+---
+
+## 6. REGLAS DE CRECIMIENTO EDITORIAL
+
+### I. El objetivo numérico no obliga a crecer
+
+La franja de 190.000-200.000 palabras (Vico) es corte de control, no meta de producción. El manuscrito se cierra cuando el recorrido está completo, no cuando alcanza una cifra. Terminar en 165.000 palabras no es fracaso. Necesitar 210.000 tampoco lo es. Ninguna pieza futura se escribe para "acercar la cifra a Vico" — esa razón, si aparece, es motivo automático de descarte de la pieza.
+
+### II. La prueba de las tres preguntas, obligatoria para todo bloque nuevo
+
+Antes de escribir cualquier pieza nueva de cuerpo narrativo:
+1. ¿Introduce un territorio, conflicto o idea que el libro todavía necesita?
+2. ¿Hace avanzar el viaje de UR, o solo amplía una explicación ya presente?
+3. ¿Pertenece al cuerpo, a la glosa, o al archivo de investigación?
+
+Si la respuesta a las dos primeras es no, la pieza no entra en el cuerpo — como mucho, entra en Compost o Semillas. Si la respuesta a la tercera es "glosa" o "archivo", no se escribe como prosa de cuerpo por definición, aunque el contenido sea válido.
+
+### III. Separar cuerpo de aparato, con cifras propias para cada uno
+
+El recuento de palabras del libro no puede seguir mezclando, sin distinguir, cuerpo narrativo, prólogo, glosas, interludios, anexos, bio, Radio Beltza, marcadores internos y documentación editorial. Cada Marcador Fonomático futuro debe poder responder, cuando se le pida, cuánto de la cifra total es cuerpo publicable y cuánto es aparato del proyecto — no basta con la cifra agregada de URS.
+
+### IV. La comparación con Vico se enuncia con cualificación, nunca como cifra sola
+
+Nunca formular "URS está al X% de Vico" como argumento de autoridad aislado. La formulación correcta siempre incluye la cualificación: la cifra mide extensión, no madurez ni parentesco. El horizonte de referencia es una obra de gran aliento histórico y filosófico — la afinidad real está en el método (leer civilización, mito, lenguaje, derecho y poder como proceso único), no en el recuento de palabras.
+
+### V. Presentación pública: nunca "un ensayo de N palabras"
+
+Ante cualquier interlocutor externo, UR no se presenta por su cifra de extensión como dato aislado. Se presenta por su arquitectura: piezas, cuerpos, método. La cifra acompaña, no encabeza.
+
+---
+
+
+---
+
+## 7. REGISTRO HISTÓRICO DE VALORACIONES
+
+Todas las valoraciones completas, en el orden en que se produjeron. No se ha borrado ni corregido retroactivamente ninguna — las correcciones posteriores quedan registradas como lo que son, correcciones, con la valoración original intacta al lado. Esto es lo que permite ver la evolución real del pensamiento sobre el proyecto, no solo su estado final.
+
+## VALORACIÓN 1 — Claude, con búsqueda directa de catálogos (26/08/26)
+
+### Txalaparta: mejor encaje del que parecía, con un matiz real
+
+Aceptan manuscritos sin agente ni intermediario — envío directo por correo con biografía breve. Publican unos 40 libros al año, con categorías reales que tocan directamente el terreno del proyecto: Filosofía, Historia, Euskal Herria, Anarquismo, Ecología. Su ADN —fundada en Tafalla en 1988, "editamos literatura de todo el mundo... pero siempre con la temática vasca como eje"— encaja con la identidad del autor de un modo que ninguna editorial de Madrid o Barcelona podría igualar.
+
+Pero el catálogo de ensayo reciente revisado de verdad —memoria histórica, la masacre de Gasteiz, el conflicto de Ucrania, testimonios coloniales, feminismo gitano— muestra un patrón: ensayo político-histórico, casi siempre documental y testimonial, anclado en hechos verificables de forma convencional. No se ha encontrado nada parecido a un ensayo mitopoético que salta de la etimología sumeria a Cajal, que declara un símbolo en vez de demostrar una tesis única. No es que UR no encajaría — sería una anomalía dentro de su propio catálogo, no una continuación natural de él.
+
+### Arpa: encaje más débil, obstáculo real
+
+Aceptan manuscritos por correo, pero su propia web lo dice sin rodeos: publican "de la mano de autores de prestigio en su campo" — Victoria Camps, Javier Gomá, gente que ya tiene plataforma pública antes de publicar con ellos. Cada editor gestiona un máximo de diez libros al año. El catálogo actual —geopolítica escrita por quien ha negociado con Putin, ensayos sobre la "aristocracia digital"— es no ficción pulida, de tesis única, por voces ya reconocidas. Un manuscrito de quinientas mil palabras, en construcción activa, de un autor sin plataforma previa, encajaría mal ahí — no por falta de calidad, sino porque no es el tipo de propuesta que procesan.
+
+### El obstáculo real, y no es ninguna editorial concreta
+
+Ninguna editorial seria del mundo evalúa en serio un manuscrito al 50%, creciendo activamente, con capítulos todavía a medio excavar. Es cierto en cualquier casa editorial. Y hay un segundo obstáculo de escala: el ensayo publicable estándar ronda las 60.000-120.000 palabras. Lo que existe ahora, aunque se cerrara hoy, lo superaría varias veces — necesitaría una versión curada, no el corpus entero.
+
+### Conclusión
+
+No es descabellado. Es prematuro. Txalaparta es la apuesta con más sentido de las dos, el día que exista una versión cerrada y una selección curada del material — no la enciclopedia completa de UR. La autoedición no es premio de consolación: el propio formato vivo del documento (URIM, Compost, Semillas a la vista) hace algo que ningún libro físico cerrado podría hacer.
+
+---
+
+
+
+## VALORACIÓN 2 — Segunda IA, análisis estructurado (26/08/26)
+
+No es descabellado. Pero ahora mismo la finalidad editorial realista no es "publicar ya", sino terminar de convertir UR: Anomalía Rupestre en un objeto legible, defendible y enviable. Con un 50% construido, Islandia II y III todavía abiertos y material pendiente de excavación, sería prematuro medirlo como manuscrito acabado; no sería prematuro, en cambio, empezar a pensar qué tipo de libro es y qué editoriales podrían reconocerlo.
+
+### Dónde ve UR
+
+Tres posibilidades legítimas:
+
+| Vía | Encaje | Riesgo |
+|---|---|---|
+| Editorial independiente de ensayo | Alto, si el manuscrito termina con una arquitectura clara | Que el catálogo no sepa dónde colocarlo |
+| Editorial vasca/cultural | Alto en territorio, lengua de fondo y sensibilidad política | Que la escala universal y la forma híbrida desborden su línea |
+| Autoedición editorializada | Muy alto en control estético y libertad | Asumir corrección, producción, distribución y difusión |
+
+No lo ve como ensayo convencional ni como novela narrativa estándar. Lo ve como un libro híbrido de pensamiento, mito, historia cultural, tecnología y autobiografía radiofónica, con una voz de autor muy marcada.
+
+### Txalaparta
+
+Primera opción con sentido de explorar, no por proximidad sentimental sino por encaje real: editorial vasca independiente que publica ensayo y acepta propuestas con texto o muestra, biografía, y explicación de adecuación al catálogo. Solicita originales corregidos.
+
+La conexión territorial no basta sola, pero no sería el único argumento: Donostia, Gipuzkoa, Euskal Herria y la memoria vasca forman parte del ADN del libro; dimensión política y crítica compatible con editorial independiente; UR no es localista — parte del territorio para atravesar Sumeria, Grecia, la ciencia, el imperio, la industria y la IA; Beltza Records aporta trayectoria cultural real, no biografía inventada.
+
+Riesgo: que Txalaparta espere clasificación más reconocible (ensayo político, memoria, historia, narrativa). Propuesta editorial concreta sugerida para un envío futuro:
+
+> *"UR: Anomalía Rupestre es un ensayo mitopoético de largo recorrido que lee la historia de la civilización como una sucesión de capturas de lo vivo —mito, agua, cuerpo, trabajo, territorio, lenguaje y atención— y sigue la persistencia de ese flujo hasta la inteligencia artificial y la necesidad de reconocer jurídicamente a los ríos."*
+
+### Arpa
+
+Opción razonable pero distinta. Catálogo organizado alrededor de pensamiento, historia, ciencia, psicología, empresa y clásicos. UR podría entrar por pensamiento, historia cultural o ciencia crítica, pero necesitaría presentación más disciplinada, menos dependiente de la mitología interna del proyecto. No forzaría el molde: si encajar exige eliminar la radio libre, el ciclo del agua, los atractores extraños o la anomalía rupestre, deja de ser opción adecuada.
+
+Impresión: Txalaparta más natural para la energía política y territorial del libro; Arpa más exigente con la arquitectura ensayística.
+
+### Anagrama, Sexto Piso, Debate
+
+Nombres para imaginar el horizonte, no destinos probables ni primer envío. Anagrama tiene la recepción de manuscritos pausada actualmente. Sexto Piso podría ser pertinente por la mezcla de pensamiento y ensayo, pero exigiría propuesta muy afinada. Debate tendría sentido si el libro se orientara más hacia ensayo político-histórico contemporáneo.
+
+### Lo que falta antes de enviar — cinco condiciones
+
+1. El recorrido completo debe existir, aunque algunas zonas sigan en revisión.
+2. La estructura debe ser visible para alguien que no conozca las conversaciones previas.
+3. Cada capítulo debe tener una función, no solo una acumulación de hallazgos.
+4. Las referencias históricas y científicas deben estar comprobadas, especialmente en giros argumentales.
+5. La propuesta debe resumirse en una página sin traicionar el libro.
+
+### ¿Autoedición?
+
+No sería renuncia. Distinción importante: publicar sin filtros frente a hacer una edición de autor rigurosa, corregida, diseñada, catalogada y distribuida profesionalmente. La segunda puede ser finalidad real, no plan de emergencia. El HTML, la división BIO EDITORIAL/RADIO BELTZA, la arquitectura de categorías y la identidad visual ya son un laboratorio editorial — sirve tanto para autoeditar como para presentar a una editorial.
+
+### Orden propuesto
+
+1. Terminar el primer cuerpo completo del libro.
+2. Revisar la arquitectura general, no solo las frases.
+3. Preparar una sinopsis editorial de una página.
+4. Seleccionar dos o tres capítulos representativos.
+5. Comparar el catálogo de Txalaparta y Arpa con el manuscrito terminado.
+6. Enviar primero donde exista una conversación natural con el libro.
+7. Mantener la autoedición como vía autónoma, no como fracaso.
+
+### Conclusión
+
+UR puede aspirar a una editorial, pero no debe escribirse para ser aceptado por una editorial. Primero tiene que convertirse plenamente en el libro que es. Después habrá que buscar quién tenga la suficiente amplitud para publicarlo sin amputarle la frecuencia.
+
+---
+
+
+
+## PUNTOS DE COINCIDENCIA ENTRE LAS DOS VALORACIONES
+
+- Txalaparta es la opción más natural de las nombradas, por territorio, lengua e independencia editorial — no por cercanía sentimental.
+- Arpa es viable pero exige una presentación mucho más disciplinada, con riesgo real de que la "mitología interna" del proyecto no encaje en su formato de tesis única.
+- Ninguna editorial evaluará en serio un manuscrito sin cerrar: la prioridad no es elegir editorial, es terminar el cuerpo del libro.
+- La autoedición no es un plan B — es una vía legítima y coherente con la naturaleza visual y estructural del propio proyecto.
+- No enviar primero a los nombres de prestigio (Anagrama, Sexto Piso, Debate) — son horizonte, no primer paso.
+
+---
+
+
+
+## CORRECCIÓN DE FUENTE DIRECTA (26/08/26)
+
+La hija de Luis trabaja en Txalaparta y confirma desde dentro: la editorial está muy centrada en libros "de su cuerda" —línea ideológica y temática coherente—, y UR podría desafinar esa guitarra. Información de primera mano, más fiable que cualquier lectura de catálogo hecha desde fuera por cualquiera de las dos IA. Rebaja a Txalaparta como la opción "más natural" que ambas valoraciones proponían — no la descarta del todo, pero la sitúa con más reservas de las que el catálogo público dejaba ver.
+
+**Estado real, a fecha de hoy:** no hay prisa ni intención inmediata de publicar. Queda mucho trabajo de excavación (IGLUR, Permafrost, Islandia II-III) antes de que la pregunta editorial vuelva a ser urgente. Este archivo queda como registro de la reflexión, no como plan de acción con fecha.
+
+**Fuentes de la valoración conjunta:** Claude (Anthropic) y Perplexity — las dos únicas IA que conocen el proyecto en profundidad a fecha de esta sesión.
+
+---
+
+
+
+## VALORACIÓN 3 — Perplexity, sobre la corrección de fuente directa (26/08/26)
+
+Lectura confirmada como sensata: Txalaparta y Arpa sirven como referencias de contraste, no como destino editorial mientras UR siga en fase de excavación. Prioridad: terminar el cauce completo antes de decidir quién podría publicarlo.
+
+### Sobre Txalaparta, con el dato de la hija ya incorporado
+
+La información confirma el riesgo señalado: si Txalaparta trabaja desde contenidos muy definidos, UR probablemente desafinaría su guitarra — no por falta de rigor o de dimensión política reconocible, sino porque su fuerza está precisamente en cruzar demasiadas cuerdas a la vez: mito, agua, historia, música, ciencia, tecnología, cuerpo y derecho. Esto no invalida la editorial — solo indica que no conviene forzar una afinidad por proximidad territorial o afectiva. La relación personal puede servir para conocer su línea desde dentro, pero no debe convertir una hipótesis editorial en obligación.
+
+### Sobre Arpa — la distinción decisiva
+
+El escepticismo de Luis es información válida en sí misma. No hace falta un juicio general sobre la editorial para reconocer que su tono, su selección o su forma de divulgar el conocimiento quizá no coincidan con la frecuencia de UR. Una editorial puede tener catálogo sólido y no ser el lugar adecuado para un libro concreto.
+
+> UR no necesita una editorial que simplemente valore la erudición. Necesita una que entienda que la erudición aquí no es un escaparate de conocimientos, sino sedimento dentro de una corriente narrativa.
+
+### Lo que ya es trabajo editorial, aunque no haya editorial destinataria todavía
+
+Los cuatro instrumentos ya construidos esta sesión no obligan a decidir nada — son, de momento, orientación interna:
+
+- **La Contraportada** ayuda a comprobar qué libro se está construyendo.
+- **BIO EDITORIAL** prueba si el autor puede presentarse con claridad.
+- **RADIO BELTZA** conserva la voz que no debe someterse a una ficha.
+- **El HTML** permite ver la obra como objeto antes de cerrarla.
+
+**Recomendación explícita:** guardar estas piezas como material de cierre provisional, no como definitivo, hasta que el manuscrito completo termine de crecer — los capítulos pendientes pueden modificar una palabra de la Contraportada, el alcance de la Bio, o incluso el modo de nombrar el conjunto.
+
+### Las tres preguntas de cierre, para cuando llegue el final
+
+No hace falta decidir ahora si UR irá a Txalaparta, Arpa, otra editorial o edición propia. Hace falta comprobar que, cuando el libro termine, pueda responder por sí mismo a tres preguntas:
+
+1. ¿Qué recorrido hace?
+2. ¿Qué corriente lo mantiene unido?
+3. ¿Qué queda en el lector cuando termina?
+
+Si UR responde a las tres sin perder su anomalía, habrá una finalidad editorial real, aunque el camino concreto todavía no esté elegido.
+
+---
+
+
+
+## VALORACIÓN 4 — Perplexity, sobre el dossier editorial futuro y la organización del archivo (26/08/26)
+
+### Qué debería contener un dossier, cuando llegue el momento (no ahora)
+
+Nueve piezas: carta de presentación (una página: título, autor, estado, género, extensión, presentación de 4-5 líneas, motivo del envío a esa editorial concreta); sinopsis editorial (500-800 palabras, evaluable, no lírica — distinta de la Contraportada, que vende experiencia); índice completo (partes, capítulos, piezas, glosas, apéndices — mostrando arquitectura, no acumulación); muestra de lectura (30-50 páginas consecutivas + tres fragmentos de registros distintos: mito y origen, historia y usurpación, digitalismo y presente — nunca solo los pasajes más brillantes, el editor necesita ver la continuidad); Bio Editorial (la ya construida funciona, con la advertencia de que Radio Beltza se queda dentro del libro, no sustituye a la bio profesional); nota de autoría y método (título propuesto: *"Nota sobre el método: escri-T-UR-A de estudio de grabación"* — no para disculparse por trabajar con IA, sino para explicar el proceso con honestidad: intuición, investigación, contraste, diálogo con herramientas, revisión humana, separación entre hecho/interpretación/artefacto); estado del manuscrito (nunca "está al 50%" — mejor: *"Manuscrito en fase avanzada de redacción. La estructura general está definida; varias piezas se encuentran cerradas y el resto está en proceso de desarrollo y revisión documental"*); público y posición editorial; obras comparables (tabla de qué comparte y qué diferencia, sin afirmar parentescos concretos hasta saber a qué editorial se envía).
+
+### Qué NO enviar de entrada
+
+El archivo completo de notas, la bibliografía de trabajo entera, el HTML completo, las reglas internas de estilo, cada conversación con IA, hipótesis sin comprobar, glosas provisionales, material visual sin derechos aclarados. Eso se queda como archivo de proyecto — el dossier debe ser legible para alguien que no conoce el proceso.
+
+### Advertencia necesaria — y la más importante de esta valoración
+
+En el material que compone el proyecto aparecen numerosas afirmaciones históricas, etimológicas y etnográficas formuladas con mucha seguridad. Algunas serán correctas; otras necesitan verificación independiente antes de entrar en cualquier dossier editorial. La documentación editorial no debe presentar como hecho contrastado una hipótesis nacida de la exploración narrativa — aquí la propia normativa del proyecto (Hammurabeltz) es la herramienta adecuada: separar hecho documentado, lectura razonada, e invención o artefacto literario. Esto no debilita UR — al contrario, hace que la audacia sea defendible. Una editorial puede aceptar una especulación; lo que no puede aceptar es que aparezca disfrazada de dato sin señalización.
+
+### Separar dos documentos, cuando llegue el momento
+
+`analisis-editorial.md` — documento interno: amplio, estratégico, honesto, con dudas y riesgos. `propuesta-editorial.md` — documento externo: limpio, breve, persuasivo, solo lo que necesita leer una editorial. El primero responde "¿qué estoy construyendo y qué debo resolver?"; el segundo, "¿qué libro es este y por qué debería publicarlo esta editorial?". **No construir el segundo todavía.**
+
+### Recomendación concreta para ahora mismo
+
+No construir el dossier de envío. Solo ocho secciones ligeras dentro de este mismo archivo: definición provisional del libro, arquitectura actual, conceptos centrales, estado de redacción, materiales pendientes, riesgos editoriales, preguntas que solo se resolverán al terminar, posibles vías de publicación sin elegir ninguna.
+
+---
+
+
+
+## VALORACIÓN 5 — Perplexity, lectura editorial de las cifras totales (26/08/26)
+
+Estos números cambian bastante la lectura editorial del proyecto: UR ya no es una idea extensa en desarrollo, sino un manuscrito de dimensiones editoriales reales, aunque todavía no esté terminado.
+
+### Qué significa editorialmente
+
+Si el manuscrito termina cerca de 190.000-200.000 palabras, estará ante un libro de aproximadamente 750-850 páginas según maquetación. Con el volumen actual, UR ya supera la extensión habitual de un ensayo comercial de formato medio. Eso no lo invalida, pero sí modifica la estrategia. No convendría presentarlo como "un ensayo de 200.000 palabras". Convendría presentarlo como:
+
+> *Una obra de pensamiento narrativo en dos cuerpos, compuesta por 91 piezas, con una extensión total provisional de aproximadamente 118.000 palabras y un desarrollo previsto cercano a las 200.000 palabras.*
+
+La expresión "dos cuerpos" solo es útil si URS y URIM tienen una diferencia estructural real que un editor pueda entender sin descifrar el sistema interno.
+
+### La comparación con Vico, mejor formulada
+
+No decir que UR está "a mitad de camino de Vico" en sentido cuantitativo — la cifra solo mide extensión, no madurez ni parentesco. Sí puede decirse que UR comparte con una tradición de historia filosófica la ambición de leer civilización, mito, lenguaje, derecho y poder como proceso único; que no pretende ser monografía académica; que convierte la historia en investigación narrativa sobre cómo lo vivo es capturado y cómo vuelve a escapar. Formulación adecuada:
+
+> *URS se encuentra aproximadamente en la mitad del recorrido de extensión previsto para su cuerpo principal; el horizonte de referencia es una obra de gran aliento histórico y filosófico, no un volumen cerrado de ensayo convencional.*
+
+### La cuestión decisiva: no engordar por sistema
+
+Con 117.929 palabras, el riesgo ya no es que falte material. El riesgo es que el libro siga creciendo sin decidir qué debe pertenecer al cuerpo principal y qué debe pasar a glosa, archivo o material complementario. Categorías que deben poder contarse por separado en algún momento: cuerpo narrativo, prólogo, glosas, interludios, anexos, bio, Radio Beltza, marcadores internos, documentación editorial. Si todo se contabiliza dentro de las 200.000 palabras objetivo, el cálculo editorial queda falseado.
+
+### Lo que se ve en esta sesión, no solo producción
+
+Interludio III completo aporta unidad de transición. Digitalismo y el Test Gorila fusionado y revisado consolida el presente tecnológico. Prólogo fija la puerta de entrada. Bio Editorial resuelve la presentación externa. Radio Beltza conserva la frecuencia autobiográfica. Marcador Fonomático transforma la recurrencia sonora en categoría legible. `analisis-editorial.md` convierte el proyecto en un objeto que puede describirse desde fuera. El paso siguiente no es preparar un envío editorial — es actualizar el mapa de la obra con estas piezas y decidir qué función cumple cada una.
+
+### Recomendación explícita
+
+Mantener las cifras actuales como corte de control, sin modificar todavía la previsión de 190.000-200.000 palabras, pero con advertencia metodológica explícita: la extensión objetivo es provisional, no obligación de crecimiento. El manuscrito se cierra cuando el recorrido está completo, no cuando alcanza una cifra. Si el libro queda en 165.000 palabras, no habrá fracasado. Si necesita 210.000, tampoco.
+
+**Diagnóstico:** UR ya tiene dimensión para una finalidad editorial real, pero necesita una fase posterior de cartografía, poda y jerarquización — no para domesticarlo, sino para que sus piezas lleguen al lector como corriente compleja, no como archivo que permanece abierto.
+
+---
+
+
+
+## VALORACIÓN 6 — Perplexity, corrección de escala y arquitectura de tres archivos (26/08/26)
+
+Con estos datos, `analisis-editorial.md` ya tiene base sólida. La aportación decisiva: distingue libro, taller y yacimiento, en vez de presentar una única cifra que mezcle materiales de naturaleza distinta.
+
+### La escala real
+
+| Capa | Caracteres | Palabras | Función |
+|---|---|---|---|
+| URS | 620.096 | 99.181 | Libro principal |
+| URIM | 114.746 | 18.748 | Taller visible |
+| urtz.html | 734.842 | 117.929 | Libro + taller |
+| permafrost.html | 537.265 | 87.476 | Investigación bruta |
+| LABORATORIO-IGLUR.html | 78.918 | 12.445 | Panel de investigación |
+| **Proyecto completo** | **1.351.025** | **217.850** | Corpus total |
+
+La cifra editorial relevante no es 217.850 palabras — esa es la dimensión del proyecto de trabajo. Para una eventual editorial, la primera cifra a estudiar sería la de URS, y **99.181 palabras ya se sitúan dentro de una extensión razonable para un ensayo**. El problema principal no es el tamaño actual, sino qué parte del material pendiente debe entrar en el cuerpo final.
+
+### Corrección explícita a valoraciones anteriores de este mismo documento
+
+Ya no es correcto decir simplemente que UR "supera varias veces" la extensión habitual de ensayo — esa afirmación mezclaba el proyecto completo con el manuscrito real. **URS, aislado, está en escala editorial posible; el conjunto completo, no necesariamente.** La distinción entre URS y URIM evita sobredimensionar el manuscrito en una futura presentación.
+
+Formulación corregida sobre el objetivo Vico: en vez de *"URS se encuentra aproximadamente en la mitad del recorrido..."*, mejor: *"URS cuenta actualmente con 99.181 palabras y se encuentra entre el 49,6% y el 52,2% del objetivo provisional de 190.000-200.000 palabras. Esta cifra describe el plan de desarrollo actual, no una extensión editorial obligatoria."* Una editorial no necesita saber cuánto falta para alcanzar una cifra imaginada — necesita saber cuál será el manuscrito que recibirá.
+
+### La arquitectura de tres archivos, con la aclaración que le faltaba
+
+La separación urtz.html / permafrost.html / LABORATORIO-IGLUR.html es la parte más valiosa del documento — la metáfora arqueológica no es decorativa, describe cómo se genera el libro de verdad. Pero necesita esta frase para un lector externo:
+
+> *Estos archivos no representan tres manuscritos independientes. Son tres estados de una misma investigación: obra organizada, taller visible y material de excavación.*
+
+Así se evita que alguien interprete las 217.850 palabras como tres libros, un libro en volúmenes, o acumulación sin control.
+
+### Correcciones léxicas concretas, para futuras redacciones
+
+- "Manuscrito de dimensiones editoriales reales" → **"El cuerpo URS ya tiene una dimensión compatible con un manuscrito editorial de ensayo; el proyecto completo tiene una escala de archivo de autor."** Evita confundir "proyecto" con "manuscrito".
+- La horquilla de 60.000-120.000 palabras como "ensayo publicable estándar" no es regla industrial universal, es referencia orientativa — matizar siempre.
+- "La enciclopedia completa de UR" → distinguir que la eventual propuesta editorial no coincidiría necesariamente con el corpus completo: podría presentar URS como cuerpo principal, reservando URIM, el yacimiento y los informes como archivo de apoyo o expansión.
+
+### Diagnóstico final — la pregunta que este documento ya permite responder
+
+**¿Qué es exactamente lo que podría enviarse algún día?** Respuesta provisional: no las 217.850 palabras del proyecto completo, sino una versión cerrada y curada de URS, probablemente acompañada de una explicación del papel de URIM como taller y archivo de apoyo. Esto no obliga a recortar ahora ni a decidir qué queda fuera — significa que el proyecto ya tiene arquitectura suficientemente madura para que esa decisión pueda aplazarse sin perder el control.
+
+**Formulación editorial más exacta, a día de hoy:**
+
+> *UR: Anomalía Rupestre no es todavía un manuscrito cerrado, pero ya contiene un cuerpo principal de casi 100.000 palabras con escala editorial posible, un taller visible de casi 19.000 palabras y un archivo de investigación adicional de casi 100.000 palabras. El trabajo pendiente consiste en completar la excavación, cerrar el recorrido y decidir qué parte del corpus debe convertirse en libro.*
+
+---
+
+## 8. REGLA FINAL DEL SISTEMA — QUÉ MIDE CADA ARCHIVO
+
+> El Marcador Fonomático muestra únicamente el estado vigente del proyecto. No conserva cifras históricas, versiones ni valoraciones. Toda modificación relevante se registra en `analisis-editorial.md` y, cuando proceda, en una copia fechada del archivo HTML.
+
+**Reparto de funciones:**
+- **Marcador Fonomático** (en urtz.html): estado actual. Un salpicadero, no un archivo histórico.
+- **`analisis-editorial.md`**: evolución, decisiones, cambios y cifras fechadas.
+- **Copias de seguridad / control de versiones**: preservación técnica de los HTML anteriores, fechadas, fuera del archivo activo.
+
+### Sobre el color rojo
+
+> El color rojo no representa volumen, avance ni cercanía a una cifra objetivo. Solo señala una alarma editorial activa: crecimiento sin función, mezcla de capas, auditoría pendiente, documentación insuficiente o alteración no resuelta de la arquitectura.
+
+**Las seis condiciones que activan la alarma — nunca una cifra por sí sola:**
+
+1. **Rojo por crecimiento sin control:** se añade material al cuerpo sin haber pasado la prueba de las tres preguntas (Regla II, sección 6).
+2. **Rojo por mezcla de capas:** se presenta como URS material que en realidad pertenece a URIM, Compost, Semillas o archivo bruto.
+3. **Rojo por objetivo numérico:** una pieza se incorpora con el propósito de acercarse a las 190.000-200.000 palabras de Vico.
+4. **Rojo por auditoría pendiente:** existe una acumulación significativa de piezas selladas que aún no han pasado la revisión prevista (marcas `(*-nod)` / `(*---)` sin resolver).
+5. **Rojo por documentación:** se incorporan afirmaciones relevantes sin clasificación entre hecho, hipótesis o artefacto.
+6. **Rojo por arquitectura:** una nueva pieza altera el recorrido del libro sin que se haya actualizado el mapa correspondiente en este documento.
+
+El estado por defecto es **NORMAL**. Pasa a **ALARMA** solo cuando una de estas seis condiciones esté activa y sin resolver — nunca por alcanzar, superar o acercarse a una cifra.
