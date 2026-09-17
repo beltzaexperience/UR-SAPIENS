@@ -900,3 +900,34 @@ Luis: *"Ese párrafo final sin ningún sentido narrativo, prohibido. Lo tenemos 
 **Fórmula operativa:** primero indicativo. Después, si la realidad exige incertidumbre, modal. Nunca al revés.
 
 **Cruce con normas ya existentes, para que no se lean como contradicción:** el caso 3 es el mismo terreno que ya cubren la Norma 13 (los tres registros — especulación razonada frente a hecho contrastado) y la Norma 19 («cabe leer esto como...», para causa material no verificada). Un modal o una fórmula de lectura razonada ahí no es cobertura: es honestidad epistémica declarada (Punk 11). Esta norma no los contradice —los delimita—, distinguiendo la incertidumbre real del contenido (que se conserva) de la cobertura retórica del narrador (que se extirpa). Encaja también con la Punk 2 (presente de indicativo) y la concreta: el presente no solo mantiene vivas las ideas —también impide que la prosa se esconda detrás de posibilidades innecesarias.
+
+## 33. LA SÍNCOPA SINTÁCTICA (CONTRA EL RITMO METRÓNOMO) (17/09/26)
+
+**El origen:** diagnóstico de Luis sobre el ciclo africano —empezando por "Endorois · Ogiek · San · Loliondo"—, confirmado de forma independiente por una sesión con Perplexity que Luis trajo para contrastar: el texto cumplía todas las normas y aun así sonaba a informe de ONG o artículo bien empaquetado. *"Empiezo a sentir que con el cumplimiento de las normas-método [...] estamos redactando puros artículos, buenos artículos pero no son suficientes para nuestra Anomalía Rupestre."*
+
+**La trampa:** el miedo a incumplir otras normas de redacción —sobre todo la Punk 1 (el descarte «no X, sino Y») y la Punk 10 (el gerundio de posterioridad)— empuja hacia una prosa defensiva que solo se atreve a repetir la misma estructura: Sujeto + Verbo + Predicado, frase tras frase, párrafo tras párrafo. *"El Estado expulsó... Los Endorois llevaron... La Comisión reconoció..."* No es incorrecto. Es un metrónomo de conservatorio: previsible, aséptico, sin síncopa.
+
+**La instrucción:** se incentiva la elipsis (omitir el verbo cuando el contexto ya lo sostiene), la frase fragmentaria, el corte seco y el hipérbaton, para que el peso de la frase caiga donde debe caer, como un golpe de caja en la batería —no repartido en partes iguales por toda la oración.
+
+- Metrónomo: *"El gobierno volvió a cementar el pozo después de la victoria judicial."*
+- Síncopa: *"Cemento fresco sobre la victoria judicial. El gobierno tapó la boca del agua."*
+
+**Dónde se aplica y dónde no:** esta norma no sustituye a la Punk 26 (el párrafo como unidad) ni la contradice —el corte sincopado sigue construyendo, no resume ni repite lo ya dicho, esa frontera sigue siendo de la Punk 31—. Se gana su sitio en los tramos de mayor tensión material o política de un capítulo, no como tic aplicado a cada frase del libro: un capítulo enteramente sincopado sería tan monótono como uno enteramente metronómico. El oído decide dónde hace falta el corte, no una cuota fija de frases fragmentarias por página.
+
+## 34. LA VÍA LIBRE DEL DESBORDE (17/09/26)
+
+**La premisa:** un texto que es armadura materialista al cien por cien —dato, cita, fecha, sentencia, cifra— corre el riesgo de convertirse en el informe de un perito judicial. El ilusionismo hídrico (Sección V) necesita que la prosa respire por encima de sus propias cautelas alguna vez, no todas.
+
+**Lo que esta norma NO es:** no es una cuota obligatoria por capítulo, ni lleva marcador de incumplimiento. La primera redacción que se propuso para esta norma —*"cada capítulo debe ganarse el derecho a un párrafo de desborde absoluto; si no lo tiene, se clasifica como (*-plana) y se devuelve a la mesa de mezclas"*— se descarta explícitamente por replicar el mismo vicio que esta norma nace para combatir: convertir la libertad en un trámite más que cumplir, un casillero que rellenar antes de dar el capítulo por bueno. Un desborde que se escribe porque la norma lo exige no es desborde — es cumplimiento disfrazado de anomalía, y el oído lo detecta igual de rápido que detecta el articulismo.
+
+**Lo que esta norma es:** una vía libre, no una obligación. Cuando un capítulo lo pide —por acumulación de tensión, por cierre, por la necesidad de que el símbolo respire por encima del expediente—, el texto puede romper el tono de crónica geohistórica y subir al registro místico, musical, poético o directamente dadá (Norma 13), conectando los elementos por la vía del azar a gran escala en lugar de la causalidad documentada. No hace falta pedir permiso para ese salto ni justificarlo en el propio texto (Norma XXV): se toma, si el capítulo lo ha ganado, y se queda.
+
+**La prueba, para no confundir desborde con relleno lírico:** un desborde real solo funciona si todo lo que lo rodea ya se ha ganado el derecho a subir de registro —si aparece en un capítulo que no ha hecho el trabajo material y jurídico primero, no es desborde, es maquillaje. El material de la Ley Hammurabeltz no se sustituye nunca: se corona.
+
+## 35. LA MIRADA DEL ZAHORÍ (EL CUERPO EN EL BARRO) (17/09/26)
+
+**La trampa:** el turismo de conflicto. El narrador observa la injusticia desde una distancia impecable, gestionando siglas institucionales y fechas de sentencia —*"En mayo de 2017, la Corte declaró que Kenia había vulnerado..."*— con la misma voz neutra de un parte de prensa. El texto puede ser exacto y estar muerto al mismo tiempo: pierde la vibración de la tierra que pisa.
+
+**La acción punk:** el narrador de UR no es un observador de Naciones Unidas ni un enviado especial. Es —la imagen ya existe en el propio libro, Norma XIII, la correspondencia del "koxkero errante"— un zahorí herido, alguien que recorre el valle con el cuerpo, no con el expediente. La descripción física antecede a la jurídica: el barro, el polvo, el óxido, el sonido de una alambrada al tensarse, antes que la cifra que los certifica.
+
+**La instrucción operativa, y su límite exacto:** los datos verificables —sentencias, cifras de reparación, hectáreas, fechas— no desaparecen del cuerpo del texto por esta norma; siguen sometidos íntegramente a la Ley Hammurabeltz, que no cede terreno ante ninguna otra. Lo que cambia es el reparto: el cuerpo lleva la textura material y el peso físico del hecho, mientras la Glosa (Norma 9) sostiene el andamiaje institucional completo —el número exacto, la sala, el artículo de la Carta africana citado—. Ningún dato se inventa para "sonar más físico": si la fuente no registra el olor a pólvora de un desalojo concreto, no se escribe. El zahorí describe lo que la fuente permite describir, con el cuerpo puesto, no con la imaginación suelta.
