@@ -89,3 +89,43 @@ Estas dos lecturas no requieren verificación externa porque no son afirmaciones
 2. **Ahura Mazdā para Hürmüz.** *Ahura* = "señor" (fuerza vital de la existencia); *Mazdā* = "sabiduría", "aquel que guarda en la memoria". La lectura de Luis: el señor representa la sabiduría del agua primordial y vital — Ahura Mazdā como el guardián de la memoria del agua, no como abstracción teológica.
 
 Ambas etimologías de base (*yarım/burgaz*, *Ahura/Mazdā*) están confirmadas arriba como reales; lo que se declara aquí, sin necesidad de fuente adicional, es la lectura mitopoética que Luis construye sobre ellas.
+
+---
+
+## ESQUEMA DE TRABAJO CORREGIDO — EL ATRACTOR ÜR (HÜRMÜZ)
+
+> Reconstruye el esquema original de la investigación (cinco movimientos: mito → logos → rito → símbolo) quedándose solo con lo que sobrevive la verificación. Cada bloque indica qué se usa, qué se corta y qué es lectura declarada de Luis (Norma 30 — no se justifica, se declara).
+
+### I. Introducción — La ontología del atractor extraño ÜR
+
+El patrón se mantiene intacto: un flujo libre (hídrico, económico, del deseo) que un sistema cerrado intenta encasillar, y que genera su propia fuga y autoorganización. Isomorfía de tres escalas: geográfica (el Estrecho de Ormuz), institucional-histórica (Imperio Otomano), dramatúrgica (*Yedi Kocalı Hürmüz*). Sin cambios respecto al planteamiento original — es marco, no dato.
+
+### II. El mito — Ahura Mazdā y la usurpación del contenedor
+
+- **Usar, confirmado:** la dualidad zoroástrica Aša/Druj (orden/verdad frente a disolución/mentira) es teología zoroástrica estándar, no requiere verificación adicional. Etimología Ahura Mazdā ("señor" + "sabiduría/memoria") confirmada con múltiples fuentes.
+- **Declarar, no justificar (lectura de Luis):** Ahura Mazdā leído como guardián de la memoria del agua primordial — el señor que sostiene la sabiduría del agua vital, no abstracción teológica hueca.
+- **Cortar:** la etimología popular "Hur-mogh" ("lugar de las palmeras datileras") — no localizada en ninguna fuente, puente probablemente inventado.
+- **Usar con cautela:** la fisiología de la palmera datilera (planta freatófita, tolerancia salina) es botánica real y puede quedarse como imagen; las cifras exactas de consumo hídrico (15.000-20.000 l/año) y salinidad (3.000-5.000 ppm) no están contrastadas — si se usan, como orden de magnitud, no como dato cerrado.
+
+### III. El logos geofísico — cuellos de botella y guerras de contención
+
+- **Usar, confirmado:** hipótesis del diluvio del Mar Negro (Ryan & Pitman, 1997; caudal de 50 km³/día contrastado) — **tratar siempre como hipótesis geológica, nunca como hecho cerrado**. Bloqueo espartano del grano y caída de Atenas en Egospótamos. Rumelihisarı y la caída de Constantinopla (1452) — historia bien establecida.
+- **Declarar, no justificar (lectura de Luis):** Yarımburgaz leído como *nacedero partido por la mitad*, no como torre/fortaleza — la usurpación sistémica convirtiendo un nacedero en arquitectura militar. Aquí está el atractor ÜR, en la propia palabra Burgaz.
+- **Cortar por completo:** las pinturas rupestres de barcos en Yarımburgaz. Ninguna fuente las documenta; la cueva sigue siendo real y relevante (yacimiento paleolítico, capilla bizantina posterior) pero sin esa iconografía náutica inventada.
+- **Usar con cautela:** la hidrodinámica bidireccional del Bósforo (corriente superficial dulce / contracorriente profunda salada) es oceanografía real y conocida, válida como imagen; no se ha verificado en esta pasada con fuente primaria específica.
+
+### IV. El rito institucional — legislación otomana del flujo y el matrimonio
+
+- **Usar, confirmado:** Mecelle y los conceptos de *Hakk-ı şefe* (derecho de sed) y *Hakk-ı şirb* (derecho de riego) — reales, documentados en el derecho consuetudinario otomano de aguas. Decreto de Familia de 1917 (Hukuk-ı Aile Kararnamesi) — real, primera restricción legal de la poligamia en el mundo islámico, derogado en 1919.
+- **Cortar o suavizar:** los artículos concretos citados de la Mecelle (1264, 1269, 1273) no están verificados — si se citan, sin ese aparato de precisión numérica no contrastada.
+
+### V. Volver al símbolo — el algoritmo operativo de *Yedi Kocalı Hürmüz*
+
+- **Usar, confirmado:** la inversión de género del nombre —histórica y exclusivamente masculino, adoptado como nombre femenino en turco— está documentada por Sevan Nişanyan (Nişanyan Adlar). No es invención de la investigación: es dato real y citable.
+- **Lista corregida de los siete maridos** (ver adenda arriba): Berber Hasan (barbero, confirmado), Bekçi Memo (vigilante nocturno), Hallaç Rüstem (cardador, de Lüleburgaz, "aşırı kibar"), Ömer (oficio disputado entre fuentes, nunca carnicero), Hızır (marino, parcialmente confirmado), Mehmet Ali (soldado), Doktor Hüsrev (médico, la anomalía, el séptimo). La metáfora hidrodinámica de "cada marido un afluente" se reconstruye sobre estos siete, no sobre los nombres inventados.
+- **Usar, confirmado, como cierre:** el relato de Marco Polo sobre la isla de Ormuz (1290) — barcos cosidos con fibra de coco sin clavos de hierro, cráneo de ballena expuesto como monumento. Cierre potente y verificado para la dimensión insular/marítima del capítulo.
+- **Cortar:** los ritos de iniciación kölhanbeyi (baño de ceniza, pruebas de quemaduras, ritual de opio/rakı) y el vocabulario específico del argot kölhan (*mangır*, *çorba*) — el fenómeno kölhanbeyi en sí es real y puede quedarse como marco general (huérfanos de las calderas de los hamams devenidos grupos marginales), pero estos detalles concretos no tienen fuente independiente.
+
+### Lo que queda fuera de este esquema, sin descartarse del todo
+
+Las cifras sueltas de la sección III original (alturas de Yarımburgaz 11,5 m/18,5 m, ritmo de subida del Mar Negro ~15 cm/día) quedan aparcadas: ni confirmadas ni necesarias para que el capítulo funcione. Si en algún momento se localiza fuente independiente, se reincorporan; si no, el capítulo no las echa de menos.
