@@ -31,9 +31,9 @@
 
 Baño de ceniza, pruebas de quemaduras/cortes, ritual de opio o rakı con el fes ladeado y el pañuelo de seda para estrangulamientos — ninguna fuente independiente respalda estos detalles rituales específicos. El fenómeno kölhanbeyi es real (ver arriba); estos ritos concretos no lo están.
 
-### 4. La etimología popular "Hur-mogh" ("lugar de las palmeras datileras")
+### 4. La etimología popular "Hur-mogh" ("lugar de las palmeras datileras") — **RESUELTO el 18/09/26, ver adenda IV**
 
-No se ha localizado ninguna fuente que documente esta etimología popular. Podría ser un puente inventado para conectar la etimología de Ormuz con el material sobre la palmera datilera.
+~~No se ha localizado ninguna fuente que documente esta etimología popular.~~ Ahora sí se ha localizado el origen: es de un solo artículo de opinión (no filológico) reproducido como si fueran varias fuentes. Ver adenda IV para la auditoría completa y la alternativa materialista sólida (Khor / Moghistán).
 
 ### 5. Cifras sueltas pendientes de verificación independiente
 
@@ -96,7 +96,7 @@ El patrón se mantiene intacto: un flujo libre (hídrico, económico, del deseo)
 
 - **Usar, confirmado:** la dualidad zoroástrica Aša/Druj (orden/verdad frente a disolución/mentira) es teología zoroástrica estándar, no requiere verificación adicional. Etimología Ahura Mazdā ("señor" + "sabiduría/memoria") confirmada con múltiples fuentes.
 - **Declarar, no justificar (lectura de Luis):** Ahura Mazdā leído como guardián de la memoria del agua primordial — el señor que sostiene la sabiduría del agua vital, no abstracción teológica hueca.
-- **Cortar:** la etimología popular "Hur-mogh" ("lugar de las palmeras datileras") — no localizada en ninguna fuente, puente probablemente inventado.
+- **Cortar como dato filológico / usar solo como materialismo real (corregido 18/09/26, ver adenda IV):** la etimología popular "Hur-mogh" no se sostiene — su única fuente rastreable es un artículo de opinión no filológico, amplificado por republicación cruzada. Lo que sí es real y usable: la tensión entre **Khor** (la ensenada, topónimo del golfo Pérsico real y verificado) y **Moghistán** (el territorio continental de palmeras, confirmado por la Encyclopaedia Iranica). Si se quiere conservar el sonido "Hur-mogh", solo como licencia mitopoética declarada (Norma 30), nunca como dato.
 - **Usar con cautela:** la fisiología de la palmera datilera (planta freatófita, tolerancia salina) es botánica real y puede quedarse como imagen; las cifras exactas de consumo hídrico (15.000-20.000 l/año) y salinidad (3.000-5.000 ppm) no están contrastadas — si se usan, como orden de magnitud, no como dato cerrado.
 
 ### III. El logos geofísico — cuellos de botella y guerras de contención
@@ -215,3 +215,34 @@ Luis preguntó si la obra puede tener relación con *La Celestina*, y si las fue
 ### Nota sobre el propio proceso Hammurabeltz
 
 Esta adenda corrige un error mío, no solo de la investigación externa: el 17/09/26 descarté a Cebrail el pajarero como inventado y lo sustituí por un personaje que no existe ("Mehmet Ali, soldado"). La búsqueda de esa noche fue insuficiente. La tercera lista de Luis, aunque también tenía fallos propios (Yusuf, Bekir, el oficio de Ömer), sirvió para forzar una tercera ronda de contraste que terminó corrigiéndome a mí mismo. Ley Hammurabeltz aplicada sin excepciones, también hacia el propio trabajo de verificación.
+
+---
+
+## ADENDA IV — auditoría filológica de "Hur-mogh": cámara de eco digital desmontada (18/09/26)
+
+Luis preguntó qué significa "Hur-mogh" a raíz de una nueva búsqueda de Chrome, y detectó de inmediato el interés que tendría para el libro si "Hur" significara "agua estancada" (posible hermano de UR, con la H muda). Antes de aceptarlo, se contrastó contra fuentes filológicas serias. El resultado es un caso de manual de "falsa corroboración": varias URLs que parecen fuentes independientes y son, en realidad, una sola voz nunca filológica, amplificada por el circuito de medios afines.
+
+### El origen del espejismo
+
+El artículo "Strait of Hormuz: A Constant in Iranian History", de **M. Reza Behnam** (politólogo especializado en política comparada de Oriente Próximo, autor de *Cultural Foundations of Iranian Politics*, no lingüista ni filólogo), se publicó originalmente en ZNetwork (mayo 2026) y fue reproducido tal cual en Consortium News, CounterPunch, Antiwar.com y recogido después por Palestine Chronicle, Truthdig y varios substacks. Seis o siete URLs que un buscador indexa como fuentes distintas son, en realidad, **una sola pieza de opinión sin aparato filológico**, republicada en el circuito de medios alternativos afines. Ningún diccionario dialectal del sur de Irán (bandarí, achomí, garmsirí) registra "hur" con sentido hídrico.
+
+### Lo que sí está verificado, palabra por palabra
+
+- **Khor (خور) = "cala", "ensenada", "estuario"**: palabra árabe/persa del golfo Pérsico real y extensamente documentada — *Khor Fakkan* (Sharjah, "cala de las dos quijadas") y *Khor Dubai* (la ensenada natural que da nombre a Dubai Creek) son topónimos vivos y verificados de forma independiente. Es muy probable que el artículo de Behnam haya confundido u occidentalizado "Khor" en "Hur" para forzar una simetría fonética con "Hormuz" — **esto último es una hipótesis razonable sobre el origen del error, no un hecho probado sobre la intención de Behnam**, y se declara así.
+- **Hur/Hoor (حور) = huríes del paraíso**: confirmado como palabra persa/árabe real (del árabe *ḥawrāʾ*, "de ojos hermosos y oscuros"), de uso coránico — pero sin ninguna raíz hídrica o material. Es un "Hur" real, pero es el equivocado para esta hipótesis.
+- **Mogh (مغ) = palmera datilera**: confirmado, ligado a la raíz de *khurma* (dátil) y al topónimo real **Moghistán**, "la región de las palmeras", nombre histórico del territorio continental frente a la isla de Ormuz — consistente con la Encyclopaedia Iranica (art. "HORMUZ i. PRE-ISLAMIC PERIOD") y con la Encyclopaedia Britannica de 1911, que usan prácticamente la misma formulación.
+- **Harmozia, vía Nearco (325-324 a.C.)**: el almirante de Alejandro Magno, junto con Onesícrito, Androstenes e Hierón de Solos, navegó el estrecho y dejó constancia del topónimo — confirmado por la Encyclopaedia Iranica. Muy anterior al dialecto bandarí moderno del que Behnam extrae su "Hur-mogh".
+- **La filología seria** vincula Harmozia/Hormuz o bien con la evolución de *Ahura Mazdā* (avéstico → persa medio *Ohrmazd/Hormizd*) o bien con la raíz de *khurma* ("dátil") — nunca con la partición "Hur + Mogh". La propia Encyclopaedia Iranica trata ambas hipótesis como las dos serias, sin mencionar en ningún momento "Hur-mogh".
+- **La caída de la H inicial** (Hormuz → Ormuz/Ormus en cartografía occidental) es un hecho fonético real y bien documentado, verificable de forma independiente de si "Hur" significa "agua" — la aspiración inicial persa se pierde sistemáticamente en la transliteración a lenguas romances. Esto se mantiene confirmado con independencia de todo lo anterior.
+
+### Veredicto y recomendación
+
+"Hur-mogh" como término filológico real que las tribus Hurmoz/Minab usan para el estrecho **no se sostiene**: no hay ninguna fuente dialectológica que lo registre, y su única fuente rastreable es un politólogo sin aparato de fuentes, amplificado por republicación cruzada. El materialismo real y verificable de la zona no es un "canal de palmeras" poético, sino la tensión física entre el **Khor** (la ensenada, el paso salado y estéril por donde circulan el comercio, los peajes y los imperios) y el **Moghistán** (el oasis continental de palmeras datileras que alimentaba a la región) — un cuello de botella real donde el agua salada del poder se encuentra con la tierra del dátil.
+
+Para el capítulo, tres caminos, no mutuamente excluyentes:
+
+1. **Descartar "Hur-mogh" como dato filológico.** No presentarlo como término real ni atribuirlo a las tribus locales — cualquier lector con formación en estudios iranios detectaría el error de fuente.
+2. **Usar el materialismo geográfico real** (Khor frente a Moghistán) como imagen central, confirmada y citable.
+3. **Declarar la licencia mitopoética, si Luis quiere conservar el sonido o la partición "Hur-mogh"** (Norma 30): introducirlo explícitamente como intuición poética propia — una geometría mítica del nacedero — advirtiendo al lector de que la filología sólida prefiere Harmozia, Ahura Mazdā o la raíz de *khurma*, no la partición popular de internet. Esto es coherente con cómo ya se trató Yarımburgaz-como-nacedero y Ahura Mazdā-como-guardián: la lectura simbólica se declara, no se disfraza de dato.
+
+Decisión pendiente de Luis: si el capítulo conserva "Hur-mogh" como licencia declarada, o se queda solo con Khor/Moghistán como base material y deja para la mitopoética el par Ahura Mazdā/Yarımburgaz ya establecido.
