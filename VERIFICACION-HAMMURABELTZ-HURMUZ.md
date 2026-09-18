@@ -31,9 +31,9 @@ La investigación de Perplexity cambia al menos tres identidades:
 
 **Implicación:** toda la sección que construye la metáfora hidrodinámica sobre los oficios de los siete maridos (el "carnicero" como flujo cárnico, el "pescadero" como flujo comercial, etc.) está edificada sobre una lista de personajes parcialmente incorrecta. Necesita reconstruirse desde los nombres reales antes de poder usarse.
 
-### 2. Las pinturas rupestres de barcos en Yarımburgaz
+### 2. Los grabados de barcos en Yarımburgaz — **CORREGIDO el 18/09/26, ver adenda II**
 
-Ninguna fuente independiente documenta pinturas de embarcaciones en ocre rojo en la cueva de Yarımburgaz. La cueva es real y arqueológicamente relevante (yacimiento del Paleolítico Inferior, posterior capilla bizantina con cruces talladas), pero la sección entera sobre "tres tipologías de tecnología náutica" (galera de remeros, navío de vela, barca esquemática) parece inventada de principio a fin.
+~~Ninguna fuente independiente documenta pinturas de embarcaciones en la cueva.~~ Corrección: sí están documentados en fuentes turcas (revista *TÜBA-AR*, atribución a Hovasse y Kansu). No eran pinturas en ocre sino grabados; la datación sigue disputada. Ver adenda II para el detalle completo y las fuentes.
 
 ### 3. Los ritos de iniciación kölhanbeyi
 
@@ -45,7 +45,7 @@ No se ha localizado ninguna fuente que documente esta etimología popular. Podr�
 
 ### 5. Cifras sueltas pendientes de verificación independiente
 
-- Alturas exactas de las galerías de Yarımburgaz (11,5 m / 18,5 m sobre el nivel del mar).
+- ~~Alturas exactas de las galerías de Yarımburgaz (11,5 m / 18,5 m sobre el nivel del mar).~~ **Confirmado el 18/09/26** — Farrand & McMahon, *Geoarchaeology* 12(6):537-565 (1997). Ver adenda II.
 - Artículos concretos citados de la Mecelle (1264, 1269, 1273).
 - Ritmo de subida del Mar Negro ("~15 cm diarios").
 - Vocabulario específico del argot kölhan (*mangır* por dinero, *çorba* por policía/soborno).
@@ -77,9 +77,9 @@ La investigación original construía una metáfora hidrodinámica sobre los ofi
 
 **Nota de honestidad epistémica:** hay variación entre fuentes (obra original de 1963, película de 1971, película de 2009 con Ezel Akay) que pueden diferir en detalles secundarios de los personajes. La lista de arriba usa la versión mejor sostenida por las fuentes cruzadas, no una única fuente.
 
-### Las pinturas rupestres de Yarımburgaz siguen sin confirmación
+### Los grabados de Yarımburgaz — corregido el 18/09/26, ver adenda II más abajo
 
-Ninguna búsqueda adicional ha encontrado la más mínima referencia a pinturas de barcos en la cueva. Se mantiene como no usable.
+La búsqueda del 17/09/26 fue solo en inglés y no encontró nada. Buscando en fuentes turcas sí aparecen documentados. Se retira esta entrada; el detalle completo está en la adenda II.
 
 ### Dos lecturas simbólicas de Luis que se conservan, declaradas como propias (Norma 30 — UR no se justifica, se declara)
 
@@ -111,7 +111,8 @@ El patrón se mantiene intacto: un flujo libre (hídrico, económico, del deseo)
 
 - **Usar, confirmado:** hipótesis del diluvio del Mar Negro (Ryan & Pitman, 1997; caudal de 50 km³/día contrastado) — **tratar siempre como hipótesis geológica, nunca como hecho cerrado**. Bloqueo espartano del grano y caída de Atenas en Egospótamos. Rumelihisarı y la caída de Constantinopla (1452) — historia bien establecida.
 - **Declarar, no justificar (lectura de Luis):** Yarımburgaz leído como *nacedero partido por la mitad*, no como torre/fortaleza — la usurpación sistémica convirtiendo un nacedero en arquitectura militar. Aquí está el atractor ÜR, en la propia palabra Burgaz.
-- **Cortar por completo:** las pinturas rupestres de barcos en Yarımburgaz. Ninguna fuente las documenta; la cueva sigue siendo real y relevante (yacimiento paleolítico, capilla bizantina posterior) pero sin esa iconografía náutica inventada.
+- **Usar, confirmado (corregido 18/09/26):** los grabados de barcos de Yarımburgaz — tres embarcaciones (remeros, vela, casco desnudo), documentadas en la revista *TÜBA-AR*, atribución original a Hovasse, respaldada por Kansu; datación disputada entre Edad del Bronce y época romana/bizantina. Alturas de las galerías (11,5 m / 18,5 m) confirmadas por Farrand & McMahon, *Geoarchaeology* (1997). Ver adenda II.
+- **Usar, confirmado, remate nuevo (18/09/26):** el destino posterior del yacimiento — monasterio y capilla bizantina con nichos litúrgicos y cementerio, arrasada por décadas de uso como plató de cine y televisión de bajo presupuesto (*Tarkan*, *Yor* con su piscina dinamitada en 1983, *Ali Baba ve Kırk Haramiler*, *Dünyayı Kurtaran Adam*, series con estalactitas de escayola falsa y hogueras de neumáticos) — documentado en Özar/Çakan/Dinçer (2012). Del arte rupestre al camp-trash de ciencia ficción: un atractor extraño real, no necesita adorno. Ver adenda II.
 - **Usar con cautela:** la hidrodinámica bidireccional del Bósforo (corriente superficial dulce / contracorriente profunda salada) es oceanografía real y conocida, válida como imagen; no se ha verificado en esta pasada con fuente primaria específica.
 
 ### IV. El rito institucional — legislación otomana del flujo y el matrimonio
@@ -129,3 +130,47 @@ El patrón se mantiene intacto: un flujo libre (hídrico, económico, del deseo)
 ### Lo que queda fuera de este esquema, sin descartarse del todo
 
 Las cifras sueltas de la sección III original (alturas de Yarımburgaz 11,5 m/18,5 m, ritmo de subida del Mar Negro ~15 cm/día) quedan aparcadas: ni confirmadas ni necesarias para que el capítulo funcione. Si en algún momento se localiza fuente independiente, se reincorporan; si no, el capítulo no las echa de menos.
+
+---
+
+## ADENDA II — corrección de los grabados de Yarımburgaz y el episodio del cine trash (18/09/26)
+
+Luis continuó la investigación en otra conversación (con IA integrada en Google/Chrome, distinta de Perplexity) y volvió a preguntar por la altura de Yarımburgaz y las pinturas rupestres. Esa conversación aportó fuentes mucho más específicas y citables que las que se manejaron el 17/09/26. Se verifican una por una.
+
+### Corrección: los grabados de barcos sí están documentados
+
+La entrada anterior de este documento ("no confirmado / probablemente fabricado") estaba mal — la búsqueda del 17/09/26 fue solo en inglés y no encontró nada porque la literatura relevante está en turco. Verificado ahora:
+
+- **La revista académica turca *TÜBA-AR*** documenta tres imágenes de embarcaciones en la cueva, atribuidas originalmente al investigador **Hovasse** y respaldadas por **Kansu** (Şevket Aziz Kansu, figura real de la arqueología turca del siglo XX).
+- No son pinturas en ocre, como decía la investigación original de Perplexity: **son grabados** (petroglifos) tallados en la roca caliza.
+- La datación está disputada entre distintas fuentes: Edad del Bronce (3000-1200 a.C.) según unas, época romana o incluso bizantina (hechos por los propios monjes) según otras. No hay consenso cerrado — tratar como dato con rango de incertidumbre, no como fecha fija.
+- Las tres tipologías (barco de remeros, barco de vela y mástil, casco esquemático sin remo ni vela) sí coinciden entre la investigación original y las fuentes verificadas ahora.
+
+### Confirmado: las alturas de la cueva
+
+**Farrand, W. R. & McMahon, J. P. (1997). "History of the sedimentary infilling of Yarimburgaz Cave, Turkey." *Geoarchaeology* 12(6): 537-565.** Artículo real, verificado con cita completa (autores, revista, volumen, páginas), disponible digitalizado en el repositorio de la Universidad de Míchigan (deepblue.lib.umich.edu). Sostiene las alturas de 11,5 m (entrada inferior) y ~18,5-18,6 m (entrada superior) sobre el nivel del mar.
+
+### Confirmado: la destrucción del yacimiento por la industria audiovisual turca
+
+**Özar, Y., Çakan, Y. G. & Dinçer, B. (2012). "Yarımburgaz Mağarası'nın 'Muhteşem' Yok Oluşu: Film Sektörü ve Arkeolojik Tahribat."** Ponencia presentada en el XII Simposio de Excavaciones Arqueológicas, Investigaciones y Arqueometría, Universidad de Estambul (mayo de 2012). Disponible en Academia.edu y en el repositorio institucional Avesis de la Universidad de Estambul. Berkay Dinçer, uno de los autores, es investigador real del Departamento de Prehistoria de la Universidad de Ardahan.
+
+Esta ponencia documenta, con nombre y apellido, una cadena real de destrucción patrimonial:
+
+- **Rodaje de *Il mondo di Yor* (Yor, cazador del futuro, 1983, dir. Antonio Margheriti)**: el equipo construyó una piscina artificial dentro de la cueva y la dinamitó para una escena, destruyendo estratos arqueológicos intactos y desplazando cerámica calcolítica hacia capas paleolíticas mucho más profundas.
+- **Serie *Muhteşem Yüzyıl*** (la exitosa serie turca sobre Solimán el Magnífico): se fabricaron estalactitas de escayola falsas en el techo de la cueva.
+- **Serie *Leyla ile Mecnun***: se encendieron hogueras dentro de la cueva para simular el infierno, cubriendo de hollín los grabados y restos arqueológicos.
+- **Serie *Küçük Ağa***: se raspó parte de los frescos bizantinos medievales para pintar encima señalización moderna de "salida".
+- La saga de fantasía ***Tarkan*** (años 70) y la ciencia ficción trash ***Dünyayı Kurtaran Adam*** (1982, el llamado "Star Wars turco") también usaron la cueva como set, con perforaciones en la roca para anclar decorados.
+
+Estos episodios están además cubiertos por prensa turca (T24, Hürriyet Daily News, Milliyet) y por el blog especializado PaleoBerkay, lo que da respaldo cruzado más allá de la ponencia académica.
+
+**Sobre las "falsas pinturas prehistóricas":** hay un fenómeno real y distinto de lo anterior — aficionados y equipos de baja presupuesto pintaron en los años 90-2000 figuras de bisontes, cazadores y símbolos chamánicos con pintura plástica y carboncillo, que nunca formaron parte del arte original de la cueva (que es de grabados de barcos, no pinturas de fauna). Esto está señalado por el Ministerio de Cultura turco y recogido en KÜRE Ansiklopedi. No hay que confundir estas pinturas modernas falsas con los grabados de barcos antiguos, que son un hallazgo distinto y anterior.
+
+### Lo que sigue sin confirmar
+
+- La localización exacta del rodaje de *Yor* en Yarımburgaz específicamente solo la sostiene la ponencia académica turca; las fuentes en inglés sobre la película (Wikipedia, IMDb) no lo mencionan y sitúan otras localizaciones turcas (Capadocia) para las escenas exteriores. No es contradictorio —la ponencia es una fuente más autorizada para un incidente en un yacimiento turco— pero queda anotado.
+- Los nombres propios exactos de los productores/directores responsables de cada rodaje dentro de la ponencia no se han contrastado uno a uno.
+
+### Por qué importa para el capítulo
+
+Esto cambia sustancialmente el balance del capítulo: de la punta rupestre (grabados de barcos, Edad del Bronce) a la capilla bizantina (monasterio, nichos litúrgicos, cementerio) y de ahí a la destrucción por el cine y la televisión turcos de más bajo presupuesto (espada y brujería ochentera, ciencia ficción de piscina dinamitada, estalactitas de escayola) — un atractor extraño real, verificado con fuente académica y prensa cruzada, sin necesidad de inventar nada. Es, como dice Luis, "de Conan a los rayos láser": los bisnietos de UR usurpando el mismo nacedero partido por la mitad, esta vez con dinamita y cartón piedra.
