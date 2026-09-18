@@ -19,17 +19,9 @@
 
 ## NO CONFIRMADO / PROBABLEMENTE FABRICADO — no usar sin corrección o verificación adicional
 
-### 1. Los nombres y oficios de los siete maridos de Hürmüz (afecta a toda la arquitectura "hidrológica" del capítulo)
+### 1. Los nombres y oficios de los siete maridos de Hürmüz — **RESUELTO el 18/09/26, ver adenda III (tercera revisión)**
 
-Fuentes turcas dan esta lista real: **Hızır Kaptan, Bekçi Memo (vigilante nocturno), Fişek Ömer, Berber Hasan, Hallaç Rüstem**, un marido soldado sin nombre propio destacado en las fuentes consultadas, y **Doktor Hüsrev**.
-
-La investigación de Perplexity cambia al menos tres identidades:
-- **"Bekir el Pescadero"** no existe como tal — el personaje real es **Bekçi Memo**, vigilante nocturno, no pescadero.
-- **"Hallaç Memiş"** — el nombre real es **Hallaç Rüstem**, no Memiş (el oficio de cardador/colchonero sí es correcto).
-- **"Cebrail el Pajarero"** parece inventado por completo, sustituyendo al marido soldado real sin nombre destacado en las fuentes.
-- El oficio de "carnicero" atribuido a Ömer (Fişek Ömer) no se ha podido confirmar independientemente.
-
-**Implicación:** toda la sección que construye la metáfora hidrodinámica sobre los oficios de los siete maridos (el "carnicero" como flujo cárnico, el "pescadero" como flujo comercial, etc.) está edificada sobre una lista de personajes parcialmente incorrecta. Necesita reconstruirse desde los nombres reales antes de poder usarse.
+~~Fuentes turcas dan esta lista real: Hızır Kaptan, Bekçi Memo, Fişek Ömer, Berber Hasan, Hallaç Rüstem, un marido soldado sin nombre propio, y Doktor Hüsrev.~~ Esta entrada quedó superada por dos rondas de corrección posteriores (adenda del 17/09 y adenda III del 18/09). La adenda III incluye, entre otras cosas, la corrección de un error propio: mi rechazo de "Cebrail el Pajarero" en la primera pasada estaba mal — el personaje es real. Ver adenda III para la lista final y el razonamiento completo.
 
 ### 2. Los grabados de barcos en Yarımburgaz — **CORREGIDO el 18/09/26, ver adenda II**
 
@@ -123,7 +115,7 @@ El patrón se mantiene intacto: un flujo libre (hídrico, económico, del deseo)
 ### V. Volver al símbolo — el algoritmo operativo de *Yedi Kocalı Hürmüz*
 
 - **Usar, confirmado:** la inversión de género del nombre —histórica y exclusivamente masculino, adoptado como nombre femenino en turco— está documentada por Sevan Nişanyan (Nişanyan Adlar). No es invención de la investigación: es dato real y citable.
-- **Lista corregida de los siete maridos** (ver adenda arriba): Berber Hasan (barbero, confirmado), Bekçi Memo (vigilante nocturno), Hallaç Rüstem (cardador, de Lüleburgaz, "aşırı kibar"), Ömer (oficio disputado entre fuentes, nunca carnicero), Hızır (marino, parcialmente confirmado), Mehmet Ali (soldado), Doktor Hüsrev (médico, la anomalía, el séptimo). La metáfora hidrodinámica de "cada marido un afluente" se reconstruye sobre estos siete, no sobre los nombres inventados.
+- **Lista definitiva de los siete hombres** (ver adenda III — tercera revisión, 18/09/26): Berber Hasan (barbero), Bekçi Memo/Mehmet Ali (vigilante nocturno), Hallaç Rüstem (cardador, de Lüleburgaz, "aşırı kibar"), Fişek Ömer (apodo, oficio civil no confirmado), Hızır Kaptan/Reis (capitán), Kuşçu Cebrail (pajarero — personaje real; corrige un rechazo erróneo mío del 17/09), Doktor Hüsrev (médico, la anomalía, el séptimo y el amor verdadero). "Bekir" y "Yusuf" se descartan como fabricaciones/confusiones recurrentes entre distintas investigaciones. La metáfora hidrodinámica de "cada marido un afluente" se reconstruye sobre estos siete, no sobre los nombres inventados. Opcional, con matiz temporal (solo película de 2009): Safinaz, confidente y narradora tipo *meddah*.
 - **Usar, confirmado, como cierre:** el relato de Marco Polo sobre la isla de Ormuz (1290) — barcos cosidos con fibra de coco sin clavos de hierro, cráneo de ballena expuesto como monumento. Cierre potente y verificado para la dimensión insular/marítima del capítulo.
 - **Cortar:** los ritos de iniciación kölhanbeyi (baño de ceniza, pruebas de quemaduras, ritual de opio/rakı) y el vocabulario específico del argot kölhan (*mangır*, *çorba*) — el fenómeno kölhanbeyi en sí es real y puede quedarse como marco general (huérfanos de las calderas de los hamams devenidos grupos marginales), pero estos detalles concretos no tienen fuente independiente.
 
@@ -174,3 +166,52 @@ Estos episodios están además cubiertos por prensa turca (T24, Hürriyet Daily 
 ### Por qué importa para el capítulo
 
 Esto cambia sustancialmente el balance del capítulo: de la punta rupestre (grabados de barcos, Edad del Bronce) a la capilla bizantina (monasterio, nichos litúrgicos, cementerio) y de ahí a la destrucción por el cine y la televisión turcos de más bajo presupuesto (espada y brujería ochentera, ciencia ficción de piscina dinamitada, estalactitas de escayola) — un atractor extraño real, verificado con fuente académica y prensa cruzada, sin necesidad de inventar nada. Es, como dice Luis, "de Conan a los rayos láser": los bisnietos de UR usurpando el mismo nacedero partido por la mitad, esta vez con dinamita y cartón piedra.
+
+---
+
+## ADENDA III — tercera revisión de los siete maridos, corrección de un error propio, y la Celestina (18/09/26)
+
+Luis trajo una **tercera lista de maridos**, de otra sesión de Chrome, que no coincidía ni con la investigación original de Perplexity ni con la corrección que hice yo mismo el 17/09/26 — y lo señaló él mismo: "veo que hay mucha confusión al respecto". Tenía razón en desconfiar: tres conversaciones distintas, tres listas distintas, para una obra con reparto fijo. Antes de sumar una cuarta versión, tocaba resolverlo contra fuentes turcas independientes en vez de seguir acumulando listas contradictorias.
+
+### Lo que reveló la comparación de las tres versiones
+
+| Personaje | v1 (Perplexity, orig.) | v2 (mi corrección, 17/09) | v3 (Chrome, 18/09) | Verificación cruzada ahora |
+|---|---|---|---|---|
+| Barbero | Hasan | Berber Hasan | Hasan | **Confirmado: Berber Hasan.** |
+| Vigilante | — | Bekçi Memo | Yusuf (bekçi) | **Confirmado: Bekçi Memo / Bekçi Mehmet Ali.** "Yusuf" no aparece en ninguna fuente como marido; es casi con toda seguridad una confusión con el actor **Yusuf Kenan Adıgüzel**, que en la película de 2009 interpreta a Hızır Kaptan — no al vigilante. |
+| Cardador | Hallaç Memiş | Hallaç Rüstem | — | **Confirmado: Hallaç Rüstem** (de Lüleburgaz, "aşırı kibar"). |
+| Ömer | Ömer, carnicero | Fişek Ömer, oficio no confirmado | Ömer, zapatero | **Confirmado el nombre "Fişek Ömer"**, también descrito como "sarhoş Ömer" (el borracho). Ni "carnicero" ni "zapatero" aparecen en ninguna fuente turca consultada — ambos oficios parecen inventados, cada uno por una conversación distinta. "Fişek" no es oficio: es apodo (cartucho/pólvora, alguien impulsivo). |
+| Capitán | — | Hızır Kaptan | Hızır Reis | **Confirmado: Hızır Kaptan / Hızır Reis**, mismo personaje. |
+| Pajarero | Cebrail | *(rechazado, sustituido por "Mehmet Ali, soldado")* | Cebrail | **Confirmado: Kuşçu Cebrail** ("Cebrail el pajarero"). **Aquí me equivoqué yo el 17/09**: lo descarté como inventado y lo sustituí por un supuesto "Mehmet Ali soldado" que no existe como personaje separado. La película de 2009 confirma el papel con nombre y actor: Haluk Bilginer interpreta a Kuşçu Cebrail. |
+| Pescadero/esterero | Bekir | *(no incluido)* | Bekir (hasırcı) | **No confirmado en ninguna fuente turca fiable consultada.** "Bekir" no aparece en ekşi sözlük, en las fichas de reparto de 1971/2009 ni en las reseñas académicas revisadas — ni como pescadero ni como esterero. Aparece en dos investigaciones distintas (v1 y v3) con dos oficios distintos, lo que sugiere confusión recurrente con "Bekçi" más que un personaje real. Se descarta. |
+| Médico | Doktor Hüsrev | Doktor Hüsrev | Doktor Hüsrev (Memet Ali Alabora) | **Confirmado en las tres versiones y contra fuente independiente.** El séptimo hombre, el que Hürmüz ama de verdad — no uno de los "maridos" falsos, sino la anomalía que rompe el sistema. |
+
+Fuentes cruzadas para esta tabla: ekşi sözlük (varias entradas), reparto de la película de 2009 (Beyazperde, Sinemalar.com, Diziler.com), reparto de la película de 1971 (Vikipedi TR vía snippet de búsqueda — la ficha directa está bloqueada por el proxy de red de este entorno), y el artículo semiótico de dergipark.org.tr sobre los carteles de la película de 1971.
+
+### Lista definitiva de los siete hombres de Hürmüz
+
+1. **Berber Hasan** — barbero.
+2. **Bekçi Memo** (también "Bekçi Mehmet Ali" — Memo es diminutivo de Mehmet, mismo personaje) — vigilante nocturno.
+3. **Hallaç Rüstem** — cardador de lana/algodón, de Lüleburgaz.
+4. **Fişek Ömer** — apodado "el cartucho"/"el explosivo", también descrito como "sarhoş Ömer" (el borracho). Oficio civil no confirmado en ninguna fuente; probablemente no lo tenga, o no sea relevante frente al apodo.
+5. **Hızır Kaptan / Hızır Reis** — capitán de barco.
+6. **Kuşçu Cebrail** — pajarero. *(Corrección de mi propio error del 17/09: es un personaje real, no inventado.)*
+7. **Doktor Hüsrev** — médico; no es un marido falso como los otros seis, es el amor verdadero de Hürmüz y la anomalía que da sentido dramático a la obra.
+
+"Bekir" (pescadero o esterero, según la versión) se descarta como fabricación recurrente — no tiene respaldo en ninguna fuente turca consultada en ninguna de las tres rondas de investigación.
+
+### Safinaz — confirmada, con matiz temporal importante
+
+Safinaz es un personaje real, confidente y casi-alcahueta de Hürmüz, que en la película de 2009 (interpretada por Gülse Birsel) cumple una doble función: amiga cómplice y narradora tipo *meddah* (la figura del cuentacuentos tradicional turco) que se dirige directamente al público. **Pero no está documentada en la obra de teatro original de 1967 ni en la película de 1971** — todas las fuentes que la mencionan la sitúan específicamente en la adaptación de Ezel Akay de 2009. Si se incorpora al capítulo, debe quedar claro que es un personaje de esa versión concreta, no de la obra desde su origen.
+
+### La comparación con La Celestina
+
+Luis preguntó si la obra puede tener relación con *La Celestina*, y si las fuentes de consulta están en turco. Verificado por partes:
+
+- **El paralelismo Safinaz/Celestina** (la alcahueta astuta, vecina, cómplice) es una **lectura comparativa de Chrome, no un dato histórico documentado**. No hay ninguna fuente turca ni académica, de las consultadas en esta ronda, que establezca una relación de origen o influencia entre *La Celestina* y *Yedi Kocalı Hürmüz*. Es un paralelismo de arquetipo (la alcahueta como tipo dramático universal), legítimo como lectura literaria, pero no debe presentarse como conexión histórica — sería el mismo tipo de "elogio innecesario" que Luis ya señaló que hace Chrome con "lengua de fuego". Si se quiere conservar, debe tratarse como comparación interpretativa, no como hallazgo factual.
+- **El origen real confirmado**: Sadık Şendil escribió dentro de la tradición del *Ortaoyunu* (teatro popular turco de improvisación con máscaras y tipos fijos), con un tono que la crítica turca compara con la comedia de enredo de Molière — esto sí está confirmado, con fuentes turcas independientes (tiyatrolar.com.tr, tiyatronline.com) que describen a Şendil como autor que "utilizó, se influyó y reinterpretó el Ortaoyunu", y su obra más conocida como "procesada con la técnica tradicional del Ortaoyunu" recordando a Molière. No hay ninguna fuente que mencione literatura española como influencia — la afirmación de Chrome de que Şendil "no se inspiró en la literatura española" es correcta, pero trivialmente: nadie afirma lo contrario, y no había necesidad real de descartarlo.
+- **Fuentes casi exclusivamente en turco — confirmado.** El libreto (*Yedi Kocalı Hürmüz: Tiyatro Oyunu*) está publicado y catalogado en turco por Mitos Boyut Yayınları (editorial real, especializada en artes escénicas; edición verificada, ISBN 978-6054465095, 104 páginas). El Devlet Tiyatroları Arşivi (Archivo de los Teatros Estatales de Turquía) es una institución real del Ministerio de Cultura y Turismo. No he podido verificar de forma independiente la existencia concreta de la "Türk Edebiyatı İsimler Sözlüğü" de la Universidad Ahmet Yesevi tal y como la describe Chrome — queda sin confirmar, no se usa como cita concreta sin verificación adicional.
+
+### Nota sobre el propio proceso Hammurabeltz
+
+Esta adenda corrige un error mío, no solo de la investigación externa: el 17/09/26 descarté a Cebrail el pajarero como inventado y lo sustituí por un personaje que no existe ("Mehmet Ali, soldado"). La búsqueda de esa noche fue insuficiente. La tercera lista de Luis, aunque también tenía fallos propios (Yusuf, Bekir, el oficio de Ömer), sirvió para forzar una tercera ronda de contraste que terminó corrigiéndome a mí mismo. Ley Hammurabeltz aplicada sin excepciones, también hacia el propio trabajo de verificación.
