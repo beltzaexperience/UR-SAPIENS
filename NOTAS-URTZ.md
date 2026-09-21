@@ -240,6 +240,8 @@ Luis pidió explícitamente, al cierre de la sesión del 28/08-01/09, una audito
 
 **RESUELTO — 09/09/26.** Auditoría completa de las 5 pasos de la Regla 16 ejecutada con Playwright (recuento fresco desde `data-nivel`, fusión por Regla 13, exclusión por Regla 15, análisis Compost/Semillas por etiqueta DESTINO literal). 11 filas + TOTAL DEL LIBRO corregidas en `urtz.html` con verificación de tamaño en bytes por cada edición y contraste final contra el DOM renderizado. El lado URS quedó exacto (58=58, cero discrepancias); todas las correcciones fueron piezas URIM reales sin contar. Entrada nueva en el historial de la Regla 9.
 
+**ACTUALIZACIÓN PARCIAL — 21/09/26.** Tras sellar y publicar CURACA, VILCABAMBA y QUELCCAYA (Cara 4 · América → Andes · Pacífico), se recalculó con Regla 16 (Paso 2, recuento fresco desde el HTML) la fila «Andes» y la fila agregada «Cara 4 · América», más TOTAL DEL LIBRO y el cuadro LIBRO Y TALLER/TOTAL DEL PROYECTO del Marcador Fonomático, y las Conclusiones de la Obra (ítems 1, 2 y 5, que citaban las páginas por continente). De paso se encontró y corrigió una fila fantasma (Cono Sur, URIM=1 en la tabla, 0 piezas reales en el archivo) y un `<div>` de cabecera sin `data-nivel="sub"` en esa misma subsección. **No** se auditaron las ~60 filas restantes (Cara 1, 2, 3, 5, 6, Interludios, etc.): el recuento fresco global detectó un desajuste de +1 pieza en Compost y +1 en Semillas respecto a la tabla anterior, sin localizar todavía en qué fila concreta viven. Auditoría Regla 16 completa sigue pendiente para esa parte. Detalle en `analisis-editorial.md`, entrada del 21/09/2026.
+
 ---
 
 ## REGLA 15 — `data-excluir-total="true"` PARA LO QUE NO ES LIBRO
