@@ -35,6 +35,24 @@ La autoedición editorializada permanece como vía legítima y coherente con el 
 - ≈472 páginas estimadas para URS+URIM en esa misma maquetación de trabajo — no del manuscrito publicable.
 - La paginación depende de la conversión, el formato, la tipografía y el aparato crítico final: es cifra de orientación, no editorial.
 
+### Actualización — 21/09/2026
+
+El Marcador Fonomático de `urtz.html` se ha recalculado desde cero (Regla 16 de `NOTAS-URTZ.md`: recuento fresco desde el HTML, nunca desde la tabla anterior), tras cerrar y sellar tres piezas nuevas en Cara 4 · América → Andes · Pacífico: **CURACA · EL DIOS QUE HABLA**, **VILCABAMBA · EL RÍO QUE SE ESCONDE** y **QUELCCAYA · LA GUERRA DEL AGUA** (6.549 palabras, 26 páginas entre las tres).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 206.305 | 34.998 | 70 |
+| **urtz.html** (URS+URIM) | **1.021.445** | **171.131** | **138** |
+
+URS pasa a estar entre el 68,1% y el 71,7% del objetivo interno provisional de Vico (190.000-200.000 palabras).
+
+De paso, el recuento fresco encontró y corrigió una discrepancia estructural sin relación con estas piezas: la subsección Cono Sur (Cara 4) arrastraba en la tabla una pieza fantasma en URIM (984 palabras) que ya no existe en el archivo — corregida a 0/0/0. También se detectó y corrigió un `<div>` de cabecera de esa misma subsección al que le faltaba el atributo `data-nivel="sub"`, lo que lo hacía invisible para cualquier script de auditoría automática.
+
+**Efecto en la lectura editorial:** con el ciclo andino de esta sesión, América (50 pág.) adelanta a Oceanía (35) y África (29), y pasa a ocupar el cuarto puesto por continente, justo detrás de Asia (76) — invirtiendo el orden que había dejado el ciclo africano de una sesión anterior. América cruza también el objetivo de 47 páginas por continente (aparte de Ibérico), uniéndose a Europa y Asia; el hueco real queda ya concentrado solo en Oceanía y África. Detalle completo, fila a fila, en el propio Marcador Fonomático de `urtz.html`.
+
+**Pendiente, fuera del alcance de esta actualización:** una auditoría Regla 16 completa de las ~60 filas restantes de la tabla de Construcción (Cara 1, 2, 3, 5, 6, Interludios, etc.). El recuento fresco del libro entero reveló, además de la fila de Cono Sur, un desajuste de +1 pieza en Compost y +1 en Semillas en algún punto de la tabla no identificado todavía — no afecta a los totales generales (ya corregidos arriba con recuento directo), pero sí a en qué fila concreta se reparten esas dos piezas.
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
