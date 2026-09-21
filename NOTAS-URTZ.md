@@ -36,6 +36,10 @@ Colocado inmediatamente antes de `<a id="go-informes">`. Cualquier duda futura s
 
 Antes de colocar cualquier pieza nueva, si no está clara su pertenencia a URS o a URIM, preguntar a Luis explícitamente en vez de decidir por intuición o por dónde "parece que toca". No volver a asumir.
 
+### 6. SIEMPRE el HTML, nunca un resumen en prosa
+
+Cuando se redacta, corrige o modifica cualquier pieza (cuerpo, glosa, lo que sea), la entrega a Luis es **siempre el HTML real**, pegado en el propio mensaje del chat — el mismo código que queda (o va a quedar) en `urtz.html`. Nunca una paráfrasis en prosa del contenido, y nunca solo un archivo adjunto como sustituto: el HTML va en el texto de la respuesta, legible y copiable ahí mismo, además de aplicado al archivo si corresponde. Un resumen de "qué cambié" puede acompañarlo, pero no lo sustituye. Ya se le ha tenido que recordar esto más de una vez — que quede escrito para que no se repita.
+
 ---
 
 ## INCIDENTE DE HOY — REGISTRO COMPLETO
