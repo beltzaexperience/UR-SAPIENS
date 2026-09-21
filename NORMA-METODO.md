@@ -715,6 +715,8 @@ Cada capítulo del libro elude el formato de artículo cerrado; opera como un á
 
 **El marcador `(*-sub)`:** cuando una pieza se cierra en URS y Luis todavía no ha sustituido sus subtítulos provisionales por los definitivos, la pieza lleva `(*-sub)` junto a la calavera y cualquier otro indicador que ya tenga —el mismo mecanismo que `(*-verb)` (norma 28) y `(*-nod)` (normas XXII-XXIII). No es un error ni resta cumplimiento real: una pieza con `(*-sub)` como única marca está al 99% de las normas superadas, pendiente solo de ese detalle. Se resuelve en la última pasada de corrección, justo antes de que la pieza pase de "☠ NO TOCAR!!!" (sellada, estable, con marcas pendientes conocidas) a la calavera limpia sin marcas —el NO TOCAR absoluto, el estado que hoy solo tiene "Digitalismo y el Test Gorila".
 
+**El marcador `(*-tit)` (21/09/26):** distingue el título propio de la pieza entera —el que aparece en `<summary>` y en `<h3>`— del título de sus secciones internas, que es lo que cubre `(*-sub)`. Cuando ese título general todavía no es definitivo a ojos de Luis, la pieza lleva `(*-tit)` junto a la calavera y el resto de indicadores, mismo mecanismo. Las dos marcas son independientes: una pieza puede tener el título general ya cerrado y los subtítulos internos aún provisionales, o al revés — no hace falta que se resuelvan juntas ni en el mismo momento.
+
 Antes de poner un subtítulo, preguntarse cuál de las dos funciones cumple. Si la respuesta es "ninguna, pero queda bien ahí", no va.
 
 
