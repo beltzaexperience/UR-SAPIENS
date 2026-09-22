@@ -77,6 +77,22 @@ Nueva pieza de URIM: **URCOS · LA CADENA QUE EL LAGO SE QUEDÓ** (Cara 4 · Am�
 | URIM | 212.563 | 36.153 | 72 |
 | **urtz.html** (URS+URIM) | **1.027.703** | **172.286** | **140** |
 
+### Cuarta actualización — 22/09/2026 (misma sesión, tercer vaciado, pieza más extensa)
+
+Tercer descongelado: **QANAT-69**, el resto no absorbido de EL ESPEJO DEL HIELO (el Hacha de Mantle y el pidgin vasco-algonquino ya estaban en la pieza sellada AMÉRICA · ANIA · ANAIA, así que no se repiten aquí). A diferencia de las dos piezas anteriores de la sesión, esta se desarrolló con todo el cuerpo de material que sobrevivió a la verificación, no solo el mínimo defendible — Luis señaló que YURRO y URCOS habían salido cortas frente al volumen real de la investigación original.
+
+Verificación Hammurabeltz con correcciones reales: la etimología de Kuururjuaq como «gran valle» no se pudo confirmar (se dejó como «misma raíz que Kuugjuaq, río grande», mejor respaldada); el vínculo del qanat entre la mina de Mary River (Baffin) y el cianuro es incorrecto — Mary River es una mina de **hierro**, no de oro, y su impacto documentado es el carbono negro, no el cianuro (se corrigió, separando ambos hilos); el refugio glaciar del sur de Siberia sí se confirmó como real y documentado (Altai/Baikal), lo que sostiene el paralelismo declarado S·Iberia/Siberia. Se añadió material verificado que el propio qanat no traía: el álbum *Silarjuaq* (2021) de Silla + Rise con Tanya Tagaq, y el desplazamiento sami en Kiruna por la minería de tierras raras.
+
+Nueva pieza de URIM: **ÁRTICO · EL HIELO QUE SE NOMBRA A SÍ MISMO** (Cara 4 · América → Ártico americano · Inuit), 1.089 palabras, 4 páginas — con rayuela declarada hacia AMÉRICA · ANIA · ANAIA.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 218.587 | 37.242 | 73 |
+| **urtz.html** (URS+URIM) | **1.033.727** | **173.375** | **141** |
+
+Con esto quedan cerrados los cuatro qanats reales de Cara 4 · América en `permafrost.html` (Y-URRO, UR-UBAMBA/QURTUBA, ANGOS-T-UR/A y EL ESPEJO DEL HIELO).
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
