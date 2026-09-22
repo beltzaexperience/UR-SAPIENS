@@ -65,6 +65,18 @@ De paso, el diagnóstico sobre Cara 4 · América en permafrost encontró 4 qana
 | URIM | 209.884 | 35.649 | 71 |
 | **urtz.html** (URS+URIM) | **1.025.024** | **171.782** | **139** |
 
+### Tercera actualización — 22/09/2026 (misma sesión, segundo vaciado)
+
+Segundo descongelado: **QANAT-07** se dividió por partes tras el diagnóstico. Urubamba/Willkamayu quedó descartado (ya está en VILCABAMBA, sellada, con otra etimología); Puquina/Uros se dejó donde ya vivía (nota de Compost «Titicaca/Uros», pendiente para AMAIA); Qurtuba se descartó del todo (su desglose «Q+UR+T+uba» no es etimología real — Qurtuba viene del fenicio/latín *Corduba*, verificado). Solo Urcos se desarrolló, y con material nuevo encontrado en la verificación, mejor que el del propio qanat: la etimología «UR+qusqu=ombligo» no está documentada en ningún sitio y se descartó, pero apareció el **Qocha Raymi**, la fiesta viva del culto al agua que todavía se escenifica en la laguna de Urcos, y la leyenda de las cadenas de oro de Huáscar arrojadas al lago ante la conquista.
+
+Nueva pieza de URIM: **URCOS · LA CADENA QUE EL LAGO SE QUEDÓ** (Cara 4 · América → Andes · Pacífico), 504 palabras, 2 páginas.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 212.563 | 36.153 | 72 |
+| **urtz.html** (URS+URIM) | **1.027.703** | **172.286** | **140** |
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
