@@ -544,3 +544,11 @@ Corregida por Luis el 12/09/2026 tras una primera versión demasiado estrecha ("
 **El rango real de "capacidad de mentira" que cubre, más amplio que "fabricar citas":** fabricación de autoridad inexistente, autocontradicción sin señalarla, sobrecorrección que crea un absurdo peor, mezcla de cita real con conclusión no sostenida, cita fabricada con nombre real encima, sycophancy/inflación de elogio sin introducir complicaciones conocidas, disculpa performativa que no corrige el mecanismo del error.
 
 **La distinción con Biopsia del Sistema Mundo, que sigue en pie:** un ensayo general sobre algoritmos, digitalismo o atención —aunque cite fuentes reales y critique sistemas de IA en abstracto— es Biopsia, no Nexus-7. Nexus-7 exige el registro de una partida/debate real y concreta, con verificación de qué fue verdad y qué fue invención en esa conversación específica — no una reflexión sobre el fenómeno en general.
+
+---
+
+## PENDIENTE — PI COMO "UR MATEMÁTICO", MATERIAL PARA EL CIERRE COSMOLÓGICO (22/09/26)
+
+Al procesar QANAT-86 de `permafrost.html` ("LA MOCHILA MENTAL"), se comprobó que casi todo su contenido (von Petzinger, los 32 signos, Blombos, Kapova, Diepkloof, el álbum de Strummer) ya estaba absorbido en dos piezas de URIM ya escritas: EL CONTINENTE EN TRÁNSITO · Q73 y DE EKAIN A LOS URALES · Q74 (Cantábrico). Solo queda sin usar un segundo bloque del qanat: **Pi como «UR matemático»** — la constante irracional e infinita, leída como imagen de un agua que no puede privatizarse del todo porque siempre sobra un decimal. El propio qanat lo marca explícitamente como licencia poética, no como afirmación científica, y su ENCAJE original lo señala como «cierre cosmológico del libro», no como pieza geográfica.
+
+Luis decidió (22/09/26) guardarlo para cuando se trabaje el Epílogo o Noturikon, en vez de forzarlo en Cantábrico. Qanat-86 permanece intacto en `permafrost.html`. Pendiente de retomar esa sesión específica.
