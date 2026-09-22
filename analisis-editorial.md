@@ -93,6 +93,22 @@ Nueva pieza de URIM: **ÁRTICO · EL HIELO QUE SE NOMBRA A SÍ MISMO** (Cara 4 �
 
 Con esto quedan cerrados los cuatro qanats reales de Cara 4 · América en `permafrost.html` (Y-URRO, UR-UBAMBA/QURTUBA, ANGOS-T-UR/A y EL ESPEJO DEL HIELO).
 
+### Quinta actualización — 22/09/2026 (misma sesión, Cara 5 y Cara 7)
+
+**Diagnóstico Cara 5 · África:** sus dos únicos qanats (PRESA DE ASURÁN y SON-UR-AI) ya estaban completamente absorbidos por trabajo de una sesión anterior no presente en este contexto — dos piezas de URIM ya escritas y sustanciales: EL RÍO Y LA PRESA · TAMANRASSET · ASUÁN · DARFUR (1.297 palabras) y SON-UR-AI · SONGHAI, EL ATLÁNTICO Y EL RITMO QUE NO SE PUDO ENCADENAR (943 palabras), ninguna sellada todavía. Nada que descongelar ahí; pendiente de revisión y sello, no de escritura.
+
+**Cara 7 · Temáticas Transversales:** el índice por h2 volvía a quedarse corto — son 46 qanats reales, no 29. De los limpios (sin rastro en `urtz.html`), se desarrolló **LOS MILLARES**. El propio qanat lo dirigía a «C1/ML · Mediterráneo Levantino», pero geográficamente Almería pertenece a Mediterráneo Andaluz, y ahí se colocó.
+
+Verificación Hammurabeltz con mejoras reales sobre el qanat: el yacimiento tiene **cuatro** líneas de murallas concéntricas (no una genérica) y **trece fortines**, dato que el qanat no traía; la necrópolis tiene unas **ochenta tumbas** en tholos; el karst de Sorbas tiene más de 600 cavidades y la Cueva del Agua (~8.500 m) es el mayor sistema subterráneo de España en roca evaporítica, formaciones de unos 6 millones de años — todo esto documentado y ausente del qanat original, que solo hablaba en genérico. Confirmado también el rodaje de *Straight to Hell* (Alex Cox, verano de 1986, Tabernas, con Joe Strummer).
+
+Nueva pieza de URIM: **LOS MILLARES · LA SOCIEDAD DEL AGUA QUE NO SE VE** (Cara 1 · Ibérico → Mediterráneo Andaluz), 654 palabras, 3 páginas, con rayuela declarada hacia una futura pieza sobre el Bar de Jo.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 222.282 | 37.896 | 74 |
+| **urtz.html** (URS+URIM) | **1.037.422** | **174.029** | **142** |
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
