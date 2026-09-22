@@ -161,6 +161,20 @@ Nueva pieza: **AMARGURA · EL AGUA A LA QUE LE PUSIERON PRECIO**, insertada en U
 | URIM | 238.424 | 40.916 | 77 |
 | **urtz.html** (URS+URIM) | **1.053.564** | **177.049** | **145** |
 
+### Décima actualización — 22/09/2026 (misma sesión, NAGAS)
+
+Octava extracción PEOIM: **NAGAS · M-UR-CIÉLAGOS · MOSQUITO · CARNAVAL · ESPATA-DANTZA** (QANAT-11, permafrost), desarrollada en URIM, Cara 1 · Ibérico (junto al clúster vasco: Malerreka, Tabú Lingüístico, Ur-Oboro, Altxerri). Solape parcial detectado: la tesis central del qanat —el carnaval como tecnología simbólica contra la amenaza invisible del agua estancada y el insecto— ya está desarrollada en extenso en ZUBEROA · LA MÁSCARA Y EL CENTAURO (URS, con Urbeltz citado), así que no se repitió; se dejó una rayuela hacia esa pieza en vez de reescribir el argumento.
+
+Lo que sí era genuinamente nuevo se verificó con Hammurabeltz: el juicio a las ratas de Autun (1510, con matiz de que algunas fuentes dan 1522) y la defensa real de Barthélemy de Chasseneuz, jurista que llegaría a ser una de las figuras legales más influyentes del s. XVI (verificado); Zugarramurdi como escenario real del proceso inquisitorial de 1609-1614, con cifras aproximadas y sin inflar el número de ejecuciones (verificado); los murciélagos como depredadores reales del mosquito, aunque normalmente no sea su alimento principal (verificado, matizado a la baja frente al qanat). Se dejó explícito que la lectura de la ezpata-dantza como tecnología antimosquito es interpretación propia del libro, no dato de historia de la danza —las fuentes la vinculan a enfrentamientos fronterizos medievales, no a insectos—. Se descartó por no verificable la afirmación del qanat de que las ratas cazan larvas de mosquito.
+
+Nueva pieza: **NAGAS · EL AGUA QUE SE DEFENDIÓ EN UN TRIBUNAL**, 823 palabras.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 243.306 | 41.739 | 78 |
+| **urtz.html** (URS+URIM) | **1.058.446** | **177.872** | **146** |
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
