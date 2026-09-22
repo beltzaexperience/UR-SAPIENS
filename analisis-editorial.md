@@ -135,6 +135,18 @@ Nueva pieza: **FINURA · EL SUFIJO QUE CELEBRA Y EL QUE CONDENA**, insertada en 
 | URIM | 222.282 | 37.896 | 74 |
 | **urtz.html** (URS+URIM) | **1.047.096** | **175.929** | **144** |
 
+### Octava actualización — 22/09/2026 (misma sesión, corrección de Luis: BURDEL y FINURA a URIM)
+
+Luis corrigió un error de criterio: nada que salga del permafrost va directo a URS, siempre entra por URIM como borrador de taller. BURDEL y FINURA (ambos QANAT, sección Etimología Insurgente) estaban mal colocados en la sección homónima de URS; se trasladaron a la sección "○ Etimología Insurgente" ya existente dentro de URIM, junto a E-UR-PA·E-UR-I, EZUR·HEZUR, ZIGURAT, ALCURNIA, AUGUR y F-UR-IA. Registrado como **Regla 33** en `NOTAS-URTZ.md`, que además fija que las piezas de Etimología Insurgente en URS (ABSURDO, SUSURRO, TURBA, HURÓN, LAUREL) solo llevan la palabra como título, sin subtítulo narrativo — y se eliminó la redundancia "ETIMOLOGÍA INSURGENTE · " que arrastraban en su `<summary>`.
+
+Sin cambio en el total del libro (mismas 144 piezas, mismos 1.047.096 caracteres) — solo redistribución entre URS y URIM.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 231.956 | 39.796 | 76 |
+| **urtz.html** (URS+URIM) | **1.047.096** | **175.929** | **144** |
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
