@@ -147,6 +147,20 @@ Sin cambio en el total del libro (mismas 144 piezas, mismos 1.047.096 caracteres
 | URIM | 231.956 | 39.796 | 76 |
 | **urtz.html** (URS+URIM) | **1.047.096** | **175.929** | **144** |
 
+### Novena actualización — 22/09/2026 (misma sesión, AMARGURA)
+
+Séptima extracción PEOIM: **AMARG-UR-A** (QANAT/Depósito 26), tercer y último miembro de la familia que Luis nombró (BURDEL / FINURA / AMARGURA), desarrollada directamente en URIM (Regla 33). El qanat original agrupaba cinco hilos: amargura, tersura, negrura, tu-r sumerio y el cierre «-se agua». Verificación Hammurabeltz con un hallazgo importante: el hilo central del qanat —amargura leída como amar + G + ura, la G como «T sonorizada» que interrumpe el amor— es **etimológicamente falso**: amargo viene del latín *amarus*, de la raíz protoindoeuropea *h₂em-ro- («crudo»), sin relación con *amare* («amar»); y fonéticamente la G es la velar sonora (pareja de C/K), no una T sonorizada (esa pareja es la D). Se mantuvo la lectura poética completa, marcada con claridad como licencia poética, no como etimología.
+
+El resto sí resistió la comprobación: tersura < latín *tersus* < *tergere*, raíz indoeuropea *terg- (verificado); la esclavitud romana se basaba en captura o nacimiento, no en color de piel, y la asociación raza-esclavitud es invención del comercio trasatlántico moderno, siglos XV-XIX (verificado, consenso historiográfico); el hilo sumerio tu/dumu («dar a luz») tiene apoyo parcial en fuentes léxicas pero no una entrada cerrada para *túm* como «vientre» (hipótesis razonable, sin verificar del todo). Se dejó explícito que «la melanina es más UR en la piel» es imagen, no dato biológico.
+
+Nueva pieza: **AMARGURA · EL AGUA A LA QUE LE PUSIERON PRECIO**, insertada en URIM, sección "○ Etimología Insurgente", junto a BURDEL y FINURA, 1.120 palabras.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 238.424 | 40.916 | 77 |
+| **urtz.html** (URS+URIM) | **1.053.564** | **177.049** | **145** |
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
