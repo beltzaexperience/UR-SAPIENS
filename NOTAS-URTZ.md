@@ -552,3 +552,13 @@ Corregida por Luis el 12/09/2026 tras una primera versión demasiado estrecha ("
 Al procesar QANAT-86 de `permafrost.html` ("LA MOCHILA MENTAL"), se comprobó que casi todo su contenido (von Petzinger, los 32 signos, Blombos, Kapova, Diepkloof, el álbum de Strummer) ya estaba absorbido en dos piezas de URIM ya escritas: EL CONTINENTE EN TRÁNSITO · Q73 y DE EKAIN A LOS URALES · Q74 (Cantábrico). Solo queda sin usar un segundo bloque del qanat: **Pi como «UR matemático»** — la constante irracional e infinita, leída como imagen de un agua que no puede privatizarse del todo porque siempre sobra un decimal. El propio qanat lo marca explícitamente como licencia poética, no como afirmación científica, y su ENCAJE original lo señala como «cierre cosmológico del libro», no como pieza geográfica.
 
 Luis decidió (22/09/26) guardarlo para cuando se trabaje el Epílogo o Noturikon, en vez de forzarlo en Cantábrico. Qanat-86 permanece intacto en `permafrost.html`. Pendiente de retomar esa sesión específica.
+
+---
+
+## REGLA 32 — INDULGENCIA CON LOS QANATS DE ETIMOLOGÍA INSURGENTE, HASTA EL MOMENTO DE LA VERDAD
+
+Fijada por Luis el 22/09/26, al procesar B-UR-DEL (QANAT-29): estos qanats mezclan con el mismo tono de seguridad etimología real e invención pura —a diferencia de otros qanats del permafrost, que sí declaran "lectura guerrilla" cuando toca—. El criterio, en palabras de Luis: **"no elimines nada que pueda ser interesante"** y **"hay que ser indulgentes hasta que llegue el momento de la verdad"**.
+
+**Procedimiento:** al desarrollar uno de estos qanats, no hace falta investigar a fondo cada hilo antes de escribir. Se mantiene todo el material interesante —la simbología, las cadenas asociativas, las hipótesis— y se añade una caja de verificación explícita con tres niveles: **Verificado** (lo que se comprobó con fuente real), **Hipótesis razonable, sin verificar todavía** (lo que suena plausible pero no se ha comprobado, incluidas las preguntas que el propio qanat ya dejaba abiertas en su sección SEMILLAS), y **Licencia poética, no etimología** (las conexiones que son juego de sonido, no argumento lingüístico). El "momento de la verdad" —la auditoría completa antes de sellar con calavera— llega después, no ahora.
+
+**Caso que fijó la regla:** B-UR-DEL conecta burdo con bastardo por la vía de "bord" (tabla → burdel), que resultó ser **etimológicamente falsa** al verificarla. Pero apareció una conexión real y distinta: burdo viene del latín tardío *burdus*, que significaba literalmente "bastardo" (RAE). En vez de borrar la intuición fallida del qanat, se mantuvo el descubrimiento de la vía real junto a ella, con la caja de verificación dejando claro cuál es cuál.

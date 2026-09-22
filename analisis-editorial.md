@@ -109,6 +109,20 @@ Nueva pieza de URIM: **LOS MILLARES · LA SOCIEDAD DEL AGUA QUE NO SE VE** (Cara
 | URIM | 222.282 | 37.896 | 74 |
 | **urtz.html** (URS+URIM) | **1.037.422** | **174.029** | **142** |
 
+### Sexta actualización — 22/09/2026 (misma sesión, BURDEL y el criterio de indulgencia para Etimología Insurgente)
+
+Diagnóstico sobre LA MOCHILA MENTAL (QANAT-86, permafrost): resultó estar prácticamente absorbida ya en dos piezas de URIM (EL CONTINENTE EN TRÁNSITO · Q73 y DE EKAIN A LOS URALES · Q74, Cantábrico), incluyendo Blombos y Kapova, que se creían material nuevo. Solo queda sin usar el cierre sobre Pi como «UR matemático» —licencia poética declarada por el propio qanat—, que Luis decidió guardar para cuando se trabaje el Epílogo o Noturikon en vez de forzarlo aquí. Registrado como pendiente en `NOTAS-URTZ.md`.
+
+Se desarrolló después **B-UR-DEL** (QANAT-29), con un criterio editorial nuevo que Luis fijó explícitamente para toda la familia de qanats de Etimología Insurgente: **indulgencia hasta el momento de la verdad** — no eliminar nada interesante, mantener las hipótesis razonables, y dejar una nota de verificación en vez de investigar a fondo cada hilo antes de escribir. La verificación que sí se hizo reveló algo real: el qanat conecta burdo con bastardo por la vía de «bord» (tabla, origen de burdel), que es **etimológicamente falsa**; pero existe una conexión real y distinta —burdo viene del latín tardío *burdus*, que significaba literalmente «bastardo» (RAE)—. Se mantuvo toda la simbología del qanat (márgenes, sufijos -ura/-dad, Donostia y el baigorri) con una caja de verificación explícita que separa lo comprobado, las hipótesis razonables sin verificar y la licencia poética declarada.
+
+Nueva pieza: **BURDEL · EL AGUA QUE EL BURGO USA SIN RECONOCER**, insertada en la sección ETIMOLOGÍA INSURGENTE (no en una Cara geográfica), 989 palabras.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 820.297 | 137.122 | 69 |
+| URIM | 222.282 | 37.896 | 74 |
+| **urtz.html** (URS+URIM) | **1.042.579** | **175.018** | **143** |
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
