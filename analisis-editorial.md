@@ -123,6 +123,18 @@ Nueva pieza: **BURDEL · EL AGUA QUE EL BURGO USA SIN RECONOCER**, insertada en 
 | URIM | 222.282 | 37.896 | 74 |
 | **urtz.html** (URS+URIM) | **1.042.579** | **175.018** | **143** |
 
+### Séptima actualización — 22/09/2026 (misma sesión, FINURA)
+
+Sexta extracción PEOIM: **FINURA** (QANAT-28), desarrollada con el mismo criterio de indulgencia (Regla 32) pero con mejor suerte en la verificación que BURDEL — las tres etimologías centrales resultaron correctas: fino/finura &lt; latín *finis*; ataúd &lt; árabe andalusí *attabút* &lt; *at-tābūt* (con el detalle curioso de que «el ataúd» duplica el artículo árabe ya incorporado a la raíz); bureau &lt; latín *burra* &gt; francés *bure* (paño), con la evolución semántica completa tela→tapete de mesa→mesa→oficina. Sin solape con nada existente en `urtz.html`.
+
+Nueva pieza: **FINURA · EL SUFIJO QUE CELEBRA Y EL QUE CONDENA**, insertada en ETIMOLOGÍA INSURGENTE junto a BURDEL, 911 palabras.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 824.814 | 138.033 | 70 |
+| URIM | 222.282 | 37.896 | 74 |
+| **urtz.html** (URS+URIM) | **1.047.096** | **175.929** | **144** |
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
