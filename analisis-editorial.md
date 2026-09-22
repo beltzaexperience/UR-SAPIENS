@@ -53,6 +53,18 @@ De paso, el recuento fresco encontró y corrigió una discrepancia estructural s
 
 **Pendiente, fuera del alcance de esta actualización:** una auditoría Regla 16 completa de las ~60 filas restantes de la tabla de Construcción (Cara 1, 2, 3, 5, 6, Interludios, etc.). El recuento fresco del libro entero reveló, además de la fila de Cono Sur, un desajuste de +1 pieza en Compost y +1 en Semillas en algún punto de la tabla no identificado todavía — no afecta a los totales generales (ya corregidos arriba con recuento directo), pero sí a en qué fila concreta se reparten esas dos piezas.
 
+### Segunda actualización — 22/09/2026 (misma sesión, vaciado de permafrost)
+
+Primer descongelado de `permafrost.html` de la sesión: **QANAT-65 · Y-URRO** se reescribió como pieza propia de URIM, **YURRO · EL AGUA QUE SOBREVIVIÓ A SU LENGUA** (Cara 4 · América → Mesoamérica · Caribe · Urabá), 651 palabras, 3 páginas. Verificado por Hammurabeltz contra fuentes externas (huetarismo real, familia chibcha confirmada; corregida la fecha de extinción de la lengua, que la investigación reciente desplaza del siglo XVII a comienzos del XX). Contrastado contra todo `urtz.html`: sin solape, territorio nuevo. El qanat original permanece intacto en `permafrost.html` (Regla 22: nueva redacción, no traspaso literal).
+
+De paso, el diagnóstico sobre Cara 4 · América en permafrost encontró 4 qanats reales, no 2: además de Y-URRO y UR-UBAMBA (los dos visibles en el índice por h2), **QANAT-68 · ANGOS-T-UR/A** (ya es la fuente de la pieza URS sin sellar ANGOSTURA) y **QANAT-69 · EL ESPEJO DEL HIELO** (parcialmente absorbido por la pieza sellada AMÉRICA · ANIA · ANAIA; le queda material sin usar: Katajjaq, toponimia inuit, S·Iberia/Siberia). **QANAT-07 · UR-UBAMBA/QURTUBA** solapa parcialmente con VILCABAMBA (sellada) y queda pendiente de decisión: qué hacer con el material sobrante (Urcos, Qurtuba, los Uros/puquina). El propio título de `permafrost.html` y su cabecera interna siguen desactualizados (dicen «50 Qanats» y «83 qanats»; el recuento real de qanats con contenido es 66 h2 más varios sin h2 como estos dos) — no corregido todavía, fuera del alcance de hoy.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 209.884 | 35.649 | 71 |
+| **urtz.html** (URS+URIM) | **1.025.024** | **171.782** | **139** |
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
