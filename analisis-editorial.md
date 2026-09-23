@@ -219,6 +219,24 @@ Nueva pieza: **LOCURA · EL AGUA QUE FALTA Y EL AGUA QUE SOBRA**, URIM, sección
 | URIM | 254.569 | 43.666 | 81 |
 | **urtz.html** (URS+URIM) | **1.069.709** | **179.799** | **149** |
 
+### Decimocuarta actualización — 23/09/2026 (misma sesión, correcciones de proceso: Mondoñedo y separación de NAGAS)
+
+Luis corrigió dos decisiones de colocación tomadas sin consultarle y recordó la jerarquía de autoridad del PEOIM (NORMA-METODO.md, sección XVIII): la frontera entre pieza propia y material de apoyo, y la ubicación cuando hay ambigüedad geográfica, la decide Luis — ante la duda se presenta el caso razonado y se espera veredicto antes de mover nada. Aplicado con efecto inmediato.
+
+**GONZALO DE MONDOÑEDO** trasladado del clúster Euskal Herria a Ibérico Atlántico (URIM, Cara 1), por decisión de Luis. Sin cambio de cifras: es una pieza que ya existía, solo cambia de subsección.
+
+**NAGAS** separado en dos piezas por decisión de Luis, tras aplicar PAO (Procedimiento de Análisis de Objetivos): el material traía dos hilos sin tesis compartida —nagas/mitología comparada + juicio de Autun (Chasseneuz) + murciélagos/DDT, ninguno vasco; y espata-dantza + Zugarramurdi, vasco—. **ESPATA-DANTZA · LA T CONVERTIDA EN EXORCISMO** ocupa el hueco de la antigua pieza NAGAS en Euskal Herria (254 palabras). La mitad general —**NAGAS · EL AGUA QUE SE DEFENDIÓ EN UN TRIBUNAL** (523 palabras)— queda fuera de `urtz.html` por ahora, en espera de que Luis decida su destino: no tiene una geografía única (nagas es Asia, Chasseneuz es Francia, DDT es global).
+
+**Estado intermedio, cifras exactas del archivo tal como queda ahora** (con la mitad general de NAGAS todavía sin colocar):
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 251.168 | 43.097 | 81 |
+| **urtz.html** (URS+URIM) | **1.066.308** | **179.230** | **149** |
+
+Pendiente de cierre: en cuanto Luis decida el destino de NAGAS (general), se inserta como pieza nueva y el Marcador sube a 150 piezas.
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
