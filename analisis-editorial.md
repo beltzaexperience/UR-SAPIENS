@@ -849,3 +849,17 @@ Delta: +877 palabras, +8.538 caracteres, +1 pieza.
 | **urtz.html** (URS+URIM) | **1.114.448** | **184.806** | **159** |
 
 Q16 descongelado tras cerrarse. PERMAFROST recorregido: 418.652 caracteres, 75.348 palabras, 91 qanats.
+
+### Vigesimosexta actualización — 23/09/2026 (misma sesión, Q18 — injerto en EL MÉTODO INSURRECTO)
+
+Q18 (INS-UR-RECCIÓN · IN-C-UR-A · FACT-UR-A · NAT-URA USURPADA) es continuación directa de Q16: el propio texto de origen cita explícitamente "D-UR-ruti (→ dep. 16)" y "el §53 del Código de Hamm-UR/A-bi (→ dep. 16)". Mismo patrón que Cweorð→B-UR-ZUM: injertado en EL MÉTODO INSURRECTO (pieza viva, sin sellar) en vez de crear pieza aparte. Se añadieron cuatro secciones nuevas —Insurrección (el nombre del propio método), Incuria (extiende directamente la sección de Hammurabi), Factura y Natura— insertadas en los puntos donde encajan con la estructura ya existente, sin tocar el resto de la pieza.
+
+Delta: +514 palabras, +4.435 caracteres (injerto, sin piezas nuevas).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 303.743 | 49.187 | 91 |
+| **urtz.html** (URS+URIM) | **1.118.883** | **185.320** | **159** |
+
+Q18 descongelado tras cerrarse. PERMAFROST recorregido: 408.054 caracteres, 74.309 palabras, 90 qanats.
