@@ -790,3 +790,24 @@ Delta: +260 palabras, +1.884 caracteres (injerto en pieza existente, sin piezas 
 | URS | 815.140 | 136.133 | 68 |
 | URIM | 273.265 | 45.832 | 88 |
 | **urtz.html** (URS+URIM) | **1.088.405** | **181.965** | **156** |
+
+### Vigesimotercera actualización — 23/09/2026 (misma sesión, Q14 — DE URBELTZ A URGORRI, y borrado retroactivo de Q09/Q10/Q11/Q12/Q17/Q26)
+
+**Descongelado retroactivo.** Luis pidió borrar del permafrost los qanats ya procesados esta sesión: Q09, Q10, Q11, Q12, Q17 y Q26 (Q13 ya se había borrado). El primer intento de extracción automática se equivocó: usaba "el último `</div>` antes de que empiece el siguiente qanat" como límite de cierre, y eso arrastraba de más — se comía los separadores estructurales del propio permafrost (`T_FI`/`◈ FILOSÓFICO` tras Q11, `C3_AC`/`○ ANATOLIA · CÁUCASO` tras Q10), que no son parte de ningún qanat. Corregido con un parseo real de profundidad de `<div>` (contar apertura/cierre hasta volver a cero) antes de borrar nada; verificado que ambos separadores siguen intactos tras el borrado.
+
+**Q14 — DE URBELTZ A URGORRI.** Luis: cuando hay tesis conjunta va en una sola pestaña —las piezas antiguas de investigación eran transversales, sin el mapa de Caras en la cabeza—; separar sería ilógico salvo que la separación natural diera dos capítulos distintos. Aquí no lo da: Ourense (Galicia) y Elgorriaga (Navarra) están unidas por un fenómeno mineral real y verificable, no por coincidencia de qanat —ambas aguas son ferruginosas, ambas se oxidan de negro a rojo al contacto con el aire—, así que se escribieron como una sola pieza, **DE URBELTZ A URGORRI · OURENSE Y ELGORRIAGA** (Cara 1 Ibérico · Atlántico, junto a Mondoñedo).
+
+**Correcciones Ley Hammurabeltz.** (1) Ourense: el permafrost daba solo *Aquae Urentes* ("aguas que arden") como etimología cerrada; existe una segunda hipótesis real y documentada, *Aquis Aurienses* (de *aurum*, oro, por el oro del Miño) — se presentan ambas, sin zanjar. (2) Burga: el permafrost la definía con seguridad como "fuente, manantial"; la etimología real está en disputa entre el céltico *beru* ("caliente") y el latín *burca* ("cuba, recipiente") — corregido a esa incertidumbre real. (3) Elgorriaga: el permafrost daba 333 g/l de sal con un juego de palabras sobre el palíndromo; la cifra oficial del balneario es 336 g/l (otra fuente da 312 g/l de sal + 304 g/l de cloruro) — corregido al dato real, descartado el juego de palabras que dependía del número incorrecto.
+
+**Injerto ligero, por instrucción explícita de Luis** ("si entra natural y no afecta al resto del Q"): una frase en la sección "Los nagas" de URBELTZ conectando las lamiak de Elgorriaga bajo el espino con los guardianes del agua, sin mover ni recortar el resto de Elgorriaga de su pieza propia.
+
+**Fallo encontrado y corregido: el salpicadero no reflejaba los qanats borrados.** Existe una línea "PERMAFROST" en el Marcador Fonomático (caracteres, palabras, páginas, nº de qanats) que llevaba toda la sesión sin actualizarse pese a los siete borrados de permafrost.html. Corregida ahora con el cómputo real: -8.161 palabras, -80.004 caracteres, -7 qanats (101→94) sobre PERMAFROST, arrastrado también a la fila TOTAL (proyecto completo).
+
+Delta urtz.html: +884 palabras, +7.976 caracteres, +1 pieza (DE URBELTZ A URGORRI) + injerto sin piezas nuevas en URBELTZ.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 281.241 | 46.716 | 89 |
+| **urtz.html** (URS+URIM) | **1.096.381** | **182.849** | **157** |
+| PERMAFROST (corregido) | 457.261 | 79.315 | 94 qanats |
