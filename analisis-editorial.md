@@ -813,3 +813,21 @@ Delta urtz.html: +884 palabras, +7.976 caracteres, +1 pieza (DE URBELTZ A URGORR
 | PERMAFROST (corregido) | 457.261 | 79.315 | 94 qanats |
 
 Q14 descongelado tras cerrarse (mismo patrón desde ahora: cada Q se borra del permafrost en cuanto queda resuelto). PERMAFROST recorregido: 445.976 caracteres, 78.151 palabras, 93 qanats.
+
+### Vigesimocuarta actualización — 23/09/2026 (misma sesión, Q15 — VESTVEGR)
+
+Q15 (VESTVEGR · UR-DAX · CAMINO DE SANTIAGO · EL GUERRERO QUE SE HACE PEREGRINO) es un itinerario único —Escandinavia → Galicia → Urdax (Navarra) → Irun—, no piezas sueltas, por la misma razón que Q14: separar sería ilógico, la tesis ("el mismo mar que trae saqueadores trae peregrinos") solo se sostiene con las paradas juntas. Ante la duda de destino (¿Urdax o Galicia?), se pesó el Q por extensión real y peso narrativo: Galicia es, con diferencia, lo más desarrollado y además el destino temático de todo el relato (el Camino de Santiago culmina en Compostela). Escrita como pieza única, **VESTVEGR · EL CAMINO DEL OESTE · DEL GUERRERO AL PEREGRINO**, en Cara 1 Ibérico · Atlántico, junto a Ourense/Elgorriaga.
+
+**Correcciones Ley Hammurabeltz.** (1) La concha de vieira "encontrada en Sigtuna" es un dato equivocado: la excavación real es en Västerhus, un cementerio distinto en Suecia, con solo dos conchas documentadas en todo el yacimiento (estudio de Maja Krzewińska, Universidad de Estocolmo) — corregido. (2) Sigurd de Noruega en 1108 no llegó a Galicia como peregrino sin más: cuando el señor local le negó el abastecimiento ese invierno, atacó y saqueó su castillo antes de continuar hacia Jerusalén — matiz añadido en vez de presentarlo como conversión limpia. (3) "Ulf el Gallego" no se pudo verificar en ninguna fuente — descartado del texto en vez de incluirlo sin respaldo.
+
+Rayuela a URBELTZ · El baile que mata lo que mata (Euskal Herria), por la conexión explícita del propio texto entre el monasterio de Urdax y las cuevas de Zugarramurdi, a 4 km.
+
+Delta: +1.080 palabras, +9.529 caracteres, +1 pieza.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 290.770 | 47.796 | 90 |
+| **urtz.html** (URS+URIM) | **1.105.910** | **183.929** | **158** |
+
+Q15 descongelado tras cerrarse. PERMAFROST recorregido: 434.794 caracteres, 76.940 palabras, 92 qanats.
