@@ -175,6 +175,20 @@ Nueva pieza: **NAGAS · EL AGUA QUE SE DEFENDIÓ EN UN TRIBUNAL**, 823 palabras.
 | URIM | 243.306 | 41.739 | 78 |
 | **urtz.html** (URS+URIM) | **1.058.446** | **177.872** | **146** |
 
+### Undécima actualización — 23/09/2026 (misma sesión, GONZALO DE MONDOÑEDO)
+
+Novena extracción PEOIM. Antes de esta pieza se hizo un barrido amplio por el resto de Cara 7 y clústers vecinos (Q83 Doggerland, Q85 Los Millares, Q87 Alpujarras/Balate, Q90-97 Malerreka/Oteiza/Ezur-Hezur/Triángulo del Urbeltz/IS-IZ/Turtle Island/Hacha de Mantle, Q51-59 Rumanía/Drácula/Zalmoxis, Q04 Çatalhöyük): todos resultaron ya absorbidos en piezas existentes de urtz.html, sin nada nuevo que escribir —confirmado con un script de solape por términos de GLOSA contra el texto completo del libro, no solo por muestreo manual—. Qanat-92 (autobiografía de Luis) quedó fuera por ser texto pendiente de su propia autoría, no material a redactar por Urtz.
+
+**GONZALO DE MONDOÑEDO** (QANAT-17) sí resultó limpio. Verificación Hammurabeltz con correcciones reales: el obispo Gonzalo fue sede de Mondoñedo desde 1070 (siglo XI, no XIII como decía el qanat); el qanat fundía en un solo milagro dos episodios distintos de la leyenda —el báculo que atrae rayos sobre las naves normandas, y la sandalia (no el báculo) que hizo brotar la fuente de A Zapata—, así que se separaron. Gundisalvus se corrigió: no es «el que salva», es «el que sale ileso de la guerra» (gund + salvus). La etimología de Mondoñedo que traía el qanat (Munio Minei) no está respaldada por la toponimia gallega actual; se sustituyó por las dos hipótesis reales (céltico MIND- = elevación; o mund + onna + -etu = monte + río/fuente), señalando que la segunda coincide de forma notable con la lectura zahorí del propio libro sin necesitar licencia poética.
+
+Nueva pieza: **GONZALO DE MONDOÑEDO · EL AGUA QUE NO SE PUEDE COBRAR**, URIM, Cara 1 · Ibérico, 624 palabras.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 246.914 | 42.363 | 79 |
+| **urtz.html** (URS+URIM) | **1.062.054** | **178.496** | **147** |
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
