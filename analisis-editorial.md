@@ -863,3 +863,9 @@ Delta: +514 palabras, +4.435 caracteres (injerto, sin piezas nuevas).
 | **urtz.html** (URS+URIM) | **1.118.883** | **185.320** | **159** |
 
 Q18 descongelado tras cerrarse. PERMAFROST recorregido: 408.054 caracteres, 74.309 palabras, 90 qanats.
+
+### Vigesimoséptima actualización — 23/09/2026 (misma sesión, Q19 — sin resto, ya resuelto)
+
+Q19 (EL KOXKERO ERRANTE) tenía seis hilos. Dos ya se usaron esta sesión para construir URBELTZ (El innombrable pleistocénico, Urbeltz el investigador). Los cuatro restantes —Koxkero, Ezkurra/Urumea (Iturriaundieta, Ollin, Errakaundi, Goizueta), UR-lañó (la nube purificadora, la cremación) y Lamiak/Urteberri— resultaron estar ya en URS, reescritos y más desarrollados que en el permafrost (con datos que el original ni siquiera trae: el Molino de Zubieta, la contaminación de las Minas de Ollin 1904-1910, el estraperlo franquista). Paso 2 de PEOIM: ya mezclado sin resto de valor. Borrado del permafrost sin escribir pieza nueva.
+
+Sin cambios en urtz.html.
