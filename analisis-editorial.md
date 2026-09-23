@@ -756,3 +756,21 @@ Resultado: 2 piezas nuevas en Etimología Insurgente (UR-OBORO, C-UR-VA) y 5 Sem
 | URS | 815.140 | 136.133 | 68 |
 | URIM | 265.955 | 44.786 | 91 |
 | **urtz.html** (URS+URIM) | **1.081.095** | **180.919** | **159** |
+
+### Vigesimoprimera actualización — 23/09/2026 (misma sesión, unificación URBELTZ — la tesis que atravesaba varios Q)
+
+Luis explicó el fondo del problema de método: el permafrost está cargado de caos porque es investigación de primera mano sin ordenar, y una misma tesis puede reaparecer disfrazada de tema distinto en varios Q sin que nada la una — el verdadero trabajo de PEOIM no es solo decidir dónde va cada Q, sino detectar estas tesis que atraviesan varios Q y unirlas en una sola pestaña en vez de dejarlas desperdigadas entre semillas y categorías.
+
+Caso concreto: la pregunta de Luis sobre "nagas-moros-brujas" llevó a identificar que Juan Antonio Urbeltz —el etnógrafo vasco cuyo apellido (UR+BELTZ, agua negra) ya aparecía disperso en varias piezas de URIM sin que se hubiera reconocido como el mismo hilo— tiene una tesis real y publicada que conecta exactamente lo que Luis describía: danzas de espadas, carnaval, insectos y "moros" como una sola cosa. Verificado por Ley Hammurabeltz: <em>Los bailes de espadas y sus símbolos: Ciénagas, insectos y «moros»</em> (Pamiela, 2000); Urbeltz, Iruñea-Pamplona 1940, más de cincuenta años de estudio de la danza vasca; su hallazgo central es que en euskera "zomorro"/"mozorro" significan a la vez "máscara" e "insecto" — todo disfraz de carnaval es, en el idioma, un insecto. Esto no estaba en permafrost.html (que no llega a esta profundidad de investigación externa): permafrost solo tenía fragmentos sueltos del hilo (Q11 nagas/carnaval/espata-dantza, Q12 beduino, Q19 innombrable pleistocénico + Urbeltz investigador, Q94 triángulo emocional beldur/zuhur/urduri/ziur, Q100 tabú lingüístico) más varias piezas ya escritas en URIM que citaban "Urbeltz" sin conectarlas entre sí.
+
+Se creó una pestaña unificada nueva, <strong>URBELTZ · EL BAILE QUE MATA LO QUE MATA · LOS INNOMBRABLES</strong> (Euskal Herria, Cara 1 Ibérico), que sustituye a ESPATA-DANTZA en su posición y absorbe: ESPATA-DANTZA completa, la semilla NAGAS, la semilla CHASSENÉE (el juicio a la rata de Autun) y la semilla MURCIÉLAGOS·DDT (el eco ecológico moderno), más el material nuevo de Q19/Q94/Q100 y la investigación externa sobre Urbeltz. EL BEDUINO DE LA NOCHE se queda como semilla propia (su tema es más amplio que este hilo) pero su DESTINO ahora enlaza con la pieza unificada en vez de con NAGAS, que ya no existe como pieza suelta.
+
+Quedó fuera, sin decidir todavía: la pieza sellada <strong>EUSKAL HERRIA · ZUBEROA · LA MÁSCARA Y EL CENTAURO</strong> (☠ NO TOCAR, URS) sigue intacta — es el desarrollo más profundo de este mismo gesto (Zamaltzain, Centauromaquia) y la nueva pieza la enlaza por rayuela, pero no se ha tocado por estar sellada. También quedan sin escribir, identificados pero no procesados: el hilo Koxkero/Ezkurra de Q19 (geografía propia, no este tema), Lamiak/Urteberri de Q19 (conecta con Q87 Alpujarras, no procesado todavía), y el hilo Gascón/Barère de Q100 (pertenece a "UR, la lengua y la frontera invisible", tesis distinta).
+
+Delta: -3 piezas (ESPATA-DANTZA absorbida sin cambiar el recuento de piezas colocadas de Euskal Herria; NAGAS, CHASSENÉE y MURCIÉLAGOS·DDT eliminadas como semillas sueltas), +786 palabras, +5.426 caracteres netos.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 271.381 | 45.572 | 88 |
+| **urtz.html** (URS+URIM) | **1.086.521** | **181.705** | **156** |
