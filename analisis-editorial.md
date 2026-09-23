@@ -869,3 +869,9 @@ Q18 descongelado tras cerrarse. PERMAFROST recorregido: 408.054 caracteres, 74.3
 Q19 (EL KOXKERO ERRANTE) tenía seis hilos. Dos ya se usaron esta sesión para construir URBELTZ (El innombrable pleistocénico, Urbeltz el investigador). Los cuatro restantes —Koxkero, Ezkurra/Urumea (Iturriaundieta, Ollin, Errakaundi, Goizueta), UR-lañó (la nube purificadora, la cremación) y Lamiak/Urteberri— resultaron estar ya en URS, reescritos y más desarrollados que en el permafrost (con datos que el original ni siquiera trae: el Molino de Zubieta, la contaminación de las Minas de Ollin 1904-1910, el estraperlo franquista). Paso 2 de PEOIM: ya mezclado sin resto de valor. Borrado del permafrost sin escribir pieza nueva.
 
 Sin cambios en urtz.html.
+
+### Vigesimoctava actualización — 23/09/2026 (misma sesión, Q20 — sin resto, ya migrado en sesión anterior)
+
+Q20 (LA LEYENDA DEL TIEMPO · AVE SILICIO · DIGITALISMO INCIPIENTE · ANARCO-CATOLICISMO) resultó estar ya migrado por completo, de una sesión anterior a esta (fechado 20/09/26): sus tres hilos —Camarón/tiempo relativo, Anarco-catolicismo/Dujobory/Dorothy Day, Ave Silicio/Digitalismo— ya existen como Semillas/Compost en URIM, correctamente separados por no compartir argumento (misma conclusión a la que habría llegado el bisturí de esta sesión), uno de ellos incluso mejorado con una corrección bibliográfica (Cavanaugh, *Being Consumed*, no *El mito de la violencia religiosa*). Las tres piezas ya llevan nota "pendiente de que Luis decida si se incorpora y cómo" — sigue abierto, pero no es trabajo nuevo de Q20. Borrado del permafrost sin escribir pieza nueva.
+
+Sin cambios en urtz.html.
