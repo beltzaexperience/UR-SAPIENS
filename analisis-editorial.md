@@ -237,6 +237,27 @@ Luis corrigió dos decisiones de colocación tomadas sin consultarle y recordó 
 
 Pendiente de cierre: en cuanto Luis decida el destino de NAGAS (general), se inserta como pieza nueva y el Marcador sube a 150 piezas.
 
+### Decimoquinta actualización — 23/09/2026 (misma sesión, disección con bisturí de LOCURA)
+
+Luis corrigió el criterio de fondo: no basta con separar por procedencia de qanat (como se hizo con NAGAS) — cada hilo dentro de una pieza ya publicada debe analizarse por separado como Compost, Semilla o Pieza, aplicando PEOIM Paso 2bis y Paso 4bis con rigor. Aplicado retroactivamente sobre **LOCURA · EL AGUA QUE FALTA Y EL AGUA QUE SOBRA**, que mezclaba cuatro hilos sin tesis compartida (coincidían solo en venir del mismo qanat y contener "UR"):
+
+- **LOCURA** (loco/locus/láwqa) — se queda como pieza, ahora sola: **LOCURA · EL DESPLAZAMIENTO DEL AGUA** (202 palabras, antes 644).
+- **ASUR** — injerto directo (Paso 4bis) en MESOPOTAMIA PROFUNDA · ENKI, INANNA Y EL CÓDIGO DE UR-NAMMU (URIM, Mesopotamia·Levante), pieza sin sellar: se incorpora ahora mismo, sin esperar autorización, como nueva sección "Asur · el canal hecho ejército" (184 palabras).
+- **URMÍA** — nueva pieza pequeña en URIM, Asia Central·Turán-Irán, confirmado que el lago está en Irán (no Turquía): **URMÍA · LA CIUDAD DEL AGUA QUE DICE AGUA DOS VECES** (163 palabras). La pieza de destino natural (ÜRMÜZ: AHURA MAZDĀ · SABIDURÍA UR) está sellada, así que no se tocó.
+- **VALLE DE ARÁN** — Semilla, DESTINO: Cara 1 Ibérico/Pirineos (74 palabras).
+- **CHASSENÉE** — separado de NAGAS y reclasificado: Semilla, DESTINO: Europa Latina·Francia (subsección vacía en URIM) (207 palabras).
+- **MURCIÉLAGOS/DDT** — separado de NAGAS: Semilla sin geografía propia, DESTINO sin determinar (145 palabras).
+
+Balance de piezas: Locura (0, misma pieza trimada), Asur (0, injerto en pieza existente), Urmía (+1), 3 semillas (+3) = **+4 piezas**. Palabras netas: -442 (Locura) +184 (Asur) +163 (Urmía) +426 (3 semillas) = **+331 palabras**.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 253.163 | 43.428 | 85 |
+| **urtz.html** (URS+URIM) | **1.068.303** | **179.561** | **153** |
+
+Con esto, NAGAS (general) queda cerrado del todo: su hilo de mitología de nagas resultó redundante —ya absorbido en una pieza existente sobre Himalaya/Tamang (Lu/Naga como espíritus-serpiente del agua)— y se descarta sin resto; Chassenée y Murciélagos/DDT, sus otros dos hilos, quedan resueltos arriba como Semillas separadas. No queda ningún fragmento de NAGAS sin destino.
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
