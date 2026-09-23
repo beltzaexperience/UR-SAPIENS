@@ -893,3 +893,19 @@ Delta: +696 palabras, +6.713 caracteres, +1 pieza.
 | **urtz.html** (URS+URIM) | **1.125.596** | **186.016** | **160** |
 
 Q21 descongelado tras cerrarse. PERMAFROST recorregido: 369.196 caracteres, 70.250 palabras, 87 qanats.
+
+### Trigésima actualización — 23/09/2026 (misma sesión, Q22 — injerto en TUR: LA RAÍZ PREINDOEUROPEA)
+
+Discusión de destino: Emporion/Río Ter (Girona, Mediterráneo) y Duero/Las Médulas (Soria→Oporto, Atlántico) no comparten una sola subsección geográfica —Luis señaló que el Duero por sí solo ya demuestra que el material es transversal—. Antes de crear un capítulo "Panibérico" nuevo, se confirmó que ya existe: la pieza **T-UR · LA RAÍZ PREINDOEUROPEA** (URIM, ya colocada al nivel de Cara 1 Ibérico, sin subsección, antes de Euskal Herria) desarrolla exactamente la misma raíz *tur-/*dur- (Duero, Turóbriga, Ilíturgi, Iturri, Turris). Renombrada a **TUR: LA RAÍZ PREINDOEUROPEA · LA MATRIZ PANIBÉRICA** por indicación de Luis, e injertados ahí Emporion, Río Ter y Las Médulas/*ruina montium* como tres secciones nuevas.
+
+El hilo TURIA/Guadalaviar de Q22 no se injertó por ser redundante: ya está, con más matiz (distingue tramo alto/bajo del río), en la pieza "El continente en tránsito" (Q73, Cara 1 Ibérico · Cantábrico). Se añadió una rayuela cruzada entre ambas piezas por la raíz compartida.
+
+Delta: +452 palabras, +3.852 caracteres (injerto en pieza existente, sin piezas nuevas).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 314.308 | 50.335 | 92 |
+| **urtz.html** (URS+URIM) | **1.129.448** | **186.468** | **160** |
+
+Q22 descongelado tras cerrarse. PERMAFROST recorregido: 354.427 caracteres, 68.667 palabras, 86 qanats.
