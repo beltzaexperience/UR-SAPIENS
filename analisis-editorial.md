@@ -774,3 +774,19 @@ Delta: -3 piezas (ESPATA-DANTZA absorbida sin cambiar el recuento de piezas colo
 | URS | 815.140 | 136.133 | 68 |
 | URIM | 271.381 | 45.572 | 88 |
 | **urtz.html** (URS+URIM) | **1.086.521** | **181.705** | **156** |
+
+### Vigesimosegunda actualización — 23/09/2026 (misma sesión, Q13 — injerto de Cweorð en B-UR-ZUM)
+
+Procesado Q13 (CWEORÐ · EL FUTHARK HÍDRICO · M-UR-MULLO). Auditoría previa (Paso 1 PEOIM) encontró que tres de sus cinco hilos —SUS-UR-RO, ABS-UR-DO y La Celestina— son prácticamente idénticos, frase por frase, a las piezas ya existentes SUSURRO y ABSURDO (Etimología Insurgente, URS, sin sellar): mismo *swer-, misma cita de La Celestina/Fernando de Rojas, hasta la misma frase de cierre. Descartados sin resto por no aportar nada nuevo.
+
+Del hilo rúnico (Ūruz, Laguz, Cweorð, el mapa de 9 runas), Luis señaló buscar primero en "la escombrera" antes de decidir destino. Investigación: la escombrera es `index.html` (el fanzine público), y el artículo `esc-05` ("UR · RU · El espejo del Futhark + Ōþala") existe ahí, tal como la pieza B-UR-ZUM · TRES VIDAS DE LA TINIEBLA NÓRDICA (URIM, Bonus Tracks) ya documenta en su propia nota "ORIGEN Y FUSIÓN PENDIENTE": está construida fusionando PERMAFROST QANAT-01 con esc-05, fusión dejada deliberadamente incompleta hasta que index.html se absorba en URS. Comparando los tres textos: Ūruz, Laguz, Algiz, el reparto 15/24 runas, Ōþala y Mayhem/Helvete ya están, tanto en esc-05 como (condensados) en B-UR-ZUM. Lo único genuinamente nuevo es **Cweorð**.
+
+**Corrección Hammurabeltz relevante.** El permafrost presentaba una cita en inglés antiguo ("Cweorð bið fȳres and wæteres cild — mereweorþung") como si fuera verso real del Poema Rúnico Anglosajón. Verificado: Cweorð es una pseudo-runa documentada solo en el manuscrito de George Hickes, sin estrofa propia en el poema, sin inscripción rúnica conocida y sin pronunciación atestiguada — no existe tal cita. Injertada en B-UR-ZUM con el dato verificado (runa sin voz en el corpus) en vez de la cita fabricada, manteniendo la lectura zahorí (espejo de Perþō, agua+fuego) declarada explícitamente como lectura del libro, no como filología.
+
+Delta: +260 palabras, +1.884 caracteres (injerto en pieza existente, sin piezas nuevas).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 273.265 | 45.832 | 88 |
+| **urtz.html** (URS+URIM) | **1.088.405** | **181.965** | **156** |
