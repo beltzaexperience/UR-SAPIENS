@@ -909,3 +909,21 @@ Delta: +452 palabras, +3.852 caracteres (injerto en pieza existente, sin piezas 
 | **urtz.html** (URS+URIM) | **1.129.448** | **186.468** | **160** |
 
 Q22 descongelado tras cerrarse. PERMAFROST recorregido: 354.427 caracteres, 68.667 palabras, 86 qanats.
+
+### Trigesimoprimera actualización — 23/09/2026 (misma sesión, auditoría Panibérico y reubicación de EL CONTINENTE EN TRÁNSITO / DE EKAIN A LOS URALES)
+
+Siguiendo el encargo de Luis tras cerrar Q22 —"busca en el continente ibérico piezas panibéricas que hemos puesto en cuencas sin enjundia suficiente para pertenecer únicamente a esa cuenca"—, se auditaron todas las piezas de Cara 1 Ibérico buscando material transversal mal encajado en una subsección de cuenca única.
+
+**Confirmadas mal encajadas y reubicadas.** **EL CONTINENTE EN TRÁNSITO** (Q73) y **DE EKAIN A LOS URALES** (Q74) estaban en Cantábrico, pero ambas desarrollan la misma raíz *tur-/*dur- panibérica que ya vertebra TUR: LA RAÍZ PREINDOEUROPEA · LA MATRIZ PANIBÉRICA (con la que Q22 se injertó en la actualización anterior) — el propio Continente en Tránsito es, de hecho, el destino de la rayuela cruzada de Q22 por el hilo Turia/Guadalaviar. No tiene sentido dejarlas repartidas entre una cuenca concreta y el capítulo panibérico que ya reconoce su mismo argumento.
+
+Se creó la subsección **○ Panibérico** al nivel de Cara 1 Ibérico (mismo formato que el resto de subcabeceras de Cara), colocada justo tras la cabecera de Cara 1 y antes de Euskal Herria. TUR: LA RAÍZ PREINDOEUROPEA · LA MATRIZ PANIBÉRICA, que ya vivía sin subsección propia en esa posición, pasa a ser la primera pieza de Panibérico; EL CONTINENTE EN TRÁNSITO y DE EKAIN A LOS URALES se trasladaron enteras, en bloque y sin modificar su contenido, desde Cantábrico hasta justo después de TUR, dentro de la nueva subsección.
+
+**Revisadas y confirmadas correctas, sin tocar.** CONCHEROS FILTBIÓNICO y ATLÁNTICO IBÉRICO (Cantábrico) sí tienen enjundia propia de esa cuenca concreta y se quedan donde estaban — CONCHEROS FILTBIÓNICO pasa a ser ahora la primera pieza de Cantábrico. Revisadas también 1794 · DOS CONTINENTES y GEOGRAFÍA-NO-PUREZA: no son piezas mal encajadas, son compost/injerto en espera de un punto de enganche declarado hacia una pieza sellada concreta — categoría distinta, fuera del alcance de esta auditoría.
+
+Operación de pura reubicación estructural: ningún carácter ni palabra de las piezas trasladadas cambió, así que no hay delta de caracteres/palabras/piezas que reflejar en el Marcador Fonomático — las cifras de Cara 1 Ibérico y del TOTAL DEL LIBRO siguen siendo las de la Trigésima actualización. Verificado balance de etiquetas completo tras el movimiento (190/190 `<details>`, resto de etiquetas cuadradas salvo el desfase estructural preexistente de `<div>` +1).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 314.308 | 50.335 | 92 |
+| **urtz.html** (URS+URIM) | **1.129.448** | **186.468** | **160** |
