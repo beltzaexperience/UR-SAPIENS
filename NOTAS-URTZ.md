@@ -578,3 +578,18 @@ Corrección de Luis el 22/09/26, tras encontrar BURDEL y FINURA (ambos extraído
 Corrección de Luis el 23/09/26. Durante el barrido PEOIM se estaba tratando `permafrost.html` como si tuviera la misma estructura geográfica (Cara 1 Ibérico, Cara 4 América...) que `urtz.html`, y se hablaba de "agotar Cara 7 y pasar a la siguiente". Eso es un error: el permafrost no tiene Caras, es una lista de qanats numerados por orden de llegada (Q01, Q02... Q101), sin agrupación geográfica ni temática propia. La categoría "Cara" es exclusivamente un concepto de `urtz.html` (dónde vive la pieza ya escrita), no del yacimiento origen.
 
 **Consecuencia práctica:** el barrido de qanats pendientes se hace recorriendo los Q por número, no por "slot geográfico agotado". El destino final de cada pieza nueva en `urtz.html` (qué Cara de URIM le corresponde) se sigue decidiendo por su contenido, como siempre — eso no cambia. Lo que cambia es cómo se elige QUÉ qanat tocar a continuación: por orden de Q, no por geografía del permafrost.
+
+---
+
+## REGLA 35 — DISECCIÓN CON BISTURÍ: CADA HILO DE UN Q SE ANALIZA POR SEPARADO COMO COMPOST, SEMILLA O PIEZA
+
+Corrección de Luis el 23/09/26, tras encontrar que la pieza LOCURA mezclaba cuatro hilos sin tesis compartida (loco/locus, Asur, Urmía, Valle de Arán) solo porque compartían qanat de origen y contenían "UR". No basta con separar por procedencia (como se hizo antes con NAGAS, dividida en "general" vs "vasca"): **cada hilo de un Q, sin excepción, se analiza uno a uno** con las herramientas que el PEOIM ya tiene (NORMA-METODO.md, sección XVIII) — Paso 2bis (¿se sostiene de principio a fin, o necesita más?), Paso 4 y 5 (Compost si hay pieza de origen con hueco reconocible; Semilla si no hay destino fijado todavía), Paso 4bis (injerto directo si la pieza de destino vive sin sellar en URIM; espera si está sellada).
+
+**Procedimiento fijado, para cada hilo de un Q:**
+1. ¿Ya existe ese contenido en algún sitio de `urtz.html`? Comprobar con cuidado — el caso NAGAS enseñó que un grep descuidado (ahogado en falsos positivos tipo "ciénaga") puede pasar por alto un solape real ya existente. Si existe, se descarta sin resto, no se reescribe.
+2. Si no existe: ¿tiene una pieza de destino concreta, viva y sin sellar en URIM? Injerto directo ahí mismo (Paso 4bis), sin esperar nada.
+3. Si la pieza de destino existe pero está sellada (☠ NO TOCAR!!!): Compost etiquetado, a la espera de autorización de Luis para reabrirla.
+4. Si no hay pieza de destino identificable pero el hilo se sostiene solo (etimología + desarrollo + cierre): pieza nueva propia, aunque sea pequeña.
+5. Si no se sostiene solo y no tiene destino fijado: Semilla, con su etiqueta &#9873; DESTINO explicando dónde podría encajar el día que se desarrolle (o "sin determinar" si de verdad no hay pista geográfica ni temática).
+
+**Nunca se agrupan hilos solo porque compartan qanat de origen o compartan el morfema UR.** Esa coincidencia es la excusa más fácil para fusionar cosas que no tienen ninguna tesis en común — y es exactamente el vicio que esta regla corrige.
