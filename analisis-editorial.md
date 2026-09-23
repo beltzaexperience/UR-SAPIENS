@@ -707,3 +707,29 @@ Balance de piezas: Turtle Island (-1), F-UR-IA (+3, de 1 a 4), URI (+1, de 1 a 2
 | URS | 815.140 | 136.133 | 68 |
 | URIM | 251.962 | 43.238 | 88 |
 | **urtz.html** (URS+URIM) | **1.067.102** | **179.371** | **156** |
+
+### Decimoctava actualización — 23/09/2026 (misma sesión, reversión F-UR-IA: Sodom/King Jammy/Futurismo vuelven a fusionarse)
+
+**Corrección sobre la corrección.** Revisando la Decimoséptima actualización, Luis concluyó que el paso de Sodom/King Jammy/Futurismo Sónico a Semillas fue en sí mismo un error: no son wordplay bundling sin tesis compartida, son **ilustraciones del mismo concepto** (F-UR-IA como "el dique que revienta") — exactamente el caso que PAO llama "conexión de tesis compartida", no "conexión de itinerario" ni bundling por coincidencia de qanat. Al reconocer esto, Luis pidió deshacer también la disección original de F-UR-IA de la Decimosexta actualización: las cuatro piezas vuelven a fusionarse en una sola, **F-UR-IA · SODOM · KING JAMMY · RIDDIM**, restaurada verbatim en su posición original (Etimología Insurgente, tras LOCURA). Se eliminó la pieza suelta F-UR-IA · EL DIQUE QUE REVIENTA y las tres Semillas de Sodom/King Jammy/Futurismo.
+
+Delta: Etimología Insurgente Semillas 4→1, Total2 24→21, Palabras 6.209→6.256. TOTAL DEL LIBRO: Semillas 26→23, Total2 156→153, Palabras 179.371→179.418, Pág 717→718.
+
+**Nota de método (posible matiz a Regla 35):** el error de la Decimoséptima actualización no fue aplicar mal el bisturí de la Regla 35 — fue confundir "coincidencia de qanat/morfema UR" (que sí exige separar, como Locura/Nagas) con "ilustración genuina de un concepto ya fijado" (que exige mantener unido, como F-UR-IA con sus ejemplos). Ambos casos parecían iguales en superficie (varios hilos bajo un mismo Q) pero son estructuralmente distintos. Pendiente de que Luis decida si quiere una aclaración explícita en NOTAS-URTZ.md.
+
+### Decimonovena actualización — 23/09/2026 (misma sesión, reversión URI · Río de la Plata: vuelven a fusionarse y se trasladan a Euskal Herria)
+
+Mismo patrón que la actualización anterior, aplicado a la otra disección de la Decimosexta actualización. Luis: "URI y Río de la Plata también van unidas... pertenecen a una misma historia, separarlas no cuadra." El hilo real no es "toponimia vasca" + "geografía sudamericana" sin relación — es un itinerario único: la raíz vasca *uri* (poblado) → el apellido Uribarri que cruza el Atlántico con la emigración vasca → el río americano (Paraná/Uruguay/Río de la Plata) al que ese apellido llegó. Fusionadas de nuevo en una sola pieza, **URI · RÍO DE LA PLATA · EL AGUA QUE CRUZÓ EL ATLÁNTICO**, con GLOSA única renumerada (4 notas) y sin las RAYUELAS cruzadas que ya no hacen falta.
+
+Además, Luis señaló que el domicilio correcto de la pieza fusionada es **Euskal Herria** (Cara 1 Ibérico), no Andes·Pacífico (Cara 4 América) — la pieza nace de una raíz vasca, el destino americano es el desarrollo del hilo, no su origen. Movida de Cara 4 América → Andes·Pacífico a Cara 1 Ibérico → Euskal Herria, insertada tras ESPATA-DANTZA.
+
+Delta de la fusión+traslado: -145 palabras, -1.685 caracteres (formato unificado más compacto: un solo título, un solo pie de firma, una GLOSA en vez de dos, sin RAYUELAS). Pieza única en vez de dos: -1 pieza neta.
+
+Filas actualizadas en ANÁLISIS DE CONSTRUCCIÓN: Cara 1 · Ibérico (URIM 16→17, Total2 30→31, Palabras 25.100→26.003, Pág 100→104); Cara 4 · América (URIM 5→3, Total2 12→10, Rayuelas 1→0, Palabras 15.579→14.531, Pág 62→58); TOTAL DEL LIBRO (URIM 54→53, Total2 153→152, Rayuelas 18→17, Palabras 179.418→179.273, Pág 718→717).
+
+**Nota pendiente, no resuelta ahora:** al revisar las filas granulares de la tabla ANÁLISIS DE CONSTRUCCIÓN se detectó que la subfila "Andes" (bajo Cara 4 América) ya mostraba solo 1 pieza URIM antes de este cambio — es decir, URI y Río de la Plata nunca se habían añadido a esa subfila granular cuando se crearon en la Decimosexta actualización (o antes). Es un desajuste preexistente, no causado por esta fusión, y no se ha corregido aquí porque exigiría auditar la fila granular completa (Andes, Euskal Herria, Cono Sur, etc.) con más calma. Queda anotado para una futura pasada de consistencia si Luis lo pide.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 250.405 | 43.140 | 84 |
+| **urtz.html** (URS+URIM) | **1.065.545** | **179.273** | **152** |
