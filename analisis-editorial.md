@@ -875,3 +875,21 @@ Sin cambios en urtz.html.
 Q20 (LA LEYENDA DEL TIEMPO · AVE SILICIO · DIGITALISMO INCIPIENTE · ANARCO-CATOLICISMO) resultó estar ya migrado por completo, de una sesión anterior a esta (fechado 20/09/26): sus tres hilos —Camarón/tiempo relativo, Anarco-catolicismo/Dujobory/Dorothy Day, Ave Silicio/Digitalismo— ya existen como Semillas/Compost en URIM, correctamente separados por no compartir argumento (misma conclusión a la que habría llegado el bisturí de esta sesión), uno de ellos incluso mejorado con una corrección bibliográfica (Cavanaugh, *Being Consumed*, no *El mito de la violencia religiosa*). Las tres piezas ya llevan nota "pendiente de que Luis decida si se incorpora y cómo" — sigue abierto, pero no es trabajo nuevo de Q20. Borrado del permafrost sin escribir pieza nueva.
 
 Sin cambios en urtz.html.
+
+### Vigesimonovena actualización — 23/09/2026 (misma sesión, Q21 — ÜRÜMQI)
+
+Q21 (ÜRÜMQI · YURUNGKASH · EL -QI AGENCIAL · MONGOL · UIGUR · JADE) es una sola tesis real: el UR sobrevive en los márgenes de los imperios (mongol, uigur, kazajo tienen UR; el mandarín no). Escrito como pieza única, **ÜRÜMQI · YURUNGKASH · EL UR EN LOS MÁRGENES DEL IMPERIO**, en Cara 3 Asia · Asia Central·Turán-Irán, junto a URMÍA.
+
+Ley Hammurabeltz: la lectura del permafrost sobre "-qi como sufijo agencial, el que pastorea" no es morfología mongola real. La etimología documentada es ürüm ("hermoso") + qi ("pradera") = "hermosa pradera" (mongol oirat, Herold J. Wiens), un topónimo descriptivo simple; hay también una hipótesis uigur alternativa (Yürüng-chin, "guarnición blanca"). Corregido: dato real primero, la lectura del "-qi anti-T, el custodio y no el dueño" queda explícitamente marcada como interpretación propia del libro, no como gramática documentada — mismo tratamiento que Locura/loco. Yurungkash/Karakash (Río de Jade Blanco/Negro, Kunlun) sí se confirmaron exactos.
+
+Rayuela a DE URBELTZ A URGORRI (Ourense/Elgorriaga), por la misma pareja blanco/negro en versión mineral, tal como el propio permafrost ya señalaba.
+
+Delta: +696 palabras, +6.713 caracteres, +1 pieza.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 310.456 | 49.883 | 92 |
+| **urtz.html** (URS+URIM) | **1.125.596** | **186.016** | **160** |
+
+Q21 descongelado tras cerrarse. PERMAFROST recorregido: 369.196 caracteres, 70.250 palabras, 87 qanats.
