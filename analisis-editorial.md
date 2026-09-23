@@ -673,3 +673,25 @@ Así se evita que alguien interprete las 217.850 palabras como tres libros, un l
 6. **Rojo por arquitectura:** una nueva pieza altera el recorrido del libro sin que se haya actualizado el mapa correspondiente en este documento.
 
 El estado por defecto es **NORMAL**. Pasa a **ALARMA** solo cuando una de estas seis condiciones esté activa y sin resolver — nunca por alcanzar, superar o acercarse a una cifra.
+
+### Decimosexta actualización — 23/09/2026 (misma sesión, auditoría de URIM bajo Regla 35)
+
+A petición de Luis, auditoría de las 85 piezas de URIM buscando: hilos bundled sin tesis compartida (patrón Locura/Nagas), redundancia con URS o con otras piezas de URIM, y colocación geográfica dudosa. Resultado y decisiones de Luis:
+
+**Borrado — redundancia confirmada.** COMPOST · TURTLE ISLAND estaba etiquetado "materia orgánica no utilizada, ya verificada", pero su contenido (13 placas/28 escamas, calendario lunar-mareal micmak) ya vivía íntegro dentro de EZUR · HEZUR · EL HUESO COMO DIQUE DE UR ("Ezur y la tortuga"). No era resto sin hogar: estaba duplicado. Eliminado sin resto (217 palabras, 1.423 caracteres).
+
+**Disección — cuatro piezas.** F-UR-IA · SODOM · KING JAMMY · RIDDIM mezclaba cuatro referencias sin tesis compartida (el concepto F-UR-IA, la banda alemana de thrash Sodom, el productor de dub King Jammy, y el "futurismo sónico" de Sun Ra/Hawkwind/Derribos Arias), unidas solo por el wordplay UR. Separado en cuatro piezas propias, cada una con su GLOSA y rayuelas cruzadas entre sí: **F-UR-IA · EL DIQUE QUE REVIENTA** (160 palabras), **SODOM · LA FURIA QUE EMERGE DE LA TUMBA** (184 palabras), **KING JAMMY · EL RIDDIM COMO RESISTENCIA** (180 palabras), **EL FUTURISMO SÓNICO** (143 palabras).
+
+**Disección — dos piezas.** URI · EL POBLADO Y EL RÍO QUE SE HACE MAR (escrita en esta misma sesión, antes de fijar la Regla 35) juntaba la toponimia vasca (Uri/Uribarri) con el Río de la Plata/Paraná/Iguazú argentinos, conectados solo por "el apellido vasco viajó". Separado en: **URI · EL POBLADO QUE NO OLVIDA SU NACEDERO** (Cara 4 América, 294 palabras) y **RÍO DE LA PLATA · EL AGUA QUE SE HACE MAR** (Cara 4 América, 439 palabras), con rayuela cruzada.
+
+**Verificado, sin acción.** CURACA · EL DIOS QUE HABLA: comprobado que no existe en URS (ni "Curaca", ni "Tupac Amaru", ni "Qeswachaka", ni "Condorcanqui" aparecen ahí) — no es redundante, se queda como está.
+
+**Aplazado, sin acción por ahora.** TURKANA · OURO SOGUI · WURO, ENDOROIS · OGIEK · SAN · LOLIONDO, SON-UR-AI y SÁJAURA · MAURITANIA · FUR quedan pendientes de una lectura completa antes de decidir si necesitan disección — Luis prefirió no tocarlas todavía.
+
+Balance de piezas: Turtle Island (-1), F-UR-IA (+3, de 1 a 4), URI (+1, de 1 a 2) = **+3 piezas netas**. Palabras netas: -217 (Turtle Island) +116 (F-UR-IA) +74 (URI) = **-27 palabras**.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 252.680 | 43.401 | 88 |
+| **urtz.html** (URS+URIM) | **1.067.820** | **179.534** | **156** |
