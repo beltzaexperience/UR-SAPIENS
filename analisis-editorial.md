@@ -811,3 +811,5 @@ Delta urtz.html: +884 palabras, +7.976 caracteres, +1 pieza (DE URBELTZ A URGORR
 | URIM | 281.241 | 46.716 | 89 |
 | **urtz.html** (URS+URIM) | **1.096.381** | **182.849** | **157** |
 | PERMAFROST (corregido) | 457.261 | 79.315 | 94 qanats |
+
+Q14 descongelado tras cerrarse (mismo patrón desde ahora: cada Q se borra del permafrost en cuanto queda resuelto). PERMAFROST recorregido: 445.976 caracteres, 78.151 palabras, 93 qanats.
