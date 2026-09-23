@@ -205,6 +205,20 @@ Nueva pieza: **URI · EL POBLADO Y EL RÍO QUE SE HACE MAR**, URIM, Cara 4 · Am
 | URIM | 250.734 | 43.022 | 80 |
 | **urtz.html** (URS+URIM) | **1.065.874** | **179.155** | **148** |
 
+### Decimotercera actualización — 23/09/2026 (misma sesión, LOCURA)
+
+Décima extracción PEOIM, primera con el criterio corregido (Regla 34): se avanzó por Q10, siguiente en orden tras Q09. Diagnóstico rápido: Q06 (Uros del Titicaca) ya absorbido en pieza existente.
+
+**LOCURA · ASUR · URMÍA** (QANAT-10) resultó limpio. Hallazgo Hammurabeltz relevante: el propio qanat presentaba como «etimología oficial» que <em>loco</em> viene del latín <em>locus</em> — eso es falso. Corominas descarta esa derivación por poco convincente; la hipótesis hoy más aceptada (tampoco cerrada) es el árabe <em>láwqa</em>/<em>álwaq</em> («tonto»). Se corrigió explícitamente en el cuerpo del texto: <em>loco</em> es, en realidad, una palabra de etimología incierta y disputada, no resuelta a favor de <em>locus</em>. Confirmados: Urmía (neoarameo <em>ur</em> «ciudad» + <em>mia</em> «agua», con hipótesis alternativa indoirania <em>urmi-</em> «ola»), la etimología de Asur/Aššur como «el que dirige» (no hídrica en origen, aunque la historia asiria sí es de militarización del agua), y Valle de Arán como pleonasma real documentado.
+
+Nueva pieza: **LOCURA · EL AGUA QUE FALTA Y EL AGUA QUE SOBRA**, URIM, sección Etimología Insurgente, 644 palabras.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 254.569 | 43.666 | 81 |
+| **urtz.html** (URS+URIM) | **1.069.709** | **179.799** | **149** |
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
