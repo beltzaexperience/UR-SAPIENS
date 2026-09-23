@@ -733,3 +733,26 @@ Filas actualizadas en ANÁLISIS DE CONSTRUCCIÓN: Cara 1 · Ibérico (URIM 16→
 | URS | 815.140 | 136.133 | 68 |
 | URIM | 250.405 | 43.140 | 84 |
 | **urtz.html** (URS+URIM) | **1.065.545** | **179.273** | **152** |
+
+### Vigésima actualización — 23/09/2026 (misma sesión, Q12 — bisturí y reparto por Luis)
+
+Siguiendo el orden por Q del permafrost (Regla 34), se abrió el Q12 (UR-OBORO · UMAMI · GA-RU-M · C-UR-VA · EL BEDUINO DE LA NOCHE) y se presentó desmenuzado en seis hilos (Regla 35) antes de escribir nada. Reparto decidido por Luis:
+
+- **UR-OBORO** (niebla japonesa, agua indecisa entre líquido y gas) → Etimología Insurgente.
+- **UMAMI** → Semilla ("no tiene UR, semilla" — no defiende ninguna lectura de palabra, no es EI).
+- **GA-RU-M** → Cantábrico, en principio; pero la Ley Hammurabeltz encontró que el garum romano se producía sobre todo en la Bética (Cádiz, Baelo Claudia), no en el Cantábrico —la única excepción norteña documentada es Gijón—, así que quedó también en Semillas con el dato corregido, pendiente de decidir destino real.
+- **C-UR-VA** (el meandro contra la T, *curvus* latino) → Etimología Insurgente.
+- **EL BEDUINO DE LA NOCHE** → revisado antes de colocar: reutiliza el concepto NAGAS de Q11 ("negocia con los nagas del pozo"), cuyo hilo general —los nagas como guardianes del UR libre en hinduismo/budismo/jainismo— quedó pendiente sin escribir cuando Q11 se diseccionó en ESPATA-DANTZA (con una rayuela ya apuntando a él). Además, la Ley Hammurabeltz corrigió el mito de que el camello almacena agua en la joroba: almacena grasa, que metaboliza en agua. Luis: las tres (Garum, Beduino, Nagas) a Semillas por no estar suficientemente desarrolladas.
+- **AG-UR EN MINÚSCULAS** (mayúsculas/teoría vs. minúsculas/intuición) → Semilla — no Interludio: "los interludios son cosa muy seria", categoría reservada para piezas de mayor calado.
+
+Resultado: 2 piezas nuevas en Etimología Insurgente (UR-OBORO, C-UR-VA) y 5 Semillas nuevas (UMAMI, GA-RU-M —con el dato romano corregido—, EL BEDUINO DE LA NOCHE —con el mito del camello corregido—, AG-UR EN MINÚSCULAS, y NAGAS, esta última cerrando el hilo pendiente de Q11 y enlazando por DESTINO tanto con ESPATA-DANTZA como con EL BEDUINO). Delta: +1.646 palabras, +15.550 caracteres, +7 piezas (+2 URIM placed, +5 Semillas).
+
+**Nota de método, no resuelta.** El material original de Q11 comparaba a los nagas con "los moros de la Reconquista" y "las brujas de los aquelarres vascos" como formas históricas de la misma erradicación. Se dejó fuera de la semilla NAGAS por ser una equivalencia sensible (persecución religiosa/étnica equiparada a plaga) que exige criterio editorial explícito de Luis antes de fijarse, no una decisión que deba tomar en solitario.
+
+**Nota de alcance, igual que en la actualización anterior.** Las cinco semillas nuevas no tienen destino de subsección fijo (o están explícitamente marcadas "revisar antes de desarrollar"), así que no se han forzado en las filas granulares de Cara/subsección de la tabla ANÁLISIS DE CONSTRUCCIÓN — solo se reflejan en TOTAL DEL LIBRO y, las dos piezas EI, en la fila Etimología Insurgente.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 265.955 | 44.786 | 91 |
+| **urtz.html** (URS+URIM) | **1.081.095** | **180.919** | **159** |
