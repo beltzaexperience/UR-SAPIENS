@@ -831,3 +831,21 @@ Delta: +1.080 palabras, +9.529 caracteres, +1 pieza.
 | **urtz.html** (URS+URIM) | **1.105.910** | **183.929** | **158** |
 
 Q15 descongelado tras cerrarse. PERMAFROST recorregido: 434.794 caracteres, 76.940 palabras, 92 qanats.
+
+### Vigesimoquinta actualización — 23/09/2026 (misma sesión, Q16 — EL MÉTODO INSURRECTO)
+
+Q16 (HAMM-UR/A-BI · D-UR-RUTI · G-UR · B-UR · DR. ALIMANTADO) es, a diferencia de Q14/Q15, un caso limpio dentro de una misma categoría: no hay geografías distintas que pesar, hay una sola técnica declarada explícitamente en la primera frase del propio texto ("el método insurrecto... parte del significado... y reescribe los nombres") aplicada a varios nombres propios (Durruti, Hammurabi, Dr. Alimantado) y dos operadores abstractos (G-UR, B-UR). Mismo patrón que Q94 (BELDUR/ZUHUR/URDURI/ZIUR): una técnica, varios ejemplos, no coincidencia de qanat. Escrito como pieza única, **EL MÉTODO INSURRECTO · DURRUTI, HAMMURABI Y EL DR. ALIMANTADO**, en Etimología Insurgente.
+
+Ley Hammurabeltz: verificadas las leyes §53–56 del Código de Hammurabi (traducción de L. W. King: "diez gur de grano por cada bur de tierra" en el §56, coincide) y los datos de Dr. Alimantado (Winston Thompson, *Best Dressed Chicken in Town* 1973–1978, *I Killed the Barber* sobre *Ali Baba* de John Holt) — sin correcciones, todo confirmado.
+
+Rayuela ya integrada en el propio texto de origen, señalando al Prólogo (la pieza pub-urabe/"UR-be vs UR" ya migrada) como el desarrollo completo del mecanismo de usurpación; aquí solo su nombre.
+
+Delta: +877 palabras, +8.538 caracteres, +1 pieza.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 299.308 | 48.673 | 91 |
+| **urtz.html** (URS+URIM) | **1.114.448** | **184.806** | **159** |
+
+Q16 descongelado tras cerrarse. PERMAFROST recorregido: 418.652 caracteres, 75.348 palabras, 91 qanats.
