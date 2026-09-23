@@ -695,3 +695,15 @@ Balance de piezas: Turtle Island (-1), F-UR-IA (+3, de 1 a 4), URI (+1, de 1 a 2
 | URS | 815.140 | 136.133 | 68 |
 | URIM | 252.680 | 43.401 | 88 |
 | **urtz.html** (URS+URIM) | **1.067.820** | **179.534** | **156** |
+
+### Decimoséptima actualización — 23/09/2026 (misma sesión, corrección de la auditoría + Sodom/King Jammy/Futurismo a Semillas)
+
+**Corrección de criterio, Sodom/King Jammy/Futurismo Sónico.** Luis señaló que estas tres piezas, tal como quedaron tras la disección de F-UR-IA, no son Etimología Insurgente: no defienden una lectura de palabra propia contra la academia, ilustran un concepto (F-UR-IA) ya fijado en otra pieza. Reclasificadas como Semillas, con etiqueta &#9873; DESTINO señalando que son ilustraciones de F-UR-IA. F-UR-IA se queda sola como única pieza de Etimología Insurgente de esa familia. Delta: -164 palabras, -730 caracteres (el formato Semilla es más compacto: sin GLOSA numerada ni pie de firma propio).
+
+**Fallo de límites descubierto y corregido.** La comprobación "¿Curaca está en URS?" de la actualización anterior era errónea: usaba `content.find('go-fonomatico')`, que encuentra el enlace de la barra de navegación superior (casi al principio del archivo) en vez de la anclaña real de la sección (`<a id="go-fonomatico">`, mucho más abajo). Con el punto de corte correcto: **CURACA sí está en URS** (Cara 4 América → Andes · Pacífico) — dato corregido, disculpas por el error. El mismo fallo contaminó la auditoría original de "85 piezas de URIM": de los cuatro casos "aplazados sin tocar", **TURKANA · OURO SOGUI · WURO, ENDOROIS · OGIEK · SAN · LOLIONDO y SÁJAURA · MAURITANIA · FUR están en realidad en URS**, no en URIM — nunca debieron entrar en una auditoría de URIM. Solo **SON-UR-AI** era genuinamente URIM. No se toca ninguna de las tres piezas de URS sin autorización explícita de Luis, dado que URS tiene su propia jerarquía de autoridad (piezas selladas, ☠ NO TOCAR) distinta de la de URIM.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 251.962 | 43.238 | 88 |
+| **urtz.html** (URS+URIM) | **1.067.102** | **179.371** | **156** |
