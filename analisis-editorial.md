@@ -189,6 +189,22 @@ Nueva pieza: **GONZALO DE MONDOÑEDO · EL AGUA QUE NO SE PUEDE COBRAR**, URIM, 
 | URIM | 246.914 | 42.363 | 79 |
 | **urtz.html** (URS+URIM) | **1.062.054** | **178.496** | **147** |
 
+### Duodécima actualización — 23/09/2026 (misma sesión, URI, y corrección de criterio)
+
+Luis corrigió un supuesto de trabajo: `permafrost.html` no está organizado por Caras geográficas —eso es una categoría de `urtz.html`, no del yacimiento—; los qanats son simplemente Q's por orden de llegada. A partir de aquí el barrido PEOIM recorre los qanats por número, no por «Cara agotada, paso a la siguiente». El destino de cada pieza nueva en `urtz.html` sigue decidiéndose por su contenido, como siempre.
+
+Diagnóstico rápido de varios Q bajos: Q06 (Uros del Titicaca) ya absorbido en una pieza existente sobre el lago Titicaca; el resto del barrido continúa.
+
+**URI** (QANAT-09) resultó limpio. Verificación Hammurabeltz con dos correcciones de peso: la relación hiri/uri (poblado vasco) con ur (agua) no tiene respaldo filológico establecido —se mantiene como método declarado del libro, no como dato—; y la lectura del propio qanat «Argentina = La-UR-entina» ni siquiera contiene la secuencia UR dentro de la palabra real (Argentina no lleva esas letras juntas en ningún punto) — es un pareado inventado para sonar parecido, más débil que cualquier otro juego de palabras usado hasta ahora en el libro, así que se marca sin ambigüedad como licencia poética y se sustituye por el dato real: Argentina viene de argentum (plata), por el Río de la Plata. Se confirmaron en cambio Paraná (pará + ná, «pariente del mar», tupí-guaraní) e Iguazú (y + guazú, «agua grande», guaraní), y el dato del Río de la Plata como estuario más ancho del mundo (hasta 220 km).
+
+Nueva pieza: **URI · EL POBLADO Y EL RÍO QUE SE HACE MAR**, URIM, Cara 4 · América, 659 palabras.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 250.734 | 43.022 | 80 |
+| **urtz.html** (URS+URIM) | **1.065.874** | **179.155** | **148** |
+
 ### Niveles de certeza en afirmaciones sobre catálogos externos
 
 | Tipo de información | Ejemplo | Tratamiento |
