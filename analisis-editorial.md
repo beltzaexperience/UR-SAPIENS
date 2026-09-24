@@ -947,3 +947,25 @@ Delta: +364 palabras, +3.443 caracteres (injerto en pieza existente, sin piezas 
 | **TOTAL DEL PROYECTO** | **1.480.220** | **254.236** | **244 unidades** |
 
 Q23 descongelado tras cerrarse.
+
+### Trigesimotercera actualización — 24/09/2026 (misma sesión, Q24 — CAP-T-UR-A · RUP-T-UR-A · VER-D-UR-A, y criterio de cuenca vs. transversal)
+
+Luis fijó un criterio permanente, aplicable desde ahora en cada Q: al rellenar huecos, comprobar si el material acaba dando enjundia propia a una cuenca concreta (y entonces coloca ahí) o si sigue necesitando el resto del continente para sostenerse (y entonces se queda en Panibérico o como semilla). No aplica a Q24 por no ser pieza geográfica —caso de Etimología Insurgente pura—, pero queda como criterio activo para las piezas de Cara que vengan.
+
+**Q24** (CAP-T-UR-A · RUP-T-UR-A · VER-D-UR-A · CAPTURA URBIS) es, como EL MÉTODO INSURRECTO (Q16/Q18) y F-UR-IA, una sola técnica —la T sumeria entre el prefijo y el UR— aplicada a tres palabras (captura, ruptura, verdura), no una coincidencia de qanat: se escribió como pieza única, sin bisturí. Sin solape con nada existente en `urtz.html` (verificado por término). Nueva pieza en Etimología Insurgente, junto a EL MÉTODO INSURRECTO.
+
+**Correcciones Ley Hammurabeltz.** (1) Captūra (capere) y ruptūra (rumpere) son morfología latina real y verificada. Pero «Captura Urbis», que el qanat presentaba como si fuera terminología jurídica romana documentada, no se encontró atestiguada en ninguna fuente de derecho romano —se reescribió explícitamente como lectura del libro, no como fórmula histórica real, para no presentar como dato lo que es interpretación—. (2) «Rumpere flumen» tampoco se encontró como colocación clásica fija; sí está documentado «rumpere viam/iter» («forzar un paso») como uso real, y se sustituyó el ejemplo por ese, con la misma lógica argumental intacta. (3) Viridis confirmado con creces: no solo «verde» sino «joven, fresco, vivo, vigoroso» (Corominas), y verdura confirmado como verde + -ura — la etimología central de la pieza, la más sólida de las tres, se mantuvo tal cual.
+
+Rayuela cruzada a EL MÉTODO INSURRECTO (misma T sumeria) y a Ibero Intros · CUL-T-UR/A · LEC-T-UR/A (URS, misma familia del sufijo -ura, que esta pieza extiende con tres miembros que esa no tenía).
+
+Delta: +597 palabras, +7.649 caracteres, +1 pieza. Fila actualizada en ANÁLISIS DE CONSTRUCCIÓN: Etimología Insurgente (URIM 18→19, Total 23→24, Total2 24→25, Palabras 8.258→8.855, Pág 33→35); TOTAL DEL LIBRO (URIM 59→60, Total 127→128, Total2 160→161, Palabras 186.832→187.429, Pág 747→750).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 325.400 | 51.296 | 93 |
+| **urtz.html** (URS+URIM) | **1.140.540** | **187.429** | **161** |
+| PERMAFROST | 342.964 | 66.582 | 83 qanats |
+| **TOTAL DEL PROYECTO** | **1.483.504** | **254.011** | **244 unidades** |
+
+Q24 descongelado tras cerrarse.
