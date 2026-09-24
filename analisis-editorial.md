@@ -1068,3 +1068,24 @@ Delta: -60 palabras (revertido el injerto en DE URBELTZ A URGORRI) +116 palabras
 | **urtz.html** (URS+URIM) | **1.154.854** | **188.570** | **164** |
 | PERMAFROST | 309.109 | 60.181 | 78 qanats |
 | **TOTAL DEL PROYECTO** | **1.463.963** | **248.751** | **242 unidades** |
+
+### Trigesimonovena actualización — 24/09/2026 (misma sesión, separación Ourense/Elgorriaga)
+
+Confirmada por Luis la separación propuesta en la actualización anterior. Ejecutada:
+
+- **Ourense** se queda en Atlántico, renombrada **B-UR-GA · OURENSE · LAS AGUAS QUE ARDEN (O LAS AGUAS DE ORO)**: se retiró la sección Elgorriaga completa y la sección "De Urbeltz a Urgorri" que unía ambas por la coincidencia mineral (el propio texto admitía «no tienen nada más en común que eso»), y la GLOSA quedó con una sola nota (Ourense). Se dejó una frase señalando la coincidencia química como dato real, no como argumento.
+- **Elgorriaga** se trasladó, ampliado, a **URBELTZ · EL BAILE QUE MATA LO QUE MATA** (Euskal Herria), en la sección "Los nagas" donde ya vivía la mención de una frase (Decimotercera actualización). Se desarrolló con la etimología real (*elorri* + *-aga*, «el lugar del espino») y la nota de la coincidencia ferruginosa con Ourense, marcada explícitamente como coincidencia sin relación argumental —para no reconstruir el mismo error de unión falsa dentro de la propia expansión—.
+- Actualizada la data-s de ambas piezas. Corregida la rayuela de ÜRÜMQI (Cara 3 Asia), que apuntaba a la pieza fusionada por su nombre antiguo; ahora apunta a las dos piezas nuevas por separado.
+- Revisada la pieza sellada de URS «MESOPOTAMIA · LEVANTE · LA PRESA ORAL Y EL DIAPIRO PRIMORDIAL» (☠ NO TOCAR), que también menciona Elgorriaga comparándola con el Mar Muerto: no se tocó, por estar sellada, y no queda afectada por la separación —su comparación es autocontenida y no depende de la pareja Ourense/Elgorriaga—.
+
+Delta: -264 palabras (Ourense, tras el recorte) +85 palabras (URBELTZ, injerto ampliado) +20 palabras (rayuela ÜRÜMQI) = **-159 palabras netas, sin piezas nuevas ni perdidas**. Filas actualizadas: Cara 1 · Ibérico (Palabras 30.386→30.207, Pág 122→121); Cara 3 · Asia (Palabras 24.095→24.115); TOTAL DEL LIBRO (Palabras 188.570→188.411).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 337.660 | 52.278 | 96 |
+| **urtz.html** (URS+URIM) | **1.152.800** | **188.411** | **164** |
+| PERMAFROST | 309.109 | 60.181 | 78 qanats |
+| **TOTAL DEL PROYECTO** | **1.461.909** | **248.592** | **242 unidades** |
+
+Con esto queda resuelta la auditoría de Atlántico iniciada dos actualizaciones atrás: las cuatro piezas de esa subsección tienen ahora coherencia geográfica real, y Elgorriaga vive donde tiene tesis compartida genuina, no coincidencia.
