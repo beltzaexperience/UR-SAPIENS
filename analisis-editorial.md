@@ -1045,3 +1045,26 @@ Delta final: +60 palabras, +59 caracteres netos (injerto en pieza existente, sin
 | **TOTAL DEL PROYECTO** | **1.462.578** | **248.695** | **241 unidades** |
 
 Q30 descongelado tras cerrarse.
+
+### Trigesimoctava actualización — 24/09/2026 (misma sesión, auditoría de «Atlántico» y segunda corrección sobre Urederra/Urbasa/Kakueta)
+
+Luis pidió resolver antes de seguir el barrido: la reubicación de la actualización anterior seguía sin convencerle («tiene pinta de Panibérico»). Se auditaron las cuatro piezas de la subsección URIM Atlántico, una por una, completas:
+
+- **ATLÁNTICO IBÉRICO** — Huelva/Guadiana + Estrecho de Gibraltar/Mzora (Marruecos): región real única, el Estrecho como unión es la propia tesis, no coincidencia. Se queda igual.
+- **GONZALO DE MONDOÑEDO** — Galicia pura. Se queda igual.
+- **VESTVEGR** — Escandinavia → Galicia → Urdax/Zugarramurdi (Navarra): transversal por diseño, no por casualidad —es un itinerario real (el Camino de Santiago pasa por el valle del Baztan hacia Urdax), la tesis del propio texto es el viaje—. Categoría distinta de Panibérico: transversal por tesis de itinerario. Se queda igual, marcada explícitamente como tal para no reabrir la duda sin este contexto.
+- **DE URBELTZ A URGORRI** — el problema real: Ourense (Galicia) y Elgorriaga (Navarra) solo comparten una casualidad química (agua ferruginosa que se oxida), no una tesis ni un itinerario. Mismo patrón que ya se separó en Cantábrico.
+
+**Segunda corrección, sobre la propia propuesta de la actualización anterior.** Luis pidió explicar cómo se unían exactamente Elgorriaga + Urederra + Urbasa + Kakueta como injerto en URBELTZ, y esa pregunta obligó a comprobar algo que debió comprobarse antes: se encargó una verificación específica (Ley Hammurabeltz) de si existe alguna leyenda documentada de lamiak, mairuak o sorginak en Urederra, en la sierra de Urbasa o en la garganta de Kakueta. Resultado: **no, en ninguno de los tres** —ni siquiera la Enciclopedia Auñamendi, la referencia seria en mitología vasca, recoge nada así para Kakueta—. Elgorriaga sí tiene una lamia real documentada bajo el espino; Urederra/Urbasa/Kakueta son accidentes hidrogeológicos reales sin mitología asociada. Injertarlos en URBELTZ habría sido el mismo error que Mesopotamia, solo que mejor disfrazado porque esta vez la geografía sí coincidía.
+
+**Resolución.** Urederra/Urbasa/Kakueta se sacaron de DE URBELTZ A URGORRI (donde habían quedado tras la corrección anterior) y se convirtieron en una Semilla nueva, **UREDERRA · URBASA · KAKUETA** (Cara 1 Ibérico → Euskal Herria, karst pirenaico occidental — sin pieza propia todavía), con nota de verificación explícita dejando constancia de que no hay leyenda asociada, para que quien la desarrolle en el futuro no dé por hecho una conexión mitológica que no existe. La separación de Ourense/Elgorriaga en DE URBELTZ A URGORRI (Ourense → Atlántico; Elgorriaga → Euskal Herria/URBELTZ) queda pendiente de confirmación explícita de Luis, todavía no ejecutada.
+
+Delta: -60 palabras (revertido el injerto en DE URBELTZ A URGORRI) +116 palabras (nueva Semilla) = **+56 palabras netas, +1 pieza (Semilla)**. Filas actualizadas: Cara 1 · Ibérico (Semillas 5→6, Total2 33→34, Palabras 30.330→30.386, Pág 121→122); TOTAL DEL LIBRO (Semillas 25→26, Total2 163→164, Palabras 188.514→188.570).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 339.714 | 52.437 | 96 |
+| **urtz.html** (URS+URIM) | **1.154.854** | **188.570** | **164** |
+| PERMAFROST | 309.109 | 60.181 | 78 qanats |
+| **TOTAL DEL PROYECTO** | **1.463.963** | **248.751** | **242 unidades** |
