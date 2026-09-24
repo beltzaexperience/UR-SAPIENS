@@ -1002,4 +1002,26 @@ Al abrir Q26 (pedido por Luis) se comprobó que ya estaba descongelado desde el 
 | PERMAFROST | 323.404 | 62.904 | 80 qanats |
 | **TOTAL DEL PROYECTO** | **1.463.944** | **250.333** | **241 unidades** |
 
-Q28 y Q29 descongelados. Siguiente en orden real: Q27, en curso — bisturí aplicado y hallazgo Hammurabeltz importante (UR=reloj escandinavo es homofonía, no dato real) presentado a Luis, pendiente de confirmación antes de escribir.
+Q28 y Q29 descongelados.
+
+### Trigesimosexta actualización — 24/09/2026 (misma sesión, Q27 — HAM/HAMBURGO/FRANKFURT, injerto en Camarón y en CAP-T-UR-A)
+
+Q27 (HAM-M-UR-A · HAMBURGO · FRANKFURT · UR=RELOJ · CAMARÓN) se diseccionó en tres hilos sin tesis compartida: el cluster alemán (geografía única), UR=reloj/Camarón (enlaza con una semilla ya existente y marcada «pendiente de que Luis decida»), y DESEMBOCAD-UR-A (wordplay puro, sin geografía). Luis confirmó la propuesta completa.
+
+**HAM · HAMBURGO · FRANKFURT** — nueva pieza en Cara 2 Europa → Europa Central · Rin-Danubio (primera pieza URIM de esa subsección). Hammurabeltz con dos correcciones de peso: (1) el qanat presentaba «hamma = curva del río + corva del cuerpo + jamón, tres significados que son una sola geometría» como dato cerrado; la raíz *hamm* (inglés antiguo, «tierra en la curva de un río») es real, pero el *ham* cárnico es etimología completamente distinta y no emparentada —se mantiene la lectura zahorí, marcada como tal—. (2) El significado exacto de *hamma-* en Hammaburg (808 d.C., Carlomagno) está en disputa real entre las fuentes (¿ángulo? ¿lengua de tierra?), no cerrado como decía el qanat; se corrigió a esa incertidumbre. Frankfurt (*Franconovurd*/*Vadum Francorum*, 794 d.C.) se confirmó sólido, sin cambios.
+
+**Hallazgo Hammurabeltz principal, el que sostenía el peso emocional del qanat:** la lectura de que *ur* = reloj (danés, sueco, noruego) conecta con el UR = agua del libro es **falsa**. El *ur* escandinavo del reloj desciende del bajo alemán medio *ūr* ← neerlandés medio *ūre* ← francés antiguo *houre* ← latín *hora* ← griego *hṓra* —misma familia que «hora», sin relación alguna con el fonema UR del libro—. Es homofonía pura, tratada con el mismo criterio que Locura/Urmía/Ürümqi/Ampurdán. No se desarrolló la pieza Camarón —sigue pendiente de que Luis decida, como ya estaba—, pero se injertó una nota de verificación breve en la semilla existente para que la corrección quede registrada antes de que se desarrolle.
+
+**DESEMBOCAD-UR-A** — injertada como cuarta palabra en la pieza CAP-T-UR-A · RUP-T-UR-A · VER-D-UR-A (Etimología Insurgente), misma familia del sufijo -ura, única de las cuatro donde el sufijo cierra un acto de liberación en vez de control. Actualizada la intro de la pieza (tres→cuatro palabras) y la GLOSA.
+
+Delta: +418 palabras / pieza nueva (HAM) + 98 palabras injerto (Camarón) + 109 palabras injerto (Desembocadura + Glosa) = **+625 palabras, +7.529 caracteres, +1 pieza**. Filas actualizadas: Europa Central (URIM 0→1, Total 2→3, Palabras 4.035→4.453, Pág 16→18); Cara 2 · Europa (URIM 3→4, Total 12→13, Palabras 20.801→21.219, Pág 83→85); Etimología Insurgente (Palabras 8.855→8.964, Pág 35→36); TOTAL DEL LIBRO (URIM 61→62, Total 129→130, Palabras 187.829→188.454, Pág 751→754).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 337.846 | 52.321 | 95 |
+| **urtz.html** (URS+URIM) | **1.152.986** | **188.454** | **163** |
+| PERMAFROST | 316.447 | 61.540 | 79 qanats |
+| **TOTAL DEL PROYECTO** | **1.469.433** | **249.994** | **242 unidades** |
+
+Q27 descongelado tras cerrarse.
