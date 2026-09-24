@@ -969,3 +969,23 @@ Delta: +597 palabras, +7.649 caracteres, +1 pieza. Fila actualizada en ANÁLISIS
 | **TOTAL DEL PROYECTO** | **1.483.504** | **254.011** | **244 unidades** |
 
 Q24 descongelado tras cerrarse.
+
+### Trigesimocuarta actualización — 24/09/2026 (misma sesión, Q25 — LIGURES, y bisturí sobre material ya absorbido)
+
+Q25 (BUR-DO · BUR-DEL · BUR-RAE · LIGURES · EL UR DE LOS MÁRGENES) es, con diferencia, el Q con más redundancia encontrada hasta ahora en el barrido. Auditoría previa (Paso 1 PEOIM): los hilos BUR-GO/BUR-DO y BUR-DEL —la oposición margen derecha/izquierda, burdo &lt; latín *burdus* «bastardo», el fráncico *bord*, Donostia/baigorri— son, frase por frase, el mismo desarrollo que la pieza ya existente BURDEL · EL AGUA QUE EL BURGO USA SIN RECONOCER (Sexta actualización). Los hilos BUR-RAE y BUR-BUJA tampoco eran nuevos: la propia caja de verificación de esa pieza BURDEL ya los examinó y los dejó marcados explícitamente como «licencia poética, no etimología» —no hay parentesco real entre burrae/burbuja y burdel—, así que reabrirlos aquí habría sido contradecir una verificación ya hecha, no aportar nada. Los cuatro hilos se descartaron sin reescribir.
+
+**LIGURES** sí resultó limpio: pueblo real del noroeste de Italia/sureste de Francia, sin relación etimológica con el resto del qanat más allá de compartir el concepto de «margen bárbaro». Escrito como pieza pequeña independiente, **LIGURES · EL NOMBRE QUE NO SE PUDO BORRAR** — primera pieza de la subsección URIM Europa Latina · Francia-Italia-Grecia, hasta ahora vacía (la misma que ya esperaba a CHASSENÉE, todavía sin desarrollar). Aplicando el criterio de cuenca fijado por Luis: es material de una sola región, no transversal, así que entra directamente en su cuenca sin pasar por Panibérico.
+
+**Correcciones Ley Hammurabeltz.** (1) Bárbaro confirmado como onomatopeya griega real (*bar-bar*, habla ininteligible), acuñada primero para los persas y luego generalizada —dato que el qanat no traía—. (2) Hallazgo que mejora el original: Hesíodo agrupa a ligures, etíopes y escitas como los tres pueblos bárbaros más antiguos citados por la tradición griega —dato verificado, ausente del qanat—. (3) El recurso al hierro se corrigió: el qanat hablaba en genérico de «minas de hierro» como botín de conquista; lo verificable es distinto y mejor —tras someter a los ligures, el cónsul Postumio los desarmó dejándoles solo herramientas de hierro agrícolas—. (4) Corrección de fondo, no solo de dato: el propio qanat afirmaba que el nombre Liguria era «el nombre del conquistador conservado para que pareciera que los ligures lo habían puesto» —eso es exactamente al revés: Liguria es el propio etnónimo de los ligures, y sobrevivió intacto a la conquista romana en vez de ser borrado por ella—. Se reescribió como la excepción honesta al patrón habitual del palimpsesto, no forzando el argumento de siempre donde el dato real dice lo contrario.
+
+Delta: +400 palabras, +4.917 caracteres, +1 pieza. Filas actualizadas: Cara 2 · Europa (URIM 2→3, Total 11→12, Total2 15→16, Palabras 20.401→20.801, Pág 82→83); Europa Latina (URIM 0→1, Total 4→5, Total2 4→5, Palabras 7.941→8.341, Pág 32→33, %Sello 100%→80%); TOTAL DEL LIBRO (URIM 60→61, Total 128→129, Total2 161→162, Palabras 187.429→187.829, Pág 750→751).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 330.317 | 51.696 | 94 |
+| **urtz.html** (URS+URIM) | **1.145.457** | **187.829** | **162** |
+| PERMAFROST | 338.012 | 65.675 | 82 qanats |
+| **TOTAL DEL PROYECTO** | **1.483.469** | **253.504** | **244 unidades** |
+
+Q25 descongelado tras cerrarse.
