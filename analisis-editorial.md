@@ -1025,3 +1025,21 @@ Delta: +418 palabras / pieza nueva (HAM) + 98 palabras injerto (Camarón) + 109 
 | **TOTAL DEL PROYECTO** | **1.469.433** | **249.994** | **242 unidades** |
 
 Q27 descongelado tras cerrarse.
+
+### Trigesimoséptima actualización — 24/09/2026 (misma sesión, Q30 — sin resto salvo un injerto real)
+
+Q30 (ENGURR · ENKI · ENBILURLUR · DILMUN · NINHURSAG · SCHMANDT-BESSERAT) resultó estar casi por completo absorbido ya: la pieza MESOPOTAMIA PROFUNDA (URIM, Mesopotamia·Levante, sin sellar) cubre línea por línea el océano cósmico Engurr, la teoría de Schmandt-Besserat (tokens/bullae/primera escritura), el litigio Lagash-Umma, los burócratas de Enki (Enbilulu/Ishkur/Enkimdu), Dilmun, Ninhursag/Ninti/Eva, e incluso los dos hilos que Q30 dejaba en su nota de SEMILLAS como pendientes para otros depósitos —Anzu/Tablillas de los Destinos (→ dep. 31) y el paralelo Ishkur/Urtzi— también estaban ya escritos.
+
+Lo único genuinamente nuevo: el cierre de la lectura zahorí de Ninhursag («Señora del Nacedero») con dos lugares reales del País Vasco-Navarro que el qanat aportaba y la pieza existente no tenía —el nacedero del Urederra («ur ederra», agua hermosa) en la sierra de Urbasa, y la garganta de Kakueta—. Verificación Hammurabeltz: ambos son reales y están bien documentados; corregida la ubicación de Kakueta, que el qanat daba como «Navarra» y en realidad está en Zuberoa (Sainte-Engrâce, Francia), justo al otro lado de la frontera con Navarra. Injertada una frase de cierre en el párrafo de Ninhursag. De paso, corregida una errata preexistente en esa misma pieza («mil enios» → «miles de años»), sin relación con este qanat.
+
+Delta: +49 palabras, +424 caracteres (injerto en pieza existente, sin piezas nuevas). Filas actualizadas: Mesopotamia (Palabras 3.355→3.404, Pág 13→14); Cara 3 · Asia (Palabras 24.046→24.095); TOTAL DEL LIBRO (Palabras 188.454→188.503).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 338.270 | 52.370 | 95 |
+| **urtz.html** (URS+URIM) | **1.153.410** | **188.503** | **163** |
+| PERMAFROST | 309.109 | 60.181 | 78 qanats |
+| **TOTAL DEL PROYECTO** | **1.462.519** | **248.684** | **241 unidades** |
+
+Q30 descongelado tras cerrarse.
