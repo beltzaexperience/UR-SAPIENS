@@ -989,3 +989,17 @@ Delta: +400 palabras, +4.917 caracteres, +1 pieza. Filas actualizadas: Cara 2 ·
 | **TOTAL DEL PROYECTO** | **1.483.469** | **253.504** | **244 unidades** |
 
 Q25 descongelado tras cerrarse.
+
+### Trigesimoquinta actualización — 24/09/2026 (misma sesión, limpieza Q28/Q29 — restos ya absorbidos antes de la regla de borrado)
+
+Al abrir Q26 (pedido por Luis) se comprobó que ya estaba descongelado desde el primer barrido retroactivo de esta sesión (Vigesimotercera actualización, junto a Q09-12/17). Los siguientes en orden real, Q28 (FINURA) y Q29 (BURDEL), seguían íntegros en `permafrost.html` pese a que su contenido ya se había escrito por completo en URIM en la Sexta y Séptima actualización —sesión anterior a que Luis fijara la práctica de descongelar cada Q en cuanto se cierra—. Revisadas sus secciones SEMILLAS · PENDIENTE antes de borrar: el resto de Q28 (libertad/igualdad/fraternidad/diversidad) ya vive en la pieza Compost correspondiente; el resto de Q29 (márgenes izquierdas históricas Roma/París/Sevilla/Donostia) ya está recogido, como hipótesis sin verificar, en la propia caja de verificación de BURDEL. Ningún fragmento sin destino. Descongelados ambos como limpieza retroactiva, sin cambios en `urtz.html` (URS/URIM intactos).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 330.317 | 51.696 | 94 |
+| **urtz.html** (URS+URIM) | **1.145.457** | **187.829** | **162** |
+| PERMAFROST | 323.404 | 62.904 | 80 qanats |
+| **TOTAL DEL PROYECTO** | **1.463.944** | **250.333** | **241 unidades** |
+
+Q28 y Q29 descongelados. Siguiente en orden real: Q27, en curso — bisturí aplicado y hallazgo Hammurabeltz importante (UR=reloj escandinavo es homofonía, no dato real) presentado a Luis, pendiente de confirmación antes de escribir.
