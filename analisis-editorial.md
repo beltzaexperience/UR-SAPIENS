@@ -927,3 +927,23 @@ Operación de pura reubicación estructural: ningún carácter ni palabra de las
 | URS | 815.140 | 136.133 | 68 |
 | URIM | 314.308 | 50.335 | 92 |
 | **urtz.html** (URS+URIM) | **1.129.448** | **186.468** | **160** |
+
+### Trigesimosegunda actualización — 24/09/2026 (misma sesión, Q23 — injerto en TUR: LA RAÍZ PREINDOEUROPEA)
+
+Q23 (AMP-UR-DÁN · EMPORION · INDIKA · RÍO TER · LA LLANURA ENTRE DOS RÍOS) es, literalmente, continuación declarada de Q22: el propio texto de origen se remite a "dep. 22" para el Ter. Auditoría previa (Paso 1 PEOIM): sus hilos Emporion y Río Ter resultaron redundantes —ya injertados en TUR: LA RAÍZ PREINDOEUROPEA · LA MATRIZ PANIBÉRICA en la actualización anterior, misma historia palabra por palabra—, así que se descartaron sin reescribir. Genuinamente nuevo: el propio topónimo AMP-UR-DÁN, el hilo Indika/Indiketes/Endika y la estructura de "palimpsesto de cinco capas" (Indika → Emporion → Emporiae → Empordà → Ampurdán). Injertado en TUR, mismo patrón que Q18→EL MÉTODO INSURRECTO y Q22→TUR: tres párrafos nuevos entre las secciones Río Ter y Las Médulas, sin crear pieza aparte.
+
+**Correcciones Ley Hammurabeltz.** (1) La lectura de taller del propio qanat —AMP (<em>amplus/amnis</em>) + UR (agua) + DÁN (celta <em>*danu</em>)— es licencia poética, no filología: verificado que Empordà/Ampurdán desciende sin ambigüedad de <em>Emporiae</em> (el nombre latino de Emporion), y que la terminación «-dán/-dà» es la evolución romance de «-iae» latino, sin componente céltico real —se mantuvo la lectura zahorí, pero marcada explícitamente como tal, con el dato real al lado (mismo tratamiento que Locura/Urmía/Ürümqi). (2) Los indiketes están documentados con más precisión de la que traía el qanat: en el 218 a.C. permitieron a Cneo Cornelio Escipión desembarcar en Emporion para cortar la retaguardia de Aníbal, el primer desembarco romano documentado en la Península —dato verificado, añadido, ausente del original—. (3) Endika: nombre vasco real, pero su propia etimología anda disputada entre fuentes académicas reales («hombre del pueblo», «fortaleza», variante de Enrique/Heimrich); ninguna de ellas avala la lectura del qanat «en+dika = en el agua» —que el propio texto original ya marcaba como intuición zahorí, no filología, y así se mantuvo—. (4) El dato de malaria en el Ampurdán, que el qanat presentaba en genérico (Anopheles atroparvus, sin fuente local), se sustituyó por un dato más fuerte y específico: la <em>Memoria práctica sobre las fiebres pútridas y malignas del Ampurdán</em> de Josep Masdevall (1790), primer estudio documentado del paludismo endémico de la comarca.
+
+Delta: +364 palabras, +3.443 caracteres (injerto en pieza existente, sin piezas nuevas). Filas actualizadas en ANÁLISIS DE CONSTRUCCIÓN: Cara 1 · Ibérico (Palabras 29.906→30.270, Pág 120→121); TOTAL DEL LIBRO (Palabras 186.468→186.832, Pág 746→747).
+
+**Discrepancia encontrada y corregida en el qanat-count de PERMAFROST.** Al descongelar Q23 se comprobó por recuento directo de `id="qanat-N"` en el archivo que quedaban 85 qanats antes del borrado, no 86 como decía el salpicadero desde la actualización anterior —desajuste de 1 preexistente a esta sesión, de origen no identificado—. Se corrige aquí con el dato real del archivo en vez de arrastrar el error: 85→84 tras este borrado. Los caracteres/palabras de PERMAFROST siguen la convención establecida (resta del texto sin etiquetas del qanat retirado sobre la última cifra registrada), no un recuento fresco completo —esa auditoría sigue pendiente, como ya señala la propia nota del salpicadero.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 317.751 | 50.699 | 92 |
+| **urtz.html** (URS+URIM) | **1.132.891** | **186.832** | **160** |
+| PERMAFROST | 347.329 | 67.404 | 84 qanats |
+| **TOTAL DEL PROYECTO** | **1.480.220** | **254.236** | **244 unidades** |
+
+Q23 descongelado tras cerrarse.
