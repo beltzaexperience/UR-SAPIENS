@@ -1089,3 +1089,21 @@ Delta: -264 palabras (Ourense, tras el recorte) +85 palabras (URBELTZ, injerto a
 | **TOTAL DEL PROYECTO** | **1.461.909** | **248.592** | **242 unidades** |
 
 Con esto queda resuelta la auditoría de Atlántico iniciada dos actualizaciones atrás: las cuatro piezas de esa subsección tienen ahora coherencia geográfica real, y Elgorriaga vive donde tiene tesis compartida genuina, no coincidencia.
+
+### Cuadragésima actualización — 25/09/2026 (misma sesión, Q31 — sin resto salvo AGUR, injerto en AUGUR)
+
+Q31 (UR-IDIMMUR · INANNA KURR-DISCO · PÁJARO ANZUR · ISHKUR · AG-UR) resultó, como Q30, casi por completo absorbido: UR-idimmu, el hackeo de los Me por Inanna, el Pájaro Anzu y las Tablillas de los Destinos, e Ishkur/Urtzi ya están escritos línea por línea en MESOPOTAMIA PROFUNDA —el propio Q31 los cuenta con más chiste (la «Kurr-Disco», «quemando rueda por el Éufrates») pero sin ningún dato nuevo—. Descartados sin reescribir.
+
+**AG-UR sí era nuevo, y necesitaba corrección Hammurabeltz de fondo, no de matiz.** El qanat presentaba «agur», la despedida vasca, como *ag-* (aliento) + *ur* (agua) —la misma lectura zahorí que ya usa el libro en otras piezas—. Verificado: es falso, y no por poco. La etimología real y bien documentada es *agur* < latín vulgar *agurium*, variante de *augurium* —el presagio que pronunciaba el augur romano—, sin relación alguna con «agua» ni con «aliento». Esto conecta *agur* directamente con la pieza ya existente en Etimología Insurgente **IN-AUGUR/ACIÓN · AUGETUR** (augur, augere, Júpiter Pluvius, Polibio), que resultó ser literalmente la misma raíz que la despedida vasca —no una coincidencia fonética que forzar, sino la misma palabra en dos lenguas—. Injertado un segundo párrafo en esa pieza, con el dato real (agurium ambivalente, saludo y despedida, como el *ave*/*salve* romano) en vez de la lectura ag+ur inventada.
+
+Delta: +100 palabras (injerto en pieza existente, sin piezas nuevas). Fila actualizada: Etimología Insurgente (Palabras 8.964→9.064); TOTAL DEL LIBRO (Palabras 188.411→188.511).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 338.580 | 52.378 | 96 |
+| **urtz.html** (URS+URIM) | **1.153.720** | **188.511** | **164** |
+| PERMAFROST | 301.506 | 58.774 | 77 qanats |
+| **TOTAL DEL PROYECTO** | **1.455.226** | **247.285** | **241 unidades** |
+
+Q31 descongelado tras cerrarse.
