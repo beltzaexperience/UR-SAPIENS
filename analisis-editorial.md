@@ -1107,3 +1107,23 @@ Delta: +100 palabras (injerto en pieza existente, sin piezas nuevas). Fila actua
 | **TOTAL DEL PROYECTO** | **1.455.226** | **247.285** | **241 unidades** |
 
 Q31 descongelado tras cerrarse.
+
+### Cuadragesimoprimera actualización — 25/09/2026 (misma sesión, Q32 — sin resto salvo KURR, injertado en dos piezas ya existentes)
+
+Q32 (ISHK-UR-R · KURR · KURRDISTÁN · URTZI) volvió a resultar mayormente absorbido. Ishkur/Urtzi ya estaba condensado en MESOPOTAMIA PROFUNDA; la tormenta que fertiliza frente al dique que raciona (el limo del Nilo, la Presa de Asuán) ya está desarrollada con detalle histórico real (Nasser, 1970, financiación soviética, desplazamiento nubio) en la pieza LA ALTA PRESA DE ASUÁN; y el hilo Kurdistán/YPG-YPJ ya vive, con otra etimología distinta pero el mismo contenido político real (el GAP, Öcalan, el confederalismo democrático), en la pieza K-UR-DA (Anatolia·Cáucaso). Los tres hilos se descartaron sin reescribir.
+
+**KURR sí era nuevo y resistió la verificación.** El qanat proponía que en sumerio <em>kur</em> significa a la vez «montaña», «tierra extranjera» e «inframundo», los tres sentidos unidos. Verificado: es real y está bien documentado en asiriología —no como tres significados simultáneos por capricho, sino como una deriva semántica real: montaña → tierra extranjera hostil (las montañas que rodeaban Sumeria eran territorio ajeno) → inframundo (el reino al que desciende Inanna se llama también <em>kur</em>)—. Injertada esa precisión en el párrafo de Ishkur/Urtzi de MESOPOTAMIA PROFUNDA.
+
+**Segundo hallazgo, con hedge obligado.** El qanat no lo decía, pero la investigación llevó a comprobar si «Kurdo» viene de este mismo <em>kur</em> sumerio —conexión tentadora dado que K-UR-DA ya vive en el libro con otra etimología (vasca: K+UR+DA)—. Resultado: es una teoría académica real y citada (vía el topónimo asirio <em>Qardu</em> y el sumerio de la Edad del Bronce Medio <em>Kar-da</em>, que dio Corduene, citada por Jenofonte), pero **en disputa, sin consenso cerrado** —compite con al menos la derivación del persa medio <em>kwrt-</em> («nómada»)—. Injertada en K-UR-DA como nota explícita de teoría en disputa, no como dato cerrado, dejando claro que es una lectura distinta a la vasca K+UR+DA que ya sostiene esa pieza, no una sustitución.
+
+Delta: +88 palabras (MESOPOTAMIA PROFUNDA) +90 palabras (K-UR-DA) = **+178 palabras, sin piezas nuevas**. Filas actualizadas: Mesopotamia (Palabras 3.355→3.443, Pág 13→14); Anatolia (Palabras 4.995→5.085); Cara 3 · Asia (Palabras 24.115→24.293, Pág 96→97); TOTAL DEL LIBRO (Palabras 188.511→188.689, Pág 754→755).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.140 | 136.133 | 68 |
+| URIM | 339.841 | 52.556 | 96 |
+| **urtz.html** (URS+URIM) | **1.154.981** | **188.689** | **164** |
+| PERMAFROST | 293.109 | 57.195 | 76 qanats |
+| **TOTAL DEL PROYECTO** | **1.448.090** | **245.884** | **240 unidades** |
+
+Q32 descongelado tras cerrarse.
