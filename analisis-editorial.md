@@ -1237,3 +1237,23 @@ No se encontró ni un fragmento de Q2 sin cubrir. Descarte total confirmado por 
 | **TOTAL DEL PROYECTO** | **1.394.385** | **241.662** | **237 unidades** |
 
 Q2 descongelado tras cerrarse.
+
+### Cuadragesimoséptima actualización — 26/09/2026 (misma sesión, Q3 — ya bisturizado en sesión anterior, solo faltaban las semillas)
+
+Q3 (K-UR-DA · MALERREKA · EL MURO GLACIAR) ya había sido separado con bisturí en una sesión anterior en dos piezas independientes, cada una con nota de origen explícita: **MALERREKA · EL M-UR-O GLACIAR** (Euskal Herria) y **K-UR-DA · EL AGUA QUE CINCO T CORTAN** (Anatolia·Cáucaso —la misma pieza tocada en Q32—). Todo el contenido sustantivo estaba ya cubierto en una u otra pieza: el glaciar Fennoscandinavo y Malerreka/Bidasoa/Ezkurra/Espelura por un lado, el GAP, Öcalan/confederalismo democrático, YPJ y Zagros/Tauro/Çatalhöyük por otro. La pieza K-UR-DA ya incluye, además, una nota de verificación propia admitiendo que el reparto de responsabilidad entre los cuatro (el qanat decía cinco, incluyendo Armenia) estados procede del qanat original sin contraste externo —se dejó tal cual, sin reabrir el debate—.
+
+Lo único no trasladado a ninguna de las dos piezas eran las notas de "SEMILLAS · PENDIENTE" del propio Q3, a diferencia de Q1 y Q2 donde sí se habían copiado. Añadido un bloque de semillas a cada pieza según el tema: a MALERREKA, la geología kárstica, las dataciones ¹⁰Be del Último Máximo Glacial y la nota "Ezkurra→Bidasoa como trinidad del UR norte"; a K-UR-DA, el mapa de presas del GAP y los textos de Öcalan sobre confederalismo y ecología.
+
+Nota técnica: al insertar el primer bloque (MALERREKA) se introdujo un `</div>` sin apertura correspondiente, detectado por la verificación de balance de etiquetas de rutina (el recuento global coincidía por pura casualidad al cancelarse con el desfase permanente de `<div>` +1 del archivo); corregido antes de continuar con la segunda pieza.
+
+Delta: +52 palabras (MALERREKA) +38 palabras (K-UR-DA) = **+90 palabras, sin piezas nuevas**. Filas actualizadas: Euskal Herria (Palabras 10.007→10.059); Cara 1 · Ibérico (Palabras 30.505→30.557); Anatolia (Palabras 5.085→5.123); Cara 3 · Asia (Palabras 24.455→24.493); TOTAL DEL LIBRO (Palabras 190.205→190.295).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.879 | 136.242 | 68 |
+| URIM | 355.016 | 54.053 | 98 |
+| **urtz.html** (URS+URIM) | **1.170.895** | **190.295** | **166** |
+| PERMAFROST | 212.921 | 50.520 | 70 qanats |
+| **TOTAL DEL PROYECTO** | **1.383.905** | **240.815** | **236 unidades** |
+
+Q3 descongelado tras cerrarse.
