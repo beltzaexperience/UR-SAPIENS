@@ -1257,3 +1257,21 @@ Delta: +52 palabras (MALERREKA) +38 palabras (K-UR-DA) = **+90 palabras, sin pie
 | **TOTAL DEL PROYECTO** | **1.383.905** | **240.815** | **236 unidades** |
 
 Q3 descongelado tras cerrarse.
+
+### Cuadragesimoctava actualización — 26/09/2026 (misma sesión, Q4 — pieza ya escrita pero incompleta: sin GLOSA, sin semillas, sin nota de origen)
+
+Q4 (ÇATALHÖYÜK · OR · T-OR-T-UR/A) ya estaba desarrollado, casi palabra por palabra, en la pieza **ÇATALHÖYÜK · EL OR ANTES DE LA T** (URIM, Etimología Insurgente), pero a diferencia de Q1-Q3 no llevaba marca `qanat-04` en su `data-s` ni nota de "Pieza construida a partir de...". Le faltaban, además, dos secciones que sí tienen todas sus piezas hermanas: GLOSA (ninguna) y SEMILLAS (ninguna de las cinco notas del qanat original estaba recogida: Ian Hodder/excavaciones actuales, la posible conexión diosa de Çatalhöyük–Inanna, OR en otras tradiciones —Tao, Maat egipcio, Rta védico—, la versión digital de T-OR-T-UR/A, notas de foto).
+
+Completada la pieza: añadida GLOSA con seis entradas (Çatalhöyük, OR, T-OR-T-UR/A, Vultur, Ta-UR-o, Diosa de brazos alzados), añadido el bloque de semillas íntegro, añadida la nota de origen ("Pieza construida a partir de PERMAFROST QANAT-04"), y actualizado el `data-s` con "qanat-04 permafrost". Ningún dato nuevo que verificar más allá de los ya reales del propio texto (Tao, Maat, Rta védico quedan como semillas sin desarrollar, no como afirmaciones cerradas).
+
+Delta: +245 palabras (solo scaffolding —GLOSA, semillas, nota de origen—, sin cambiar el cuerpo argumental). Fila actualizada: Etimología Insurgente (Palabras 9.064→9.309, Pág 36→37); TOTAL DEL LIBRO (Palabras 190.295→190.540, Pág 761→762).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.879 | 136.242 | 68 |
+| URIM | 358.289 | 54.298 | 98 |
+| **urtz.html** (URS+URIM) | **1.174.168** | **190.540** | **166** |
+| PERMAFROST | 202.104 | 49.637 | 69 qanats |
+| **TOTAL DEL PROYECTO** | **1.376.361** | **240.177** | **235 unidades** |
+
+Q4 descongelado tras cerrarse.
