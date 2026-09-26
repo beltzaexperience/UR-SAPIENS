@@ -1174,3 +1174,30 @@ Delta: +109 palabras (Siwa, injerto en SÁJAURA, pieza URS) +165 palabras (Larra
 | **TOTAL DEL PROYECTO** | **1.436.920** | **245.120** | **240 unidades** |
 
 Q34 descongelado tras cerrarse. Nota de método: este depósito confirma que el ratio de contenido genuinamente nuevo por qanat sigue bajando en este tramo (Q30-Q34), y que conviene mantener la verificación Hammurabeltz por delante de la escritura, no detrás —aquí evitó escribir como hecho un monolito inexistente y una inversión completa (toro/caballo) de la caballería numidobereber.
+
+### Corrección de método — 26/09/2026 (misma sesión, tras Q34)
+
+Luis marcó un error de proceso: el injerto de Siwa/Alejandro Magno de la actualización anterior se hizo en una pieza URS (SÁJAURA · MAURITANIA · FUR) sin pedir confirmación previa. La regla de trabajo no es "nunca tocar URS" —Luis la calificó de no dogmática, incluso autorizó dejar ese injerto en pie tras revisarlo— sino "avisar antes de tocar cualquier pieza, decir qué se propone hacer y dónde, y esperar confirmación antes de escribir en el HTML", sea la pieza URS, URIM o permafrost. Queda adoptado como protocolo fijo para el resto de la sesión: ningún injerto, pieza nueva, semilla o descarte se ejecuta sin presentar antes el hallazgo y la propuesta de ubicación, y esperar el visto bueno explícito.
+
+### Cuadragesimocuarta actualización — 26/09/2026 (misma sesión, Q35 — descarte completo, sin ningún cambio de contenido)
+
+Q35 (SON-UR-AI · SONGHAI 1988 · CIMARRONES · AFROBEAT · OSHÚN-BIDEA · DESURPACIÓN SONORA) resultó ser el depósito más redundante de toda la sesión: el cuerpo íntegro del qanat —Son-ur-ai/Imperio Songhai/Sorko, el disco *Songhai* (1988, Ketama + Toumani Diabaté + Danny Thompson), Cimarrones/Ciénaga de Zapata (incluida la frase "el Minotauro caribeño, pero libre" citada casi literalmente) y Oshún-bidea/Yemayá/As Burgas— ya está escrito, con su propia GLOSA, en la pieza **SON-UR-AI · SONGHAI, EL ATLÁNTICO Y EL RITMO QUE NO SE PUDO ENCADENAR** (URIM). No sobrevivió ni una frase para injertar.
+
+Se revisaron también, siguiendo el protocolo recién adoptado, las cuatro notas de "SEMILLAS · PENDIENTE" del propio qanat, presentando el hallazgo a Luis antes de descartarlas:
+
+- **Palenque de San Basilio** (Colombia): redundante — ya documentado en el libro (pieza sobre Benkos Biohó, con GLOSA propia).
+- **Isaberri** ("isa" río + "berri" nuevo, euskera): no verificable — *isa* no es la palabra vasca para río (esa es *ibai*/*uhaitz*); como mucho existe una raíz paleoeuropea *isa/aisa* en disputa académica, no una etimología limpia. Descartada.
+- **Kora de 21 cuerdas = 21 afluentes del Níger**: no verificable — ninguna fuente consultada da un recuento canónico de "21 afluentes principales" del río Níger. Numerología forzada, descartada.
+- **"Rivers of Babylon"**: no es un dato verificable, es una asociación temática suelta sin nada que injertar.
+
+Confirmado por Luis el descarte completo tras presentarle el análisis. Delta: 0 palabras, sin cambios en ninguna pieza de urtz.html. Filas de la tabla sin cambios. Solo se actualizan PERMAFROST y TOTAL DEL PROYECTO por el borrado del qanat.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.879 | 136.242 | 68 |
+| URIM | 352.966 | 53.875 | 98 |
+| **urtz.html** (URS+URIM) | **1.168.845** | **190.117** | **166** |
+| PERMAFROST | 256.194 | 53.953 | 73 qanats |
+| **TOTAL DEL PROYECTO** | **1.425.128** | **244.070** | **239 unidades** |
+
+Q35 descongelado tras cerrarse.
