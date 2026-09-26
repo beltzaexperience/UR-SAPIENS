@@ -1148,3 +1148,29 @@ Delta: +162 palabras (Gugalanna, injerto en MESOPOTAMIA PROFUNDA) +133 palabras 
 | **TOTAL DEL PROYECTO** | **1.448.230** | **246.017** | **241 unidades** |
 
 Q33 descongelado tras cerrarse.
+
+### Cuadragesimotercera actualización — 26/09/2026 (misma sesión, Q34 — casi todo redundante o falso, dos injertos mínimos)
+
+Q34 (MUT-UR-ÚA · IF-UR-ARACES · G-UR-SIL · MA-UR-ITANIA · LARR-AT-ZE) resultó ser, tras bisturí, el depósito con peor ratio señal/ruido de la sesión: de cinco hilos, tres cayeron por redundancia o falsedad y solo dos sobrevivieron, en forma de injerto mínimo.
+
+- **If-UR-araces/Tassili** (15.000 grabados, discos solares, Tibesti) es literalmente el mismo contenido que se acababa de injertar en Q33 en la pieza DE EKAIN A LOS URALES —el propio Q34 repite casi palabra por palabra "toros junto a lagos de cráter en Tibesti"—. Descartado sin reescribir.
+- **G-UR-sil/Cartago** (hijo de Hammon, llevado a la batalla) ya está —mejor documentado que en este qanat— en la pieza **SÁJAURA · MAURITANIA · FUR** (Cara 5 África, Norte de África·Nilo-Sahara), con cita a Corippo, la inscripción de Leptis Magna y el matiz académico sobre si "dios-toro" es la caracterización exacta. Descartado el contenido duplicado.
+- **Mut-UR-úa** (monolito de 30m cerca de "Marua, África") no pudo verificarse: no hay rastro de ningún lugar o monolito con ese nombre en ninguna fuente consultada. No se escribe como hecho lo que no se puede confirmar; descartado por completo, sin sustituto inventado.
+- **Ma-UR-itania · el toro como nave terrestre** partía de una premisa falsa: el qanat afirmaba que los mauritanos/beréberes "montaban toros, no caballos". Verificado: es justo lo contrario —númidas y mauritanos son proverbiales en las fuentes antiguas y modernas por su caballería, "jinetes desnudos" sin silla ni brida en la Columna de Trajano—. Descartado el hilo completo por falso en su premisa. El dato del "flumen aureum" romano para el río Senegal tampoco se pudo confirmar como atribución romana específica —la denominación "río del oro" está documentada para cartógrafos y comerciantes medievales (Fra Mauro, 1459), no para fuentes clásicas—; descartado también por no verificable.
+
+**Lo que sí sobrevivió, con Hammurabeltz aplicado:**
+
+- **Oráculo de Siwa + Alejandro Magno**: dato real y bien documentado (331 a.C., ocho días de desierto, el sumo sacerdote lo llama hijo de Amón-Zeus) que conecta directamente con el Gurzil ya existente en SÁJAURA —Gurzil es hijo de ese mismo Amón, según Corippo—. Injertado en el párrafo principal y en la GLOSA de esa pieza.
+- **Larratz/laratz**: la polisemia vasca real y verificada entre *larre* (pastizal) → *larratz* (baldío de pasto, el UR libre sin cultivar) y *laratz* (cadena de la chimenea para la caldera, el UR ya puesto al fuego) —confirmada en el Atlas Etnográfico de Vasconia y Euskaltzaindia—. El propio qanat señalaba el eco con "el koxkero de la Parte Vieja", así que se injertó como nueva sección de cierre en la pieza **UR-OBORO · EL CICLO HÍDRICO COMPLETO** (Euskal Herria), justo después de la sección Koxkero/JoseMaritarras a la que remite.
+
+Delta: +109 palabras (Siwa, injerto en SÁJAURA, pieza URS) +165 palabras (Larratz, injerto en UR-OBORO, pieza URIM) = **+274 palabras, sin piezas nuevas**. Filas actualizadas: Norte de África (Palabras 1.119→1.228, Pág 4→5); Cara 5 · África (Palabras 7.333→7.442, Pág 29→30); Euskal Herria (Palabras 9.842→10.007, Pág 39→40); Cara 1 · Ibérico (Palabras 30.340→30.505, Pág 121→122); TOTAL DEL LIBRO (Palabras 189.843→190.117, Pág 759→760).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.879 | 136.242 | 68 |
+| URIM | 352.966 | 53.875 | 98 |
+| **urtz.html** (URS+URIM) | **1.168.845** | **190.117** | **166** |
+| PERMAFROST | 267.986 | 55.003 | 74 qanats |
+| **TOTAL DEL PROYECTO** | **1.436.920** | **245.120** | **240 unidades** |
+
+Q34 descongelado tras cerrarse. Nota de método: este depósito confirma que el ratio de contenido genuinamente nuevo por qanat sigue bajando en este tramo (Q30-Q34), y que conviene mantener la verificación Hammurabeltz por delante de la escritura, no detrás —aquí evitó escribir como hecho un monolito inexistente y una inversión completa (toro/caballo) de la caballería numidobereber.
