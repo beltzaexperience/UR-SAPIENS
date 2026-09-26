@@ -1221,3 +1221,19 @@ Delta: +88 palabras (injerto único, sin piezas nuevas). Fila actualizada: Bonus
 | **TOTAL DEL PROYECTO** | **1.411.561** | **243.146** | **238 unidades** |
 
 Q1 descongelado tras cerrarse.
+
+### Cuadragesimosexta actualización — 26/09/2026 (misma sesión, Q2 — descarte total, redundancia completa incluidas las semillas)
+
+Q2 (RUMIANTE · RU ESPEJO DE UR · EL RUMIANTISMO MENTAL) resultó todavía más redundante que Q1: existe ya en URIM (Bonus Tracks) la pieza **RUMIANTISMO · EL UR QUE NO FLUYE**, con nota de origen explícita ("Pieza construida a partir de PERMAFROST QANAT-02"). Cubre íntegramente la etimología rūma/rūmis, Nolen-Hoeksema (1998), el Sistema Mundo Digitalista y el algoritmo como rumen digital, Uros/totora, Ray Charles, RU como espejo de UR (rumor, rural, Rus'/Rusia, runas), la Columna Durruti, y el antídoto del "qanat mental". Incluso las notas de "semillas pendiente" del propio qanat (efecto Zeigarnik, Corrumiación de Rose 2002, el mapa de palabras RU en lenguas eslavas, la lista "LA RU-T-A HÍDRICA DEL ESPEJO" con FRUTA/RUTA/TRUTA/BRUTO/BRUMA/FRUSTRACIÓN/PRUEBA/CRUZ) están ya trasladadas ahí, como semillas dentro de esa misma pieza.
+
+No se encontró ni un fragmento de Q2 sin cubrir. Descarte total confirmado por Luis, sin ningún injerto. Delta: 0 palabras, sin cambios en ninguna pieza de urtz.html. Solo cambian PERMAFROST y TOTAL DEL PROYECTO por el borrado del qanat.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.879 | 136.242 | 68 |
+| URIM | 353.657 | 53.963 | 98 |
+| **urtz.html** (URS+URIM) | **1.169.536** | **190.205** | **166** |
+| PERMAFROST | 224.760 | 51.457 | 71 qanats |
+| **TOTAL DEL PROYECTO** | **1.394.385** | **241.662** | **237 unidades** |
+
+Q2 descongelado tras cerrarse.
