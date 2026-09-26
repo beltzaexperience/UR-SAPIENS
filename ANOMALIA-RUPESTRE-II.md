@@ -113,3 +113,11 @@ No es una imposición de estructura: es el orden en que el propio material ya ma
 - ¿Arranca por el manifiesto (punto 1) o por el recorrido histórico (punto 6) como entrada al libro?
 - ¿Qué papel final le das al aparato clínico-DSM-5 — descartarlo del todo, o mantenerlo como voz de contraste explícitamente marcada como la mirada que el libro rechaza?
 - ¿Se abre ya un archivo de trabajo tipo `permafrost` para este proyecto, o sigue viviendo en este único documento hasta que haya más material?
+
+---
+
+## 6. Primera conexión con el libro I — 26/09/2026
+
+Hasta hoy este documento era una semilla aparcada, sin tocar desde su creación. Deja de estarlo del todo: el Acto IV de la pieza **BABEL · CONFUSIÓN Y DISPERSIÓN LINGÜÍSTICA** (urtz.html, Bonus Tracks) se pregunta explícitamente qué pasaría si UR —símbolo hídrico y de resistencia antidogmática— se congelara en credo: cita el caso real de Auguste Comte (positivismo → Religión de la Humanidad, con templos que siguen abiertos hoy en Brasil) y la carta de Proudhon a Marx de 1846 advirtiendo contra la fundación de una nueva ortodoxia en nombre de la crítica, y nombra sin rodeos el peor futuro imaginable del propio símbolo: unas hipotéticas "Trece Tribus de UR", con iniciación, cábala numerológica y declinación alquímica del fonema.
+
+Esa frase lleva una rayuela explícita hacia este documento —"ITEM · DEL SÍMBOLO AL OBJETO DE CULTO"—, marcada en el propio texto de BABEL como la primera vez que UR-Sapiens se mira en el espejo que este segundo proyecto le pondría delante desde fuera. No es una fusión de los dos libros ni un anuncio de secuela: es UR-Sapiens reconociendo, dentro de sí mismo, el riesgo que ANOMALÍA RUPESTRE II diagnostica como fenómeno humano general (el objeto/símbolo que se vacía de sustancia y se convierte en culto o en mercancía). La semilla sigue aparcada, sin desarrollo propio, tal como pidió Luis — esta nota solo deja constancia de que el primer libro ya citó, por su nombre de trabajo, al segundo.
