@@ -1296,3 +1296,29 @@ Ubicada en Bonus Tracks, junto a CAP-T-UR-A/RUP-T-UR-A/VER-D-UR-A y B-UR-ZUM. De
 | **TOTAL DEL PROYECTO** | **1.390.743** | **242.463** | **235 unidades** |
 
 Q5 descongelado tras cerrarse. Nota de método: la investigación externa (Enmerkar/Aratta, Génesis, Comte, Proudhon, y el archivo SOCIALISMOS Y UR.pages recuperado del branch main) se incorporó tras una serie larga de intercambios de análisis conjunto con Luis, no de golpe — el patrón consolidado en esta actualización es que cuando un qanat resiste el descarte por redundancia, vale la pena profundizar con calma antes de escribir, en vez de cerrar rápido.
+
+### Quincuagésima actualización — 26/09/2026 (misma sesión, Q5 — BABEL, revisión final por Procedimiento Relojero y reubicación de URIM/Bonus Tracks a URS/Impugnación a UR)
+
+La entrada anterior (Cuadragesimonovena) queda superada, no complementada: Luis calificó esta pieza como "el más importante que he maquinado hasta la actualidad" y "el ser o no ser de UR", reescribió el texto de fondo por su propia mano y pidió aplicar el Procedimiento Relojero íntegro de NORMA-METODO.md (Fase 1 diagnóstico, Fase 2 entrega clasificada sin proponer arreglos, Fase 3 decisión suya) sobre su propia reescritura.
+
+La revisión encontró, entre otros puntos: contradicción real entre Punk 12 (crítica de la homonimia, que pide negar el parentesco antes de elevar a homología) y la Norma Cero Absoluta (prohíbe justificar o negar el símbolo en el cuerpo); dos incumplimientos de Punk 2 (tiempo verbal de cita de investigación: "analizaron" en vez de "analizan"); un tic de repetición Norma 27 ("Ahí empieza la ruta imposible" / "Ahí empieza el problema"); fecha de Enmerkar y el Señor de Aratta imprecisa (mi versión original decía "principios del III milenio a.C.", cuando la composición real es de época de Šulgi de Ur, hacia el 2029-1982 a.C., con copias supervivientes del II milenio); y una discrepancia mecánica sin resolver del todo entre mi recuento de párrafos cortos (31,8%) y el recuento propio de Luis (4,3%), probablemente por diferencia de método de segmentación (línea en blanco vs. `<p>` real).
+
+Luis resolvió cada punto en persona: Punk 12 queda subordinado a la Norma Cero Absoluta (el texto no necesita justificarse); se elimina la frase "la comparación no construye una familia lingüística, construye una vibración" (no aportaba nada verificable); se mantiene "Babel demuestra que las civilizaciones vuelven legible lo que reciben" como cierre de esa idea; corrección del tiempo verbal aplicada; tic de repetición eliminado; fusión de párrafos cortos delegada a mí ("ocúpate tú, lo haces muy bien, uniones naturales sin forzar nada"); estructura de cuatro actos confirmada; título final **BABEL · Canciones de redención** (el "BEBEL" del mensaje de Luis, confirmado como error de teclado); y verificación + incorporación de la conexión real entre "Redemption Song" (Bob Marley) y Joe Strummer (dúo con Johnny Cash en 2002, publicado en la caja *Unearthed* bajo el título *Redemption Songs*; versión propia de Strummer, póstuma, en *Streetcore*, 2003).
+
+Con todas las correcciones aplicadas, Luis confirmó la ubicación final: **URS, como primera y única pieza de Impugnación a UR** —categoría ya creada en URS, vacía hasta ahora—, en sustitución del borrador de Bonus Tracks/URIM de la actualización anterior. Sellada con `(*-sub)` (posible cambio de actos futuro) y `(*-red)` (revisión de redacción final pendiente), en vez de la marca de cierre habitual.
+
+Ejecutado: pieza final insertada como `<details>` sellado inmediatamente después de la cabecera de categoría "IMPUGNACIÓN A UR" en URS (antes vacía) y antes de "ETIMOLOGÍA INSURGENTE"; borrador de Bonus Tracks/URIM (commit anterior) eliminado por completo, sin dejar contenido duplicado. Verificado balance de etiquetas (`<div>` +1 de base, `<details>`/`<summary>`/`<ul>`/`<table>`/`<tr>`/`<td>` todos cuadrados) antes y después de ambas operaciones.
+
+Nota de método sobre las cifras: el recuento de palabras/caracteres/páginas de esta actualización se calculó con un script propio (párrafos + títulos de cada pieza, HTML decodificado) aplicado de forma idéntica al borrador retirado y a la pieza final, para que el delta relativo sea fiable aunque no coincida exactamente con la metodología original de conteo del libro — coherente con el propio marcador, que ya se declara "salpicadero, no archivo histórico".
+
+Delta: pieza de Bonus Tracks/URIM retirada (−2.756 palabras, −16.630 caracteres, −11 pág., −1 pieza URIM, 0 rayuelas); pieza final añadida a Impugnación a UR/URS (+1.955 palabras, +12.209 caracteres, +8 pág., +1 pieza URS, +5 rayuelas: DE EKAIN A LOS URALES, MESOPOTAMIA PROFUNDA, MINO-TA-UR-O, RÍO CONGO: NATURALEZA O SISTEMA, ITEM · DEL SÍMBOLO AL OBJETO DE CULTO). Filas actualizadas: Impugnación a UR (URS 0→1, URIM 1→1, Total 1→2, %Sello 0%→50%, Rayuelas 0→5, Palabras 348→2.303, Pág 1→9); Bonus Tracks (URIM 2→1, Total 4→3, Rayuelas 4→4, Palabras 11.229→8.473, Pág 45→34); TOTAL DEL LIBRO (URS 68→69, URIM 64→63, Total 132 sin cambio, Rayuelas 28→33, Palabras 193.729→192.928, Pág 775→772, piezas totales 167 sin cambio — una pieza sale de URIM y otra entra en URS, no hay pieza neta añadida ni retirada).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 828.088 | 138.197 | 69 |
+| URIM | 367.787 | 54.731 | 98 |
+| **urtz.html** (URS+URIM) | **1.195.875** | **192.928** | **167** |
+| PERMAFROST | 190.358 | 48.734 | 68 qanats |
+| **TOTAL DEL PROYECTO** | **1.386.322** | **241.662** | **235 unidades** |
+
+Q5 cerrado en su forma definitiva. Nota de método: esta es la primera vez en la sesión en que una pieza cambia de capa completa (URIM taller → URS libro sellado) después de haber sido ya publicada como borrador en un commit anterior, no solo de qanat a URS — el patrón queda documentado por si se repite con otras piezas de Bonus Tracks u otros talleres en adelante.
