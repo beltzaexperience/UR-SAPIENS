@@ -1201,3 +1201,23 @@ Confirmado por Luis el descarte completo tras presentarle el análisis. Delta: 0
 | **TOTAL DEL PROYECTO** | **1.425.128** | **244.070** | **239 unidades** |
 
 Q35 descongelado tras cerrarse.
+
+### Cuadragesimoquinta actualización — 26/09/2026 (misma sesión, Q1 — arranque del tramo Q1-Q8, casi completo salvo un injerto pedido explícitamente)
+
+Empieza, a petición de Luis, el barrido de Q1 a Q8, dejados sin procesar desde antes de esta sesión. Protocolo confirmado y ya aplicado en este primer caso: presentar el hallazgo y la propuesta de ubicación antes de escribir nada, y esperar confirmación.
+
+Q1 (B-UR-ZUM · UR-BELTZA · LA LENGUA OCULTA) resultó casi enteramente redundante: existe ya en URIM, categoría Bonus Tracks, la pieza **B-UR-ZUM · TRES VIDAS DE LA TINIEBLA NÓRDICA**, cuyo propio pie de página documenta que fue "construida fusionando PERMAFROST QANAT-01... con el artículo esc-05 de la Escombrera de index.html" en una sesión anterior a esta. Esa pieza no solo cubre cada hilo de Q1 (Tolkien/Hikuntza-Beltza, tehom/tamas/temel, la cadena zahorí Burzum→Kurosawa→Turbia→Vultur→gutural, Sauron/Urbeltz, las mismas semillas pendientes) sino que añade material que Q1 ni siquiera tiene (Futhark rúnico, Othala, la escena black metal noruega de Mayhem/Burzum/Euronymous).
+
+Lo único que Q1 aportaba y no estaba en la pieza existente era la cita de Éxodo 10:22 (la plaga de tinieblas sobre Egipto, "tres días, nadie se levantó de su lugar"). Presentado el caso —dato real pero argumentalmente redundante con tehom/tamas/temel, que ya hacen el mismo punto—, Luis pidió injertarlo de todos modos, precisamente por tratarse de una pieza URIM: "cuando pase por la mesa de mezclas ya veremos qué permanece en el texto final". Injertado como cuarto testigo del patrón *tem- (oscuridad-sustancia), con su propia nota en la GLOSA (12).
+
+Delta: +88 palabras (injerto único, sin piezas nuevas). Fila actualizada: Bonus Tracks (Palabras 7.952→8.040); TOTAL DEL LIBRO (Palabras 190.117→190.205, Pág 760→761).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 815.879 | 136.242 | 68 |
+| URIM | 353.657 | 53.963 | 98 |
+| **urtz.html** (URS+URIM) | **1.169.536** | **190.205** | **166** |
+| PERMAFROST | 241.936 | 52.941 | 72 qanats |
+| **TOTAL DEL PROYECTO** | **1.411.561** | **243.146** | **238 unidades** |
+
+Q1 descongelado tras cerrarse.
