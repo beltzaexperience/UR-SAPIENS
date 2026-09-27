@@ -1322,3 +1322,23 @@ Delta: pieza de Bonus Tracks/URIM retirada (−2.756 palabras, −16.630 caracte
 | **TOTAL DEL PROYECTO** | **1.386.322** | **241.662** | **235 unidades** |
 
 Q5 cerrado en su forma definitiva. Nota de método: esta es la primera vez en la sesión en que una pieza cambia de capa completa (URIM taller → URS libro sellado) después de haber sido ya publicada como borrador en un commit anterior, no solo de qanat a URS — el patrón queda documentado por si se repite con otras piezas de Bonus Tracks u otros talleres en adelante.
+
+### Quincuagesimoprimera actualización — 27/09/2026 (misma sesión, pieza nueva: TUR: LA DAMA DE MARFIL, URIM/Panibérico)
+
+Luis subió a `main` un archivo de investigación externo (`TUR LA DAMA DE MARFIL.docx`, transcrito con LibreOffice) y preguntó si cambiaba las posibilidades de "los viajes de UR". El documento mezcla dos cosas de muy distinta calidad: por un lado, datos arqueológicos reales y bien fechados (contactos ibero-aquitanos neolíticos, la hipótesis vasconica de Vennemann frente a la hidronimia paleoeuropea de Krahe, y sobre todo la Dama del Marfil de Valencina de la Concepción, identificada en 2023 por análisis de péptidos del esmalte dental); por otro, la tesis de un libro ajeno (*Spania y La Atlántida*, López-Mirones/Orihuela) sobre una civilización marítima de 40.000 años con alianza orca-humano y una raíz *Tar-/Atl-* panmundial, que el propio documento califica de "descabellada" por el mismo motivo que este libro ya usa contra Bengtson/Greenberg: coincidencia fonética sin ley alguna detrás.
+
+Se descartó por completo la parte especulativa (ni mención, a petición explícita de Luis). Se aprovechó solo el material verificable: la Dama del Marfil (mujer de 17-25 años, máximo estatus del Calcolítico ibérico, c. 2800 a.C., colmillos de elefante africano *y* asiático en la misma tumba), la ruta real y documentada Éufrates→Mari→Ugarit→Mediterráneo occidental→Guadalquivir, la sincronía exacta con Uruk (mismo momento, un rey-dios patriarcal en Sumeria frente a una casta sacerdotal femenina en Valencina/Montelirio), y la hipótesis de Luis formulada como pregunta, no como prueba: si un colmillo cruzó el Mediterráneo en ese instante exacto, el aislamiento no puede darse por supuesto de entrada solo porque lo que viaja no se pueda tocar.
+
+Pieza nueva **T-UR: LA DAMA DE MARFIL**, escrita como cuarta pieza de la subsección Panibérico (URIM, Cara 1 · Ibérico), justo después de DE EKAIN A LOS URALES y antes de Euskal Herria — mismo lugar donde vive su pieza hermana T-UR: LA RAÍZ PREINDOEUROPEA · LA MATRIZ PANIBÉRICA, sin sellar, abierta como el resto del taller. Luis fue explícito: esta pieza no toca ni reabre Impugnación a UR (BABEL sigue sellado tal y como quedó); solo se añade una rayuela de ida hacia BABEL, no una edición de su contenido.
+
+Delta: +584 palabras, +3.418 caracteres, **una pieza nueva** (no reubicación). Filas actualizadas: Cara 1 · Ibérico (URIM 19→20, Total 27→28, Total2 34→35, Rayuelas 7→10, Palabras 30.557→31.141, Pág 122→125); TOTAL DEL LIBRO (URIM 63→64, Total 132→133, Total2 167→168, Rayuelas 33→36, Palabras 192.928→193.512, Pág 772→774).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 828.088 | 138.197 | 69 |
+| URIM | 371.205 | 55.315 | 99 |
+| **urtz.html** (URS+URIM) | **1.199.293** | **193.512** | **168** |
+| PERMAFROST | 190.358 | 48.734 | 68 qanats |
+| **TOTAL DEL PROYECTO** | **1.389.740** | **242.246** | **236 unidades** |
+
+Pieza nueva, no descongelada de permafrost.html (no hay qanat de origen: nace directamente de una investigación externa aportada por Luis). No cambia el rango URS/Vico (la pieza es URIM, no URS).
