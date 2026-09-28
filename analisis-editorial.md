@@ -1366,3 +1366,43 @@ Delta de esta revisión (no nueva pieza, expansión de la ya existente): +1.671 
 | **TOTAL DEL PROYECTO** | **1.400.933** | **243.917** | **236 unidades** |
 
 Tamaño final de la pieza (cuerpo + glosa, sin contar resumen ni firma): cuerpo 2.255 palabras / 14.611 caracteres (zona sana de la Norma 24: 900-1.600 palabras; alarma desde 1.800-2.000 — la pieza excede la zona sana con holgura, tal y como el propio Luis anticipó antes de esta ronda: "imagino que sobrepasa el límite razonable de tamaño"). Glosa: 15 entradas, dentro del rango sano de la Norma 23. Pendiente de discutir con Luis si se mantiene como pieza única o se divide — conversación explícitamente aplazada por él hasta después de cerrar las correcciones normativas.
+
+### Quincuagesimotercera actualización — 28/09/2026 (misma sesión, TUR: LA DAMA DE MARFIL — integración de "1713 y soma digital", discrepancia mecánica detectada)
+
+Luis propuso, con texto exacto, disolver la sección autónoma "De 1713 al soma digital" (un subtítulo menos, de 9 a 8) y fundir su contenido en dos párrafos sin cabecera, insertados al final de "El relato perdido", conservando el cierre de la pieza (los tres párrafos finales: "La Dama de Marfil quedó enterrada...", "UR pregunta...", "Una mujer joven..."). Motivo explícito: 1713 no debía desaparecer como idea (la pérdida del relato ante la geometría, el patriarcado y la escritura de control, con el mismo mecanismo repitiéndose en 1713 ante el centralismo borbónico y hoy ante el soma digital), pero sí dejar de ser una sección independiente que "competía con UR, Mari y los Alpes" y llegaba sin transición.
+
+Ejecutado tal cual lo especificó Luis: eliminado el `<h4>` "De 1713 al soma digital" y sus tres primeros párrafos; insertados los dos párrafos nuevos sin cabecera; conservado el cierre; glosa 15 compactada a la versión más corta que Luis proporcionó. Marcado UR reaplicado (un caso: "escritura" en el primer párrafo nuevo; la glosa compactada también gana un caso, "lectura").
+
+**Discrepancia detectada y no aceptada sin más**: Luis calculó que el cambio bajaría el cuerpo entre 170 y 220 palabras. El recuento palabra por palabra de lo que realmente se quita (100 palabras: los tres párrafos originales) contra lo que realmente se añade (169 palabras: los dos párrafos nuevos) da **+69 palabras**, no una bajada — el segundo párrafo nuevo ("El soma digital introduce...") es casi tan largo por sí solo como los tres párrafos que sustituye. Se informó a Luis del hallazgo antes de tocar el Marcador, siguiendo la práctica de esta sesión de no aceptar un recuento propio sin verificación independiente. Pendiente su decisión: comprimir los párrafos nuevos para alcanzar la bajada prevista, o dejarlos así porque el objetivo real era estructural.
+
+Delta aplicado (a la espera de esa decisión, con las cifras reales, no las previstas): +69 palabras, +448 caracteres (estimados por ratio de caracteres/palabra de la propia pieza, 6,48 — pendiente de recuento exacto con herramienta de conteo, indisponible en el momento de este cierre). Filas actualizadas: Cara 1 · Ibérico (Palabras 32.812→32.881, Pág 131→132); TOTAL DEL LIBRO (Palabras 195.183→195.252, Pág sin cambio por redondeo, 781).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 828.088 | 138.197 | 69 |
+| URIM | 382.846 | 57.055 | 99 |
+| **urtz.html** (URS+URIM) | **1.210.934** | **195.252** | **168** |
+| PERMAFROST | 190.358 | 48.734 | 68 qanats |
+| **TOTAL DEL PROYECTO** | **1.401.381** | **243.986** | **236 unidades** |
+
+Nota de método: el balance de etiquetas de esta ronda no se pudo verificar con el script Python habitual (herramienta de ejecución de comandos temporalmente indisponible durante esta edición); las dos ediciones aplicadas fueron sustituciones de texto exacto verificadas letra por letra antes de aplicarse (el bloque `<h4>` se retiró completo, abriendo y cerrando junto; los `<p>` se sustituyeron en pares completos), por lo que el riesgo de desequilibrio estructural es bajo, pero queda pendiente una verificación mecánica de confirmación en cuanto la herramienta vuelva a estar disponible.
+
+### Quincuagesimocuarta actualización — 28/09/2026 (misma sesión, TUR: LA DAMA DE MARFIL — injerto del Bidasoa, segunda discrepancia mecánica)
+
+Luis, sin esperar a cerrar la conversación de tamaños que él mismo había aplazado, pidió reforzar la dimensión panibérica de la pieza: la cuenca del Bidasoa no aparecía como estación real de circulación de prestigio, solo como espacio implícito entre los Alpes y el Guadalquivir. Propuso, con texto exacto y dos versiones (una completa, una "compacta"), un injerto de cuatro párrafos situado al final de la sección "Alpes y Balcanes" (rebautizada "Alpes, Balcanes y Bidasoa"), con la cautela metodológica explícita de no proyectar hacia el Calcolítico la evidencia comercial de Oiasso, que pertenece a época romana. Pidió usar la versión compacta y compensar el tamaño con tres recortes: la frase repetida sobre la imposibilidad de probar contacto directo Mari-Valencina, la entrada de glosa "Movilidad de élites" (acortada a dos frases) y la fusión de la glosa del Bidasoa con la de Alpes y Balcanes en vez de una entrada nueva.
+
+Ejecutado tal cual: insertado el bloque de cuatro párrafos (versión compacta) al final de "Alpes, Balcanes y Bidasoa"; recortada la frase "El contacto directo entre Valencina y Mari forma una hipótesis sugerente" del cuerpo (queda solo la parte informativa: la red más amplia documentada); acortada la entrada de glosa "Movilidad de élites"; fusionada la información del Bidasoa dentro de la entrada de glosa (5), renombrada "Alpes, Balcanes y Bidasoa" — la glosa se queda en 15 entradas, no sube a 16. Marcado UR aplicado (un caso nuevo: "lectura" en el primer párrafo del Bidasoa; el cierre "UR se vuelve geografía" ya usaba el símbolo directo).
+
+**Segunda discrepancia mecánica, misma sesión**: Luis estimó que, con los tres recortes de compensación, el bloque completo (unas 300 palabras en su versión larga) añadiría bastante menos que "210 netas". El recuento palabra por palabra da: +196 palabras de cuerpo (el bloque compacto del Bidasoa) más +62 palabras de glosa (la fusión), menos -11 palabras del recorte de Mari-Valencina y -9 palabras del recorte de "Movilidad de élites". **Delta real: +185 palabras de cuerpo, +53 palabras de glosa, +238 palabras en total** — más, no menos, que su propia estimación de referencia. A diferencia de la ronda anterior (1713), Luis ya había dicho explícitamente que hoy no tocaba discutir tamaños ("ya hablaremos después de tamaños y separaciones"), así que el hallazgo se registra aquí con la misma honestidad de siempre, sin bloquear la integración a la espera de una decisión que el propio Luis pidió posponer.
+
+Delta aplicado: +238 palabras, +1.542 caracteres (estimados por el ratio de caracteres/palabra de la propia pieza, 6,48 — pendiente de recuento exacto en cuanto la herramienta de ejecución de comandos vuelva a estar disponible). Filas actualizadas: Cara 1 · Ibérico (Palabras 32.881→33.119, Pág sin cambio, 132); TOTAL DEL LIBRO (Palabras 195.252→195.490, Pág 781→782).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 828.088 | 138.197 | 69 |
+| URIM | 384.388 | 57.293 | 99 |
+| **urtz.html** (URS+URIM) | **1.212.476** | **195.490** | **168** |
+| PERMAFROST | 190.358 | 48.734 | 68 qanats |
+| **TOTAL DEL PROYECTO** | **1.402.923** | **244.224** | **236 unidades** |
+
+Tamaño acumulado de la pieza tras las dos últimas rondas (1713 + Bidasoa): cuerpo aproximadamente 2.509 palabras (2.255 base + 69 de la ronda de 1713 + 185 de la ronda del Bidasoa), muy por encima de la zona sana de la Norma 24 (900-1.600) y de su umbral de alarma (1.800-2.000). Ambas rondas de Luis, pensadas para llegar a un resultado más compacto, han terminado ampliando la pieza en vez de reducirla — dato relevante para la conversación de tamaños y separaciones que sigue pendiente y aplazada por decisión propia de Luis. Balance de etiquetas pendiente de verificación mecánica (misma limitación de herramienta que la ronda anterior); las ediciones de esta ronda fueron también sustituciones de texto exacto verificadas antes de aplicarse.
