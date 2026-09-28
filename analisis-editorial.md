@@ -1518,3 +1518,15 @@ Delta de la pieza en el movimiento: cuerpo 3.477 → 2.966 palabras (−511, por
 | **TOTAL DEL PROYECTO** | **1.414.030** | **246.023** | **235 unidades** |
 
 La trilogía Panibérico queda completa y sellada en URS: tres piezas TUR, en el orden decidido por Luis, funcionando como puerta simbólica y mítica hacia el resto de las caras del libro.
+
+### Sexagésima actualización — 28/09/2026 (misma sesión, TUR: LA RAÍZ PREINDOEUROPEA — revisión de carpintería externa, tres correcciones aceptadas y tres rechazadas con verificación)
+
+Luis pasó una revisión de "carpintería" (ortotipografía, micro-precisión historiográfica, ritmo de prosa) sobre la pieza ya promovida a URS. Verificado antes de aplicar nada:
+
+**Aceptado, verificado:** (1) Las Médulas está en la cuenca del Sil (El Bierzo, León), no en la del Duero —confirmado en múltiples fuentes; se reescribió la apertura de la sección para no atribuir el yacimiento al Duero, manteniendo la fuerza de la imagen ("El agua no solo alimentaba la tierra: movía el oro..."). (2) La datación de Coleo de Samos: las fuentes sitúan el viaje hacia 630-640 a.C., que cae en la segunda mitad del s. VII a.C., no a mediados; corregido "hacia mediados" → "en la segunda mitad". (3) "al ejército romano donde murieron..." mejorado a "en el que murieron..." —"donde" sonaba a lugar físico, no al ejército/campaña.
+
+**Rechazado, con verificación:** (1) La supuesta errata "tur- name aquí" no existe en el archivo: el texto real dice "tur- nombre aquí" (verbo nombrar en subjuntivo), confirmado por grep directo —falso positivo de la revisión externa, probablemente una lectura equivocada del span de color envolviendo "ur". (2) La sugerencia de sustituir `<em>` por asteriscos de Markdown en la sección Emporion es errónea para este archivo: urtz.html es HTML servido tal cual, no Markdown — cambiar `<em>` por `*texto*` mostraría asteriscos literales en el navegador en lugar de cursiva. Rechazado de plano. (3) La supuesta inconsistencia en el pegado de llamadas de nota a la puntuación (`...abierta(2).`) no es tal: verificado que el mismo patrón (`</sup>.`, sin espacio, antes del punto) aparece 99 veces en el resto del libro — es la convención tipográfica ya establecida en las otras 196 piezas, no un error de esta pieza. Cambiarlo aquí crearía la inconsistencia real.
+
+**Pendiente sin resolver:** la sugerencia de escribir "Iliturgi" sin tilde (llana, convención historiográfica habitual) no se pudo verificar con una fuente que confirme esa convención específica frente a "Ilíturgi"; además el cambio afecta a docenas de apariciones ya entretejidas con el marcado de UR. Se deja sin aplicar hasta encontrar una fuente que zanje la cuestión, y se anota aquí para no perderla.
+
+Delta mínimo por las tres correcciones aceptadas: cuerpo 2.966 → 2.986 palabras (+20), 17.298 → 17.379 caracteres (+81). Sin cambio en el recuento de páginas de ninguna fila del Marcador. Balance de etiquetas verificado (mismo desajuste preexistente de `<div>`, sin novedad).
