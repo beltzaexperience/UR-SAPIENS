@@ -1342,3 +1342,27 @@ Delta: +584 palabras, +3.418 caracteres, **una pieza nueva** (no reubicación). 
 | **TOTAL DEL PROYECTO** | **1.389.740** | **242.246** | **236 unidades** |
 
 Pieza nueva, no descongelada de permafrost.html (no hay qanat de origen: nace directamente de una investigación externa aportada por Luis). No cambia el rango URS/Vico (la pieza es URIM, no URS).
+
+### Quincuagesimosegunda actualización — 28/09/2026 (misma sesión, TUR: LA DAMA DE MARFIL — tres rondas de Procedimiento Relojero, reescritura sustancial de Luis, correcciones aplicadas)
+
+Tras la Quincuagesimoprimera actualización, la pieza pasó por tres rondas completas del Procedimiento Relojero, cada una sobre una reescritura de Luis:
+
+- **Ronda 1**: 68-74% de cumplimiento. Hallazgo principal: 11 instancias del tic "No X. Y." (Punk 1 / Norma 27), 26,3% de párrafos cortos (Norma 26, muy por encima del techo del 10% y del límite de "no pasa" del 20%), y alarma de tamaño (Norma 24: cuerpo 2.056 palabras, glosa 33,1% del total).
+- **Ronda 2**: 82-87%. Luis fusiona casi todos los tics de negación (11→2 dudosos) y limpia el metacomentario sobre las propias decisiones de redacción (sustancia Norma XXV), pero el párrafo corto no se mueve (26,4%, prácticamente igual) — la única norma que no mejoró en esta ronda.
+- **Ronda 3**: 88-92%. Reescritura ampliada con nuevo material (Alpes italianos, Balcanes, y un párrafo comparativo UR ibérico/germánico/sumerio). Norma 26 queda resuelta del todo (9,6%, por primera vez bajo el techo del 10%), el tic de negación baja a un único caso legítimo, y la fricción de tiempos verbales (Norma 28) se resuelve pasando a pasado los procesos históricos cerrados. Aparece un hallazgo nuevo y más serio: el párrafo comparativo UR se cierra en el cuerpo con *"la relación directa permanece por demostrar"* — la re-justificación que la Norma Cero Absoluta prohíbe sin excepción en el cuerpo del texto. Se detecta también un "aquí como" (Punk 3).
+
+Luis decidió en Fase 3: corregir los dos incumplimientos (Norma Cero Absoluta, calificada de no menor; Punk 3), y revisar bajo Ley Hammurabeltz el material nuevo antes de sellar. Verificación Hammurabeltz aplicada: fundación de Mari hacia 2900 a.C. (confirmada, C-14/termoluminiscencia, JSTOR/archeologie.culture.gouv.fr), hacha de jade de Aroche vinculada al Monte Viso (confirmada, Springer/AAS 2015, jadeíta omfacítica, segunda mitad del V milenio a.C.), circulación de jadeítas alpinas Monte Viso/Monte Beigua hacia los Balcanes y el Danubio (confirmada, pero con una imprecisión cronológica corregida: el texto decía "desde finales del V milenio", la evidencia sitúa el inicio de la circulación de largo alcance hacia "finales del VI milenio e inicios del V", corregido en el cuerpo y en la glosa).
+
+Ejecutado: pieza completa reescrita en urtz.html (misma ubicación, cuarta de Panibérico/URIM), con los dos incumplimientos corregidos, la fecha de circulación alpina ajustada, marcado UR aplicado de forma sistemática (script propio, cada secuencia u/ú/ü/û+r en rojo, incluidas las que caen dentro de palabras corrientes como "estructura" o "futuro", conforme a la Norma 15), glosa ampliada a 15 entradas (dentro ya del rango sano 10-15), y rayuelas sin cambios (3: T-UR raíz preindoeuropea, Mesopotamia Profunda, BABEL). Verificado balance de etiquetas (`<div>` +1 de base, `<details>`/`<summary>`/`<ul>`/`<table>`/`<tr>`/`<td>`/`<h3>`/`<h4>`/`<p>` todos cuadrados). Nota aparte, no resuelta hoy: se detectó un desequilibrio preexistente de un `<li>` sin cerrar en algún punto del archivo, anterior a esta sesión (872 abiertos / 871 cerrados en el `HEAD` previo a hoy) — no introducido por esta edición, pendiente de localizar en una futura pasada.
+
+Delta de esta revisión (no nueva pieza, expansión de la ya existente): +1.671 palabras, +11.193 caracteres. Filas actualizadas: Cara 1 · Ibérico (Palabras 31.141→32.812, Pág 125→131); TOTAL DEL LIBRO (Palabras 193.512→195.183, Pág 774→781).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 828.088 | 138.197 | 69 |
+| URIM | 382.398 | 56.986 | 99 |
+| **urtz.html** (URS+URIM) | **1.210.486** | **195.183** | **168** |
+| PERMAFROST | 190.358 | 48.734 | 68 qanats |
+| **TOTAL DEL PROYECTO** | **1.400.933** | **243.917** | **236 unidades** |
+
+Tamaño final de la pieza (cuerpo + glosa, sin contar resumen ni firma): cuerpo 2.255 palabras / 14.611 caracteres (zona sana de la Norma 24: 900-1.600 palabras; alarma desde 1.800-2.000 — la pieza excede la zona sana con holgura, tal y como el propio Luis anticipó antes de esta ronda: "imagino que sobrepasa el límite razonable de tamaño"). Glosa: 15 entradas, dentro del rango sano de la Norma 23. Pendiente de discutir con Luis si se mantiene como pieza única o se divide — conversación explícitamente aplazada por él hasta después de cerrar las correcciones normativas.
