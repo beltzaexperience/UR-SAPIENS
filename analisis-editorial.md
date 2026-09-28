@@ -1430,3 +1430,27 @@ Delta de esta ronda (movimiento puro URIM→URS, sin pieza nueva ni cambio de co
 | **TOTAL DEL PROYECTO** | **1.402.923** | **244.224** | **236 unidades** |
 
 Balance de etiquetas verificado tras el movimiento (`<div>` +1 de base, resto cuadrado) antes de que la herramienta de comandos volviera a fallar de forma intermitente; las ediciones posteriores al Marcador (tabla de construcción, rango Vico) fueron sustituciones de texto puro sobre atributos numéricos, sin tocar ninguna etiqueta, por lo que el riesgo estructural es nulo — pendiente igualmente una verificación mecánica final de cierre en cuanto la herramienta se estabilice del todo.
+
+### Quincuagesimosexta actualización — 28/09/2026 (misma sesión, pieza nueva TUR · UN CONTINENTE EN TRÁNSITO, sustituye dos qanats de URIM, Panibérico reubicado en URS)
+
+Luis pasó una segunda pieza de la serie TUR, "UN CONTINENTE EN TRÁNSITO" (Gibraltar y los neandertales, el grabado de Gorham's Cave, Torralba-Ambrona, los concheros de Muge, la doble toponimia Turia/Guadalaviar, Joe Strummer), pidiendo el Procedimiento Relojero completo ("código, normas y relojero a tope"). Dos rondas de revisión: la primera encontró la misma reincidencia de la Norma Cero Absoluta que ya se había corregido en la Dama del Marfil (una frase de re-justificación de UR/TUR en el cuerpo), tres casos de "aquí como" (Punk 3) y 26,3% de párrafos cortos (Norma 26) concentrados en gran parte en una letanía final sin narrar (UR es.../TUR es.../E es.../mc².../SAPIENS es...). Verificados bajo Ley Hammurabeltz los datos más sensibles: Gibraltar 1 (Forbes' Quarry, 1848), Gibraltar 2 (Dorothy Garrod, Devil's Tower Cave, 1926), el grabado de Gorham's Cave (>39.000 años, PNAS 2014) y Joe Strummer (Ankara, 21/08/1952; *Rock Art and the X-Ray Style*, octubre 1999, portada de Damien Hirst) — los cuatro confirmados sin corrección.
+
+Segunda ronda: Luis narró la letanía final en un solo párrafo (bajando los párrafos cortos al 14,7%, dentro de límites), corrigió la frase de justificación de UR/TUR y dos de los tres "aquí como". El tercero, en Gibraltar, quedó afinado a petición de Luis en esta conversación: *"En el Peñón, UR toma la forma de un abrigo junto al agua; TUR, la de una roca elevada que domina el paso."* — sin "aquí", con verbo activo.
+
+Luis confirmó, verificando primero que no había solapamiento de contenido con T-UR: LA RAÍZ PREINDOEUROPEA (ambas comparten la raíz *tur-/dur-* pero ningún caso concreto se repite), que esta pieza sustituye a dos qanats de URIM/Panibérico que reescribía casi palabra por palabra: **EL CONTINENTE EN TRÁNSITO · Q73** y **DE EKAIN A LOS URALES · Q74** (el tema de la marca antes de la escritura, absorbido en "La marca en la roca"). Decidió expresamente no fusionar Raíz Preindoeuropea con esta pieza por ahora — queda en URIM, sin sellar, pendiente de una redacción futura que la funda con Un Continente en Tránsito evitando la redundancia ya detectada en el tramo del Turia (comparó los tres tamaños: cuerpo 1.023 palabras la Raíz, 1.503 este capítulo, 2.509 la Dama del Marfil — fundir cualquier pareja ya entra en zona de alarma de la Norma 24, así que de momento se quedan separadas).
+
+Luis pidió además reubicar la subsección Panibérico: en vez de justo después de Ibero Intros (donde la coloqué al crearla), la trasladé al final de Cara 1 · Ibérico, tras Portugal — razonamiento suyo: Panibérico sintetiza las demás subsecciones regionales (Euskal Herria, Cantábrico, Atlántico, Mediterráneo, Central, Portugal) y cierra con más fuerza después de haberlas visto, no antes. Dentro de la subsección, el orden queda: TUR · UN CONTINENTE EN TRÁNSITO (la tesis general, Pleistoceno en adelante) antes que TUR: LA DAMA DE MARFIL (el caso concreto, Calcolítico) — fundamento antes que aplicación.
+
+Ejecutado: pieza nueva insertada en URS/Panibérico (ahora tras Portugal), sellada `(*-sub) (*-red)`, con marcado UR sistemático y glosa de 15 entradas; Q73 y Q74 eliminados de URIM/Panibérico, que se queda solo con T-UR: LA RAÍZ PREINDOEUROPEA, sin sellar. Balance de etiquetas verificado tras el movimiento completo.
+
+Delta: pieza nueva que sustituye a dos qanats retirados, no reubicación pura. URS +1 pieza / +1.503 palabras / +9.290 caracteres; URIM −2 piezas / −1.638 palabras / −9.437 caracteres. Neto en Cara 1 · Ibérico: −135 palabras, mismas páginas por redondeo (132). Filas actualizadas: Cara 1 · Ibérico (URS 9→10, URIM 19→17, Total2 35→34, Rayuelas 10→12, Palabras 33.119→32.984); subfila Panibérico (URS 1→2, URIM 3→1, Total2 4→3, %Sello 25%→67%, Rayuelas 4→6, Palabras 5.170→5.035, Pág 21→20); TOTAL DEL LIBRO (URS 70→71, URIM 63→61, Total 133→132, Total2 168→167, Rayuelas 36→38, Palabras 195.490→195.355, Pág 782→781); rango URS/Vico 70,4–74,1% → 71,1–74,8%.
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 853.685 | 142.209 | 71 |
+| URIM | 358.644 | 53.146 | 96 |
+| **urtz.html** (URS+URIM) | **1.212.329** | **195.355** | **167** |
+| PERMAFROST | 190.358 | 48.734 | 68 qanats |
+| **TOTAL DEL PROYECTO** | **1.402.776** | **244.089** | **235 unidades** |
+
+Panibérico en URS queda con dos piezas selladas (Un Continente en Tránsito, Dama del Marfil) y espera una tercera cuando Luis decida si funde o no la Raíz Preindoeuropea con la primera. Sin novedad en el `<li>` sin cerrar detectado en la actualización anterior, ajeno a esta ronda.
