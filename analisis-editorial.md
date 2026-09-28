@@ -1406,3 +1406,27 @@ Delta aplicado: +238 palabras, +1.542 caracteres (estimados por el ratio de cara
 | **TOTAL DEL PROYECTO** | **1.402.923** | **244.224** | **236 unidades** |
 
 Tamaño acumulado de la pieza tras las dos últimas rondas (1713 + Bidasoa): cuerpo aproximadamente 2.509 palabras (2.255 base + 69 de la ronda de 1713 + 185 de la ronda del Bidasoa), muy por encima de la zona sana de la Norma 24 (900-1.600) y de su umbral de alarma (1.800-2.000). Ambas rondas de Luis, pensadas para llegar a un resultado más compacto, han terminado ampliando la pieza en vez de reducirla — dato relevante para la conversación de tamaños y separaciones que sigue pendiente y aplazada por decisión propia de Luis. Balance de etiquetas pendiente de verificación mecánica (misma limitación de herramienta que la ronda anterior); las ediciones de esta ronda fueron también sustituciones de texto exacto verificadas antes de aplicarse.
+
+### Nota técnica pendiente — sin fecha de resolución, para una futura pasada de divulgación
+
+Luis observó muchos párrafos de solo dos líneas al leer el HTML directamente. Verificación mecánica: el recuento real por palabras del cuerpo de TUR: LA DAMA DE MARFIL da 12,5% de párrafos cortos (7 de 56, <25 palabras) — dentro de rango razonable de la Norma 26, no un problema de redacción. La causa real es de maquetación: no existe ningún `max-width` en el CSS que limite el ancho de la columna de lectura del cuerpo del libro (solo hay `padding` lateral con `clamp()`), así que en monitores anchos las líneas se estiran mucho y párrafos normales de 40-60 palabras colapsan visualmente en 1-2 líneas. Corrección sugerida cuando toque la fase de divulgación: `max-width` de 700-760px en los contenedores de cuerpo de texto — cambio de CSS global, afecta a todo el libro por igual. Luis decidió explícitamente no tocarlo ahora ("por el momento no es importante").
+
+### Quincuagesimoquinta actualización — 28/09/2026 (misma sesión, TUR: LA DAMA DE MARFIL — creación de la categoría Panibérico en URS, pieza promovida de URIM a URS)
+
+Luis pidió crear la subsección "Panibérico" en URS (dentro de la categoría ya existente "Cara 1 · Ibérico", confirmado por su elección explícita entre las dos opciones planteadas: subsección espejo de la de URIM, no categoría de nivel superior nueva) e incluir TUR: LA DAMA DE MARFIL como su primera pieza, sellada con los marcadores habituales `(*-sub)` (posible reordenación de subtítulos) y `(*-red)` (revisión de redacción final pendiente) — mismo patrón que BABEL al pasar de Bonus Tracks/URIM a Impugnación a UR/URS.
+
+Ejecutado: la pieza completa (cuerpo con las dos ampliaciones de esta sesión — 1713/soma digital y Bidasoa — más su glosa de 15 entradas) se trasladó de la subsección Panibérico de URIM a una subsección homónima nueva en URS, insertada dentro de "Cara 1 · Ibérico" justo antes de "Euskal Herria", con viñeta llena (&#9679;) siguiendo la convención de subsecciones URS con contenido real (frente a la viñeta hueca &#9675; de las subsecciones vacías como Cantábrico o Portugal). El sello `(*-sub) (*-red)` se añadió al summary, mismo formato que BABEL. La subsección Panibérico de URIM queda con sus otras tres piezas intactas (T-UR: LA RAÍZ PREINDOEUROPEA, EL CONTINENTE EN TRÁNSITO, DE EKAIN A LOS URALES), sin sellar, como taller vivo.
+
+Añadida una fila nueva "– Panibérico" a la tabla de Análisis de Construcción, con las cifras reales de toda la subsección (URS+URIM juntos, no solo la pieza movida): 1 pieza URS (sellada) + 3 URIM (sin sellar) = 4 piezas, 25% de sello, 4 rayuelas (3 de la pieza movida + 1 de T-UR: LA RAÍZ PREINDOEUROPEA), 5.170 palabras, 21 páginas — primera vez que esta subsección se audita con esta granularidad en el Marcador.
+
+Delta de esta ronda (movimiento puro URIM→URS, sin pieza nueva ni cambio de contenido): URS +1 pieza / +2.509 palabras / +16.307 caracteres; URIM −1 pieza / −2.509 palabras / −16.307 caracteres. Cara 1 · Ibérico y TOTAL DEL LIBRO no cambian en total (solo la columna URS/URIM se redistribuye). Rango URS/Vico actualizado: 69,1–72,7% → 70,4–74,1% (crece porque el cuerpo de URS crece, no por una pieza nueva).
+
+| Capa | Caracteres | Palabras | Piezas |
+|---|---|---|---|
+| URS | 844.395 | 140.706 | 70 |
+| URIM | 368.081 | 54.784 | 98 |
+| **urtz.html** (URS+URIM) | **1.212.476** | **195.490** | **168** |
+| PERMAFROST | 190.358 | 48.734 | 68 qanats |
+| **TOTAL DEL PROYECTO** | **1.402.923** | **244.224** | **236 unidades** |
+
+Balance de etiquetas verificado tras el movimiento (`<div>` +1 de base, resto cuadrado) antes de que la herramienta de comandos volviera a fallar de forma intermitente; las ediciones posteriores al Marcador (tabla de construcción, rango Vico) fueron sustituciones de texto puro sobre atributos numéricos, sin tocar ninguna etiqueta, por lo que el riesgo estructural es nulo — pendiente igualmente una verificación mecánica final de cierre en cuanto la herramienta se estabilice del todo.
