@@ -1081,6 +1081,7 @@ Luis: *"Ese párrafo final sin ningún sentido narrativo, prohibido. Lo tenemos 
 2. **La autoridad de inclusión es de Luis, siempre**, aunque el proceso de redacción haya sido un consenso entre los tres por razones de eficiencia o de criterio compartido. Un consenso alcanzado durante la escritura no sustituye su revisión final — es un paso de trabajo, no una autorización. Esto no implica que Luis acierte siempre ("yo también me equivoco y pienso que tengo oro y al final es estaño") — implica que el error, si lo hay, es suyo por decisión informada, nunca de Claude o Perplexity por omisión silenciosa.
 3. **El inventario se entrega sin que se pida.** No es una respuesta a "¿qué has descartado?" — es parte obligatoria de cerrar cualquier pieza construida sobre investigación externa, exactamente igual que el Procedimiento Relojero se recorre entero sin esperar a que Luis pregunte norma por norma.
 4. **Alcance:** aplica a Claude y a Perplexity por igual, sin excepción de cuál de los dos investigó el dato o escribió la frase que lo dejó fuera.
+5. **El HTML se entrega igual de solo, sin que se pida (29/09/26).** Tras cualquier tanda de cambios en `urtz.html`, el archivo completo se manda directamente al cerrar esa tanda — no es una respuesta a que Luis escriba "HTML" o "pásamelo": es parte de cerrar el trabajo, la misma lógica que el punto 3 de arriba aplicada al archivo en vez de al inventario de investigación.
 
 ## 41. CUATRO GUÍAS DEL AUTOANÁLISIS SINTÁCTICO DE LUIS (29/09/26)
 
