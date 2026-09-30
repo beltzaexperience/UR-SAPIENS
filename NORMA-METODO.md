@@ -1155,3 +1155,16 @@ La prueba de mesa: leer solo los verbos (o solo los patrones gramaticales) de ca
 **El límite exacto:** esta norma no prohíbe el aforismo, la antítesis ni el binomio — los tres son herramientas reales del libro, ya validadas en piezas como Angostura o Raíz. Lo que prohíbe es que un mismo recurso aparezca tantas veces en una pieza que deje de sentirse como una elección y empiece a sentirse como un tic del piloto automático. La prueba, como siempre: ¿esta instancia se ganó su lugar con el material que la precede, o es la misma forma reciclada porque "así suena bien"?
 
 **Aplicado a Vânia Lima en esta misma ronda:** corregidas dos instancias más de antítesis camuflada que se habían escapado de barridos anteriores —"El protagonista deja de ser la ciudad... y pasa a ser el trayecto" (cortada a "El protagonista es el trayecto") y "Salvador no funciona aquí como una dirección administrativa. Es el punto de partida..." (cortada a la afirmación sola, sin el espantapájaros de la dirección administrativa)—. Con estas dos y las tres ya corregidas en rondas previas, la densidad de antítesis de la pieza baja de al menos 5 instancias a 0 explícitas.
+
+## 43. EL SUBTÍTULO INTERNO — UN SOLO MOLDE PARA TODO EL LIBRO (30/09/26)
+
+**El hallazgo:** el libro llevaba dos convenciones distintas para el mismo elemento —el subtítulo que marca un giro real dentro de una pieza (Norma 25, ancla o respiradero)—. La mayoría usa `<h4>`, negro (`#1a1a1a`), sin cursiva, con línea superior de separación. Una minoría de 52 casos, repartidos en tres variantes de tamaño y cursiva, usaba en cambio un `<div>` suelto en rojo (`#b01a1a`) y, en 43 de los 52, en cursiva —sin etiqueta semántica de encabezado ni línea de separación—. Luis, al detectarlo, pidió unificar en uno solo y dejar la decisión escrita aquí.
+
+**La decisión: se queda el `<h4>` negro, sin cursiva, con línea superior — se retira el `<div>` rojo en cursiva.** Motivo: es la forma mayoritaria (más de cien casos frente a 52), usa la etiqueta HTML semánticamente correcta para un encabezado interno, y la línea superior da al ojo una pausa visual que el texto en cursiva no da por sí solo. El rojo queda reservado para el propio marcado de UR y para los elementos que ya lo usan con otra función (títulos de pieza, glosa, firma) — un subtítulo interno en rojo competía con esa reserva de color en vez de sumarse a ella.
+
+**Forma fija, para copiar siempre igual:**
+```html
+<h4 style="font-family:'Bebas Neue',sans-serif; font-size:1.15rem; letter-spacing:0.1em; color:#1a1a1a; margin:2.2rem 0 1.1rem 0; border-top:1px solid rgba(176,26,26,0.2); padding-top:1.1rem;">Texto del subtítulo</h4>
+```
+
+**Aplicado en esta misma ronda:** las 52 instancias del `<div>` rojo-cursiva (y sus dos variantes de tamaño) se convirtieron a esta forma única en todo `urtz.html`, verificado el balance de etiquetas del documento completo sin defectos nuevos. Cualquier subtítulo interno que se escriba de aquí en adelante usa esta forma, sin variantes de color, cursiva o tamaño.
