@@ -6,6 +6,8 @@
 
 **Actualización (30/09/26):** la pieza pasa a reescritura total con nuevo título, **"LOS VIAJES DE UR POR IBEROAMÉRICA"**, y esqueleto cronológico confirmado por Luis — ver sección 3.
 
+**Borrador completo añadido (30/09/26) — ver sección 4.** Para examinar, no para sellar: no ha pasado Relojero-Plus, no tiene marcado UR en rojo (es prosa de trabajo, no HTML), y contiene decisiones mías que necesitan tu confirmación — están listadas al final de la sección.
+
 ---
 
 ## 1. Lo que ya vive en el libro — no duplicar
@@ -96,3 +98,74 @@ Título de la pieza: **"LOS VIAJES DE UR POR IBEROAMÉRICA"**. Recorrido cronol�
 - [Antepasado vasco de nuestro Libertador — Aporrea](https://www.aporrea.org/cultura/a244241.html)
 - "Basque legacy in the New World: on the surnames of Latin American presidents" (research.science.eus)
 - Euskaltzaindia, varios PDF sobre toponimia vasca en América
+
+---
+
+## 4. BORRADOR · CUERPO COMPLETO (30/09/26)
+
+> Prosa de trabajo. Sin marcado UR en rojo (eso se aplica solo al integrar en urtz.html). Sin pasar Relojero-Plus todavía — léelo primero como contenido y estructura, la auditoría línea por línea viene después si decides seguir adelante con esta versión.
+
+### LOS VIAJES DE UR POR IBEROAMÉRICA
+
+UR no necesita el mar para cruzar el Atlántico: le basta un nombre. Pedro de Ursúa lo demuestra el primero, mucho antes del motín que lo mató.
+
+**Pamplona de Indias**
+
+Ursúa nació en el valle de Baztán, en Navarra. En 1549, junto a Ortún Velázquez de Velasco, fundó una ciudad en el Nuevo Reino de Granada y la llamó Pamplona de Indias, en homenaje a la capital de su tierra. La ciudad colombiana mantiene hermanamiento oficial con la Pamplona navarra desde 2001 — el nombre volvió a encontrar a su origen después de cuatro siglos y medio.
+
+Once años después bajó por el Amazonas buscando El Dorado. El motín de Lope de Aguirre lo mató en 1561.
+
+**La Guipuzcoana**
+
+En 1728, una Real Cédula entregó a un grupo de comerciantes guipuzcoanos el monopolio del comercio con Venezuela. La Compañía Guipuzcoana de Caracas nació para vender cacao y perseguir el contrabando holandés en la costa.
+
+Mantuvo flota propia de guerra y corsarios durante más de medio siglo. Convirtió una provincia pobre del imperio en la principal potencia agrícola de la región. Cayó en 1785, cuando Bolívar tenía dos años y ya llevaba ese apellido de Vizcaya sin saberlo.
+
+**Bolívar**
+
+El apellido viene de Bolibar, hoy Ziortza-Bolibar, un pueblo vizcaíno regado por el río Ondarroa. Bolu es molino; ibar es vega de río, no cualquier valle. La forma más antigua documentada, del siglo XI, todavía no había contraído las dos palabras: Molinibar.
+
+La familia cruzó el Atlántico a finales del siglo XVI y compró la hacienda de San Mateo en 1593, dos siglos antes de que naciera el hombre que llevaría ese nombre a la independencia de medio continente. El pueblo vasco conserva la casa solar —el Palacio Bolívar, Bolibar Jauregia— y llama Plaza Simón Bolívar a su plaza mayor.
+
+Bolívar no lleva la UR de Uribarri ni de Urdaneta, pero lleva el agua en la etimología de todos modos: una vega de río disfrazada de apellido, cruzando el océano dos siglos antes de que nadie la necesitara para liberar nada.
+
+Murió en Santa Marta en diciembre de 1830. Su antiguo Secretario de Guerra ocupó la presidencia de la Gran Colombia antes de que el año terminara.
+
+**El apellido en el poder**
+
+Rafael Urdaneta había sido ese Secretario de Guerra. En 1830 asumió la presidencia de la Gran Colombia en el tramo final de su disolución. Urdaneta es topónimo vizcaíno, de la misma familia de uri que ya viajaba en Uribarri.
+
+En Caseros, en 1852, Urquiza derrotó a Rosas y abrió camino a la presidencia de la Confederación Argentina, que ocupó entre 1854 y 1860. Urkitza, el nombre vasco, significa lugar donde abunda el abedul. Su padre había nacido en Castro Urdiales y cruzó el océano antes que él.
+
+Dos Uriburu presidieron después la misma Argentina: José Evaristo, entre 1895 y 1898; José Félix, tras el golpe de 1930. Uri más buru: cabeza de villa.
+
+Siete meses duró Manuel Urrutia Lleó al frente de Cuba, en 1959, antes de que las disputas con Fidel Castro lo forzaran a dimitir. Urruti significa lejos — el apellido más breve de todo el recorrido, y el gobierno más corto.
+
+Entre 2002 y 2010, Colombia tuvo a Álvaro Uribe como presidente. Uribe es uri más behe, la parte baja del poblado — el mismo uri de Uribarri, con un sufijo distinto y un país distinto.
+
+**Uribarri**
+
+Ningún Uribarri llegó a presidir nada. El apellido cruzó el Atlántico sin ejército ni compañía, dentro de familias que emigraron a Argentina y Uruguay buscando trabajo, no territorio. Uri más barri: villa nueva — el mismo gesto que fundó Pamplona de Indias, repetido sin nombre propio miles de veces.
+
+Uribarri sigue llegando, sin fecha y sin gobierno, a cualquier puerto que todavía reciba gente nueva.
+
+---
+
+### GLOSA (borrador)
+
+1. **Pedro de Ursúa** — nacido en el valle de Baztán (Navarra), 1526; fundó Pamplona de Indias en 1549 junto a Ortún Velázquez de Velasco. Su expedición amazónica y muerte (1560-61) están desarrolladas en "Vilcabamba · El río que se esconde" — rayuela, no repetición.
+2. **Compañía Guipuzcoana de Caracas** — Real Cédula del 25 de septiembre de 1728; monopolio del cacao venezolano y lucha contra el contrabando holandés; flota propia de guerra; disuelta en 1785.
+3. **Bolívar / Bolibar** — topónimo vizcaíno (Ziortza-Bolibar, antigua merindad de Marquina), de *bolu* (molino) + *ibar* (vega de río); forma documentada más antigua, *Molinibar* (siglo XI). La familia Bolívar se estableció en Venezuela desde finales del siglo XVI; adquirió la hacienda de San Mateo en 1593.
+4. **Rafael Urdaneta** — Maracaibo 1788 – París 1845; Secretario de Guerra de Bolívar (1828); presidente de la Gran Colombia 1830-1831.
+5. **Justo José de Urquiza** — 1801-1870; derrotó a Rosas en la batalla de Caseros (1852); presidente de la Confederación Argentina 1854-1860.
+6. **Uriburu** — José Evaristo Uriburu, presidente de Argentina 1895-1898; José Félix Uriburu, presidente de facto tras el golpe de 1930-1932.
+7. **Manuel Urrutia Lleó** — presidente de Cuba, enero-julio de 1959.
+8. **Álvaro Uribe** — presidente de Colombia, 2002-2010.
+
+---
+
+### Decisiones tomadas por Claude, pendientes de tu confirmación (Norma 40)
+
+1. **El material de Paraná, Río de la Plata e Iguazú (la versión sellada anterior) no está en este borrador.** Esa etimología pertenece al eje "nombre indígena vs. nombre colonial", distinto del eje de este borrador ("apellido vasco que viaja y llega al poder o se queda anónimo"). No lo he descartado, solo no encaja aquí — si quieres conservarlo, puede quedarse como pieza propia más adelante en Cara 4, o buscarle otro sitio. Dímelo y lo resuelvo.
+2. **La nota sobre el origen gallego de Bolívar (bisabuelo Jacinto de Ponte y Andrade) se quedó fuera del cuerpo** — está en la sección 2.3 del dossier por si la quieres, pero en el borrador desvía del hilo vasco sin aportar al argumento.
+3. **No he aplicado marcado UR en rojo ni sellado la pieza** — es prosa de trabajo, a la espera de tu lectura.
