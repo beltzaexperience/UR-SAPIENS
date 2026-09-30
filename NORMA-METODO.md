@@ -1175,3 +1175,15 @@ La prueba de mesa: leer solo los verbos (o solo los patrones gramaticales) de ca
 ```
 
 **Aplicado en esta misma ronda:** las 52 instancias del `<div>` rojo-cursiva (y sus dos variantes de tamaño) se convirtieron a esta forma única en todo `urtz.html`, verificado el balance de etiquetas del documento completo sin defectos nuevos. Cualquier subtítulo interno que se escriba de aquí en adelante usa esta forma, sin variantes de color, cursiva o tamaño.
+
+## 44. LOS GUIONES DEL PERMAFROST — REGLA CONFIRMADA, EJECUCIÓN DIFERIDA (30/09/26)
+
+**El hallazgo:** el libro contiene guiones decorativos insertados solo para aislar visualmente el bigrama ya marcado en rojo "UR" dentro de palabras corrientes (ej. "fact-UR-a", "Og-UR", fragmentos de una sola letra como "S-UR", "D-UR"). Luis los nombró "guiones del permafrost".
+
+**La regla, confirmada por Luis:**
+- **Se retiran:** los guiones puramente decorativos, sin función argumentativa, que solo separan el UR ya coloreado del resto de la palabra.
+- **Se conservan:** (a) nombres propios genuinos del libro — UR-Sapiens (~44 instancias), UR-book, UR-Nammu; (b) segmentación morfológica que sostiene un argumento explícito del propio texto — el patrón cap-T-UR-a/rup-T-UR-a/ver-d-UR-a de "Ibero Intros", que demuestra la T sumeria entre prefijo y UR; el nat-ura/cult-ura de "Ciclo Hídrico", que hace un argumento explícito latín-vs-euskera.
+
+**La decisión sobre cuándo ejecutarla (30/09/26):** Luis no quiere una pasada dedicada ahora. La regla se aplica de forma oportunista, pieza por pieza, cada vez que una pieza ya sellada se reabre por otro motivo, o cuando material nuevo sale de permafrost/IGLUR hacia URIM/URS — nunca como barrido independiente del libro entero.
+
+**Alcance de esta nota:** es una instrucción de procedimiento entre Luis y Claude sobre cómo trabajar, no una norma que el texto publicado tenga que cumplir ya — no toca `urtz.html` en esta ronda. Vive aquí, en NORMA-MÉTODO, porque este documento es el manual del taller, no el libro.
