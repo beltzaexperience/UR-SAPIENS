@@ -4,13 +4,15 @@
 
 **Origen:** ampliación de la pieza sellada "URI: RÍO DE LA PLATA · UR QUE EMIGRA" (Cara 4 · América, apertura). Luis señaló que hay "un montón de nombres UR vascos en el continente" y pidió reunirlos en un dossier antes de decidir la reescritura.
 
+**Actualización (30/09/26):** la pieza pasa a reescritura total con nuevo título, **"LOS VIAJES DE UR POR IBEROAMÉRICA"**, y esqueleto cronológico confirmado por Luis — ver sección 3.
+
 ---
 
 ## 1. Lo que ya vive en el libro — no duplicar
 
 | Nombre | Dónde ya está | Qué dice |
 |---|---|---|
-| **Pedro de Ursúa** | Vilcabamba · El río que se esconde, glosa (11) | Navarro, 1526-1561. Dirigió en 1560 la expedición amazónica en busca de Omagua y El Dorado; asesinado en el motín de Lope de Aguirre. La pieza ya aclara que "no atravesó el Apurímac cusqueño... pertenece a otro tramo del sistema". |
+| **Pedro de Ursúa** (expedición amazónica, 1560-61) | Vilcabamba · El río que se esconde, glosa (11) | Navarro, 1526-1561. Dirigió en 1560 la expedición amazónica en busca de Omagua y El Dorado; asesinado en el motín de Lope de Aguirre. La pieza ya aclara que "no atravesó el Apurímac cusqueño... pertenece a otro tramo del sistema". **Su fundación de Pamplona de Indias (1549) NO está aquí — ver 2.0, es el dato nuevo que abre el recorrido cronológico.** |
 | **Uribarri** (etimología + apellido + emigración) | URI: Río de la Plata · UR que emigra | *uri* (villa) + *barri* (nuevo) = "villa nueva"; apellido común entre la emigración vasca a Argentina y Uruguay. |
 
 Cualquier reescritura de URI que vuelva a narrar la biografía de Ursúa duplica contenido ya sellado — la vía correcta es una rayuela hacia Vilcabamba, no una repetición.
@@ -18,6 +20,18 @@ Cualquier reescritura de URI que vuelva a narrar la biografía de Ursúa duplica
 ---
 
 ## 2. Material nuevo, verificado hoy (Ley Hammurabeltz, WebSearch)
+
+### 2.0 Pedro de Ursúa — Pamplona de Indias (dato que Vilcabamba no cubre)
+
+Vilcabamba solo conoce a Ursúa como el capitán asesinado por Lope de Aguirre en 1561. Once años antes, en otro registro por completo:
+
+- **Nació en el valle de Baztán (Navarra)**, no solo "Navarra" en genérico — dato más preciso que el que ya está en Vilcabamba.
+- **El 1 de noviembre de 1549, junto a Ortún Velázquez de Velasco, fundó la ciudad de Pamplona, en el Nuevo Reino de Granada** (hoy Pamplona, Norte de Santander, Colombia).
+- La bautizaron **"Pamplona de Indias"**, en homenaje directo a la capital de Navarra.
+- Esa ciudad colombiana mantiene **hermanamiento oficial con la Pamplona española desde 2001**.
+- Fuente: [Pedro de Ursúa — Wikipedia](https://en.wikipedia.org/wiki/Pedro_de_Urs%C3%BAa); [ayuntamiento de Pamplona (España), nota sobre el hermanamiento](https://www.pamplona.es/en/node/56518).
+
+Es el mismo gesto que Uribarri (un nombre vasco que viaja y se funda de nuevo en América) pero a escala de ciudad entera, y cronológicamente el primer eslabón verificado de todo el recorrido — 1549, antes incluso de la expedición amazónica.
 
 ### 2.1 La Real Compañía Guipuzcoana de Caracas
 
@@ -46,20 +60,23 @@ Cualquier reescritura de URI que vuelva a narrar la biografía de Ursúa duplica
 
 ---
 
-## 3. Propuesta de esquema para la reescritura de URI
+## 3. Esqueleto cronológico — CONFIRMADO por Luis (30/09/26)
 
-Sobre la base ya acordada (persona / poder / capital), el roster de 2.2 ofrece más opciones que solo Ursúa para la escala de "poder":
+Título de la pieza: **"LOS VIAJES DE UR POR IBEROAMÉRICA"**. Recorrido cronológico, no por escalas temáticas sueltas:
 
-1. **Uribarri** (ya en la pieza) — el UR que emigra como persona anónima.
-2. **El poder político** — en vez de narrar solo a Ursúa (ya contado en Vilcabamba), la pieza puede recorrer el roster completo como fenómeno agregado: cinco apellidos con UR, cinco países, cuatro siglos, el mismo gesto — la villa vasca convertida en jefatura de estado. Rayuela a Vilcabamba para quien quiera la historia completa de Ursúa.
-3. **La Guipuzcoana** — el UR que emigra como capital organizado: ya no una persona ni un poder individual, una compañía entera con monopolio, bandera y flota de guerra.
+1. **1549 — Ursúa funda Pamplona de Indias.** Breve, dato nuevo (2.0), rayuela a Vilcabamba para su muerte en el Amazonas (1561) — no se repite esa historia aquí.
+2. **1728-1785 — La Guipuzcoana.** El capital organizado: monopolio del cacao, bandera y flota de guerra propia.
+3. **Siglo XIX-XX — el roster político, en orden cronológico:** Urdaneta (presidente de la Gran Colombia, 1830-31) → Urquiza (presidente de la Confederación Argentina, 1854-60) → Uriburu (dos presidentes argentinos, 1895-98 y 1930-32) → Urrutia (Cuba, 1959) → Uribe (Colombia, 2002-2010). El mismo apellido reapareciendo en el poder de cinco países distintos durante siglo y medio.
+4. **Uribarri**, la pieza ya escrita — el contrapunto anónimo, sin fecha fija, que atraviesa todo el recorrido: la persona frente al poder.
 
-**Pendiente de decisión de Luis:** si el roster de 2.2 se cita completo, parcial, o si se elige una sola figura como ancla (Urdaneta y Urquiza son los más verificables con dato político concreto y fecha exacta); y si Bolívar entra como nota de color o se deja fuera por no llevar el bigrama.
+**Aún por decidir al escribir (no bloquea el arranque):** si Bolívar entra como nota de color (fuera del dispositivo UR, ver 2.3) o se deja fuera del todo.
 
 ---
 
 ## Fuentes consultadas
 
+- [Pedro de Ursúa — Wikipedia](https://en.wikipedia.org/wiki/Pedro_de_Urs%C3%BAa)
+- [Ayuntamiento de Pamplona (España) — hermanamiento con Pamplona de Colombia](https://www.pamplona.es/en/node/56518)
 - [Guipuzcoan Company of Caracas — Wikipedia](https://en.wikipedia.org/wiki/Guipuzcoan_Company_of_Caracas)
 - [Uriburu — Wikipedia](https://en.wikipedia.org/wiki/Uriburu)
 - [Rafael Urdaneta — biografiasyvidas.com](https://www.biografiasyvidas.com/biografia/u/urdaneta.htm)
