@@ -54,9 +54,17 @@ Es el mismo gesto que Uribarri (un nombre vasco que viaja y se funda de nuevo en
 
 **Nota de método:** cada apellido de esta tabla contiene el bigrama UR de forma natural y verificable — ninguno se ha forzado para que lo lleve (Norma 27, "el UR se encuentra, no se fabrica").
 
-### 2.3 Dato relacionado, fuera del dispositivo UR — para contexto, no para el cuerpo
+### 2.3 Simón Bolívar — CONFIRMADO por Luis, entra por derecho propio, ampliado
 
-**Bolívar** — el apellido más célebre de la independencia americana es también de origen vasco documentado: topónimo compuesto de *bolu* ("molino") + *ibar* ("valle"). **No contiene el bigrama UR** (B-o-l-í-v-a-r) y por tanto no es candidato al marcado rojo ni al dispositivo etimológico del libro — pero es un dato de color demasiado fuerte para no mencionarlo al menos una vez, con esa misma salvedad explícita, si la pieza quiere hablar de la huella vasca en la independencia americana en general.
+**No contiene el bigrama UR** (B-o-l-í-v-a-r) — se queda fuera del marcado rojo y del dispositivo etimológico central del libro, pero entra en el cuerpo por la importancia real del dato, no como nota de color menor. Luis: *"Simón Bolívar entra por derecho muy importante e incluso ampliado por su importancia."*
+
+- **Etimología:** topónimo vasco *Bolibar* (hoy Ziortza-Bolibar, Vizcaya, antigua merindad de Marquina), de *bolu* ("molino") + *ibar* ("vega de río" — no cualquier valle, específicamente terreno de ribera). Mención más antigua del topónimo, en el siglo XI: **Molinibar** — la forma sin contraer del mismo compuesto. El pueblo fue fundado en el siglo X por el dueño de la casa solar de Bolívar y los labriegos que lo acompañaron.
+- **La casa sigue en pie:** el Palacio Bolívar (*Bolibar Jauregia*), casa solariega del siglo XVI construida sobre el lugar de la casa-torre original que dio nombre al pueblo y al apellido. La plaza principal de Ziortza-Bolibar se llama hoy Plaza Simón Bolívar — el mismo gesto de hermanamiento que Pamplona de Indias/Pamplona de Navarra (2.0), esta vez sin necesidad de acuerdo institucional: el pueblo vasco ya lleva su nombre en la plaza.
+- **La familia emigró a Venezuela a finales del siglo XVI** — adquirió la hacienda de San Mateo en 1593, y mantuvo una posición económica y social destacada en la provincia de Caracas durante más de dos siglos antes de que naciera el Libertador.
+- **Genealogía directa:** padre, Juan Vicente Bolívar y Ponte-Andrade; madre, María de la Concepción Palacios y Blanco — aristocracia caraqueña. (Nota aparte, no vasca: por parte de un tatarabuelo, Jacinto de Ponte y Andrade, la familia tiene también origen gallego, de Santiago de Compostela — dato real pero fuera del hilo vasco de esta pieza.)
+- Fuentes: [Las raíces vascas de Simón Bolívar — Sabino Arana Fundazioa](https://www.sabinoarana.eus/storage/report/es/las-raices-vascas-de-simon-bolivar-entre-bilbao-el-cacao-y-la-herencia-atlantica.pdf), [Geneanet — Bolívar](https://es.geneanet.org/apellidos/BOLIVAR), [Antepasado vasco de nuestro Libertador — Aporrea](https://www.aporrea.org/cultura/a244241.html).
+
+**Resonancia sin bigrama:** *ibar* significa vega de río, no valle genérico — el apellido más grande de la independencia americana lleva agua en la etimología aunque el libro no pueda pintarla de rojo. Vale la pena decirlo una vez, con la salvedad explícita, en vez de callarlo por no encajar en el dispositivo.
 
 ---
 
@@ -66,10 +74,9 @@ Título de la pieza: **"LOS VIAJES DE UR POR IBEROAMÉRICA"**. Recorrido cronol�
 
 1. **1549 — Ursúa funda Pamplona de Indias.** Breve, dato nuevo (2.0), rayuela a Vilcabamba para su muerte en el Amazonas (1561) — no se repite esa historia aquí.
 2. **1728-1785 — La Guipuzcoana.** El capital organizado: monopolio del cacao, bandera y flota de guerra propia.
-3. **Siglo XIX-XX — el roster político, en orden cronológico:** Urdaneta (presidente de la Gran Colombia, 1830-31) → Urquiza (presidente de la Confederación Argentina, 1854-60) → Uriburu (dos presidentes argentinos, 1895-98 y 1930-32) → Urrutia (Cuba, 1959) → Uribe (Colombia, 2002-2010). El mismo apellido reapareciendo en el poder de cinco países distintos durante siglo y medio.
-4. **Uribarri**, la pieza ya escrita — el contrapunto anónimo, sin fecha fija, que atraviesa todo el recorrido: la persona frente al poder.
-
-**Aún por decidir al escribir (no bloquea el arranque):** si Bolívar entra como nota de color (fuera del dispositivo UR, ver 2.3) o se deja fuera del todo.
+3. **1783-1830 — Simón Bolívar (2.3), sin bigrama pero por derecho propio y ampliado.** La bisagra del recorrido: nace en Caracas de una familia vasca establecida allí desde 1593, y su muerte en diciembre de 1830 abre directamente la presidencia de Urdaneta, primer nombre del roster que sigue.
+4. **Siglo XIX-XX — el roster político, en orden cronológico:** Urdaneta (presidente de la Gran Colombia, 1830-31, Secretario de Guerra de Bolívar en 1828) → Urquiza (presidente de la Confederación Argentina, 1854-60) → Uriburu (dos presidentes argentinos, 1895-98 y 1930-32) → Urrutia (Cuba, 1959) → Uribe (Colombia, 2002-2010). El mismo apellido reapareciendo en el poder de cinco países distintos durante siglo y medio.
+5. **Uribarri**, la pieza ya escrita — el contrapunto anónimo, sin fecha fija, que atraviesa todo el recorrido: la persona frente al poder.
 
 ---
 
@@ -84,5 +91,8 @@ Título de la pieza: **"LOS VIAJES DE UR POR IBEROAMÉRICA"**. Recorrido cronol�
 - [Manuel Urrutia Lleó — Wikipedia](https://en.wikipedia.org/wiki/Manuel_Urrutia_Lle%C3%B3)
 - [Geneanet — Apellido Urrutia](https://es.geneanet.org/apellidos/URRUTIA)
 - [Geneanet — Apellido Uribe](https://es.geneanet.org/apellidos/Uribe)
+- [Las raíces vascas de Simón Bolívar — Sabino Arana Fundazioa](https://www.sabinoarana.eus/storage/report/es/las-raices-vascas-de-simon-bolivar-entre-bilbao-el-cacao-y-la-herencia-atlantica.pdf)
+- [Geneanet — Apellido Bolívar](https://es.geneanet.org/apellidos/BOLIVAR)
+- [Antepasado vasco de nuestro Libertador — Aporrea](https://www.aporrea.org/cultura/a244241.html)
 - "Basque legacy in the New World: on the surnames of Latin American presidents" (research.science.eus)
 - Euskaltzaindia, varios PDF sobre toponimia vasca en América
