@@ -560,7 +560,19 @@ La primera frase no dice nada sobre la riada. Dice algo sobre el propio proceso 
 
 ---
 
-# SECCIÓN PUNK — MANIFIESTO DE ESTILO Y ARQUITECTURA (AUTORIDAD PRINCIPAL EN REDACCIÓN)
+## XXVI. EL BOX SET Y LA SESIÓN DE BAILE — DOS FASES QUE NO SE MEZCLAN (01/10/26, pendiente de confirmación final de Luis sobre el nombre)
+
+**El origen de la norma, en palabras de Luis:** *"Prefiero tener el mapa completo, la mejor de las colecciones, para terminar por seleccionar los discos adecuados en cada sesión en la que voy a pinchar. Material y selección final. La colección más amplia posible de Marvin Gaye para poder pinchar el tema, no el mejor disco, más pertinente y me identifique en ese momento. Eso es un DJ. Acumular para terminar descartando la mayoría para servir a la pista de baile."* Dispara esta norma el incidente registrado en `NOTAS-URTZ.md`, Regla 36: una investigación de 13.391 palabras reducida sin permiso a 626.
+
+**Las dos fases, y por qué no se mezclan:**
+
+1. **Fase Box Set — acumulación, sin ansiedad de selección, sin descarte unilateral.** Es la fase en la que el proyecto está ahora: vaciar IGLUR, vaciar permafrost, desarrollar cada investigación de Luis a su escala real. En esta fase, **URIM es el box set completo** — toda la colección, cada pista desarrollada con la misma seriedad, sin preguntarse todavía si sonará bien en la pista de baile. Las normas 20-21 (economía, sencillez) siguen vigentes aquí, pero únicamente en su jurisdicción ya fijada: la sintaxis de cada frase, nunca la selección de qué temas sobreviven. Nadie —ni Claude, ni Luis todavía— decide en esta fase qué se queda fuera del libro final. Se decide, en todo caso, dónde vive cada cosa (PEOIM, PAO), nunca si merece existir.
+
+2. **Fase Sesión de Baile — selección final, deliberada, posterior, y de Luis.** Es el momento, todavía por llegar pero "no tan lejos" en palabras de Luis, en que de todo el box set se eligen las canciones que de verdad suenan en **URS** —el disco que se publica, el "SANDINISTA" del proyecto—. Esa selección la hace Luis, pinchando su propia colección, con el mismo criterio de un DJ real: no el mejor tema en abstracto, el que pertinente y le identifica en ese momento concreto de la sesión. Claude no adelanta esta fase por su cuenta — ni comprimiendo contenido "para que quepa mejor", ni decidiendo de antemano qué hilo es "el importante".
+
+**Qué pasa con lo que no entra en "SANDINISTA":** no se pierde, no se borra, no es basura de descarte. Es el material "para UR adictos en plataformas digitales" — el box set completo que sigue existiendo y disponible para quien quiera más, aunque el disco publicado solo lleve una selección. En términos del propio sistema del libro: **URIM, una vez pasada la Fase Sesión de Baile, no deja de tener valor — se convierte en el box set público, la colección completa detrás del disco seleccionado.**
+
+**Consecuencia práctica inmediata, para todo el trabajo de PEOIM/PAO en curso:** cada vez que una investigación de Luis entra en URIM, se desarrolla a su volumen real — todos los hilos verificados, sin recorte de contenido por economía. La pregunta "¿esto es demasiado para el libro?" no se hace en esta fase. Se hará en la Fase Sesión de Baile, cuando Luis decida que ha llegado, y la hará él.
 
 > Numeración propia (0-32), independiente de los números romanos de las secciones anteriores — no renumerada, para no romper las referencias cruzadas internas que el propio manifiesto ya usa entre sus normas. Autoridad principal sobre estilo, tono y arquitectura de capítulo, por encima de las normas XXII, XXIII y XXV, marcadas como nota histórica más arriba.
 
