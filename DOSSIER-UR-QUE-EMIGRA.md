@@ -8,6 +8,8 @@
 
 **Borrador completo añadido (30/09/26) — ver sección 4.** Para examinar, no para sellar: no ha pasado Relojero-Plus, no tiene marcado UR en rojo (es prosa de trabajo, no HTML), y contiene decisiones mías que necesitan tu confirmación — están listadas al final de la sección.
 
+**APARCADO (01/10/26).** Luis amplió el marco una vez más: el capítulo arrancaría en 1492 con los marinos vascos del primer viaje colombino (Juan de la Cosa —nacido en Santoña, no vasco de origen pero vinculado al mundo marítimo vasco—, Juan Ustobia, Pedro Bilbao, Juan Lequeitio y su hermano Chomin), pasando por Francisco de Garay antes de llegar a Ursúa. Material y borradores de esa apertura quedan solo en el chat, no volcados aquí — se retoma cuando Luis lo pida, sin perder el esqueleto ya confirmado (sección 3) ni el borrador de la sección 4 como base.
+
 ---
 
 ## 1. Lo que ya vive en el libro — no duplicar
