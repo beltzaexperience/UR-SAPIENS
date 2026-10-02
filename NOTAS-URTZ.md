@@ -615,3 +615,36 @@ No es un caso aislado. El mismo patrón, confirmado el mismo día con el qanat-7
 5. **El tamaño de la pieza final lo decide el material, no un hábito de economía heredado de otro tipo de escritura.** Si el material sostiene 3.000 palabras bien ancladas en fuente, la pieza puede tener 3.000 palabras — no hay techo estético que perseguir salvo el techo real de caracteres de la Norma 24, y ni siquiera ese se aplica antes de medir sobre prosa limpia construida sin recortar contenido por reflejo.
 
 **La misión de Claude en este proyecto, dicho una vez, para que no haga falta repetirlo:** no es guardar investigaciones (archivarlas intactas sin trabajarlas no es suficiente) ni redactar telegramas (comprimirlas a la mínima expresión tampoco lo es). Es coger la investigación de Luis, al volumen y densidad reales con que él la trae, y convertirla en prosa de libro — desarrollada, verificada, bien colocada — conservando su peso real, no reduciéndolo para que quepa en una idea de capítulo "limpio" que nadie pidió.
+
+---
+
+## INCIDENTE DEL 01-02/10/26 — EL BARRIDO DE MARK_UR ROMPIÓ EL `<style>` Y EL `<script>` DEL `<head>`
+
+**Qué se pidió:** marcar en rojo (mark_ur) cada "ur"/"úr"/"ür"/"ûr" sin marcar en todo URS, de forma comprehensiva, tras detectar que el convenio llevaba desde el origen del archivo con huecos sistemáticos (confirmado con `git log -S` contra el commit de subida original: nunca estuvo marcado, no es una regresión de ninguna sesión).
+
+**Qué se rompió:** el script de barrido tokenizó el HTML en tags vs. texto con un split genérico (`<[^>]+>`), pero tratô el contenido de `<style>` y `<script>` como si fuera prosa. Resultado: `background-image: url(...)` quedó roto en `ur<span style="color:#b01a1a;">...</span>l(...)`, `font-family:'Courier Prime'` con spans metidos en medio, `cursor:pointer` roto, y el script `fitLinesUrtz()` entero (nombres de función, `getElementById`, `return`, selectores CSS) con HTML inválido incrustado. Consecuencia visible para Luis: desapareció el fondo de papel antiguo de toda la página y se rompió el ajuste automático del título de portada — ninguno de los dos síntomas tenía relación aparente con "marcar unas letras en rojo", por eso costó identificar la causa a simple vista.
+
+**Por qué no se vio venir:** se verificó balance de tags (`div`, `span`, `details`...) y se comprobó que URIM quedaba byte a byte intacto, pero nunca se aisló ni se revisó el contenido de `<style>`/`<script>` como caso aparte — se asumió que "texto entre tags" era sinónimo de "prosa del libro", y no lo es en esas dos etiquetas.
+
+**Regla fija desde hoy — REGLA 37:** cualquier barrido automático de texto sobre `urtz.html` (mark_ur, guiones, lo que sea) tiene que excluir explícitamente, antes de tocar nada: (a) el contenido de `<style>...</style>`, (b) el contenido de `<script>...</script>`, (c) cualquier atributo de cualquier tag (`style="..."`, `onclick="..."`, `data-*="..."`, etc. — estos ya quedan fuera si el split por tags es correcto, pero conviene verificarlo con una prueba expresa). Antes de guardar un barrido de este tipo, comprobar expresamente que esas dos etiquetas (hay dos `<style>` y dos `<script>` en el archivo completo; en 2026 ambos `<style>` y el primer `<script>` viven en las primeras ~120 líneas, dentro de URS) no han cambiado una sola línea.
+
+**Qué se hizo para arreglarlo:** se localizaron las 4 zonas afectadas (el `<title>`, los dos bloques `<style>`, el `<script>` de `fitLinesUrtz()`) y se retiraron los spans inyectados, restaurando el código exactamente como estaba. Verificado con balance de tags y con una comprobación textual expresa de que no quedaba ningún span dentro de `url(`, `cursor:`, nombres de función JS, etc.
+
+**De paso, en el mismo barrido, se encontraron y colapsaron 7 spans mark_ur anidados duplicados preexistentes** (de antes de esta sesión, sin relación con el bug de arriba) — `<span...><span...>X</span></span>` → `<span...>X</span>`, sin efecto visual, solo higiene de HTML.
+
+---
+
+## CIERRE DE SESIÓN (02/10/26) — ESTADO Y PRÓXIMOS PASOS
+
+**Por qué existe esta entrada:** sesión larga y densa, con compactaciones de contexto cada vez más frecuentes. Luis decidió cerrar y abrir conversación nueva. Esta nota es el relevo.
+
+**Qué se cerró hoy, completo y verificado:**
+- **Permafrost vaciado por completo**: los qanats restantes (Q36, Q37, Q60, Q91, Q92, y el fragmento sin numerar «Camarón») quedaron todos colocados en URTZ o borrados por duplicado. `permafrost.html` ya no contiene ningún `id="qanat-*"` — solo queda andamiaje estructural (marcadores de sección, referencias `pub-*`).
+- **Auditoría completa del Marcador Fonomático** (`urtz.html`, pieza «ANÁLISIS EDITORIAL Y DE CONSTRUCCIÓN»): recuento programático verificado por dos vías independientes. Estado al cierre: URS 76 piezas/156.049 palabras, URIM 84 piezas reales/55.271 palabras (+7 Compost +30 Semillas), total 197 unidades/223.706 palabras. 11 de 41 cuencas geográficas completamente vacías (listadas en la tabla). Se retiró la vieja fórmula de equilibrio «(*+N)» por no poder reconstruirse con confianza.
+- **Barrido completo de mark_ur en todo URS** (no en URIM, por instrucción expresa): 859 instancias sin marcar, marcadas; verificado a cero restantes. Ver el incidente de arriba para lo que salió mal y cómo se corrigió — léase antes de repetir la operación en URIM o en cualquier otro barrido automático.
+
+**Pendiente, sin empezar — primera tarea de la próxima sesión:** Luis pidió «quitar guiones, salvo los que marca la norma» (los guiones decorativos del punto 44 de NORMA-METODO.md, «fact-UR-a», «S-UR», etc.). Se leyó la regla pero **no se ejecutó nada todavía** —ni se tocó `urtz.html`, ni se decidió el alcance (¿todo el libro ahora, o la ejecución oportunista pieza por pieza que dicta el propio punto 44?)—. Preguntar a Luis el alcance antes de tocar nada, y aplicar la Regla 37 de arriba si se automatiza con regex.
+
+**Otros frentes abiertos, no urgentes:** las 11 cuencas geográficas vacías (Portugal, Finlandia·Báltico, América del Norte, Cono Sur, Cuenca del Congo, Cuerno de África, África del Sur, Australia, Nueva Guinea, Micronesia, Polinesia —esta última con nombre inconsistente entre URS y URIM—); Cara 1·Ibérico cayó a 30% de sello por todo lo trasladado hoy, candidata a una futura pasada de sellado; posible auditoría de mark_ur en URIM (solo se hizo URS).
+
+**Rama de trabajo:** `claude/iglur-urim-migration-18ncyj`, al día con `origin`, árbol de trabajo limpio en el cierre de esta nota.
