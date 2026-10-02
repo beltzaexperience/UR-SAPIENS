@@ -648,3 +648,26 @@ No es un caso aislado. El mismo patrón, confirmado el mismo día con el qanat-7
 **Otros frentes abiertos, no urgentes:** las 11 cuencas geográficas vacías (Portugal, Finlandia·Báltico, América del Norte, Cono Sur, Cuenca del Congo, Cuerno de África, África del Sur, Australia, Nueva Guinea, Micronesia, Polinesia —esta última con nombre inconsistente entre URS y URIM—); Cara 1·Ibérico cayó a 30% de sello por todo lo trasladado hoy, candidata a una futura pasada de sellado; posible auditoría de mark_ur en URIM (solo se hizo URS).
 
 **Rama de trabajo:** `claude/iglur-urim-migration-18ncyj`, al día con `origin`, árbol de trabajo limpio en el cierre de esta nota.
+
+---
+
+## ACTUALIZACIÓN (02/10/26) — DOS CORRECCIONES Y UNA INVESTIGACIÓN GRANDE PENDIENTE: "A- KURT Y SHAKUR"
+
+**Dos correcciones de Luis al cierre de sesión anterior, ya aplicadas y pusheadas:**
+
+1. **SÁJAURA·MAURITANIA·FUR SÍ existe en URS** (Cara 5·África, no sellada, sin `NO TOCAR`). La búsqueda que concluyó "no existe" falló porque el mark_ur parte el título por dentro (`SÁJA<span>UR</span>A`) y la búsqueda de texto literal no lo encontró. **Lección:** antes de concluir que una pieza "no existe", buscar sin dar por buena una búsqueda de cadena literal — probar también ignorando spans, o buscar fragmentos del título que no cruzan la ruptura del span (ej. "MAURITANIA" en vez de "SÁJAURA"). Ya con la pieza localizada, se fusionó el compost MAURI/MAURICIA en su glosa y se retiró el compost FUR (su argumento ya estaba dicho en el cuerpo).
+
+2. **K-UR-T · SHAK-UR NO es Etimología Insurgente.** La semilla que yo reubiqué ahí era solo un fragmento mínimo (el hallazgo del morfema) de una investigación mucho mayor y más reciente de Luis. Revertido: la pieza en EI se borró, el fragmento volvió a Semillas con nota corregida.
+
+**La investigación grande, pegada por Luis directamente en el chat (no es un archivo de GitHub — comprobé sus 5 repos públicos y no está en ninguno; es una conversación completa que Luis tuvo con otra IA, pegada tal cual en nuestro chat con el título "A- KURT Y SHAKUR").** Resumen de los cuatro tramos, para quien retome esto sin haber visto el pegado original:
+
+1. **La falsa lectura de la nostalgia** — datos del Archbridge Institute (68%/73%) y Vevo ("Then is Now") sobre por qué la Gen Z añora el siglo XX sin entender que el "No Future" punk y el nihilismo de Cobain/Shakur no eran una pose, eran un vaticinio literal.
+2. **Corrección biográfica de Luis — el concepto más fuerte de todo el texto: "desesperanza compartida vs. desesperanza aislada".** 1982 Donostia, Goma 2, pelotas de goma, heroína, gaztetxes, Discharge/Carcass como "cirujanos de la autopsia global". El pogo colectivo y sudado frente al aislamiento con cascos de cancelación de ruido. **Esto merece nombre propio en el libro, al nivel de otros conceptos acuñados ya existentes (sesgo de compresión, guiones del permafrost).**
+3. **Giro tóxico-biológico, con dato duro y fuente nombrada**: microplásticos/PFAS en sangre, cerebro, semen (55%, estudio Universidad de Murcia/Next Fertility) y líquido folicular (69%, misma fuente); ciclo hidrológico sintético (nanoplásticos como núcleos de condensación/hielo en niebla y nubes); geografía de la "lluvia plástica" en la península (Barcelona, Madrid, Vigo, Ebro).
+4. **Resolución**: Kurt y Shakur releídos como mapas hacia el agua, no como nihilistas — la Rosa que crece en el hormigón de Tupac, el río como sujeto jurídico (Whanganui ya está en el libro; **Mar Menor NO está y debería entrar**), Balkan River Defence (ríos Vjosa y Neretva, con su propia mitología e historia de lucha), colectivos ibéricos (Proyecto Ríos, Colectivo Ecoloxista Do Salnés, Plataforma por los Ríos/Tajo), ciencia ciudadana (app Plastic Origins), himnos eco-punk ("Aguas" de I.R.A., Oi Polloi, "Fuerza de Pantera" de Mateo Kingman).
+
+**Mi opinión dada a Luis, para que la próxima conversación no tenga que repetirla:** el tramo 2 es un hallazgo propio que merece nombre acuñado. Los tramos 1-3 encajan en **Biopsia del Sistema Mundo** como diagnóstico (coincide con la propia intuición de Luis — "es una de mis mezclas favoritas... un DUB de efectismo brutal"). El tramo 4 (ríos, Mar Menor, esperanza militante) suena más a **Epílogo** por registro —Biopsia diagnostica, no resuelve en esperanza—, aunque también podría cerrar la misma pieza de Biopsia si Luis no quiere partirla en dos.
+
+**Estado: sin escribir nada todavía.** Pendiente de que Luis responda si quiere verificación Hammurabeltz completa primero (cifras de Murcia, colectivos, letras citadas —todo el texto viene de una IA externa con su propio aviso de "puede contener errores", nada se da por bueno sin comprobar) o si prefiere empezar a escribir ya y verificar sobre la marcha. **Primera decisión de la próxima sesión**, junto con el punto 44 de NORMA-METODO.md (guiones del permafrost) que seguía pendiente de la nota anterior.
+
+**También en esta actualización:** se añadió, en la portada de `urtz.html` (línea ~100, justo debajo de la firma "· Luis Beltza ·"), una cita nueva: "Tras cualquier cobardía se esconde el miedo a pensar." — ÄB/ÖC.
