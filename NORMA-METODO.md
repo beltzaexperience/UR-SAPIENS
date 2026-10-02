@@ -1137,21 +1137,3 @@ La prueba de mesa: leer solo los verbos (o solo los patrones gramaticales) de ca
 **La decisión sobre cuándo ejecutarla (30/09/26):** Luis no quiere una pasada dedicada ahora. La regla se aplica de forma oportunista, pieza por pieza, cada vez que una pieza ya sellada se reabre por otro motivo, o cuando material nuevo sale de permafrost/IGLUR hacia URIM/URS — nunca como barrido independiente del libro entero.
 
 **Alcance de esta nota:** es una instrucción de procedimiento entre Luis y Claude sobre cómo trabajar, no una norma que el texto publicado tenga que cumplir ya — no toca `urtz.html` en esta ronda. Vive aquí, en NORMA-MÉTODO, porque este documento es el manual del taller, no el libro.
-
-## 45. CIERRE DE SESIÓN (02/10/26) — ESTADO Y PRÓXIMOS PASOS
-
-**Por qué existe esta entrada:** sesión larga y densa (migración completa de permafrost + auditoría del marcador + barrido de mark_ur), con compactaciones de contexto cada vez más frecuentes. Luis decidió cerrar y abrir conversación nueva. Esta nota es el relevo.
-
-**Qué se cerró hoy, completo y verificado:**
-- **Permafrost vaciado por completo**: los qanats restantes (Q36, Q37, Q60, Q91, Q92, y el fragmento sin numerar «Camarón») quedaron todos colocados en URTZ o borrados por duplicado. `permafrost.html` ya no contiene ningún `id="qanat-*"` — solo queda andamiaje estructural (marcadores de sección, referencias `pub-*`).
-- **Auditoría completa del Marcador Fonomático** (`urtz.html`, pieza «ANÁLISIS EDITORIAL Y DE CONSTRUCCIÓN»): recuento programático verificado por dos vías independientes. Estado al cierre: URS 76 piezas/156.049 palabras, URIM 84 piezas reales/55.271 palabras (+7 Compost +30 Semillas), total 197 unidades/223.706 palabras. 11 de 41 cuencas geográficas completamente vacías (listadas en la tabla). Se retiró la vieja fórmula de equilibrio «(*+N)» por no poder reconstruirse con confianza.
-- **Barrido completo de mark_ur en todo URS** (no en URIM, por instrucción expresa): 859 instancias de u/ú/ü/û(+r) sin marcar, marcadas. Verificado a cero restantes.
-- **Dos roturas encontradas y corregidas en el mismo barrido** —quedar constancia porque es la lección operativa más importante de hoy: el barrido inicial no excluyó `<style>` y `<script>` del `<head>`, inyectando spans dentro de propiedades CSS (`url(`, `font-family: 'Courier...'`, `cursor:pointer`) y del script `fitLinesUrtz()` —rompió el fondo de papel antiguo y el ajuste del título de portada—. Restaurado. Además, 7 spans mark_ur anidados duplicados preexistentes (de antes de hoy, no causados por este barrido) se colapsaron a uno.
-
-**Lección para la próxima sesión, antes de cualquier barrido automático de texto sobre `urtz.html`:** excluir siempre explícitamente `<style>`, `<script>` y cualquier atributo (`style="..."`, `onclick="..."`, etc.) del texto plano a transformar. El bug de hoy fue exactamente ese: tratar el contenido de `<script>`/`<style>` como si fuera prosa.
-
-**Pendiente, sin empezar — primera tarea de la próxima sesión:** Luis pidió «quitar guiones, salvo los que marca la norma» (los guiones decorativos del punto 44 de este documento, «fact-UR-a», «S-UR», etc.). Se leyó la regla del punto 44 pero **no se ejecutó nada todavía** —ni se tocó `urtz.html`, ni se decidió el alcance (¿todo el libro ahora, o la ejecución oportunista pieza por pieza que dicta el punto 44?)—. Hay que preguntarle a Luis por el alcance antes de tocar nada, y tener mucho cuidado de no repetir el error de hoy (si se hace con regex automático, excluir `<style>`/`<script>`/atributos).
-
-**Otros frentes abiertos, no urgentes:** las 11 cuencas geográficas vacías (Portugal, Finlandia·Báltico, América del Norte, Cono Sur, Cuenca del Congo, Cuerno de África, África del Sur, Australia, Nueva Guinea, Micronesia, Polinesia —esta última con nombre inconsistente entre URS y URIM—); Cara 1·Ibérico cayó a 30% de sello por todo lo trasladado hoy, candidata a una futura pasada de sellado; posible auditoría de mark_ur en URIM (solo se hizo URS).
-
-**Rama de trabajo:** `claude/iglur-urim-migration-18ncyj`, al día con `origin`, árbol de trabajo limpio en el cierre de esta nota.
