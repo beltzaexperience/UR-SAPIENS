@@ -671,3 +671,17 @@ No es un caso aislado. El mismo patrón, confirmado el mismo día con el qanat-7
 **Estado: sin escribir nada todavía.** Pendiente de que Luis responda si quiere verificación Hammurabeltz completa primero (cifras de Murcia, colectivos, letras citadas —todo el texto viene de una IA externa con su propio aviso de "puede contener errores", nada se da por bueno sin comprobar) o si prefiere empezar a escribir ya y verificar sobre la marcha. **Primera decisión de la próxima sesión**, junto con el punto 44 de NORMA-METODO.md (guiones del permafrost) que seguía pendiente de la nota anterior.
 
 **También en esta actualización:** se añadió, en la portada de `urtz.html` (línea ~100, justo debajo de la firma "· Luis Beltza ·"), una cita nueva: "Tras cualquier cobardía se esconde el miedo a pensar." — ÄB/ÖC.
+
+---
+
+## ACTUALIZACIÓN (02/10/26) — "LOS VIAJES DE UR POR IBEROAMÉRICA" CERRADA Y SELLADA EN CARA 4 · AMÉRICA
+
+**Pieza nueva, sellada con ☠ NO TOCAR!!!, sustituye a la antigua intro del continente.** "URI: Río de la Plata · UR que emigra" —una sola pieza sobre el Río de la Plata haciendo de apertura para el continente entero, calificada por Luis de "ridícula para una abertura de continente"— queda completamente reemplazada en "América Intros" (Cara 4 · América) por "Los viajes de UR por Iberoamérica": el recorrido completo de los apellidos vascos con UR en el continente (Ursúa, Urdaneta, Urquiza, los dos Uriburu, Urrutia, Uribe, Uribarri), con Bolívar como centro declarado por homología de materia (ibar/UR), no por pertenencia fonética.
+
+**El proceso, para quien necesite repetirlo:** varias rondas completas de Relojero-Plus (plantilla "El apellido"/"El nombre" como arranque repetido, cadenas de cláusulas idénticas, recapitulaciones duplicadas, negaciones sin justificar, la Guipuzcoana sin matizar) hasta dejar la pieza limpia; verificación Hammurabeltz de tres datos puestos en cuarentena (marineros vascos de la Santa María, fuente: Gorka Rosain Unda; fecha del hermanamiento Pamplona-Pamplona, mayo 2001; iglesia del bautismo del padre de Urquiza, Santa María de la Anunciación, no de la Asunción como se escribió por error en un borrador intermedio); reescritura completa de la Glosa para que cada entrada aporte un dato ausente del cuerpo (Norma 18), con dos correcciones propias verificadas por WebSearch (el parentesco Uriburu es sobrino directo, confirmado; el "traductor" de Urrutia era un error, corregido a profesor de español y activista anticastrista).
+
+**Dos piezas normativas nuevas, nacidas directamente de esta pieza:**
+- **Norma 38.2 bis** — el aforismo doble de cierre (dos mini-sentencias simétricas que cierran sección a modo de máxima) se funde con un conector relacional real, nunca con punto y seguido; no toca la frase breve única que protegen las Normas 26 y 33.
+- **Norma 45 — Marvin Gaye y The Clash** — la frase final no tiene margen de sobra, y cuanto más se investiga, menos necesita decir una frase para contenerlo todo; se aplica a toda escala del libro (frase, párrafo, capítulo), amarrada a la Norma 26 (investigación sin techo) y a la Norma 21 (la sencillez vive en el cómo). Caso fundacional: "América empieza donde una orilla deja de ser suficiente" (antes: "América empieza en esa distancia: cuando una orilla deja de ser suficiente" — 19 caracteres y 3 palabras más, con un demostrativo sin antecedente).
+
+**Nota de atribución, pedida explícitamente por Luis:** Julian Cope nos ayudó.
