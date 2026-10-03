@@ -292,13 +292,13 @@ El proyecto UR no vive en un solo documento. Se reparte en tres archivos HTML co
 
 **URSURIM** es la suma de las dos capas — la cifra que mide el documento urtz.html completo, tal como existe hoy, libro y taller juntos en el mismo archivo.
 
-### permafrost.html — el yacimiento en bruto
+### permafrost.html — el yacimiento en bruto, hoy vaciado
 
-Depósito de 101 "qanats": fragmentos de investigación sin procesar, numerados sin orden interno, cada uno con material verificado pero sin narrativa que lo una todavía. Es la fuente de la que PEOIM extrae contenido, pieza a pieza, para incorporarlo a URS o URIM tras el contraste correspondiente. Cada qanat vaciado desaparece de este archivo — por eso el archivo se reduce con el tiempo, nunca crece.
+**Estado actual (03/10/26): vaciado por completo.** Fue un depósito de 101 "qanats": fragmentos de investigación sin procesar, numerados sin orden interno, cada uno con material verificado pero sin narrativa que lo una todavía. PEOIM extrajo su contenido pieza a pieza hacia URIM, tras el contraste correspondiente, y el último qanat se resolvió el 02/10/26. El archivo ya no contiene ningún qanat: solo queda el andamiaje estructural (marcadores de sección y referencias `pub-*`). Todo el material está en URIM.
 
-### LABORATORIO-IGLUR.html — el panel de control ya casi vaciado
+### LABORATORIO-IGLUR.html — el panel de control, hoy vaciado
 
-Segundo yacimiento, distinto en formato al anterior: un panel de trabajo con entradas ya organizadas por tema, del que PEOIM ha ido extrayendo material sesión tras sesión. Empezó con 38 entradas; quedan 14. Es, en esencia, el mismo tipo de material que permafrost, pero llegado en un formato de panel en vez de en qanats sueltos.
+**Estado actual (03/10/26): vaciado por completo.** Segundo yacimiento, distinto en formato al anterior: un panel de trabajo con entradas ya organizadas por tema, del que PEOIM fue extrayendo material sesión tras sesión. Empezó con 38 entradas y quedó en cero el 09/09/26. Era, en esencia, el mismo tipo de material que permafrost, pero llegado en un formato de panel en vez de en qanats sueltos. Su cabecera lo declara: «0 piezas · laboratorio vaciado, todo el material real está en URTZ (URIM)».
 
 ### La cifra que casi nunca se calcula: el proyecto entero
 
@@ -315,7 +315,9 @@ El Marcador Fonomático, hasta ahora, solo medía urtz.html (URS+URIM). Pero el 
 | LABORATORIO-IGLUR.html (14 piezas) | 78.918 | 12.445 |
 | **TOTAL DEL PROYECTO** | **1.351.025** | **217.850** |
 
-Esta cifra total no es la extensión del libro que se publicará — es la extensión de material ya integrado en urtz.html y material todavía conservado en los yacimientos de trabajo. Da una imagen más honesta de la escala real del trabajo que cualquiera de las cifras de URS por sí sola: más de 1,3 millones de caracteres, más de 217.000 palabras, repartidos entre lo ya construido y lo que todavía espera ser excavado.
+> **Nota de estado (03/10/26):** la tabla de arriba es una foto fechada del 26/08/26 y se conserva tal cual. Hoy permafrost.html e IGLUR están vaciados, así que el proyecto completo y `urtz.html` son la misma cifra: según el cierre del 02/10/26, 76 piezas URS (156.049 palabras) y 84 piezas reales de URIM (55.271 palabras), 223.706 palabras en total contando Compost y Semillas.
+
+Esta cifra total no es la extensión del libro que se publicará — es la extensión de material ya integrado en urtz.html y material todavía conservado en los yacimientos de trabajo (a fecha de esa medición). Da una imagen más honesta de la escala real del trabajo que cualquiera de las cifras de URS por sí sola: más de 1,3 millones de caracteres, más de 217.000 palabras, repartidos entre lo ya construido y lo que todavía espera ser excavado.
 
 ---
 
@@ -329,11 +331,11 @@ Esta cifra total no es la extensión del libro que se publicará — es la exten
 
 ### Estado de redacción, con detalle
 
-Islandia II y III siguen abiertas desde hace semanas. IGLUR (panel de trabajo) y permafrost.html (101 qanats) siguen en vaciado activo mediante PEOIM. Interludio III completo y sellado. Cuatro piezas selladas han pasado ya el repaso completo previsto para esta fase: Hammurabeltz, sintaxis defensiva y cadenas recurrentes: Digitalismo y el Test Gorila, Contraportada, Desde 1964: UR eta Urbe, Bio Editorial. El resto de piezas selladas llevan marcas `(*-nod)` y/o `(*---)` pendientes de ese mismo repaso.
+Islandia II y III siguen abiertas desde hace semanas. IGLUR (panel de trabajo) y permafrost.html (101 qanats) ya están vaciados (IGLUR el 09/09/26, permafrost el 02/10/26): todo su material vive en URIM. Interludio III completo y sellado. Cuatro piezas selladas han pasado ya el repaso completo previsto para esta fase: Hammurabeltz, sintaxis defensiva y cadenas recurrentes: Digitalismo y el Test Gorila, Contraportada, Desde 1964: UR eta Urbe, Bio Editorial. El resto de piezas selladas llevan marcas `(*-nod)` y/o `(*---)` pendientes de ese mismo repaso.
 
 ### Materiales pendientes
 
-Excavación completa de IGLUR y permafrost.html. Repaso de redacción (Normas XXII-XXIII) en las ~29 piezas selladas restantes. Cierre de Islandia II y III. Semillas sin desarrollar (K-UR-T y Shak-UR conceptual, UR eta Urbe de 600 páginas, Stranglers/Bolan, entre otras).
+~~Excavación completa de IGLUR y permafrost.html~~ (hecha: ambos vaciados). Repaso de redacción (Normas XXII-XXIII) en las ~29 piezas selladas restantes. Cierre de Islandia II y III. Semillas sin desarrollar (K-UR-T y Shak-UR conceptual, UR eta Urbe de 600 páginas, Stranglers/Bolan, entre otras).
 
 - Escala del proyecto completo muy superior a un ensayo publicable estándar — el corpus completo (217.850 palabras) necesitará selección curada, no publicación íntegra. URS aislado no tiene este problema.
 - Género híbrido sin categoría de catálogo reconocible de inmediato: ni ensayo convencional, ni novela narrativa estándar — libro de pensamiento, mito, historia cultural, tecnología y autobiografía radiofónica.

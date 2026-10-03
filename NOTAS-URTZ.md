@@ -87,7 +87,7 @@ Luis se da cuenta de que `index.html` funciona bien como fanzine, pero carece de
 
 ### El primer intento de laboratorio: IGLUR, y su fracaso
 
-Para URTZ, Luis intenta crear un laboratorio de trabajo: IGLUR (`LABORATORIO-IGLUR.html`). El propio Luis lo dice sin rodeos: fracasa en el intento. No como sistema de organización que funcionara bien — aunque el material que contiene sigue siendo válido y verificado, y hoy quedan 14 piezas todavía por vaciar de ahí.
+Para URTZ, Luis intenta crear un laboratorio de trabajo: IGLUR (`LABORATORIO-IGLUR.html`). El propio Luis lo dice sin rodeos: fracasa en el intento. No como sistema de organización que funcionara bien — aunque el material que contenía era válido y verificado. **Estado actual (03/10/26): IGLUR está vaciado.** Quedó en cero el 09/09/26 y todo su material real vive hoy en URIM; el archivo solo conserva el esqueleto (cabecera «0 piezas», Caras vacías).
 
 ### La solución que sí funciona: URIM, el espejo
 
@@ -101,13 +101,13 @@ Esto no es desorden — es el ritmo real del proyecto, y hay que trabajar con é
 
 ### El plan en dos fases, tal como lo tiene Luis
 
-**Fase 1 — en curso ahora mismo:** terminar de vaciar IGLUR, pieza a pieza, a su ubicación real dentro de URIM. PEOIM es el procedimiento; las 14 piezas restantes son el trabajo pendiente inmediato.
+**Fase 1 — COMPLETADA (09/09/26):** vaciar IGLUR, pieza a pieza, a su ubicación real dentro de URIM. PEOIM fue el procedimiento. IGLUR quedó en cero.
 
-**Fase 2 — después de que la Fase 1 esté completa, no antes:** mover `permafrost.html` (101 qanats) a URIM, con el mismo método de eficacia (PEOIM) y con destino fijado antes de mover nada. **Permafrost todavía no ha empezado a vaciarse** — está en cola, detrás de IGLUR, no en paralelo.
+**Fase 2 — COMPLETADA (01-02/10/26):** mover `permafrost.html` (101 qanats) a URIM, con el mismo método de eficacia (PEOIM) y con destino fijado antes de mover nada. **Permafrost está vaciado por completo:** el último qanat se colocó o se borró por duplicado el 02/10/26 (ver «Cierre de sesión» más abajo). El archivo ya no contiene ningún `id="qanat-*"`, solo andamiaje estructural (marcadores de sección y referencias `pub-*`). **Nada queda en el permafrost ni en IGLUR: todo está en URIM.**
 
 ### El resultado final que Luis tiene en mente
 
-Al terminar ambas fases, en el mismo `urtz.html` convivirán: **URS** — el libro trabajado, con sus piezas selladas y las marcas `(*-...)` pendientes de repaso de redacción; **URIM** — el laboratorio ya limpio, con las piezas oportunas bien colocadas; y, por fin, **visibilidad real** de qué categorías de URS siguen con hueco de contenido genuino por trabajar — no solo intuición de que faltan cosas, sino el dato exacto.
+Cumplidas ambas fases, en el mismo `urtz.html` conviven: **URS** — el libro trabajado, con sus piezas selladas y las marcas `(*-...)` pendientes de repaso de redacción; **URIM** — el laboratorio ya limpio, con las piezas oportunas bien colocadas; y, por fin, **visibilidad real** de qué categorías de URS siguen con hueco de contenido genuino por trabajar — no solo intuición de que faltan cosas, sino el dato exacto.
 
 ### La pestaña — construida parcialmente
 
@@ -423,7 +423,9 @@ Aclarado por Luis el 10/09/2026, al procesar el primer qanat de `permafrost.html
 - **Nueva redacción (fusión, prosa propia a partir de una o varias fuentes):** el qanat original **no se borra** de `permafrost.html`. Se queda intacto, y la pieza nueva de URIM lleva una nota de origen citando de dónde viene.
 - **Traspaso literal (el texto pasa a URIM prácticamente igual, sin reescritura real):** el qanat original **sí se borra** de `permafrost.html` directamente, con el mismo criterio que ya se aplicó a IGLUR.
 
-**Por qué importa:** a diferencia de IGLUR (que era un laboratorio fallido, sin más función que vaciarse), `permafrost.html` puede seguir teniendo valor como depósito de material en bruto mientras ese material no se haya reescrito de verdad para el libro — borrar un qanat que solo aportó una idea o un fragmento a una pieza nueva más amplia perdería el resto del material original sin necesidad.
+**Nota de estado (03/10/26): esta regla ya cumplió su función — `permafrost.html` está vaciado y no queda ningún qanat que borrar o conservar. Se conserva como registro del criterio que se aplicó.**
+
+**Por qué importaba:** a diferencia de IGLUR (que era un laboratorio fallido, sin más función que vaciarse), `permafrost.html` podía seguir teniendo valor como depósito de material en bruto mientras ese material no se haya reescrito de verdad para el libro — borrar un qanat que solo aportó una idea o un fragmento a una pieza nueva más amplia perdería el resto del material original sin necesidad.
 
 **Caso que fijó la regla:** QANAT-01 (B-UR-ZUM) se fusionó con una pieza de la Escombrera de `index.html` en una pieza nueva de Bonus Tracks — prosa propia, no traspaso literal. El qanat sigue intacto en `permafrost.html`.
 
@@ -688,15 +690,15 @@ No es un caso aislado. El mismo patrón, confirmado el mismo día con el qanat-7
 
 ---
 
-## REGLA 38 — COPIA DE SEGURIDAD OBLIGATORIA: CLAUDE ENVÍA A LUIS CADA ARCHIVO QUE CAMBIA; `urtz.html` NO SE EMPUJA SIN SU OK
+## REGLA 38 — COPIA DE SEGURIDAD OBLIGATORIA: CLAUDE ENVÍA A LUIS CADA ARCHIVO QUE CAMBIA; `urtz.html` E `index.html` NO SE EMPUJAN SIN SU OK
 
 Pedida por Luis el 03/10/26, norma fija desde ahora, con el alcance afinado en la misma conversación: **cada vez que Claude modifica cualquier archivo del proyecto, se lo envía a Luis como archivo adjunto en ese mismo momento**, para que Luis tenga una copia en su ordenador. No se espera a que lo pida. Lo que cambia según el archivo es solo si hay que esperar su visto bueno antes del push.
 
-**`urtz.html` — el único archivo con freno previo al push.** Claude lo modifica, verifica (tamaño exacto, equilibrio de `<details>` y `<div>`), se lo envía completo a Luis y **no empuja hasta que Luis confirme** que lo ha comprobado. Es imprescindible porque la copia local de Luis no recibe lo que Claude cambia en la rama: sin el archivo enviado, Luis solo ve la versión que él tenía.
+**`urtz.html` e `index.html` — los dos archivos con freno previo al push (`index.html` añadido por Luis el 03/10/26).** Claude los modifica, verifica (tamaño exacto, equilibrio de `<details>` y `<div>`), se lo envía completo a Luis y **no empuja hasta que Luis confirme** que lo ha comprobado. Es imprescindible porque la copia local de Luis no recibe lo que Claude cambia en la rama: sin el archivo enviado, Luis solo ve la versión que él tenía.
 
 **Normas, notas y demás `.md` — push directo, más copia.** `NORMA-METODO.md`, `NOTAS-URTZ.md`, `analisis-editorial.md`, `GLOSARIO-UR-SAPIENS.md` y cualquier otro `.md`: Claude empuja sin esperar, y además envía a Luis el `.md` completo tal como queda, en el mismo momento.
 
-**Cualquier otro archivo del proyecto** (el resto de HTML, imágenes, lo que sea) se envía igualmente cuando cambia. El freno previo al push solo se ha pedido para `urtz.html`; para el resto rige lo de siempre, la Regla 21. Si se borra un archivo, se avisa expresamente de cuál.
+**Cualquier otro archivo del proyecto** (`permafrost.html`, `LABORATORIO-IGLUR.html` —ambos vaciados, ver Fase 1 y 2—, imágenes, lo que sea) se envía igualmente cuando cambia. El freno previo al push solo rige para `urtz.html` e `index.html`; para el resto, la Regla 21. Si se borra un archivo, se avisa expresamente de cuál.
 
 **Qué se envía:** el archivo entero tal como queda, no un fragmento ni un diff, con una línea que diga qué cambió y en qué commit.
 
