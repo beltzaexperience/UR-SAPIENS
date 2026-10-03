@@ -86,7 +86,7 @@ Fijo. Sin variantes. Válido para Luis, Claude y Perplexity por igual, cada vez 
 2. Para cada línea, en orden de lectura: comprobar las normas que de verdad pueden tocarla —precisión, no recitar las más de sesenta mecánicamente contra cada línea sin criterio— y marcar pasa / incumple / fricción, con la norma exacta citada.
 3. No agregar ni resumir mientras se avanza. Cada línea se reporta con su propio veredicto, aunque el mismo hallazgo se repita en varias líneas seguidas —el recuento de repeticiones es en sí mismo un hallazgo (densidad agregada), no ruido que comprimir antes de tiempo.
 4. Al terminar el recorrido completo, sí cabe un veredicto agregado al final (incumplimientos claros / fricciones / limpio, como en el punto 12 de abajo) — pero solo después de recorrer todas las líneas, nunca como sustituto del recorrido línea por línea.
-5. La glosa se recorre con el mismo método, línea por línea, nunca por encima — mismo mandato que el punto 3 ya fija para el recorrido simple.
+5. La glosa se recorre con el mismo método, línea por línea, nunca por encima — mismo mandato que el punto 3 ya fija para el recorrido simple. Para la glosa rige además el Endurecimiento del 03/10/26 de la Norma 18: se corrige sin consultar, salvo fricción real.
 
 ### Fase 2 — Entrega
 
@@ -688,6 +688,22 @@ Cada capítulo del libro elude el formato de artículo cerrado; opera como un á
 **Para qué existe la glosa, dicho por Luis, palabra por palabra (30/09/26):** *"para qué son las glosas, facilitan al lector terminología, datos 'complicados' que tendría que buscar por su cuenta, NO explica los textos."* Esa es la prueba definitiva, más simple de aplicar que el "no repitas con otras palabras" de la norma 9: una entrada de glosa existe para ahorrarle al lector una búsqueda —un término que no conoce, una cifra o una fecha que tendría que rastrear en otra fuente—. No existe para decirle qué significa el texto que acaba de leer, ni para resumírselo con otras palabras, por bien escrito que quede el resumen.
 
 **Precedente de aplicación — "UR antes de URbe", segunda auditoría (30/09/26):** de 13 entradas, pasadas una por una contra esta prueba, solo 3 la superaban sin tocar (aportaban dato verificable ausente del cuerpo: ríos y conflictos laborales de Rio Tinto, definición de acequias/albercas/aljibes, rango de fechas del último máximo glacial con su fuente). 4 tenían una sola frase legítima escondida entre relleno interpretativo y se recortaron a esa frase. 6 no superaban la prueba y se cortaron enteras — dos de ellas ni siquiera por redundancia sino por motivo de norma aparte: una definía una palabra ("toponimia") que ni aparecía ya en el cuerpo de esa versión del texto, resto huérfano de una redacción anterior; la otra reexplicaba qué significa el símbolo UR, violando en la glosa la misma Norma Cero Absoluta que prohíbe hacerlo en el cuerpo. El resultado: la glosa bajó de 13 a 7 entradas y de 48,5% a 28,7% del texto total de la pieza, sin tocar una sola palabra del cuerpo.
+
+**ENDURECIMIENTO (03/10/26) — la glosa se audita y se corrige sin consultar, salvo fricción real.**
+
+**La instrucción, de Luis, tal cual:** *"No puedo con todo. En las glosas, salvo fricciones a consultarme como las que hemos visto, se cumplen las normas al pie de la letra sin gastar contexto innecesario. Si la norma hay que endurecerla, se endurece."*
+
+**El caso que la dispara:** la glosa de «Babel: Canciones de Redención» llegó a 25 entradas y al 33 % del total de la pieza. La auditoría encontró que solo 2 de las 25 entradas pasaban intactas: 5 repetían el cuerpo sin aportar ningún dato y 18 mezclaban un dato nuevo con frases que repetían o explicaban el texto. Se aplicó completa el mismo día: 5 cortes enteros y 17 recortes (la entrada número 18, la del incesto, salió por decisión de Luis). La glosa quedó en 21 entradas.
+
+**Reglas de cumplimiento absoluto desde hoy:**
+1. **Cada frase aporta un dato que el cuerpo no da** (un término, una cifra, una fecha, una referencia, una ubicación). La frase que repite el cuerpo con otras palabras se corta. La entrada que no aporta ningún dato se corta entera, con su ancla.
+2. **Ninguna entrada interpreta, resume o explica el texto**, ni comenta la estructura del libro (otros actos, otras piezas): de eso se ocupan el cuerpo y las rayuelas.
+3. **Toda fuente se nombra de forma que el lector pueda buscarla:** autor, obra o revista, año y página cuando exista. «La crítica», «los estudios» o «la literatura» sin nombre no valen, y el dato que solo se apoya en ellos se retira. La única salida es una decisión expresa de Luis, y entonces la fuente pendiente queda apuntada en el informe hasta que aparezca.
+4. **La Norma 1 rige en la glosa igual que en el cuerpo:** ningún «no X, sino Y» ni variante.
+5. **La glosa respeta el registro del cuerpo.** No afirma con certeza lo que el cuerpo matiza ni al revés; si divergen, se iguala a lo documentado.
+6. **Las entradas sobre un mismo asunto con anclas contiguas se funden** (Norma 23). El rango sano sigue siendo 10-15 entradas y 15-20 % del total (Norma 24); fuera de él, auditoría inmediata.
+
+**Quién decide qué:** Claude audita y aplica estas reglas sin consultar —cortes, recortes, atribuciones, errores de dato verificables, renumeración— y muestra en su informe lo aplicado. A Luis solo se le consulta la fricción real: un recorte que retira el único apoyo de una afirmación del cuerpo; una entrada que introduce una afirmación que el cuerpo no hace, sobre todo si es sobre una persona real; una discrepancia entre cuerpo y glosa cuya solución cambia el cuerpo; y cualquier decisión de registro o de gusto. La Precisión Absoluta de la Norma Fundacional (Claude nunca corrige unilateralmente) sigue intacta para el cuerpo de las piezas.
 
 ## 19. CONTRA EL BUEN SALVAJE (BLINDAJE MATERIALISTA)
 **La trampa:** Describir sociedades, oficios o costumbres previas a la 'T' con un tono que sugiera pureza moral, inocencia edénica o superioridad ética — el mito rousseauniano del buen salvaje, el costumbrismo de postal, la utopía comunitaria idílica. La academia oficial demuele ese flanco en un párrafo tachándolo de idealismo poético, y con razón: es el mismo vicio narrativo que el libro le critica al mito nacionalista en otros capítulos.
