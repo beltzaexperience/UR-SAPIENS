@@ -685,3 +685,21 @@ No es un caso aislado. El mismo patrón, confirmado el mismo día con el qanat-7
 - **Norma 45 — Marvin Gaye y The Clash** — la frase final no tiene margen de sobra, y cuanto más se investiga, menos necesita decir una frase para contenerlo todo; se aplica a toda escala del libro (frase, párrafo, capítulo), amarrada a la Norma 26 (investigación sin techo) y a la Norma 21 (la sencillez vive en el cómo). Caso fundacional: "América empieza donde una orilla deja de ser suficiente" (antes: "América empieza en esa distancia: cuando una orilla deja de ser suficiente" — 19 caracteres y 3 palabras más, con un demostrativo sin antecedente).
 
 **Nota de atribución, pedida explícitamente por Luis:** Julian Cope nos ayudó.
+
+---
+
+## REGLA 38 — COPIA DE SEGURIDAD OBLIGATORIA: CLAUDE ENVÍA A LUIS CADA ARCHIVO QUE CAMBIA; `urtz.html` NO SE EMPUJA SIN SU OK
+
+Pedida por Luis el 03/10/26, norma fija desde ahora, con el alcance afinado en la misma conversación: **cada vez que Claude modifica cualquier archivo del proyecto, se lo envía a Luis como archivo adjunto en ese mismo momento**, para que Luis tenga una copia en su ordenador. No se espera a que lo pida. Lo que cambia según el archivo es solo si hay que esperar su visto bueno antes del push.
+
+**`urtz.html` — el único archivo con freno previo al push.** Claude lo modifica, verifica (tamaño exacto, equilibrio de `<details>` y `<div>`), se lo envía completo a Luis y **no empuja hasta que Luis confirme** que lo ha comprobado. Es imprescindible porque la copia local de Luis no recibe lo que Claude cambia en la rama: sin el archivo enviado, Luis solo ve la versión que él tenía.
+
+**Normas, notas y demás `.md` — push directo, más copia.** `NORMA-METODO.md`, `NOTAS-URTZ.md`, `analisis-editorial.md`, `GLOSARIO-UR-SAPIENS.md` y cualquier otro `.md`: Claude empuja sin esperar, y además envía a Luis el `.md` completo tal como queda, en el mismo momento.
+
+**Cualquier otro archivo del proyecto** (el resto de HTML, imágenes, lo que sea) se envía igualmente cuando cambia. El freno previo al push solo se ha pedido para `urtz.html`; para el resto rige lo de siempre, la Regla 21. Si se borra un archivo, se avisa expresamente de cuál.
+
+**Qué se envía:** el archivo entero tal como queda, no un fragmento ni un diff, con una línea que diga qué cambió y en qué commit.
+
+**Por qué existe:** el 03/10/26 Luis comprobó que su copia local de `urtz.html` solo mostraba `NO TOCAR` en «Los viajes de UR por Iberoamérica», porque `(*-sub) (*-red)` se había añadido en la rama sin que el archivo le llegara. Sin la copia, no hay forma de contrastar lo que Claude dice que hizo con lo que de verdad hay.
+
+**Lo que no cambia:** la Regla 21 sigue vigente. Los HTML van por rama y Pull Request, nunca directos a `main`, y ningún Pull Request se fusiona sin permiso explícito de Luis para ese caso concreto.
