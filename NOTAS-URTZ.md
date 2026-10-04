@@ -705,3 +705,39 @@ Pedida por Luis el 03/10/26, norma fija desde ahora, con el alcance afinado en l
 **Por qué existe:** el 03/10/26 Luis comprobó que su copia local de `urtz.html` solo mostraba `NO TOCAR` en «Los viajes de UR por Iberoamérica», porque `(*-sub) (*-red)` se había añadido en la rama sin que el archivo le llegara. Sin la copia, no hay forma de contrastar lo que Claude dice que hizo con lo que de verdad hay.
 
 **Lo que no cambia:** la Regla 21 sigue vigente. Los HTML van por rama y Pull Request, nunca directos a `main`, y ningún Pull Request se fusiona sin permiso explícito de Luis para ese caso concreto.
+
+
+---
+
+## REGLA 39 — LEYENDA ÚNICA DE MARCAS DE PIEZA (04/10/26)
+
+Pedida por Luis el 03/10/26 al unificar los indicadores de los capítulos de URS. **Esta es la única definición vigente de las marcas que acompañan a la calavera en el `<summary>` de una pieza.** NORMA-METODO.md ya no define marcas por su cuenta: donde antes explicaba `(*-nod)`, `(*-sub)`, `(*-tit)`, `(*-rep)`, `(*-tics)` o `(*-verb)`, ahora remite aquí.
+
+**Formato único.** Toda pieza de URS lleva la marca en el `<span>` flotante a la derecha del título, en este orden:
+
+`☠ NO TOCAR!!! (*-per) (*-sub) (*-tit) (*-red) (*-nor)`
+
+donde `(*-per)`, `(*-sub)` y `(*-tit)` aparecen solo si procede. `(*-red)` y `(*-nor)` van siempre en las piezas sin revisar.
+
+**Qué significa cada marca**
+
+- **☠ NO TOCAR!!!** — pieza protegida y estable. Su cuerpo no se modifica sin autorización expresa de Luis (Precisión Absoluta). A Luis solo le queda por decidir los subtítulos, el título y las pequeñas modificaciones de redacción, más el paso por las normas. No significa «cerrada para siempre»: una pieza protegida puede reabrirse si Luis lo decide (ver el matiz de la Regla 30).
+- **(*-sub)** — la pieza tiene subtítulos internos (`<h4>`, Norma 43) y Luis todavía no los ha dado por definitivos. **Solo se pone en piezas que tienen subtítulos**; una pieza sin `<h4>` no la lleva.
+- **(*-tit)** — el título general de la pieza (el del `<summary>` y el `<h3>`) no es todavía el definitivo. Independiente de `(*-sub)`.
+- **(*-red)** — la pieza está pendiente de la última lectura de redacción de Luis. Se pone en **todas** las piezas de URS.
+- **(*-nor)** — la pieza **no ha pasado todavía las normas con Relojero-Plus**: Normas I–XXVI de NORMA-METODO.md y punk 0–45, incluida la pasada Baroja-Orwell (Norma 36) y la Tabla Margarita (Norma 37). Es la marca que sustituye a todas las auditorías pendientes anteriores. Se retira cuando la pieza completa el procedimiento sin pendientes y Luis lo da por bueno.
+- **(*-per)** — sin definición documentada. Solo la lleva *Antártida: el hielo primordial*. Luis no recuerda su significado; se conserva tal cual hasta que él lo aclare o decida retirarla.
+
+**Los tres estados de una pieza de URS**
+
+1. **Sin pasar por las normas:** `☠ NO TOCAR!!! [(*-sub)] [(*-tit)] (*-red) (*-nor)`. Es el estado de 64 de las 72 piezas protegidas a 04/10/26.
+2. **Revisada con las normas:** `☠ NO TOCAR!!! [(*-sub)] [(*-tit)] (*-red)` — sin `(*-nor)`. Hoy son 8: UR ANTES DE URBE: ENCUENTRO EN LAS TRES FASES, TUR: LA RAÍZ PREINDOEUROPEA · LA MATRIZ PANIBÉRICA, TUR: LA DAMA DE MARFIL, TUR · UN CONTINENTE EN TRÁNSITO, LOS VIAJES DE UR POR IBEROAMÉRICA, VANIA LIMA Y LOS UR DE BRASIL, BABEL: CANCIONES DE REDENCIÓN y SIOUXSIE AND THE BANSHEES Y LA GUERRA DE LOS MUNDOS.
+3. **Excepciones, sin tocar de momento:** Marcador Fonomático, Isla de Tarifa, Prólogo, El Noturikon, Bio Editorial y Contraportada quedan como estaban: Prólogo, El Noturikon, Isla de Tarifa y el Marcador no llevan ninguna marca; Bio Editorial y Contraportada conservan `☠ NO TOCAR!!! (*-tics)`, la única aparición de una marca retirada que sobrevive en URS. Se tratan más adelante, una a una.
+
+**Marcas retiradas (04/10/26).** `(*-nod)`, `(*---)`, `(*-verb)`, `(*-rep)` y `(*-tics)` ya no existen en las piezas unificadas: lo que cada una vigilaba (sintaxis defensiva y cadenas recurrentes, guiones, los tres tiempos del agua, repeticiones y tics) queda dentro de las normas que comprueba `(*-nor)`. El registro pieza a pieza de lo que se retiró está en analisis-editorial.md. Si una pieza revisada con Relojero-Plus necesita una vigilancia específica, se anota en su glosa de trabajo o en una Tabla Margarita, no con una marca nueva.
+
+**Otras marcas que existen fuera de URS.** `(*-engurr)` en URIM (*Mesopotamia profunda · Enki, Inanna y el Código de Ur-Nammu*), marca local de trabajo, sin significado general.
+
+**Marcador y % Revisadas.** La columna «% Sello» del Marcador se redefine como **«% Revisadas»**: piezas de URS que ya no llevan `(*-nor)` dividido entre el Total 1 de la fila (URS + URIM reales). A 04/10/26: TOTAL DEL LIBRO, 8 de 160 (5%). La columna antigua medía URS ÷ (URS+URIM); esa proporción se sigue leyendo con las dos primeras columnas.
+
+**Regla de mantenimiento.** Cuando una pieza supera Relojero-Plus y Luis la da por buena, Claude le quita `(*-nor)`, sube su cuenta en la columna «% Revisadas» (Regla 14) y deja constancia en analisis-editorial.md. Toda pieza nueva que entre en URS lleva `☠ NO TOCAR!!! [(*-sub)] [(*-tit)] (*-red) (*-nor)` desde el primer momento.
