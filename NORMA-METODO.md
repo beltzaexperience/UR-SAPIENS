@@ -701,7 +701,7 @@ Cada capítulo del libro elude el formato de artículo cerrado; opera como un á
 3. **Toda fuente se nombra de forma que el lector pueda buscarla:** autor, obra o revista, año y página cuando exista. «La crítica», «los estudios» o «la literatura» sin nombre no valen, y el dato que solo se apoya en ellos se retira. La única salida es una decisión expresa de Luis, y entonces la fuente pendiente queda apuntada en el informe hasta que aparezca.
 4. **La Norma 1 rige en la glosa igual que en el cuerpo:** ningún «no X, sino Y» ni variante.
 5. **La glosa respeta el registro del cuerpo.** No afirma con certeza lo que el cuerpo matiza ni al revés; si divergen, se iguala a lo documentado.
-6. **Las entradas sobre un mismo asunto con anclas contiguas se funden** (Norma 23). El rango sano sigue siendo 10-15 entradas y 15-20 % del total (Norma 24); fuera de él, auditoría inmediata.
+6. **Las entradas sobre un mismo asunto con anclas contiguas se funden** (Norma 23). Referencia de cantidad: 10-15 entradas (Norma 23). La proporción de glosa sobre el total (zona habitual 24-43 %, Norma 24 recalibrada el 04/10/26) es solo una referencia, no un disparador de auditoría.
 
 **Quién decide qué:** Claude audita y aplica estas reglas sin consultar —cortes, recortes, atribuciones, errores de dato verificables, renumeración— y muestra en su informe lo aplicado. A Luis solo se le consulta la fricción real: un recorte que retira el único apoyo de una afirmación del cuerpo; una entrada que introduce una afirmación que el cuerpo no hace, sobre todo si es sobre una persona real; una discrepancia entre cuerpo y glosa cuya solución cambia el cuerpo; y cualquier decisión de registro o de gusto. La Precisión Absoluta de la Norma Fundacional (Claude nunca corrige unilateralmente) sigue intacta para el cuerpo de las piezas.
 
@@ -752,21 +752,29 @@ Cada capítulo del libro elude el formato de artículo cerrado; opera como un á
 **Cuando la auditoría no basta:** si tras cortar lo prescindible la glosa sigue por encima del rango sano, el problema no está en el aparato crítico — está en el cuerpo, que probablemente está intentando contar dos capítulos en uno. La solución entonces no es seguir podando notas hasta dejar el texto cojo de datos: es partir la pieza en dos, cada una con la densidad que le corresponde. El caso del Danubio (22 glosas, capítulo dividido en Pla-UR y el tramo contemporáneo) es el precedente de referencia.
 
 
-## 24. LOS TRES NÚMEROS DEL CAPÍTULO SANO
+## 24. LOS TRES NÚMEROS DEL CAPÍTULO SANO (recalibrada el 04/10/26)
 
-**El principio:** La norma 23 mide la glosa por su calidad (norma 9) y por su cantidad de entradas. Esta norma añade lo que faltaba: el tamaño real del capítulo, medido donde se puede medir de verdad — caracteres, no sensación de cansancio releyendo. Los tres números salen de los propios datos del libro, no de una convención genérica de la industria editorial (que está pensada para el libro de no ficción de librería, un género distinto al de este proyecto — más cercano al artículo de revista ilustrada, formato donde la unidad corta es la norma, no la excepción).
+**Qué es esta norma desde hoy:** una referencia que mide, no una regla que manda. Decisión de Luis el 04/10/26: *"La norma se queda corta justo donde dices. Modifica la 24, esta norma está creando conflictos innecesarios."* El tamaño de cada pieza lo decide el material y lo decide Luis (Regla 36.5 de NOTAS-URTZ.md). Ninguna cifra de esta norma obliga a recortar una pieza ni a partirla, y ninguna revisión (Relojero, Perplexity o quien sea) puede presentar un número de aquí como incumplimiento. Si una cifra choca con lo que pide el material, gana el material (Norma 0).
 
-**Los tres números de referencia, calculados sobre las piezas ya cerradas del propio libro:**
-- **Cuerpo (sin glosa): 900 a 1.600 palabras** es la zona sana; por encima de 1.800-2.000, alarma — no condena, la misma lógica de la norma 23.
-- **Glosa sobre el total: 15-20%** del recuento combinado de cuerpo y glosa — el mismo techo que usa el oficio editorial para notas y aparato crítico en libros de no ficción convencionales, y que sigue siendo válido aquí aunque el resto de sus cifras no apliquen.
-- **Caracteres totales (cuerpo + glosa + cualquier apéndice, todo junto): mediana real 11.600, techo duro 25.000.** Por encima de 25.000, no es alarma — es la señal de que el capítulo, literalmente, quiere ser dos. El caso de referencia es UR-Sapines (33.600 caracteres, con un Apéndice I añadido sobre la glosa ya existente) frente a Pla-UR, que tras la partición del Danubio bajó a un tamaño saludable.
+**Los tres números, recalculados sobre el libro real** (04/10/26; 70 piezas de URS de más de 400 palabras, y 51 de ellas con glosa numerada; el cuerpo se calcula como total menos glosa, así que incluye títulos y rayuelas):
 
-**La acción punk:** estos números no sustituyen a la norma 23 ni a la 9 — las envuelven. Un capítulo puede cumplir la norma 9 entrada por entrada y aun así ser demasiado largo en conjunto; el termómetro de caracteres existe justo para cazar ese caso. Cuando un capítulo nuevo se acerque a los 20.000 caracteres totales, es el momento de preguntarse si de verdad son un tema o son dos — antes de llegar a los 25.000, no después.
+- **Cuerpo (sin glosa):** mediana 1.526 palabras. Zona habitual (cuartiles 1 a 3): **1.100 a 2.000 palabras**. Percentil 90: 2.730. Quince de las 70 piezas pasan de 2.000.
+- **Glosa sobre el total (cuerpo + glosa):** mediana 33 %. Zona habitual: **24 a 43 %**. La cantidad de entradas sigue medida por la Norma 23 (rango de referencia 10-15; mediana real 12). Cuarenta y dos de las 51 piezas con glosa pasan del 20 %.
+- **Caracteres totales:** mediana 12.700; tres cuartas partes por debajo de 17.900; 60 de 70 por debajo de 20.000. Seis piezas están entre 20.000 y 25.000 y cuatro por encima de 25.000 (Distopía Vegetal, Filipinas, Ürmüz, TUR: La raíz preindoeuropea), todas selladas.
 
+**Cómo se usa:**
+1. Ningún número, por sí solo, es alarma ni veredicto. Describe dónde está la pieza respecto al resto del libro.
+2. La pregunta que sí importa: ¿hay dos temas con arco propio y título propio? Si los hay, partir es una decisión de Luis, no una consecuencia de la cifra. Precedentes legítimos: el Danubio (Pla-UR), UR-Sapiens (33.600 caracteres), e Interludio III, repartido en tres piezas (1.476, 1.769 y 1.068 palabras).
+3. Cuando una pieza supera el percentil 90 (unas 2.700 palabras o unos 20.000 caracteres), se hace esa pregunta antes de seguir creciendo. Si la respuesta es «un solo tema», la pieza se queda como está.
+4. Los números siguen al libro, no al revés: se recalculan cuando Luis lo pida, con la misma muestra y el mismo método.
+
+**Historial.** Hasta el 04/10/26 la norma fijaba cuerpo de 900 a 1.600 palabras (alarma desde 1.800-2.000), glosa del 15-20 % y techo duro de 25.000 caracteres (mediana 11.600). Se retiró porque 32 de 70 piezas superaban la zona sana, 42 de 51 superaban el 20 % de glosa y cuatro piezas selladas superaban el techo: producía alarmas permanentes sin ninguna señal real, y obligaba a defender cada vez piezas que ya funcionaban.
+
+**La acción punk:** el termómetro existe para hacer una pregunta, no para dictar una poda. Cuando una pieza se acerca a los 20.000 caracteres, se mira si son uno o dos temas. No se mira si «cumple la norma».
 
 ## 25. EL RESPIRADOR COMO ANZUELO, NO COMO REGLA DE TAMAÑO
 
-**El principio:** La norma 24 mide cuándo un capítulo es demasiado largo. Esta norma corrige un malentendido que podía desprenderse de ella: el respirador (el título-pista de disco insertado dentro del cuerpo, como los de Pla-UR) no existe para capítulos largos — existe para cambios de acorde. Un capítulo corto también puede tener un giro real que merezca un respirador; un capítulo largo puede no tener ninguno si es un único argumento sostenido de principio a fin.
+**El principio:** La norma 24 da la referencia de tamaño de un capítulo. Esta norma corrige un malentendido que podía desprenderse de ella: el respirador (el título-pista de disco insertado dentro del cuerpo, como los de Pla-UR) no existe para capítulos largos — existe para cambios de acorde. Un capítulo corto también puede tener un giro real que merezca un respirador; un capítulo largo puede no tener ninguno si es un único argumento sostenido de principio a fin.
 
 **El test operativo, ancla o respiradero, nunca separador de párrafo (15/09/26):** un subtítulo se gana su sitio de una de dos maneras. O es ancla —marca un giro real del contenido, algo a lo que el lector podría volver por su nombre, un cambio genuino de qué se está contando—. O es respiradero —una pausa que el propio texto necesita porque ha acumulado peso suficiente para cansar antes de seguir—. Si un subtítulo no hace ninguna de las dos cosas, no es una tercera categoría legítima: es un separador de párrafo disfrazado.
 
