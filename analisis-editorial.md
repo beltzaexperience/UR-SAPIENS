@@ -670,7 +670,7 @@ Así se evita que alguien interprete las 217.850 palabras como tres libros, un l
 1. **Rojo por crecimiento sin control:** se añade material al cuerpo sin haber pasado la prueba de las tres preguntas (Regla II, sección 6).
 2. **Rojo por mezcla de capas:** se presenta como URS material que en realidad pertenece a URIM, Compost, Semillas o archivo bruto.
 3. **Rojo por objetivo numérico:** una pieza se incorpora con el propósito de acercarse a las 190.000-200.000 palabras de Vico.
-4. **Rojo por auditoría pendiente:** existe una acumulación significativa de piezas selladas que aún no han pasado la revisión prevista (marcas `(*-nod)` / `(*---)` sin resolver).
+4. **Rojo por auditoría pendiente:** existe una acumulación significativa de piezas selladas que aún no han pasado la revisión prevista (piezas protegidas que aún llevan `(*-nor)`: ver la leyenda de marcas, Regla 39 de NOTAS-URTZ.md).
 5. **Rojo por documentación:** se incorporan afirmaciones relevantes sin clasificación entre hecho, hipótesis o artefacto.
 6. **Rojo por arquitectura:** una nueva pieza altera el recorrido del libro sin que se haya actualizado el mapa correspondiente en este documento.
 
@@ -1681,3 +1681,79 @@ Con el acto nuevo la glosa llegó a 25 entradas y al 33 % de la pieza. La audito
 Marcador Fonomático actualizado en cada paso (Regla 14): Impugnación a UR pasó de 2.891 a 3.635 palabras (recuento fresco; la fila ya iba 86 palabras por encima del real antes de tocarla). Total del libro: 212.064 palabras; total del proyecto: 224.450.
 
 Nueva norma, fijada por Luis: la glosa se audita y se corrige sin consultar salvo fricción real (Endurecimiento del 03/10/26, Norma 18 de NORMA-METODO.md). Resuelto el 04/10/2026: la frase «sus críticos señalan…» de la entrada de la arrogancia se sustituyó por una referencia con nombre: Klaus Weber, epílogo «Das Unterwerfungsprojekt Bert Hellinger – die Sicht einer Betroffenen» (pp. 215-225), en Elisabeth Reuter, *Gehirn-Wäsche. Macht und Willkür in der «systemischen Psychotherapie» nach Bert Hellinger* (Peter Lehmann Antipsychiatrieverlag, Berlín, 2005, ISBN 978-3-925931-40-6). Se descartaron la atribución «Verbeugung vor dem Täter», que no se confirma, y las páginas de *Ordnungen der Liebe* propuestas, que no se pudieron comprobar. Queda fuera la afirmación sobre la violencia de los padres, que ninguna fuente verificada sostiene.
+
+
+### Actualización — 04/10/2026 — Unificación de las marcas de las piezas de URS
+
+Luis pidió unificar los indicadores de los capítulos de URS. Decisiones suyas: toda pieza de URS lleva `☠ NO TOCAR!!!`; las que no tenían nada o tenían marcas variadas pasan a `☠ NO TOCAR!!! [(*-sub)] [(*-tit)] (*-red) (*-nor)`, con `(*-sub)` solo donde hay subtítulos internos; las ocho piezas que ya llevaban `(*-sub) (*-red)` no cambian; se conservan `(*-tit)` y `(*-per)`; seis excepciones quedan sin tocar (Marcador Fonomático, Isla de Tarifa, Prólogo, El Noturikon, Bio Editorial, Contraportada). La definición de cada marca vive ahora en una sola leyenda: Regla 39 de NOTAS-URTZ.md; NORMA-METODO.md remite a ella.
+
+Ejecutado en urtz.html: 64 piezas reescritas (17 que no tenían nada y 47 con marcas de épocas distintas). Marcas retiradas: `(*-tics)` 44, `(*-nod)` 30, `(*---)` 30, `(*-verb)` 27, `(*-rep)` 11. `(*-sub)` añadido en 19 piezas con `<h4>` que no lo llevaban y quitado en 0 sin subtítulos internos. Una pieza `(*-red)` previa conserva su marca; `(*-per)` solo sigue en Antártida: el hielo primordial. Las 64 pasan a llevar `(*-nor)`. Verificado con Playwright: 196 piezas, cero errores de página.
+
+Marcador Fonomático: la columna «% Sello» se redefine como «% Revisadas» (piezas de URS sin `(*-nor)` entre el Total 1 de la fila); TOTAL DEL LIBRO, 8 de 160 (5 %). Las marcas cuentan como palabras en el recuento: URS pasa de 156.793 a 156.831 palabras (+38) y de 942.240 a 942.452 caracteres (+212). Total del libro: 212.102 palabras (≈848 pág.); total del proyecto: 224.488 palabras (≈898 pág.). Las filas por categoría se actualizaron una a una con su propio delta (por ejemplo, Interludios +15, Etimología Insurgente +20, Cara 1 · Ibérico −18).
+
+**Registro de marcas retiradas, pieza por pieza** (título [sección]: marcas antes; marcas ahora):
+
+- DESDE 1964: UR ETA URBE [RADIO BELTZA]: antes (*-tics); ahora (*-sub) (*-red) (*-nor).
+- CICLO HÍDRICO · GEROGLÍFICO UR [PREFACIO]: antes (*-red); ahora (*-sub) (*-red) (*-nor).
+- INTRODUCCIÓN: CÍRCULO SIMBÓLICO — NATURA, UR Y ORIGEN [INTRODUCCIÓN]: antes (*-sub) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- EL UR CÓSMICO · DEL HIELO INTERESTELAR A LA GARGANTA [INTRODUCCIÓN]: antes (*-sub) (*-rep) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- CUL-T-UR/A · LEC-T-UR/A · EL CONTINENTE IBÉRICO COMO CONTENEDOR [● Ibero Intros]: antes (*-verb) (*-nod) (*---) (*-tics); ahora (*-red) (*-nor).
+- UR, EL EUSKERA Y LA FRONTERA INVISIBLE [● Ibero Intros]: antes (*-sub) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- UR, EL CASTELLANO Y LA FRONTERA INVISIBLE [● Ibero Intros]: antes (*-sub) (*-rep) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- EUSKAL HERRIA · EL KOXKERO ERRANTE DE BAJA ALCURNIA [● Euskal Herria]: antes (*-sub) (*-rep) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- EUSKAL HERRIA · AMAIA · AMAIUR · MAIA · AMAYA: EL CONFÍN [● Euskal Herria]: antes (*-sub) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- EUSKAL HERRIA · ZUBEROA · LA MÁSCARA Y EL CENTAURO [● Euskal Herria]: antes (*-sub) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- MEDITERRÁNEO IBÉRICO · CABO DE GATA · REFUGIO PUNK EN EL DESIERTO [● Mediterráneo Levantino]: antes (*-verb) (*-nod) (*---) (*-tics); ahora (*-red) (*-nor).
+- MESETA CENTRAL · DEL RIOJA AL ATLÁNTICO · UR VIAJERO [● Central]: antes (*-sub) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- ISLANDIA I · LA ISLA QUE RESPIRA [● Escandinavia · Norte]: antes (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- ISLANDIA II · LA GUERRA QUE SE CANTA [● Escandinavia · Norte]: antes —; ahora (*-sub) (*-red) (*-nor).
+- ISLANDIA III · LA TIERRA DEBAJO DEL FUEGO [● Escandinavia · Norte]: antes —; ahora (*-sub) (*-red) (*-nor).
+- PLA-UR · EL VIENTRE DE LA TURBA [◑ Europa Central · Rin-Danubio]: antes (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- DANUBIO ESTE · TURBINA NUCLEAR [◑ Europa Central · Rin-Danubio]: antes (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- VENDÉE · FRANCIA ATLÁNTICA · EL ESCARPE Y LA FOSA [● Europa Latina · Francia-Italia-Grecia]: antes (*-sub) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- FRONTERA AQUITANO-CELTA: GUERRA EN LA GALIA [● Europa Latina · Francia-Italia-Grecia]: antes (*-sub) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- FRONTERA FRANCO-BELGA: RÊV-E-UR · SOÑADOR · ESPEJISMO [● Europa Latina · Francia-Italia-Grecia]: antes (*-sub) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- FRONTERA FRANCO-BELGA: DUNKERQUE · URBELTZ CELTA [● Europa Latina · Francia-Italia-Grecia]: antes (*-sub) (*-rep) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- ÜRMÜZ: AHURA MAZDĀ · SABIDURÍA UR [● Anatolia · Cáucaso]: antes (*-sub) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- MESOPOTAMIA · LEVANTE · LA PRESA ORAL Y EL DIAPIRO PRIMORDIAL [● Mesopotamia · Levante]: antes (*-sub) (*-rep) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- INDO-GANGES · HIMALAYA · EL GRAN RECEPTÁCULO SÓNICO [● Asia del Sur · Indo-Ganges]: antes (*-sub) (*-rep) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- TIMMUR: HIMALAYA VERTICAL [● Asia del Sur · Indo-Ganges]: antes (*-sub) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- OGURA: PEQUEÑA GOTA DE AGUA [● Asia del Este · Amur-Japón]: antes —; ahora (*-sub) (*-red) (*-nor).
+- FILIPINAS · DEL CHAVACANO AL JAZZ [● Asia del Sureste · Mekong]: antes (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- LA ESCOMBRERA SISTÉMICA [● Asia del Sureste · Mekong]: antes (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- AMÉRICA · ANIA · ANAIA · UR EN EL ATLÁNTICO FRÍO [● Ártico americano · Inuit]: antes (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- URABÁ · TAPÓN DE DARIÉN · RAÍCES INDÍGENAS [● Mesoamérica · Caribe · Urabá]: antes —; ahora (*-sub) (*-red) (*-nor).
+- ANGOSTURA [● Orinoco · Amazonia]: antes —; ahora (*-red) (*-nor).
+- CURACA · EL DIOS QUE HABLA [● Andes · Pacífico]: antes (*-sub) (*-tit) (*-tics); ahora (*-sub) (*-tit) (*-red) (*-nor).
+- VILCABAMBA · EL RÍO QUE SE ESCONDE [● Andes · Pacífico]: antes (*-sub) (*-tit) (*-rep); ahora (*-sub) (*-tit) (*-red) (*-nor).
+- QUELCCAYA · LA GUERRA DEL AGUA [● Andes · Pacífico]: antes (*-sub) (*-tit) (*-rep); ahora (*-sub) (*-tit) (*-red) (*-nor).
+- SÁJAURA · MAURITANIA · FUR [● Norte de África · Nilo-Sahara]: antes —; ahora (*-red) (*-nor).
+- TURKANA · OURO SOGUI · WURO [● África Oriental · Rift Valley-Grandes Lagos]: antes (*-sub) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- ENDOROIS · OGIEK · SAN · LOLIONDO [● África Oriental · Rift Valley-Grandes Lagos]: antes (*-sub) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- WHANGANUI: EL RÍO QUE NOS NOMBRA [● Nueva Zelanda · Maorí]: antes (*-sub) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- TE UREWERA: EL BOSQUE QUE COMPARECE [● Nueva Zelanda · Maorí]: antes (*-sub) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- WAI-MURI: EL AGUA DEL FUTURO [● Nueva Zelanda · Maorí]: antes (*-sub) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- ANTÁRTIDA: EL HIELO PRIMORDIAL [● Antártida · el hielo primordial]: antes (*-per) (*-sub) (*-tics); ahora (*-per) (*-sub) (*-red) (*-nor).
+- UR DELTA: TEOLOGÍA DE LA INTUICIÓN, HUÉRFANA DE DOCTRINA [ENSAYOS ANTI-DOGMÁTICOS]: antes (*-sub) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- RÍO CONGO: NATURALEZA O SISTEMA [ENSAYOS ANTI-DOGMÁTICOS]: antes (*-sub) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- HISTORIA DE LA EDUCACIÓN VICTORIANA [ENSAYOS ANTI-DOGMÁTICOS]: antes (*-sub) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- ANTROPOLOGÍA RACIAL [ENSAYOS ANTI-DOGMÁTICOS]: antes (*-sub) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- DIGITALISMO Y EL TEST GORILA [BIOPSIA DEL SISTEMA MUNDO]: antes (*-tics); ahora (*-sub) (*-red) (*-nor).
+- I · UR: INTUICIÓN SIMBÓLICA [INTERLUDIOS · DEFENSA RADICAL Y DEMOCRÁTICA DE UR]: antes (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- II · UR: HORIZONTE JURÍDICO [INTERLUDIOS · DEFENSA RADICAL Y DEMOCRÁTICA DE UR]: antes (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- III · UR: DEL LOGOS AL MITO · I. LA USURPACIÓN DEL ENGUR [INTERLUDIOS · DEFENSA RADICAL Y DEMOCRÁTICA DE UR]: antes —; ahora (*-sub) (*-red) (*-nor).
+- III · UR: DEL LOGOS AL MITO · II. GOLGI, CAJAL Y LA CONSTELACIÓN RUPESTRE [INTERLUDIOS · DEFENSA RADICAL Y DEMOCRÁTICA DE UR]: antes —; ahora (*-sub) (*-red) (*-nor).
+- III · UR: DEL LOGOS AL MITO · III. EL RETORNO [INTERLUDIOS · DEFENSA RADICAL Y DEMOCRÁTICA DE UR]: antes —; ahora (*-sub) (*-red) (*-nor).
+- ABSURDO [ETIMOLOGÍA INSURGENTE]: antes —; ahora (*-red) (*-nor).
+- SUSURRO [ETIMOLOGÍA INSURGENTE]: antes —; ahora (*-red) (*-nor).
+- TURBA [ETIMOLOGÍA INSURGENTE]: antes —; ahora (*-red) (*-nor).
+- HURÓN [ETIMOLOGÍA INSURGENTE]: antes —; ahora (*-red) (*-nor).
+- LAUREL [ETIMOLOGÍA INSURGENTE]: antes —; ahora (*-red) (*-nor).
+- BONUS TRACKS · SULFURO Y OSCURIDAD: EL UR ABISAL [BONUS TRACKS]: antes —; ahora (*-red) (*-nor).
+- BONUS TRACK · DISTOPÍA VEGETAL [BONUS TRACKS]: antes (*-sub) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- TU NUBE SECA MI RÍO [EPÍLOGO]: antes (*-sub) (*-rep) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- LA MUERTE DE LA INTUICIÓN TENÍA UN PRECIO [EPÍLOGO]: antes (*-sub) (*-rep) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- IA: FANTASÍA EN ÓRBITA LEO (HOMENAJE A TOM DISSEVELT) [EPÍLOGO]: antes (*-sub) (*-rep) (*-verb) (*-nod) (*---) (*-tics); ahora (*-sub) (*-red) (*-nor).
+- EPÍLOGO: PRECEDENTES Y BIBLIOGRAFÍA [EPÍLOGO]: antes —; ahora (*-red) (*-nor).
+- EPÍLOGO: RESISTENCIAS HÍDRICAS [EPÍLOGO]: antes —; ahora (*-red) (*-nor).
+- ENTREVISTA A NEXUS-7: UR PREGUNTA ¿QUIÉN ES UR? [¿PUEDE NEXUS-7 SOÑAR CON UR?]: antes (*-tics); ahora (*-sub) (*-red) (*-nor).
