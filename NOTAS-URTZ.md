@@ -749,7 +749,7 @@ donde `(*-per)`, `(*-sub)` y `(*-tit)` aparecen solo si procede. `(*-red)` y `(*
 
 ## PLAN — INTERLUDIO IV · ANOMALÍA CIBERNÉTICA (04/10/26)
 
-Decisiones de Luis del 04/10/26. **IV·I (El dique del silencio) está insertada en `urtz.html` desde el 06/10/26**, con `☠ NO TOCAR!!! (*-sub) (*-tit) (*-red) (*-nor)`; IV·II, IV·III y el epílogo están por escribir. Este apartado fija el plan y los datos ya verificados para no volver a investigarlos.
+Decisiones de Luis del 04/10/26. **IV·I (El dique del silencio) está insertada en `urtz.html` desde el 06/10/26**, con `☠ NO TOCAR!!! (*-sub) (*-red) (*-nor)` (Luis retiró `(*-tit)` el 07/10/26: el título queda definitivo); IV·II, IV·III y el epílogo están por escribir. Este apartado fija el plan y los datos ya verificados para no volver a investigarlos.
 
 **Estructura: el molde de «Del Logos al mito».** Interludio III son tres piezas con la cabecera común y un numeral romano en el título. Interludio IV sigue el mismo molde, con cuatro piezas:
 
@@ -757,6 +757,8 @@ Decisiones de Luis del 04/10/26. **IV·I (El dique del silencio) está insertada
 2. `IV · UR: ANOMALÍA CIBERNÉTICA · II. LA TÉCNICA QUE RECUERDA SU ORIGEN` (de Simondon y Yuk Hui a las cosmotécnicas y el tecnocimarronaje).
 3. `IV · UR: ANOMALÍA CIBERNÉTICA · III. EL CIRCUITO QUE NO SE APAGA` (de la biología reverberante a la máquina y su fuga). **Solo material nuevo:** Metrópolis, Ex Machina y la reverse reverb. Lorente de Nó y McCulloch-Pitts ya están en III·II §§14-15, con fuente: se enlazan con una rayuela y no se vuelven a contar.
 4. `IV · UR: ANOMALÍA CIBERNÉTICA · EPÍLOGO`: texto por hacer. Títulos y numerales, provisionales: `(*-tit)`.
+
+**Convención de títulos (Luis, 07/10/26).** La pestaña lleva el numeral de la parte («III · UR: DEL LOGOS AL MITO · III. EL RETORNO», «IV · UR: ANOMALÍA CIBERNÉTICA · I. EL DIQUE DEL SILENCIO»). El título grande del cuerpo repite el de la pestaña sin el segundo numeral («III · UR: DEL LOGOS AL MITO · EL RETORNO»). Las rayuelas citan los títulos con el numeral, como las pestañas. Las piezas I y II de Interludios ya cumplen la convención con su título del cuerpo sin numeral.
 
 **Reglas fijadas para escribirlo.** La Norma 1 no admite excepción en ninguna pieza de este interludio, ni en el umbral ni en el cuerpo (palabras de Luis: *«innegociable es innegociable»*). La nota sobre el estatuto epistemológico se retira del cuerpo y pasa a la glosa, como en III·II. El cuerpo no se toca sin autorización expresa de Luis.
 
