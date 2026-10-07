@@ -1110,7 +1110,7 @@ Luis: *"Ese párrafo final sin ningún sentido narrativo, prohibido. Lo tenemos 
 
 **La regla.** No hay porcentaje. Toda frase que abre con artículo se somete a la lista de motivos de abajo: si se da alguno, se abre de otra manera; si no se da ninguno, el artículo se queda. A diferencia del punto 1, aquí el vicio no es una fórmula repetida sobre un mismo sujeto, sino la textura: la frase que abre con artículo no es incorrecta, lo que cansa es que lo haga la mitad del libro.
 
-**Los motivos para abrir de otra manera** (propuestos por Claude el 07/10/26, a confirmar o corregir por Luis):
+**Los motivos para abrir de otra manera** (propuestos por Claude y confirmados por Luis el 07/10/26):
 1. **Hay un protagonista con nombre** en la investigación y es quien hace lo que la frase cuenta: abre él, sin artículo (Baroja: *«San Sebastián está muy dirigido por gente llegada de Pamplona…»*; en IV·II: *«Simondon utiliza…»*, *«Amazon Frontlines trabaja…»*, *«Baobáxia es…»*).
 2. **El dato nuevo de la frase es un lugar, una fecha o una cifra:** abre con ese complemento (Baroja: *«En Pasajes había antes…»*, *«En los monumentos de San Sebastián se ve que…»*).
 3. **El peso de la frase está en la acción:** abre el verbo o el adverbio (Baroja: *«Hay una mezquindad…»*, *«Ya han afeado…»*). Si la fuente no da agente, la pasiva honesta o el *se* abren sin inventar protagonista (Norma 36, punto 3).
