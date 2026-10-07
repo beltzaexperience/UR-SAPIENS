@@ -230,6 +230,8 @@ A partir de hoy, sin excepción: **cualquier cambio que altere el número de pie
 
 **Nunca dejar un "ya lo actualizaré después" para un cambio de piezas.** El coste de posponerlo es exactamente lo que pasó hoy: una fila desactualizada que nadie recuerda revisar hasta que alguien pregunta por qué el total no cuadra.
 
+**Matiz de Luis, 07/10/26 — el Marcador no se actualiza a cada corrección.** Mientras una pieza se trabaja en la mesa de mezclas (URIM) y se corrige punto por punto, el Marcador no se toca por cada cambio de redacción. Se actualiza una sola vez, cuando la pieza está terminada y se coloca en URS (con el delta medido y el resto del procedimiento de arriba). La regla de fondo sigue en pie: cualquier movimiento de piezas entre categorías, zonas o subsecciones se contabiliza en el mismo momento; lo que se relaja es la cuenta de palabras de una pieza que aún cambia.
+
 ---
 
 ## PENDIENTE PARA LA PRÓXIMA SESIÓN — AUDITORÍA NUMÉRICA COMPLETA
