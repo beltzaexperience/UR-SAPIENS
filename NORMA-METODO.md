@@ -1119,7 +1119,7 @@ Luis: *"Ese párrafo final sin ningún sentido narrativo, prohibido. Lo tenemos 
 6. **Plantilla:** el mismo artículo + sustantivo ya abrió otra frase de la pieza (IV·II: *«La técnica…»* abre 11 frases). Es el punto 1 de esta norma.
 7. **El sujeto es un abstracto con artículo** (*la técnica*, *la relación*, *la infraestructura*): es el motivo más directo, y se resuelve con la Norma 47.
 
-**Cuándo el artículo se queda** (no es tic): (a) el sujeto es un protagonista concreto o uno de los elementos del libro (el ayuntamiento, el agua, el hormigón, UR) y ninguna otra apertura sería más natural; (b) la frase define un concepto (Norma 47); (c) la frase breve es una síncopa deliberada o está ganada (Normas 26 y 33); (d) cualquier otra apertura sería forzada: gana el texto (Norma 0).
+**Cuándo el artículo se queda** (no es tic): (a) el sujeto es un protagonista (concreto, o un concepto o elemento que el capítulo se ha ganado, Norma 47) y ninguna otra apertura sería más natural; (b) la frase define un concepto (Norma 47); (c) la frase breve es una síncopa deliberada o está ganada (Normas 26 y 33); (d) cualquier otra apertura sería forzada: gana el texto (Norma 0).
 
 **Cautelas.** Abrir siempre por complemento circunstancial (*«En 1953, …»*) o siempre por *«Hoy»* es una plantilla nueva (punto 1 de esta norma). El libro habla en tercera persona y no puede copiar el *«Yo»* de Baroja. Invertir la sintaxis sin cambiar de protagonista no cuenta como arreglo.
 
@@ -1269,7 +1269,7 @@ Luis: *"Ese párrafo final sin ningún sentido narrativo, prohibido. Lo tenemos 
 **Los límites exactos:**
 1. **La pasiva honesta se queda.** Cuando la fuente no da agente, no se inventa un protagonista (Norma 36, punto 3; Ley Hammurabeltz; Norma 35). Es la única excepción que ya traen las normas.
 2. **La frase que define un concepto o fija un término** no cuenta la acción de nadie y no entra en esta norma; entra en la alarma de abstracción de la Norma 36.8, que mide cuántas hay.
-3. **Los elementos que protagonizan el libro son protagonistas legítimos.** Palabras de Luis (07/10/26): *«El libro trata sobre UR que representa a Urano y a Sulfuro.»* UR, el agua, el río, el hormigón y los elementos del mismo orden (Luis: «conceptos similares») pueden ser el sujeto de la frase. *«El hormigón no discute; pesa»* (Norma 26) cumple. Un protagonista que abre muchas frases con el mismo verbo es plantilla (Norma 38, punto 1).
+3. **Un concepto o un elemento es protagonista cuando el capítulo se lo ha ganado.** Palabras de Luis (07/10/26): *«Los conceptos abstractos como protagonistas se lo tienen que ganar los conceptos, no hace falta listas. El contexto del capítulo dictaminará si un concepto es protagonista o mero concepto.»* No hay lista de protagonistas permitidos. Un elemento material o natural que actúa en el capítulo puede ser el sujeto (*«El hormigón no discute; pesa»*, Norma 26); un concepto abstracto es sujeto solo si el capítulo lo ha convertido en protagonista, y si no, es mero concepto y la frase se reescribe con quien actúa. Para el libro, Luis lo dijo así: *«El libro trata sobre UR que representa a Urano y a Sulfuro.»* Un protagonista que abre muchas frases con el mismo verbo es plantilla (Norma 38, punto 1).
 
 **Lo que esta norma no es.** No es «voz activa siempre» (la trampa de la Norma 36). No obliga a un nombre propio en cada frase. No se cumple invirtiendo la sintaxis sin cambiar de actor (*«Es la técnica la que…»* sigue teniendo la técnica de sujeto). No inventa agentes que las fuentes no dan.
 
