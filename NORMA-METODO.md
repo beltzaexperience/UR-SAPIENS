@@ -230,18 +230,18 @@ El ilusionismo no es un engaño sino una técnica: hacer que el lector vea agua 
 
 **Alcance:** aplica a todo el material nuevo que entre en URIM/URS desde ahora, con prioridad especial en el vaciado de permafrost e IGLUR —investigación que, como Te Urewera, puede llegar completamente verificada y completamente ajena al método todavía.
 
-## VIII quater. LOS PROTAGONISTAS DEL LIBRO — UR FRENTE A URBE Y SU HERRAMIENTA, LA «T» (07/10/26)
+## VIII quater. LOS PROTAGONISTAS DEL LIBRO — UR FRENTE A URBE Y SU ARMA, LA «T» (07/10/26)
 
-**La declaración, de Luis, para que no haga falta repetirla:** *«Los protagonistas del libro son UR vs URbe y su herramienta de usurpación: la "T", la canalización del fluir universal.»* Igual que la sección VIII bis declara UR una sola vez para todo el libro, esta sección declara una sola vez a sus tres protagonistas.
+**La declaración, de Luis, para que no haga falta repetirla:** *«Los protagonistas del libro son UR vs URbe y su herramienta de usurpación: la "T", la canalización del fluir universal.»* Y, al precisar los papeles: *«UR es el protagonista y su mecanismo de libertad es el fluir. URbe es su "enemigo", el "villano", y arma de control y dominación la "T".»* Igual que la sección VIII bis declara UR una sola vez para todo el libro, esta sección declara una sola vez a sus tres protagonistas y el papel de cada uno.
 
-**Los tres, con la definición del glosario del proyecto (`GLOSARIO-UR-SAPIENS.md`):**
-- **UR:** la raíz fonética que designa el agua, el origen, la corriente (VIII bis).
-- **URbe:** la ciudad como recipiente cerrado del UR, su domesticación máxima: convierte el flujo libre en infraestructura fiscal, en tubería, en recibo del agua.
-- **La «T»:** la herramienta de la usurpación; la función que mide, tasa, cierra y canaliza, y convierte el flujo en propiedad; en palabras de Luis, la canalización del fluir universal. El Prólogo ya la presenta una vez: *«la T: el canal, el código, la ley, la infraestructura que administra lo que antes fluía sin pedir permiso»*.
+**Los tres, con su papel y con la definición del glosario del proyecto (`GLOSARIO-UR-SAPIENS.md`):**
+- **UR, el protagonista.** La raíz fonética que designa el agua, el origen, la corriente (VIII bis). Su mecanismo de libertad es el fluir.
+- **URbe, el enemigo, el villano.** La ciudad como recipiente cerrado del UR, su domesticación máxima: convierte el flujo libre en infraestructura fiscal, en tubería, en recibo del agua.
+- **La «T», el arma de control y dominación de URbe.** La herramienta de la usurpación: la función que mide, tasa, cierra y canaliza, y convierte el flujo en propiedad; en palabras de Luis, la canalización del fluir universal. El Prólogo ya la presenta una vez: *«la T: el canal, el código, la ley, la infraestructura que administra lo que antes fluía sin pedir permiso»*.
 
-**Qué cambia en la práctica.** (1) Los tres pueden ser el sujeto de una frase en cualquier pieza sin presentación previa y sin superar la prueba del concepto protagonista de la Norma 47. (2) Ninguna pieza tiene que volver a definirlos (complemento de la Norma 29, presentación de un término nuevo). (3) No son un comodín: si la investigación da un actor concreto (Enki organizando el Engur, la Rio Tinto Company), la frase nombra a ese actor (Norma 47), y la «T» queda para lo que nombra, la función. (4) Un protagonista que abre muchas frases con el mismo verbo sigue siendo plantilla (Norma 38, punto 1).
+**Qué cambia en la práctica.** (1) Los tres pueden ser el sujeto de una frase en cualquier pieza sin presentación previa y sin superar la prueba del concepto protagonista de la Norma 47, pero no tienen que actuar siempre como sujetos (Luis). (2) Ninguna pieza tiene que volver a definirlos (complemento de la Norma 29, presentación de un término nuevo). (3) No son un comodín: si la investigación da un actor concreto (Enki organizando el Engur, la Rio Tinto Company), la frase nombra a ese actor (Norma 47), y la «T» queda para lo que nombra, la función. (4) Un protagonista que abre muchas frases con el mismo verbo sigue siendo plantilla (Norma 38, punto 1).
 
-**Lo que no cambia.** El resto de los conceptos (la usurpación sistémica, el acoplamiento, la cosmotécnica, el tecnocimarronaje…) siguen sujetos a la Norma 47. Y Hammurabeltz no es un protagonista del libro: es un código interno de verificación de datos, que se define aparte (pendiente, 07/10/26).
+**Lo que no cambia.** El resto de los conceptos (la usurpación sistémica, el acoplamiento, la cosmotécnica, el tecnocimarronaje…) siguen sujetos a la Norma 47. Hammurabeltz no es un protagonista del libro: es el código interno de verificación de datos, definido en el glosario (aprobado el 07/10/26).
 
 ## IX. CLASIFICACIÓN
 
