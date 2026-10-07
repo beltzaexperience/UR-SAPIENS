@@ -230,6 +230,19 @@ El ilusionismo no es un engaño sino una técnica: hacer que el lector vea agua 
 
 **Alcance:** aplica a todo el material nuevo que entre en URIM/URS desde ahora, con prioridad especial en el vaciado de permafrost e IGLUR —investigación que, como Te Urewera, puede llegar completamente verificada y completamente ajena al método todavía.
 
+## VIII quater. LOS PROTAGONISTAS DEL LIBRO — UR FRENTE A URBE Y SU HERRAMIENTA, LA «T» (07/10/26)
+
+**La declaración, de Luis, para que no haga falta repetirla:** *«Los protagonistas del libro son UR vs URbe y su herramienta de usurpación: la "T", la canalización del fluir universal.»* Igual que la sección VIII bis declara UR una sola vez para todo el libro, esta sección declara una sola vez a sus tres protagonistas.
+
+**Los tres, con la definición del glosario del proyecto (`GLOSARIO-UR-SAPIENS.md`):**
+- **UR:** la raíz fonética que designa el agua, el origen, la corriente (VIII bis).
+- **URbe:** la ciudad como recipiente cerrado del UR, su domesticación máxima: convierte el flujo libre en infraestructura fiscal, en tubería, en recibo del agua.
+- **La «T»:** la herramienta de la usurpación; la función que mide, tasa, cierra y canaliza, y convierte el flujo en propiedad; en palabras de Luis, la canalización del fluir universal. El Prólogo ya la presenta una vez: *«la T: el canal, el código, la ley, la infraestructura que administra lo que antes fluía sin pedir permiso»*.
+
+**Qué cambia en la práctica.** (1) Los tres pueden ser el sujeto de una frase en cualquier pieza sin presentación previa y sin superar la prueba del concepto protagonista de la Norma 47. (2) Ninguna pieza tiene que volver a definirlos (complemento de la Norma 29, presentación de un término nuevo). (3) No son un comodín: si la investigación da un actor concreto (Enki organizando el Engur, la Rio Tinto Company), la frase nombra a ese actor (Norma 47), y la «T» queda para lo que nombra, la función. (4) Un protagonista que abre muchas frases con el mismo verbo sigue siendo plantilla (Norma 38, punto 1).
+
+**Lo que no cambia.** El resto de los conceptos (la usurpación sistémica, el acoplamiento, la cosmotécnica, el tecnocimarronaje…) siguen sujetos a la Norma 47. Y Hammurabeltz no es un protagonista del libro: es un código interno de verificación de datos, que se define aparte (pendiente, 07/10/26).
+
 ## IX. CLASIFICACIÓN
 
 | Etiqueta | Por qué sirve | Por qué no basta |
@@ -942,6 +955,8 @@ La segunda versión no dice nada que la primera no dijera — pero lo dice una s
 
 **No es escasez de datos. Es escasez de jerga sin traducir.**
 
+**Presentación de un término nuevo (07/10/26, complemento de esta norma; aprobado por Luis).** La unidad es la pieza. Un término de otra fuente o propio de la tesis se presenta la primera vez que aparece en la pieza con un hecho (quién, cuándo, dónde, cuánto) y su traducción en palabras corrientes, o se manda a la glosa; la traducción no lleva otro término técnico, y la definición larga va a la glosa. No se repite la presentación dentro de la pieza. Se exceptúan los protagonistas del libro (UR, URbe y la «T»: secciones VIII bis y VIII quater). El título de una pieza no cuenta como presentación del concepto que lleva, porque un título no es un hecho; en el Umbral, ese concepto puede ser sujeto de una frase de tesis, pero no actuar con verbos vagos. El término que sostiene la tesis de la pieza, el que se gana el hueco sin glosar, es normalmente el candidato a concepto protagonista de la Norma 47. Un concepto puede ser sujeto de su propia definición desde su primera aparición; solo puede ser protagonista cuando se cumplen las tres pruebas de la Norma 47 o cuando es uno de los tres protagonistas del libro.
+
 ## 30. UR NO SE JUSTIFICA, SE DECLARA (INSTRUCCIÓN EXPLÍCITA)
 
 **Origen:** NORMA-MÉTODO, sección VIII bis. Léela entera si hace falta el porqué; esta norma es solo la instrucción operativa para cuando se está escribiendo un capítulo.
@@ -1271,7 +1286,7 @@ Luis: *"Ese párrafo final sin ningún sentido narrativo, prohibido. Lo tenemos 
 **Los límites exactos:**
 1. **La pasiva honesta se queda.** Cuando la fuente no da agente, no se inventa un protagonista (Norma 36, punto 3; Ley Hammurabeltz; Norma 35). Es la única excepción que ya traen las normas.
 2. **La frase que define un concepto o fija un término** no cuenta la acción de nadie y no entra en esta norma; entra en la alarma de abstracción de la Norma 36.8, que mide cuántas hay.
-3. **Un concepto o un elemento es protagonista cuando el capítulo se lo ha ganado.** Palabras de Luis (07/10/26): *«Los conceptos abstractos como protagonistas se lo tienen que ganar los conceptos, no hace falta listas. El contexto del capítulo dictaminará si un concepto es protagonista o mero concepto.»* No hay lista de protagonistas permitidos. Un elemento material o natural que actúa en el capítulo puede ser el sujeto (*«El hormigón no discute; pesa»*, Norma 26); un concepto abstracto es sujeto solo si el capítulo lo ha convertido en protagonista, y si no, es mero concepto y la frase se reescribe con quien actúa. Para el libro, Luis lo dijo así: *«El libro trata sobre UR que representa a Urano y a Sulfuro.»* Un protagonista que abre muchas frases con el mismo verbo es plantilla (Norma 38, punto 1).
+3. **Un concepto o un elemento es protagonista cuando el capítulo se lo ha ganado.** Palabras de Luis (07/10/26): *«Los conceptos abstractos como protagonistas se lo tienen que ganar los conceptos, no hace falta listas. El contexto del capítulo dictaminará si un concepto es protagonista o mero concepto.»* No hay lista de protagonistas permitidos. Un elemento material o natural que actúa en el capítulo puede ser el sujeto (*«El hormigón no discute; pesa»*, Norma 26); un concepto abstracto es sujeto solo si el capítulo lo ha convertido en protagonista, y si no, es mero concepto y la frase se reescribe con quien actúa. Para el libro, Luis lo dijo así: *«El libro trata sobre UR que representa a Urano y a Sulfuro.»* Un protagonista que abre muchas frases con el mismo verbo es plantilla (Norma 38, punto 1). Los tres protagonistas del libro (UR, URbe y la «T», sección VIII quater) quedan exentos de la prueba de abajo.
 
 **La prueba del concepto protagonista (07/10/26, aprobada por Luis).** El Relojero no dictamina si un concepto es protagonista: señala la frase con esta prueba y el veredicto es de Luis, por el contexto del capítulo. (1) ¿Hay un actor nombrable en la investigación detrás de lo que hace el concepto? Si lo hay, es mero concepto y la frase se escribe con el actor. (2) Si no lo hay, ¿el capítulo lo ha introducido con un hecho (quién, cuándo, dónde, cuánto) antes de ponerlo de sujeto? (3) ¿Sus verbos describen efectos comprobables en el capítulo (*decide, cobra, corta, expulsa*) o relaciones vagas (*permite, implica, constituye, adquiere, se convierte en*; ejemplos abiertos, no lista cerrada)? Es protagonista ganado si la respuesta a (1) es no, la de (2) es sí y los verbos de (3) son de efecto. En cualquier otro caso es mero concepto.
 
