@@ -35,7 +35,7 @@ El viajero moderno lleva el UR en el nombre sin saberlo: t-UR-ista. La misma mec
 ## II · MÉTODO Y HERRAMIENTAS
 
 **Hammurabeltz**
-El sistema de verificación del proyecto. Antes de cualquier afirmación, la auditoría: ORO (verificado), ESTAÑO (plausible con matiz), LICENCIA UR-SAPIENS (inferencia declarada). El nombre combina Hammurabi (el primer código escrito, primera ley hídrica) con Beltz (negro en euskera, el nombre de Luis). El código del método.
+Código interno de verificación de datos del proyecto. Antes de entrar en el libro, cada dato verificable (fecha, cifra, atribución, cita, hecho histórico) se contrasta con una fuente nombrable, primaria cuando existe y, si no, con varias independientes. El dato que no supera la verificación se corrige o se retira. El resultado se clasifica en tres niveles: oro (verificado), estaño (plausible, con matiz) y licencia UR-SAPIENS (inferencia declarada como tal). El nombre combina Hammurabi (rey de Babilonia, h. 1750 a.C., cuyo código incluye normas sobre el agua de riego) con Beltz (negro en euskera, el nombre de Luis). Definición aprobada por Luis el 07/10/26.
 
 **Guerrilla lingüística**
 El método de investigación del UR-SAPIENS: rastrear el fonema UR a través de topónimos, etimologías, mitos y músicas sin necesidad de documentación oficial. La historia no está solo en los archivos: está en los nombres de los ríos, en las palabras que los imperios no pudieron borrar del todo. El lingüista que sale al terreno en lugar de esperar el documento.
@@ -146,4 +146,4 @@ El depredador sistémico que convierte el derecho de uso (USUARIUS) en propiedad
 
 ---
 
-*Última actualización: julio 2026 · Documento vivo · Ag-UR*
+*Última actualización: octubre 2026 (Hammurabeltz) · Documento vivo · Ag-UR*
