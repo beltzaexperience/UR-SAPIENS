@@ -708,6 +708,8 @@ Pedida por Luis el 03/10/26, norma fija desde ahora, con el alcance afinado en l
 
 **Por qué existe:** el 03/10/26 Luis comprobó que su copia local de `urtz.html` solo mostraba `NO TOCAR` en «Los viajes de UR por Iberoamérica», porque `(*-sub) (*-red)` se había añadido en la rama sin que el archivo le llegara. Sin la copia, no hay forma de contrastar lo que Claude dice que hizo con lo que de verdad hay.
 
+**Atajo «OK» (Luis, 08/10/26).** Palabras de Luis: *«Cuando diga OK, empuja y seguimos.»* Cuando Luis responde «OK» a un mensaje de Claude, vale como el visto bueno explícito de esta regla para empujar `urtz.html` (y `index.html`, si también hubiera cambios) y como aprobación de lo que Claude propuso en ese mismo mensaje como siguiente paso. Para que no haya duda sobre qué se aprueba, cada mensaje de Claude con trabajo pendiente termina diciendo exactamente qué hará si Luis responde «OK» (qué empuja y qué aplica). Sin «OK», «empuja» ni una orden equivalente, `urtz.html` no se empuja; el aviso del hook de parada no es un permiso.
+
 **Lo que no cambia:** la Regla 21 sigue vigente. Los HTML van por rama y Pull Request, nunca directos a `main`, y ningún Pull Request se fusiona sin permiso explícito de Luis para ese caso concreto.
 
 
