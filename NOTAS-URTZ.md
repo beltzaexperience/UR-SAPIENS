@@ -736,7 +736,7 @@ donde `(*-per)`, `(*-sub)` y `(*-tit)` aparecen solo si procede. `(*-red)` y `(*
 
 **Los tres estados de una pieza de URS**
 
-1. **Sin pasar por las normas:** `☠ NO TOCAR!!! [(*-sub)] [(*-tit)] (*-red) (*-nor)`. Es el estado de 64 de las 72 piezas protegidas a 04/10/26, y de 64 de las 73 desde el 06/10/26 (IV·I entra y sale a la vez de este estado, porque pasa a la lista de revisadas el 07/10/26).
+1. **Sin pasar por las normas:** `☠ NO TOCAR!!! [(*-sub)] [(*-tit)] (*-red) (*-nor)`. Es el estado de 64 de las 72 piezas protegidas a 04/10/26, y de 64 de las 73 desde el 06/10/26 (IV·I entra y sale a la vez de este estado, porque pasa a la lista de revisadas el 07/10/26), y de 65 de las 74 desde el 08/10/26 (IV·II entra en URS con `(*-nor)`: lleva `(*-sub) (*-tit) (*-red) (*-nor)`).
 2. **Revisada con las normas:** `☠ NO TOCAR!!! [(*-sub)] [(*-tit)] (*-red)` — sin `(*-nor)`. Hoy son 9: UR ANTES DE URBE: ENCUENTRO EN LAS TRES FASES, TUR: LA RAÍZ PREINDOEUROPEA · LA MATRIZ PANIBÉRICA, TUR: LA DAMA DE MARFIL, TUR · UN CONTINENTE EN TRÁNSITO, LOS VIAJES DE UR POR IBEROAMÉRICA, VANIA LIMA Y LOS UR DE BRASIL, BABEL: CANCIONES DE REDENCIÓN, IV · UR: ANOMALÍA CIBERNÉTICA · I. EL DIQUE DEL SILENCIO (desde el 07/10/26) y SIOUXSIE AND THE BANSHEES Y LA GUERRA DE LOS MUNDOS.
 3. **Excepciones, sin tocar de momento:** Marcador Fonomático, Isla de Tarifa, Prólogo, El Noturikon, Bio Editorial y Contraportada quedan como estaban: Prólogo, El Noturikon, Isla de Tarifa y el Marcador no llevan ninguna marca; Bio Editorial y Contraportada conservan `☠ NO TOCAR!!! (*-tics)`, la única aparición de una marca retirada que sobrevive en URS. Se tratan más adelante, una a una.
 
@@ -792,7 +792,7 @@ donde `(*-per)`, `(*-sub)` y `(*-tit)` aparecen solo si procede. `(*-red)` y `(*
 
 ## PLAN — INTERLUDIO IV · ANOMALÍA CIBERNÉTICA (04/10/26)
 
-Decisiones de Luis del 04/10/26. **IV·I (El dique del silencio) está insertada en `urtz.html` desde el 06/10/26**, con `☠ NO TOCAR!!! (*-sub) (*-red)` (Luis retiró `(*-tit)` y `(*-nor)` el 07/10/26: título definitivo y normas pasadas con Relojero-Plus); IV·II vive en la mesa de mezclas de URIM desde el 07/10/26 (cabecera `○ Interludios`, justo antes de `○ Impugnación a UR`; primera versión en corrección punto por punto); IV·III y el epílogo están por escribir. Este apartado fija el plan y los datos ya verificados para no volver a investigarlos.
+Decisiones de Luis del 04/10/26. **IV·I (El dique del silencio) está insertada en `urtz.html` desde el 06/10/26**, con `☠ NO TOCAR!!! (*-sub) (*-red)` (Luis retiró `(*-tit)` y `(*-nor)` el 07/10/26: título definitivo y normas pasadas con Relojero-Plus); **IV·II (La técnica que recuerda su origen) está insertada en `urtz.html` desde el 08/10/26**, tras IV·I, con `☠ NO TOCAR!!! (*-sub) (*-tit) (*-red) (*-nor)` (conserva `(*-nor)` hasta un Relojero-Plus final y el visto bueno de Luis; `(*-tit)` porque el título es provisional) y el Marcador actualizado una sola vez (URS 78 piezas, URIM 84 piezas reales, 217.703 palabras); la cabecera `○ Interludios` de URIM queda vacía; IV·III y el epílogo están por escribir. Este apartado fija el plan y los datos ya verificados para no volver a investigarlos.
 
 **Estructura: el molde de «Del Logos al mito».** Interludio III son tres piezas con la cabecera común y un numeral romano en el título. Interludio IV sigue el mismo molde, con cuatro piezas:
 
