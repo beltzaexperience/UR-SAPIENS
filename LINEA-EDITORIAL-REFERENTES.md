@@ -307,7 +307,7 @@ La densidad mitopoética, el jeroglífico (Norma 22), el neologismo, el registro
 1. **El dato antes que el símbolo, y quien actúa abre la frase** (Normas 36.1 y 47). Los protagonistas abren por su nombre. Artículo + sustantivo abstracto queda como excepción con motivo (38.1 bis). Meta de libro: la mediana de aperturas con artículo baja del 50 % hacia el 35 %.
 2. **Ritmo con cola larga.** Mediana de 15–17 palabras, una de cada veinte frases por encima de 40, remates cortos escasos (alrededor del 3 % de los párrafos). La frase larga se gana con una relación real (causa, concesión, secuencia) y no con relleno.
 3. **La lógica se dice con lógica.** Conectores y subordinación. Los dos puntos quedan para lista, cita y rótulo.
-4. **El abstracto sirve a un concepto propio de la tesis.** Meta: ≤ 3,1 por cien palabras en crónica y geografía, ≤ 4,5 en exposición teórica. Alarma inmediata sin cambio (6,6). Pruebas del verbo, de la omisión y de la cadena.
+4. **El abstracto sirve a un concepto propio de la tesis y no queda vacío de política.** El libro necesita una carga abstracta potente (Luis, 09/10/26); el porcentaje no es meta de reducción. Alarmas sin cambio (4,3 geografía y viaje; 6,6 teórico); el canon se usa como contraste. Se quita el abstracto de relleno (pruebas del verbo, de la omisión y de la cadena).
 5. **Español vivo.** El gerundio de manera y simultaneidad, el adverbio que modula y el condicional que supone son legítimos. Se persigue el gerundio de posterioridad (Norma 10), el relleno y la cobertura repetida (32 bis).
 6. **Las prohibiciones propias de UR se mantienen aunque el canon no las pida:** «no X, sino Y» (credo), el par «No es X. Es Y», el párrafo terminal de resumen. Es una decisión editorial del libro, anotada como tal.
 7. **Párrafo de unas 60–120 palabras**, con techo del 10 % de párrafos cortos. Referencia: Orwell.
@@ -348,8 +348,8 @@ La densidad mitopoética, el jeroglífico (Norma 22), el neologismo, el registro
 | Frases de más de 40 palabras | — | < 2,5 % | p10 del canon | 42 |
 | Apertura con artículo | sin porcentaje | > 35 % revisar; meta ≤ 27 % en pieza modelo | p90 del canon; mediana del libro 50 % | 51 (35 %) / 61 (27 %) |
 | Racha de aperturas con artículo | — | > 25 % | p90 del canon | 51 |
-| Abstracción, crónica y geografía | > 4,3 | > 3,1 (meta); 6,6 alarma inmediata | p90 del canon | 58 |
-| Abstracción, teórico | > 6,6 | > 4,5 (meta); 6,6 alarma inmediata | Orwell expositivo | 31 (4,5) / 7 (6,6) |
+| Abstracción, crónica y geografía | > 4,3 | sin cambio (canon 3,1 como contraste) | p90 del canon | 35 |
+| Abstracción, teórico | > 6,6 | sin cambio (Orwell expositivo 4,5 como contraste) | Orwell expositivo | 7 |
 | Dos puntos | — | > 5 por mil | p90 del canon | 58 |
 | Gerundios | — | sin alarma (solo chequeo en la revisión final: < 25 por 10.000) | p10 del canon | 47 |
 | Enumeraciones de 3+ | > 16,7 % | > 20 % | p90 del canon | 18 → 15 |
@@ -376,7 +376,7 @@ Ordenadas por evidencia. Para cada una, mi recomendación.
 2. **Dos puntos.** *Cerrada el 09/10/26:* Norma 42 bis. Se quedan para enumeración, cita y rótulo; la cláusula + cláusula se decide por motivos y no se sustituye por sistema. Alarma de Claude en 5 por mil.
 3. **Gerundios.** Resuelta con los datos de §5.5: la Norma 10 se queda como está. ¿Añado solo un recordatorio de una línea (el gerundio de manera y simultaneidad sirve para alargar frases) y dejo el suelo de 25 por 10.000 como chequeo de la revisión final, sin alarma? *Recomiendo sí.*
 4. **Sustituir la tabla de la Norma 36.8** por la del corredor (canon de seis obras + libro) y recalibrar las alarmas de ritmo (9,8) y cola larga (2,5 %). *Recomiendo sí.*
-5. **Abstracción.** ¿Alarma inmediata sin cambio (6,6) y metas de libro de 3,1 (crónica) y 4,5 (teórico) sin plazo? *Recomiendo sí.*
+5. **Abstracción.** *Cerrada el 09/10/26:* alarmas sin cambio y sin meta de reducción; el libro necesita conceptos abstractos potentes y se quita solo el de relleno. Criterio de Luis escrito en la Norma 36.8, punto 2.
 6. **Registros.** *Cerrada el 09/10/26:* diez piezas teóricas confirmadas por Luis (I, II, III×3, IV×2, Digitalismo, Antropología racial, Río Congo); la Introducción entra como teórica por propuesta de Claude, provisional; «el euskera y la frontera invisible» queda en estudio; Te Urewera es crónica. El resto de registros se clasifica al final de cada capítulo con `(*-red)`.
 7. **«No… sino» en cinco piezas** (Bonus Tracks · Sulfuro y oscuridad, Introducción: Círculo simbólico, Entrevista a Nexus-7, Sájaura, América · Ania · Anaia). ¿Aplico la Norma 1 y te enseño el resultado, o las defiendes con la justificación escrita que la norma exige? *Sin tocar nada hasta tu respuesta.*
 8. **Pico licenciado.** ¿Escribo en la Norma 34 la medida de un período largo (60 o más palabras) como máximo por pieza? *Opcional; recomiendo sí.*
