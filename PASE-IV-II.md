@@ -14,6 +14,8 @@ Respuesta de Luis a la muestra: **conectores descartados** («una ristra de cone
   2. Antropofagia (¶20): cambiar los dos puntos por «pues» entre comas. *«…qué memoria queda incorporada en el nuevo objeto, pues devorar la infraestructura dominante significa alterar la relación entre técnica y propiedad.»*
   3. Caso nuevo de apertura (¶26): empezar por la circunstancia. Antes: *«La comunidad registra en el mapa cementerios, lugares sagrados, lugares de pesca y plantas medicinales.»* Después: *«En el mapa, la comunidad registra cementerios, lugares sagrados, lugares de pesca y plantas medicinales.»*
 
+**Tercera ronda (09/10/26):** Luis aprobó Ekain (punto y coma) y el caso de ¶26; rechazó el «pues» de ¶20 y preguntó si bastaba una coma. Una coma sola entre las dos oraciones no es correcta (une dos oraciones completas sin nexo); aplicado el punto y coma, que es la solución clásica y no añade conector, pendiente de su veto antes de empujar. Aplicadas en `urtz.html` (local): 13 frases cambiadas en total. Medición final: artículo inicial 47,1 → 44,3 %; dos puntos 13 → 11 (8,7 → 7,3 por mil); esqueleto repetido 28,6 → 23,1 %; palabras 1.499 → 1.502.
+
 Lo que sigue en este documento es la muestra de la primera ronda, que queda como registro.
 
 ---
