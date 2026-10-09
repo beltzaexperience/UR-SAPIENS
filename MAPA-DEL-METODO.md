@@ -20,6 +20,28 @@
 
 **Respuesta corta:** medidos, sí, en todo el libro. Corregido, solo IV·II (13 frases). Lectura guiada, solo IV·II.
 
+## 2 bis. Dónde se ubica UR en cada análisis (frente a Baroja y Orwell)
+
+| Análisis | Dónde está UR | Norma que lo cubre |
+|---|---|---|
+| Morfología | Nominal: 26 sustantivos por 100 palabras (canon 21), 14 verbos (16), 3,6 pronombres (7). Presente en el 89 % de los verbos (registro de crónica y tesis) | 38.1 ter |
+| Sintaxis | Más plana, no más compleja: 1,8 verbos finitos por frase (2,2), 1,1 subordinadas (1,5). Sujeto «artículo + sustantivo» en el 46 % (23 %); sujeto omitido en el 9 % (28 %) | 38.1 bis y ter, adenda de la 33 |
+| Léxico | Riqueza normal; densidad léxica alta (55 % frente a 50 %); abstractos 4,4 por 100 (1,9), por diseño | 36.8 (sin meta de reducción) |
+| Legibilidad | Crónica en banda normal (INFLESZ 58, como *Homenaje a Cataluña*); teóricas «algo difíciles» (48, como la exposición de Orwell), con palabras más largas | 21 (sencillez) |
+| Estilometría | Voz propia (0,6–0,7 de distancia a cada obra; Baroja y Orwell, 0,5); 12 piezas con voz atípica | Pase, paso 5 |
+| Entidades | Anclaje de lugares y conceptos, pocas personas (0,9 frente a 2,0 por 100 palabras) | 36.1 |
+| Plantillas | **Lo más desviado:** el 18 % de las frases repite esqueleto (canon 0 %); «El agua evita la línea recta» abre el 7,8 % del libro | 38.1 bis, 36.7 |
+| Fonética | Más cadencia esdrújula en el cierre (7,9 % frente a 4,2 %: política, histórica, jurídica…); ritmo silábico más uniforme; rima y aliteración normales | 33 |
+| Textualidad | Pocos conectores (causales 0,7 frente a 1,5; adversativos 2,5 frente a 6,4); enlaza por repetición y por dos puntos | 42 bis y criterio de Luis sobre conectores |
+| Estilística | En rango: enumeraciones 12,8 % (12,7), cierres aforísticos 2,5 % (1,9–5,8), símiles algo altos (22,9 frente a 15) | 26, 31, 36.7, 42, 46 |
+| Narratología | Narrador impersonal en tercera persona y presente; protagonistas no humanos; sin diálogo; sujeto con nombre propio en el 20 % (14 %) | VIII quater, 47, 28 |
+| Sinteticidad | Ráfaga algo baja; no copia frases (secuencias de 4 palabras normales); repite moldes | 33, 36 |
+| Semántico, temático, pragmático, discurso, intención | **Sin medir a escala de libro**: lectura guiada hecha solo en IV·II. Pragmática: afirma en indicativo, sin condicional ni cautelas | VIII bis, 12, 13, 49; 25, 43, 39; 0, 30; 14, 19; (*-red) |
+
+**Cobertura de normas:** los 18 análisis tienen al menos una norma o un paso del Pase de análisis final. Los huecos son menores (cadencia, legibilidad, cohesión léxica) y no piden norma nueva.
+
+**Alfa, beta y gama.** Las alarmas miden distancia a la prosa llana, no calidad: la pieza con menos alarmas (el Prólogo, 0 de 17) o la más cercana al corredor (Frontera aquitano-celta) no son por eso las mejores, y las más alejadas incluyen piezas muy míticas (Curaca, I · UR). Por eso la categoría no sale de una suma. Propuesta de ficha para la mesa de mezclas, con tres preguntas de Luis y las alarmas solo como contexto: ¿aporta a la tesis algo que ninguna otra pieza aporta? ¿está su evidencia sólida (fuentes y glosa)? ¿su prosa suena a UR, con las manías defendidas o corregidas? (Luis dijo «gama» y luego «omega»: pendiente de elegir el nombre.)
+
 ## 3. Lo que espera (nada urgente)
 
 - **Pase de análisis final del resto de piezas,** incluida IV·II (que conserva `(*-nor)`), hasta el final.
