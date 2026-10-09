@@ -603,6 +603,12 @@ La primera frase no dice nada sobre la riada. Dice algo sobre el propio proceso 
 
 **Aplicación ya en marcha, no solo en teoría:** los párrafos de Ísland y de Reykjarfjörður en Islandia I se quedaron por encima de las 8 líneas de la norma 26 porque cualquier punto de corte forzado sonaba peor que dejarlos enteros. Se rompió la norma con la propia norma 0 como justificación — el mismo mecanismo que se acaba de nombrar aquí, ya aplicado antes de tener nombre.
 
+**Los números son del taller, no del libro (Luis, 09/10/26).** Palabras de Luis: *«La cuantificación numérica y estadística en esta Anomalía Rupestre se puede convertir en nuestro peor enemigo aunque sea de una utilidad brutal. Hay que tener cuidado si el 3,1X100 puede reducir el libre pensamiento. La maravilla de este trabajo reside, no tanto en el contenido, como en tener una "máquina de escribir" inteligente. […] Pero necesitamos de los números, que tú sí controlas, para crear una hoja de estilo y delimitar lo mejor posible las normas-método. Vendría a ser un "no pero sí o un sí pero no".»* Cómo se aplica:
+1. Los números son un instrumento de Claude para detectar hábitos (tics, moldes) y ordenar el trabajo. Nunca son el motivo que se le da a Luis para cambiar una frase: el motivo es el de la norma.
+2. El corredor de Baroja y Orwell mide distancia al suelo llano y no marca un destino. Un libro que convergiera a la media del canon habría perdido su anomalía; UR queda fuera del corredor cuando su registro lo pide (poético, dadá, jeroglífico, teórico).
+3. Ningún número corrige un texto por sí solo. Si un número y el contenido chocan, gana el contenido (Normas 0 y 48).
+4. Los números sirven para construir la hoja de estilo: alarmas, contrastes y líneas rojas, que se recalculan cuando Luis lo pida.
+
 ## 1. EL ACCIDENTE DEL DESCARTE («NO X, SINO Y») — CREDO ABSOLUTO
 
 **La trampa, ampliada:** no es solo "no X, sino Y". Es cualquier estructura que niega primero para afirmar después, cambie o no la palabra de enlace: «no X, sino Y», «no X, pero Y», «no X, aunque Y», «no X, si bien Y». La palabra que conecta es irrelevante — lo que la norma prohíbe es el movimiento: negar antes de decir, pedir permiso antes de afirmar. Cambiar "sino" por "pero" no es una excepción a la norma. Es la misma frase disfrazada.
