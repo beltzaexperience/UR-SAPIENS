@@ -1,6 +1,6 @@
 # APARCADO PARA URIM — «Acto IV · El facilitador» (Bert Hellinger), retirado de BABEL (09/10/26)
 
-**Estado:** texto íntegro retirado de *BABEL: CANCIONES DE REDENCIÓN* en `urtz.html` por decisión de Luis (09/10/26: «sin esa rabieta el texto está mejor»). Pendiente de que Luis decida dónde queda en URIM. No es URS. La numeración de notas es la que tenía en Babel antes del corte.
+**Estado:** texto íntegro retirado de *BABEL: CANCIONES DE REDENCIÓN* en `urtz.html` por decisión de Luis (09/10/26: «sin esa rabieta el texto está mejor»). **Destino decidido por Luis (09/10/26): Semillas, al fondo del cajón** (última pieza de la zona de Semillas, tras «Cuatro cabos sueltos»). Copia aplicada en `urtz.html` como «EL FACILITADOR · BERT HELLINGER · acto retirado de BABEL»; este archivo queda como respaldo. No es URS. La numeración de notas es la que tenía en Babel antes del corte.
 
 **Motivo del corte:** el acto adelantaba el desenlace del Acto V (Las Trece Tribus de UR: «cobrar entrada en el nacedero», «demasiados papeles») y atacaba a un blanco externo, no a UR; además comparaba a Hellinger con las SS y los afrikáners, con riesgo reputacional y de honor del fallecido. Se conservó en Babel el dato de la Sociedad de Lingüística de París (1866), que pasó al Acto III como nota 10.
 
