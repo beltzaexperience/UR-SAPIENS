@@ -204,6 +204,25 @@ def medir_obra(ruta, guion):
     return dict(W=sum(wc(p) for p in P), Wn=sum(wc(p) for p in narr), chunks=ch, cierre=cierres(narr))
 
 
+def piezas_urs(html_ruta):
+    """[(título, [párrafos del cuerpo])] de las piezas de URS (los <p> de 1.0x rem; sin glosa ni notas)."""
+    import html as _h
+    s = open(html_ruta, encoding='utf-8').read()
+    frontera = s.find('FRONTERA REAL URS')
+    out = []
+    for m in re.finditer(r'<details class="pieza"[^>]*>(.*?)</details>', s, flags=re.S):
+        if m.start() > frontera:
+            continue
+        blk = m.group(1)
+        sm = re.search(r'<summary[^>]*>(.*?)</summary>', blk, flags=re.S)
+        t = re.sub(r'\s+', ' ', _h.unescape(re.sub(r'<[^>]+>', '', sm.group(1)))).strip().lstrip('▶').strip()
+        ps = re.findall(r'<p style="[^"]*font-size:1\.0[0-9]*rem[^"]*">(.*?)</p>', blk, flags=re.S)
+        ps = [re.sub(r'<sup class="gr">.*?</sup>', '', p, flags=re.S) for p in ps]  # llamadas de glosa (n): no son texto
+        paras = [re.sub(r'\s+', ' ', _h.unescape(re.sub(r'<[^>]+>', '', p))).strip() for p in ps]
+        out.append((t.split('☠')[0].strip(), [p for p in paras if p]))
+    return out
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--obra', action='append', required=True, help='clave=ruta (pdf o txt)')
@@ -222,20 +241,9 @@ def main():
         print('%-18s %7d palabras, narración %7d, %d trozos' % (k, obras[k]['W'], obras[k]['Wn'], len(obras[k]['chunks'])), file=sys.stderr)
 
     # UR: se miden las piezas con sus rasgos adicionales
-    s = open(a.html, encoding='utf-8').read()
-    import html as _h
-    frontera = s.find('FRONTERA REAL URS')
     UR = []
     cierre_ur = [0, 0]
-    for m in re.finditer(r'<details class="pieza"[^>]*>(.*?)</details>', s, flags=re.S):
-        if m.start() > frontera:
-            continue
-        blk = m.group(1)
-        sm = re.search(r'<summary[^>]*>(.*?)</summary>', blk, flags=re.S)
-        t = re.sub(r'\s+', ' ', _h.unescape(re.sub(r'<[^>]+>', '', sm.group(1)))).strip().lstrip('▶').strip()
-        ps = re.findall(r'<p style="[^"]*font-size:1\.0[0-9]*rem[^"]*">(.*?)</p>', blk, flags=re.S)
-        paras = [re.sub(r'\s+', ' ', _h.unescape(re.sub(r'<[^>]+>', '', p))).strip() for p in ps]
-        paras = [p for p in paras if p]
+    for t, paras in piezas_urs(a.html):
         mm = pf.metricas(paras)
         if mm and mm['W'] >= 450:
             UR.append((t, mm, extras(paras)))

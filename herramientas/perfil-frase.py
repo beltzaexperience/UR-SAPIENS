@@ -127,6 +127,7 @@ def piezas(ruta):
         sm = re.search(r'<summary[^>]*>(.*?)</summary>', blk, flags=re.S)
         titulo = re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', '', sm.group(1)))).strip().lstrip('▶').strip()
         ps = re.findall(r'<p style="[^"]*font-size:1\.0[0-9]*rem[^"]*">(.*?)</p>', blk, flags=re.S)
+        ps = [re.sub(r'<sup class="gr">.*?</sup>', '', p, flags=re.S) for p in ps]  # llamadas de glosa (n): no son texto
         paras = [re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', '', p))).strip() for p in ps]
         paras = [p for p in paras if p]
         mm = metricas(paras)
