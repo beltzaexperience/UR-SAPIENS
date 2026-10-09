@@ -36,28 +36,19 @@ Además, aparte de la ficha: **un hecho erróneo se corrige siempre**, aunque no
 - La marca no cambia por la prosa: γ es «a mejorar hasta β» y la mejora de forma la hace el Pase. La marca depende de intención, logro, hechos y riesgo.
 - Comprobación (09/10/26): recalculando la clasificación **sin el criterio de prosa**, casi nada cambia. Solo se acercan a β *UR, el castellano y la frontera invisible* (de 2,64 a 2,77) y la *Entrevista a NEXUS-7* (de 2,54 a 2,67). La prosa pesaba poco; lo que mantiene en γ a las demás es la **evidencia** (etimologías y datos) y el **riesgo**, es decir, justo lo no normativo.
 
-## 4. Primer caso: «AMAIA · AMAIUR · MAIA · AMAYA: EL CONFÍN» (γ, 9 páginas)
+## 4. Primer caso: «AMAIUR: EL CONFÍN» (antes «AMAIA · AMAIUR · MAIA · AMAYA: EL CONFÍN»)
 
-**Intención (por confirmar):** mostrar que un apellido o un topónimo es un trayecto del agua, no una herencia fija, y que el confín es umbral y no final; el Baztán como imagen condensada del libro. **Cadena con el libro:** toponimia y apellido como memoria del agua (etimología insurgente), y la captura y la resistencia (usurpación sistémica).
+Resultado de la prueba (09/10/26): la pieza **merecía la pena** y pasó de 2.206 a unas 1.160 palabras.
 
-**Subtemas contra la intención.**
+**Intención (confirmada por Luis):** el apellido y el topónimo como trayecto del agua, el confín como umbral y el Baztán como imagen del libro.
 
-| Subtema | Veredicto | Qué necesita (repaso final) |
-|---|---|---|
-| Amaiur como confín hídrico del Baztán | Se queda | Declarar la etimología (*amaitu*) como hipótesis. |
-| Jon Maia: el apellido como bumerán | Se queda | Decidir la filiación de sus padres (permiso o quitarla). |
-| Amaya y la redada de 1749: el apellido como marca de dominio | Se queda | Fuente y cifra de la redada; quitar «imponen apellidos» y «proyecto de exterminio» sin respaldo. |
-| Karst de Ikaburu, Zugarramurdi y Sara | Se queda | Condensar. |
-| Lamiak, akelarre, Akerbeltz y Salazar Frías | Se queda | Corregir «11 vecinos» (6 en persona y 5 en efigie); fuente de la cifra. |
-| Maya y los cenotes | **Mesa de mezclas (aplicado 09/10/26)** | Falso amigo declarado. A Semillas. |
-| La diosa Maia y *Maius* | **Mesa de mezclas (aplicado 09/10/26)** | Etimología discutida e improbable. A Semillas. |
+**Qué se quedó y por qué:** la cadena que aguanta la intención con hechos: el castillo fronterizo de Amaiur y su caída en 1522, el espectáculo de Jon Maia (2022), el karst, las lamiak y el akelarre, la Inquisición y su fisura interna (Salazar Frías). Las lamiak, seres del agua, son el lazo directo con UR.
 
-Aplicado en `urtz.html`: los dos párrafos y sus notas 4 y 9 salen a una Semilla («FALSOS AMIGOS · MAYA Y LOS CENOTES · LA DIOSA MAIA · fragmentos retirados de AMAIA · EL CONFÍN»); la pieza pasa de 2.084 a 1.620 palabras y la glosa de 9 a 7 notas.
+**Qué salió, y a dónde (todo a Semillas, no a ficheros):**
+- Maya y los cenotes, y la diosa Maia con *Maius*: falsos amigos y etimología discutida.
+- El párrafo de los Amaya y la Gran Redada: sin fuente que una el apellido con las listas de 1749. La redada merece pieza propia.
+- La etimología *amaitu*: descartada (sin respaldo; el nombre histórico, *Maier* / *Ameyer* / *Maya*, no lleva «ur»).
 
-**Discurso:** los dos pasajes políticos (la redada y la Inquisición) tienen la materia, pero hoy no llegan al rigor de *Te Urewera* o *Horizonte jurídico*: faltan fuente y cifra exacta. Se llevan a ese nivel en el repaso final en profundidad.
+**Hechos corregidos:** los once de Zugarramurdi (seis quemados en persona y cinco en efigie); la cifra de la redada; la filiación de Jon Maia, fuera.
 
-**Hechos a corregir sea cual sea la norma:** los 11 de Zugarramurdi (6 en persona y 5 en efigie), «imponen apellidos», y las dos etimologías (*amaitu*, *Maius*) como hipótesis.
-
-**Riesgo:** Jon Maia, persona real y viva. Luis acepta las precauciones (permiso, o conservar la imagen sin la filiación). Decisión de método al aplicar la pieza.
-
-**Pendiente de Luis:** confirmar la intención y el contraste de los subtemas.
+**Regla aprendida (Luis):** lo no verificado que no sea de primera necesidad se corta o se generaliza (por ejemplo, «Paleolítico superior» en lugar de «13.000 años»; sin fechas de vida de Salazar Frías). Las investigaciones no se guardan en el repositorio.
