@@ -6,6 +6,7 @@
 
 - **Significado de γ:** no es «sobra», es **«a mejorar hasta que suba por lo menos a β»**. El objetivo es que todas las piezas del libro sean α o β y que sea el editor quien tenga que elegir.
 - **Interludio I · Intuición simbólica:** «es fundamental, es β». Sube de γ a β.
+- **Radio Beltza (Desde 1964: UR ETA URBE):** aparato fijo (la solapa interior del autor), no pieza de argumento. Sin marca, siempre dentro. Aligerada el 09/10/26 de la jerga del libro (de 434 a unas 385 palabras); la primera persona del plural se queda: era el mundo de las tribus urbanas juveniles.
 - **Isla de Tarifa:** no es URS. Sale de la clasificación (cálculo de honorarios; pendiente de dónde se ubica).
 - **Vendée:** reconocida como γ difícil de mover.
 - **Indo-Ganges y Mesopotamia:** preocupan por pseudociencia. A corregir.
@@ -20,11 +21,12 @@
 |---|---:|---:|---|
 | **α** alfa | 27 | 252 | Lo mejor del libro por calidad e impacto |
 | **β** beta | 30 | 264 | Candidata fuerte; entra según espacio y equilibrio |
-| **γ** gama | 19 | 186 | A mejorar hasta β (ver plan de la sección 6) |
+| **γ** gama | 18 | 184 | A mejorar hasta β (ver plan de la sección 6) |
 | **α + β** | 57 | **516** | Primera impresión de ≈ 500 páginas |
+| Aparato (sin marca) | 1 | 2 | Radio Beltza: solapa interior, siempre dentro |
 | Fuera de URS | 1 | — | Isla de Tarifa |
 
-Páginas = palabras ÷ 250 (convención del Marcador, glosa incluida). Dos piezas del Epílogo cuentan más páginas de las que el Marcador les asigna (sección 5). Quedan fuera del reparto, siempre dentro, Bio editorial, Contraportada y Marcador. URIM no se ha clasificado.
+Páginas = palabras ÷ 250 (convención del Marcador, glosa incluida). Dos piezas del Epílogo cuentan más páginas de las que el Marcador les asigna (sección 5). Quedan fuera del reparto, siempre dentro, Bio editorial, Radio Beltza, Contraportada y Marcador. URIM no se ha clasificado.
 
 ## 2. Cómo se ha hecho (criterios solo editoriales)
 
@@ -59,7 +61,7 @@ El tramo ocupa tres párrafos (los que empiezan «Cuando el método científico 
 - Hechos a contrastar: Los viajes de UR (se afirma que Uribe fue presidente de Antioquia; fue gobernador); Antártida (Amundsen y la Tierra de la Reina Maud); cifras de víctimas de un desastre de 2026 en Timmur; Te Urewera (el 84 % y la afirmación sobre el mōteatea).
 - `&Thorn;ingeyri` (Islandia I) no es una entidad rota: es la Þ y se ve bien.
 
-## 6. Plan de mejora de las γ (19 piezas, 186 páginas)
+## 6. Plan de mejora de las γ (18 piezas, 184 páginas)
 
 Cada fila dice qué le falta, según los lectores, para llegar a β. Es una lista de trabajo, no una condena.
 
@@ -74,16 +76,15 @@ Cada fila dice qué le falta, según los lectores, para llegar a β. Es una list
 | 7 | **MEDITERRÁNEO IBÉRICO · CABO DE GATA · REFUGIO PUNK EN EL DESIERTO** | 4 | 2.4 | 2.6 | Fórmulas recurrentes («matriz limpia», «típex», «la T del poder») y glosa inflada («física de transiciones de fase») para un episodio anecdótico. | cita atribuida a Joe Strummer sin fuente; urbs derivada del surco del arado y vinculada a UR (especulativo); afirmaciones sobre un local real y su cierre por denuncia vecinal |  |
 | 8 | **BONUS TRACK · DISTOPÍA VEGETAL** | 22 | 2.4 | 2.6 | Ficción especulativa de ingeniería ajena a la tesis; el Apéndice I reexplica el cuerpo y la ciencia es discutible. | pseudociencia (hiperoxia por fotosíntesis, epigenética heredable en pocas generaciones); bomba biótica presentada como demostrada; etimología especulativa del sufijo -men |  |
 | 9 | **EPÍLOGO: PRECEDENTES Y BIBLIOGRAFÍA** | 40 | 2.7 | 2.1 | Uniforme largo y repetitivo; el ADN no confirma a Gimbutas, y la mezcla de punk y erudición diluye la utilidad bibliográfica. | citas textuales marcadas "paráfrasis" o sin edición verificable (Graves, Gimbutas, Vico, Mumford, Haraway); Gimbutas validada por el ADN antiguo ("La diosa del UR fue real"); Nyland y Ruhlen presentados como compañeros de travesía | Luis: es más para él que para publicar; reducción drástica y añadir los nombres que faltan. |
-| 10 | **DESDE 1964: UR ETA URBE** | 2 | 2.5 | 2.3 | Biografía y consigna con jerga del libro («Sistema-Mundo», «fosa séptica digital») sin aportar nada al argumento sobre UR. | texto autobiográfico de autor, difícil de colocar fuera de solapa o nota final |  |
-| 11 | **FRONTERA FRANCO-BELGA: RÊV-E-UR · SOÑADOR · ESPEJISMO** | 7 | 2.5 | 2.1 | Encadena frontera, reggae, delirio y espejismo con un hilo frágil; abstracción vacía («anatomía del desvío») y poca carga concreta. | etimología creativa declarada (Rêv-e-UR); toponimia -baki/-bach dudosa en la glosa; delirio como carencia orgánica sin base clínica |  |
-| 12 | **VANIA LIMA Y LOS UR DE BRASIL** | 13 | 2.5 | 2.1 | Parece un perfil institucional a favor de una productora; 3.276 palabras con UR como etiqueta y sin tensión argumental propia. | perfil de persona viva con tono promocional; atribuciones profesionales y cita periodística no literal; afirmación sobre Edy Star pionero y sobre figuras reales | Luis: duele verla en gama. Mejorar. |
-| 13 | **SIOUXSIE AND THE BANSHEES Y LA GUERRA DE LOS MUNDOS** | 4 | 2.4 | 2.3 | Repasa el disco canción a canción con jerga de plantilla («zigurat», «la T», «matriz urbana») sin decir nada concreto sobre la música. | uso de Sharon Tate, persona real asesinada, como figura literaria; vínculo canción-tesis puramente asertivo |  |
-| 14 | **MESOPOTAMIA · LEVANTE · LA PRESA ORAL Y EL DIAPIRO PRIMORDIAL** | 10 | 2.4 | 2.1 | Prosa abstracta y jerga ("economía sónica", "fonema a replegarse"); mezcla sin hilo burro, sura, Marib y Fairuz. | etimología especulativa (urdun/Jordán); pseudofísica (efecto Venturi, olfato zahorí del burro); salinidad de Navarra superior al Mar Muerto, dudosa | Luis: preocupa la pseudociencia. Corregir. |
-| 15 | **EL NOTurIKON: DICCIONARIO ANAGRAMÁTICO — secciones A·B·C·D·E, F-Z pendientes** | 4 | 2.0 | 2.6 | Más calambur que anagrama; muchas entradas presentan un parecido sonoro como causa y quedan en la letra E. | etimología especulativa en casi todas las entradas (CHURCH, BUREAU, BURDO, CURSO); error factual: Curtis Mayfield descrito como dub; referencias a personas reales (Fraga, Euronymous) sin fuente | Solo A–E; diccionario en construcción. |
-| 16 | **SUSURRO** | 1 | 2.2 | 2.3 | El diccionario sostiene la mitad; el cierre «sus-UR-ro» es juego tipográfico sin base filológica que traiciona el arranque. | etimología especulativa (sus-UR-ro, rūnō como UR); contradicción: «No es intuición, es diccionario» y salto a conjetura; atribución a persona real (Rojas converso) con sustento mínimo |  |
-| 17 | **UR DELTA: TEOLOGÍA DE LA INTUICIÓN, HUÉRFANA DE DOCTRINA** | 11 | 2.2 | 2.1 | Collage de citas filosóficas y política estadounidense sin hilo; repite las tres fases del Prólogo y carga un eslogan político sin fuente. | atribución dudosa a Adams y a un eslogan contemporáneo; salto de Leyes de Sedición a racismo institucional sin sostén; colage sin hilo: Bergson, Clash, Boomerang |  |
-| 18 | **VENDÉE · FRANCIA ATLÁNTICA · EL ESCARPE Y LA FOSA** | 7 | 1.7 | 1.6 | Une cinco nombres por el prefijo «Sig-» y lo llama «irrebatible»; la glosa reconoce que ni la geología está verificada. | etimología especulativa presentada como «cadena física irrebatible»; Bourdin «precéltico» sin fuente; glosa admite hipótesis sin verificar | Luis: gama difícil de mover. Hay que rehacerla o dejarla como reserva. |
-| 19 | **INDO-GANGES · HIMALAYA · EL GRAN RECEPTÁCULO SÓNICO** | 12 | 1.5 | 1.3 | Prosa abstracta y ensimismada («catastro extractivo», «muralla sónica») con afirmaciones sin sostén: «un martillo sónico que vibra en la misma frecuencia que el hielo colgante». | pseudociencia (cantos que fracturan el hielo); magistrados «Urir» de Cachemira sin fuente; narrativa de invasión nómada y castas simplificada | Luis: preocupa la pseudociencia. Corregir. |
+| 10 | **FRONTERA FRANCO-BELGA: RÊV-E-UR · SOÑADOR · ESPEJISMO** | 7 | 2.5 | 2.1 | Encadena frontera, reggae, delirio y espejismo con un hilo frágil; abstracción vacía («anatomía del desvío») y poca carga concreta. | etimología creativa declarada (Rêv-e-UR); toponimia -baki/-bach dudosa en la glosa; delirio como carencia orgánica sin base clínica |  |
+| 11 | **VANIA LIMA Y LOS UR DE BRASIL** | 13 | 2.5 | 2.1 | Parece un perfil institucional a favor de una productora; 3.276 palabras con UR como etiqueta y sin tensión argumental propia. | perfil de persona viva con tono promocional; atribuciones profesionales y cita periodística no literal; afirmación sobre Edy Star pionero y sobre figuras reales | Luis: duele verla en gama. Mejorar. |
+| 12 | **SIOUXSIE AND THE BANSHEES Y LA GUERRA DE LOS MUNDOS** | 4 | 2.4 | 2.3 | Repasa el disco canción a canción con jerga de plantilla («zigurat», «la T», «matriz urbana») sin decir nada concreto sobre la música. | uso de Sharon Tate, persona real asesinada, como figura literaria; vínculo canción-tesis puramente asertivo |  |
+| 13 | **MESOPOTAMIA · LEVANTE · LA PRESA ORAL Y EL DIAPIRO PRIMORDIAL** | 10 | 2.4 | 2.1 | Prosa abstracta y jerga ("economía sónica", "fonema a replegarse"); mezcla sin hilo burro, sura, Marib y Fairuz. | etimología especulativa (urdun/Jordán); pseudofísica (efecto Venturi, olfato zahorí del burro); salinidad de Navarra superior al Mar Muerto, dudosa | Luis: preocupa la pseudociencia. Corregir. |
+| 14 | **EL NOTurIKON: DICCIONARIO ANAGRAMÁTICO — secciones A·B·C·D·E, F-Z pendientes** | 4 | 2.0 | 2.6 | Más calambur que anagrama; muchas entradas presentan un parecido sonoro como causa y quedan en la letra E. | etimología especulativa en casi todas las entradas (CHURCH, BUREAU, BURDO, CURSO); error factual: Curtis Mayfield descrito como dub; referencias a personas reales (Fraga, Euronymous) sin fuente | Solo A–E; diccionario en construcción. |
+| 15 | **SUSURRO** | 1 | 2.2 | 2.3 | El diccionario sostiene la mitad; el cierre «sus-UR-ro» es juego tipográfico sin base filológica que traiciona el arranque. | etimología especulativa (sus-UR-ro, rūnō como UR); contradicción: «No es intuición, es diccionario» y salto a conjetura; atribución a persona real (Rojas converso) con sustento mínimo |  |
+| 16 | **UR DELTA: TEOLOGÍA DE LA INTUICIÓN, HUÉRFANA DE DOCTRINA** | 11 | 2.2 | 2.1 | Collage de citas filosóficas y política estadounidense sin hilo; repite las tres fases del Prólogo y carga un eslogan político sin fuente. | atribución dudosa a Adams y a un eslogan contemporáneo; salto de Leyes de Sedición a racismo institucional sin sostén; colage sin hilo: Bergson, Clash, Boomerang |  |
+| 17 | **VENDÉE · FRANCIA ATLÁNTICA · EL ESCARPE Y LA FOSA** | 7 | 1.7 | 1.6 | Une cinco nombres por el prefijo «Sig-» y lo llama «irrebatible»; la glosa reconoce que ni la geología está verificada. | etimología especulativa presentada como «cadena física irrebatible»; Bourdin «precéltico» sin fuente; glosa admite hipótesis sin verificar | Luis: gama difícil de mover. Hay que rehacerla o dejarla como reserva. |
+| 18 | **INDO-GANGES · HIMALAYA · EL GRAN RECEPTÁCULO SÓNICO** | 12 | 1.5 | 1.3 | Prosa abstracta y ensimismada («catastro extractivo», «muralla sónica») con afirmaciones sin sostén: «un martillo sónico que vibra en la misma frecuencia que el hielo colgante». | pseudociencia (cantos que fracturan el hielo); magistrados «Urir» de Cachemira sin fuente; narrativa de invasión nómada y castas simplificada | Luis: preocupa la pseudociencia. Corregir. |
 
 ## 7. Tablas α y β
 
