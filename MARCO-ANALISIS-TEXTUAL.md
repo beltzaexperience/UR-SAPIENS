@@ -323,7 +323,7 @@ Texto propuesto para una sección nueva, que se redactaría tras las decisiones 
 Se suman a las nueve del informe anterior. Para cada una, mi recomendación.
 
 10. **Norma 42 bis (dos puntos).** *Cerrada el 09/10/26:* aprobada con la modificación de Luis (la cláusula + cláusula se decide por motivos, no por sistema). Escrita en `NORMA-METODO.md`.
-11. **Norma 38.1 ter (continuidad del sujeto).** ¿Entra la elipsis del sujeto y el pronombre como arreglo por defecto de la apertura con artículo, con la alarma del 35 %? *Recomiendo sí.*
+11. **Norma 38.1 ter (continuidad del sujeto).** *Cerrada el 09/10/26:* aprobada; texto definitivo en `NORMA-METODO.md`, Norma 38.1 ter.
 12. **Alargar frases.** ¿Adoptas la caja de herramientas de §6 como adenda de la Norma 33, con la meta orientativa de 4–5 % de frases de más de 40 palabras? *Recomiendo sí, como meta de libro sin plazo y conservando todas las frases cortas ganadas.*
 13. **Pase de análisis final.** ¿Apruebas el orden de §2 y la sección XXVII de §8? *Recomiendo sí.*
 14. **Línea base.** ¿Fijo la medición del 08/10/26 como línea base y anoto antes y después en el ledger cada vez que se corrige una pieza? *Recomiendo sí.*
