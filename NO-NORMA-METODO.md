@@ -4,9 +4,12 @@
 
 ## 1. Principios (de Luis)
 
-1. **Manda la intención, y está encadenada a la del libro.** La intención de cada pieza cuelga de la intención del libro, que Luis dejó escrita en dos textos fijos: el epígrafe («Tras cualquier cobardía se esconde el miedo a pensar») y el primer párrafo de la Introducción («una posible cosmogonía paleolingüística y su posterior usurpación sistémica», con la tesis «comunidad frente a propiedad, flujo frente a captura» y «fuimos, somos y seremos agua que piensa simbólicamente como propósito universal»). *(A confirmar por Luis si se refería a estos textos.)*
+1. **Manda la intención, y está encadenada a la del libro.** La intención de cada pieza cuelga de la intención del libro, que Luis dejó escrita en dos textos fijos (mensaje del 09/10/26: «temática, discurso e intención están en el primer párrafo… y en la cita»):
+   - El **primer párrafo de la Introducción:** «Natura: nacido del UR. Ura: agua en euskera. Desde esa coincidencia elemental, el euskera opera como la caja negra de una humanidad en colisión permanente, custodiando una pequeña arqueología de intuiciones, diagramas y signos de resistencia popular. Estas páginas se adentran, con etimología insurgente, en una posible cosmogonía paleolingüística y en su posterior usurpación sistémica.» (La redacción de la última frase es provisional hasta la decisión final de Luis.)
+   - El **epígrafe:** «Tras cualquier cobardía se esconde el miedo a pensar» (ÄB/ÖC).
+   - Anclas de apoyo: la tesis «comunidad frente a propiedad, flujo frente a captura» y la posición «fuimos, somos y seremos agua que piensa simbólicamente como propósito universal» (Norma 49).
 2. **La carga de la prueba la lleva la pieza, no Luis.** Alejarse de la intención del libro exige un argumento muy fuerte, y ese argumento tiene que salir de la redacción de la propia pieza y de los baremos de Claude (lectura, estadística y agentes lectores). Luis contrasta cada argumento y toma la decisión final, siempre con argumentos y no por inercia.
-3. **Deriva temática: se queda lo que aguanta la intención.** Los subtemas que la sostienen se quedan; el resto va a la mesa de mezclas (a Semillas, al fondo del cajón, con su etiqueta DESTINO) y descansa hasta que se gane la intención.
+3. **Deriva temática: se queda lo que aguanta la intención, y solo se va lo imposible de arreglar.** Un subtema que sostiene la intención se queda. Uno que hoy no la sostiene pero se puede arreglar (declarar una resonancia, poner fuente, corregir un hecho, encadenarlo con la captura) **se queda y se trabaja en el repaso final en profundidad.** A la mesa de mezclas (a Semillas, al fondo del cajón, con su etiqueta DESTINO) solo va lo imposible de arreglar: lo que no admite cadena con la intención, el dato que no se puede sostener ni con fuente, o lo que duplica otra pieza sin aportar nada.
 4. **El discurso se gana el agua de UR.** El libro marca las pautas. Casi todas las líneas llevan discurso político; todos tienen que (a) salir del agua de UR y no pegarse a ella, (b) estar a la altura de los mejores discursos del libro y (c) tener rigor político de alto nivel. No valen medias tintas.
 5. **Las normas llegan después.** Muchas piezas γ se escribieron con las normas primigenias o sin ellas. No se valora lo que el Pase final va a corregir: plantillas, aperturas con artículo, dos puntos, jerga, «trasciende» y «elude», conectores, longitud de frase. Lo semántico y lo pragmático ya están controlados por las normas-método y no entran en la ficha.
 6. **Sin números.** La no-norma se escribe en frases. Los números del taller (clasificación α/β/γ incluida) son de Claude y nunca deciden.
@@ -21,7 +24,7 @@ Del marco de 18 análisis, tres no se corrigen con normas ni los cubre una herra
    - ¿Tiene una tesis política propia, nombrada y sostenida?
    - ¿Identifica al sujeto del poder y a quien lo sufre, con nombres, fechas y fuentes?
    - ¿**Sale del agua de UR** (el discurso nace del agua, el territorio o la palabra) o se le pega?
-   - ¿Aguanta el rigor de los mejores discursos del libro? Referencias provisionales, a confirmar por Luis: *Te Urewera*, *Horizonte jurídico* (Interludio II), *La técnica que recuerda su origen* (Interludio IV·II), *Endorois · Ogiek · San · Loliondo* y *Urabá*.
+   - ¿Aguanta el rigor de los mejores discursos del libro? Referencias confirmadas por Luis (09/10/26): *Te Urewera*, *Horizonte jurídico* (Interludio II), *La técnica que recuerda su origen* (Interludio IV·II), *Endorois · Ogiek · San · Loliondo* y *Urabá*.
    - Riesgo: persona real, honor de fallecidos, datos privados, riesgo legal o reputacional.
 
 **Cómo se contrasta:** (a) con el propio libro, comparando con las referencias; (b) con los criterios estadísticos y los agentes lectores de Claude, que puntúan la pieza con esas referencias como anclas, como en la clasificación α/β/γ; (c) con la decisión final de Luis, razonada.
@@ -37,19 +40,19 @@ Además, aparte de la ficha: **un hecho erróneo se corrige siempre**, aunque no
 
 **Intención (por confirmar):** mostrar que un apellido o un topónimo es un trayecto del agua, no una herencia fija, y que el confín es umbral y no final; el Baztán como imagen condensada del libro. **Cadena con el libro:** toponimia y apellido como memoria del agua (etimología insurgente), y la captura y la resistencia (usurpación sistémica).
 
-**Subtemas contra la intención**
+**Subtemas contra la intención.** Ninguno es imposible de arreglar, así que ninguno va a la mesa de mezclas; lo que cada uno necesita se trabaja en el repaso final.
 
-| Subtema | Veredicto | Argumento (de la propia pieza) |
+| Subtema | Veredicto | Qué necesita (repaso final) |
 |---|---|---|
-| Amaiur como confín hídrico del Baztán | Se queda | Es la tesis de la pieza. |
-| Jon Maia: el apellido como bumerán | Se queda | Es la imagen central; el texto la formula con precisión («lo que fue desplazamiento social regresa como afirmación poética y política»). |
-| Amaya y la redada de 1749: el apellido como marca de dominio | Se queda, con reescritura de hechos | Es el discurso político de la pieza (captura frente a comunidad). Hoy cae en «proyecto de exterminio» sin fuente y en «imponen apellidos», sin respaldo. |
-| Karst de Ikaburu, Zugarramurdi y Sara | Se queda, condensado | Sostiene «el agua trabaja bajo la superficie» y lleva a la persecución. |
-| Lamiak, akelarre, Akerbeltz y Salazar Frías | Se queda | Segundo discurso político: la Inquisición y su fisura interna. |
-| Maya y los cenotes | **Descansa** | El propio texto lo llama «falso amigo» y la glosa «prescinde de cualquier vínculo genético»: la pieza misma admite que no sostiene la intención. |
-| La diosa Maia y *Maius* | **Descansa** | Etimología discutida que añade un umbral nuevo (mayo, deshielo) sin cadena con la captura ni con el Baztán. |
+| Amaiur como confín hídrico del Baztán | Se queda | Declarar la etimología (*amaitu*) como hipótesis. |
+| Jon Maia: el apellido como bumerán | Se queda | Decidir la filiación de sus padres (permiso o quitarla). |
+| Amaya y la redada de 1749: el apellido como marca de dominio | Se queda | Fuente y cifra de la redada; quitar «imponen apellidos» y «proyecto de exterminio» sin respaldo. |
+| Karst de Ikaburu, Zugarramurdi y Sara | Se queda | Condensar. |
+| Lamiak, akelarre, Akerbeltz y Salazar Frías | Se queda | Corregir «11 vecinos» (5 vivos y 6 en efigie); fuente de la cifra. |
+| Maya y los cenotes | Se queda | Ya es «falso amigo» declarado; se encadena con «agua que piensa simbólicamente como propósito universal» (cosmologías hídricas lejanas) y se acorta. |
+| La diosa Maia y *Maius* | Se queda | Declarar la etimología como discutida y encadenarla con el confín que se abre (umbral); si no se logra la cadena, es candidata a descansar. |
 
-**Discurso:** los dos pasajes políticos (la redada y la Inquisición) tienen la materia, pero no el rigor de *Te Urewera* o *Horizonte jurídico*: faltan fuente y cifra exacta (5 quemados vivos y 6 en efigie; fuente de la redada de 1749).
+**Discurso:** los dos pasajes políticos (la redada y la Inquisición) tienen la materia, pero hoy no llegan al rigor de *Te Urewera* o *Horizonte jurídico*: faltan fuente y cifra exacta. Se llevan a ese nivel en el repaso final en profundidad.
 
 **Hechos a corregir sea cual sea la norma:** los 11 de Zugarramurdi (5 vivos y 6 en efigie), «imponen apellidos», y las dos etimologías (*amaitu*, *Maius*) como hipótesis.
 
