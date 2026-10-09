@@ -641,7 +641,7 @@ La primera frase no dice nada sobre la riada. Dice algo sobre el propio proceso 
 
 ## 4. LA SATURACIÓN DE LA CONJUNCIÓN «Y»
 **La trampa:** Encadenar tres o más ideas potentes seguidas de «y» sin pausa entre ellas («un territorio desolador, sucio y profundamente ético y sintonizamos el fango...»). No es la conjunción en sí —el idioma la necesita—, es usarla como muletilla de acumulación en vez de puntuación real. Satura el oído y diluye la fuerza de los sustantivos.
-**La acción punk:** Cuando encadenes tres o más elementos, sustituye la acumulación por comas, dos puntos o puntos y seguido. El punto y seguido funciona en la prosa como un golpe de caja en la batería: corta el aire, deja respirar al lector y dota de una contundencia brutal a la frase que viene detrás. Una o dos «y» dentro de una frase larga no son la trampa; la trampa es la cadena de tres o más sin respiro.
+**La acción punk:** Cuando encadenes tres o más elementos, sustituye la acumulación por comas, punto y coma o puntos y seguido (los dos puntos solo si anuncian la enumeración, Norma 42 bis). El punto y seguido funciona en la prosa como un golpe de caja en la batería: corta el aire, deja respirar al lector y dota de una contundencia brutal a la frase que viene detrás. Una o dos «y» dentro de una frase larga no son la trampa; la trampa es la cadena de tres o más sin respiro.
 
 ## 5. LOS ANDAMIOS DE ENTRADA (SABIDURÍA ARTIFICIAL)
 **La trampa:** Introducir los bloques de los autores con etiquetas profesorales del tipo «X pone sobre la mesa una imagen incómoda», «desde otro ángulo en su obra Y...», citando títulos de manuales escolares que engordan el texto.
@@ -1233,6 +1233,24 @@ Luis: *"Ese párrafo final sin ningún sentido narrativo, prohibido. Lo tenemos 
 3. **Binomio léxico copulativo repetido.** Un par de sustantivos unidos por "y" como remate de frase («cuerpos y pérdidas», «voz y presencia») funciona una vez como economía real. Repetido como fórmula de cierre en varias frases de la misma pieza, es la misma "word echo" que la Norma 27 ya nombra — se audita con el mismo procedimiento: listar los binomios de cierre de frase de toda la pieza, y si dos o más comparten la estructura sustantivo+y+sustantivo sin aportar cada vez un par distinto y necesario, se funden o se cortan.
 
 **El límite exacto:** esta norma no prohíbe el aforismo, la antítesis ni el binomio — los tres son herramientas reales del libro, ya validadas en piezas como Angostura o Raíz. Lo que prohíbe es que un mismo recurso aparezca tantas veces en una pieza que deje de sentirse como una elección y empiece a sentirse como un tic del piloto automático. La prueba, como siempre: ¿esta instancia se ganó su lugar con el material que la precede, o es la misma forma reciclada porque "así suena bien"?
+
+## 42 bis. LOS DOS PUNTOS — ANUNCIAN; NO EXPLICAN POR SISTEMA (09/10/26)
+
+**El origen.** Medida del 08/10/26 con analizador sintáctico sobre las 66 piezas de URS y siete obras de Baroja, Orwell y Martín Santos (`MARCO-ANALISIS-TEXTUAL.md`, §5): UR usa 9,7 dos puntos por mil palabras; el canon de Baroja y Orwell, entre 2,4 y 4,2 (mediana 2,6). El 68 % de los 966 dos puntos del libro unen dos cláusulas con verbo («A: B»): 6,7 por mil en las piezas de crónica y 4,8 en las teóricas, frente a 0,7–1,6 en el canon. Palabras de Luis (09/10/26): *«yo literalmente suelo usar los : en contadas ocasiones pero esto no significa que los use correctamente»* y *«es un tic artificial que nos puede ayudar en el campo teórico y ser muy evitable en la narración»*.
+
+**Se quedan siempre:** anunciar una enumeración, anunciar una cita, y el rótulo (glosa, tabla, definición en pieza teórica; como máximo una definición «X se define así: …» por sección).
+
+**La cláusula + cláusula no se sustituye por sistema (Luis, 09/10/26).** Palabras de Luis: *«ese "siempre" me parecía hacer una plantilla de algo que no controlo bien»*. Los dos puntos entre una afirmación y su demostración inmediata son español legítimo y el canon los usa (Orwell 0,9–1,6 por mil, Baroja 0,7–0,9; Martín Santos 0,9). Luis contrastó la pregunta con otra IA, cuya respuesta acierta en que Orwell y Baroja no sustituirían por sistema y en que no hay que encadenar párrafos con la misma estructura; exagera al decir que Orwell los usaba «de forma masiva» (una cláusula + cláusula cada 650–1.400 palabras; UR, una cada 150), y cita enlaces (Reddit y webs escolares) que Claude no ha abierto. Lo que decide es el motivo, caso a caso.
+
+**Los motivos (rigen para cada dos puntos de cláusula + cláusula, haya o no alarma):**
+- *Se queda* cuando: (a) B es la demostración, el dato o la consecuencia inmediata de A y es breve, y la frase respira mejor con el signo que con un nexo; (b) A es una afirmación de la tesis y B su prueba (pieza teórica); (c) sustituirlo empeora la frase (Norma 0).
+- *Se sustituye* cuando: (1) hay otro dos puntos en el mismo párrafo (racha) o dos en la misma frase; (2) la relación entre A y B es lógica (causa, consecuencia, concesión) y el texto no la dice en otro sitio: el conector la aporta; (3) es el binomio «El pretexto: X. La realidad: Y.» o cualquier molde repetido en la pieza (Normas 38.1 bis, plantilla, y 38.2 bis); (4) B se sostiene sola y es corta, y pide punto (la síncopa de The Clash, Norma 33).
+
+**Soluciones clásicas, según lo que B hace con A:** causa → *porque*, *pues*, *ya que*; consecuencia → *de modo que*, *así*, *por eso*, o punto y coma; aclaración o concreción → *es decir*, *esto es*, *en concreto*, o paréntesis o rayas con el dato; contraste o precisión → punto y coma, *pero*, *aunque*; frase que se sostiene sola → punto y seguido; aposición del nombre → comas o rayas; binomio «El pretexto: X. La realidad: Y.» → *«El pretexto fue X; la realidad, Y.»* La mayoría alarga la frase y añade el conector que falta (Norma 33).
+
+**Medida de apoyo, instrumento de Claude (criterio de Luis sobre porcentajes, 09/10/26).** En crónica y geografía la pieza se marca para revisión completa si pasa de 5 dos puntos por mil (p90 del canon) o de 1,6 de cláusula + cláusula (máximo del canon); en las piezas teóricas, de 6 y de 3. Meta de libro: 4 por mil. Medida con `herramientas/analisis-texto.py --dospuntos`. Una pieza por debajo de la alarma se revisa igual caso a caso.
+
+**Aplicación.** Claude propone entre diez y veinte casos de muestra con su motivo y su arreglo; aprobados por Luis, aplica sin consulta al resto de la pieza (precedente: Normas 36.7, 38.1 bis, 47 y 28). Norma 0 y Norma 48 mandan.
 
 ## 43. EL SUBTÍTULO INTERNO — UN SOLO MOLDE PARA TODO EL LIBRO (30/09/26)
 

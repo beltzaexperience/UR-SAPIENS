@@ -373,7 +373,7 @@ El corredor se aplica según la marca de registro de la pieza (`(*-red)`, decisi
 Ordenadas por evidencia. Para cada una, mi recomendación.
 
 1. **Apertura de frase.** *Cerrada el 09/10/26:* alarma de pieza y meta de libro en el 35 %, como instrumento de Claude; los motivos de la Norma 38.1 bis se aplican siempre. Escrita en la Norma 38.1 bis. Criterio de Luis para todas las cifras: primero los motivos, segundo el canon (`NOTAS-URTZ.md`).
-2. **Dos puntos.** ¿Entran como molde en un apartado 42 bis, con alarma por encima de 5 por mil? Los dos puntos quedan para lista, cita y rótulo; la cláusula explicativa va con punto, conector o subordinada. *Recomiendo sí.*
+2. **Dos puntos.** *Cerrada el 09/10/26:* Norma 42 bis. Se quedan para enumeración, cita y rótulo; la cláusula + cláusula se decide por motivos y no se sustituye por sistema. Alarma de Claude en 5 por mil.
 3. **Gerundios.** Resuelta con los datos de §5.5: la Norma 10 se queda como está. ¿Añado solo un recordatorio de una línea (el gerundio de manera y simultaneidad sirve para alargar frases) y dejo el suelo de 25 por 10.000 como chequeo de la revisión final, sin alarma? *Recomiendo sí.*
 4. **Sustituir la tabla de la Norma 36.8** por la del corredor (canon de seis obras + libro) y recalibrar las alarmas de ritmo (9,8) y cola larga (2,5 %). *Recomiendo sí.*
 5. **Abstracción.** ¿Alarma inmediata sin cambio (6,6) y metas de libro de 3,1 (crónica) y 4,5 (teórico) sin plazo? *Recomiendo sí.*

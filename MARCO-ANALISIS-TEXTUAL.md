@@ -231,7 +231,7 @@ El 68 % de los 966 dos puntos unen dos cláusulas con verbo. La exposición de O
 >
 > **Se quedan:** (1) anunciar una enumeración o lista; (2) anunciar una cita; (3) rótulo o definición en glosa, tabla o pieza teórica («X se define así: …»), como máximo una vez por sección; (4) la pregunta o el enunciado que el párrafo siguiente desarrolla, en las piezas teóricas.
 >
-> **Se evitan:** los dos puntos que unen dos cláusulas con verbo para que la segunda explique, justifique o concrete la primera («A: B»). En crónica y geografía se sustituyen siempre; en las piezas teóricas, salvo que el arreglo empeore la frase (Norma 0).
+> **Cláusula + cláusula:** no se sustituye por sistema. Cada caso se decide por sus motivos (se queda si B es la demostración breve de A, si A es una tesis y B su prueba, o si sustituir empeora la frase; se sustituye si hay racha, si la relación lógica no se dice en otro sitio, si es un molde repetido o si B pide punto). *Aprobada el 09/10/26 con esta modificación; texto definitivo en `NORMA-METODO.md`, Norma 42 bis.*
 >
 > **Soluciones clásicas, según lo que B hace con A:**
 >
@@ -245,9 +245,9 @@ El 68 % de los 966 dos puntos unen dos cláusulas con verbo. La exposición de O
 > | una aposición del nombre | comas o rayas | «A, B, …» |
 > | el binomio «El pretexto: X. La realidad: Y.» | punto y coma con elipsis del verbo | «El pretexto fue X; la realidad, Y.» |
 >
-> **Medida (alarma, no cuota):** en crónica y geografía, más de 4 dos puntos por mil palabras o más de 1,5 de cláusula + cláusula; en teóricas, más de 6 y más de 3. El canon da p90 5,0 y un máximo de 1,6 (cláusula + cláusula).
+> **Medida (instrumento de Claude):** en crónica y geografía, más de 5 dos puntos por mil o más de 1,6 de cláusula + cláusula; en teóricas, más de 6 y más de 3. Meta de libro: 4 por mil.
 >
-> **Aplicación:** Claude propone entre diez y veinte casos de muestra con su arreglo; aprobados por Luis, aplica sin consulta al resto de la pieza (precedente: Normas 36.7, 38.1 bis, 47, 28).
+> **Aplicación:** muestra de diez a veinte casos con su motivo y su arreglo; aprobados, se aplica sin consulta al resto de la pieza.
 
 La mayoría de las soluciones alarga la frase y añade conectores, justo lo que faltaba (§3, análisis 5 y §6): resuelven dos desvíos con un cambio.
 
@@ -322,7 +322,7 @@ Texto propuesto para una sección nueva, que se redactaría tras las decisiones 
 
 Se suman a las nueve del informe anterior. Para cada una, mi recomendación.
 
-10. **Norma 42 bis (dos puntos).** ¿Apruebas el borrador de §5.2 (usos que se quedan, soluciones clásicas por clase, medida de alarma) y el procedimiento de muestra de diez a veinte casos? *Recomiendo sí.*
+10. **Norma 42 bis (dos puntos).** *Cerrada el 09/10/26:* aprobada con la modificación de Luis (la cláusula + cláusula se decide por motivos, no por sistema). Escrita en `NORMA-METODO.md`.
 11. **Norma 38.1 ter (continuidad del sujeto).** ¿Entra la elipsis del sujeto y el pronombre como arreglo por defecto de la apertura con artículo, con la alarma del 35 %? *Recomiendo sí.*
 12. **Alargar frases.** ¿Adoptas la caja de herramientas de §6 como adenda de la Norma 33, con la meta orientativa de 4–5 % de frases de más de 40 palabras? *Recomiendo sí, como meta de libro sin plazo y conservando todas las frases cortas ganadas.*
 13. **Pase de análisis final.** ¿Apruebas el orden de §2 y la sección XXVII de §8? *Recomiendo sí.*
