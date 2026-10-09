@@ -12,7 +12,7 @@ La raíz fonética preindoeuropea que designa el agua, el origen, la corriente. 
 **E-UR-OPA**
 Europa como continente del UR. El nombre griego combina *eurys* (ancho) + *ops* (cara/ojo); hay también hipótesis semítica: *ereb* (occidente, donde se pone el sol). En el libro: E-UR-OPA lleva el UR adyacente en sus posiciones 2-3. No el continente ancho sino el territorio donde el UR cayó con más insistencia — lluvia atlántica, cuencas mediterráneas, el arco de Cabo de Gata a los Urales. Ver: URTZ Cara 2 Europa.
 
-**CUL-T-UR/A · LEC-T-UR/A**
+**CULTURA: CONTINENTE IBÉRICO** (antes «CUL-T-UR/A · LEC-T-UR/A»; título cambiado el 09/10/26, se retira LEC-T-UR/A porque *lectura* viene de *legere*, no de «lecho»)
 El descubrimiento que abre el frontispicio ibérico: el sufijo latino *-tura* (resultado/acto de una acción) lleva UR adyacente en todas sus formas. Cultura, escritura, lectura, pintura, escultura, arquitectura, agricultura, literatura, estructura, criatura, aventura, **tortura**: la T del gesto humano aplicada al UR del origen. Todas las palabras que nombran los actos de la civilización llevan el agua dentro. Ver: Frontispicio Cara 1 Ibérico.
 
 **'T'**
