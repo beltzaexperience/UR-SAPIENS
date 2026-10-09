@@ -9,7 +9,7 @@
    - El **epígrafe:** «Tras cualquier cobardía se esconde el miedo a pensar» (ÄB/ÖC).
    - Anclas de apoyo: la tesis «comunidad frente a propiedad, flujo frente a captura» y la posición «fuimos, somos y seremos agua que piensa simbólicamente como propósito universal» (Norma 49).
 2. **La carga de la prueba la lleva la pieza, no Luis.** Alejarse de la intención del libro exige un argumento muy fuerte, y ese argumento tiene que salir de la redacción de la propia pieza y de los baremos de Claude (lectura, estadística y agentes lectores). Luis contrasta cada argumento y toma la decisión final, siempre con argumentos y no por inercia.
-3. **Deriva temática: se queda lo que aguanta la intención, y solo se va lo imposible de arreglar.** Un subtema que sostiene la intención se queda. Uno que hoy no la sostiene pero se puede arreglar (declarar una resonancia, poner fuente, corregir un hecho, encadenarlo con la captura) **se queda y se trabaja en el repaso final en profundidad.** A la mesa de mezclas (a Semillas, al fondo del cajón, con su etiqueta DESTINO) solo va lo imposible de arreglar: lo que no admite cadena con la intención, el dato que no se puede sostener ni con fuente, o lo que duplica otra pieza sin aportar nada.
+3. **Deriva temática: se queda lo que aguanta la intención, y solo se va lo imposible de arreglar.** Un subtema que sostiene la intención se queda. Uno que hoy no la sostiene pero se puede arreglar (poner fuente, corregir un hecho, encadenarlo con la captura) **se queda y se trabaja en el repaso final en profundidad.** A la mesa de mezclas (a Semillas, al fondo del cajón, con su etiqueta DESTINO) va lo que no admite arreglo: lo que no tiene cadena con la intención, el dato que no se puede sostener ni con fuente, lo que duplica otra pieza sin aportar nada y, por decisión de Luis (09/10/26), **los falsos amigos y las etimologías discutidas o improbables**: hay material de sobra de ese tipo en el libro, y solo vuelven si llegan con la resonancia declarada y la cadena a la intención.
 4. **El discurso se gana el agua de UR.** El libro marca las pautas. Casi todas las líneas llevan discurso político; todos tienen que (a) salir del agua de UR y no pegarse a ella, (b) estar a la altura de los mejores discursos del libro y (c) tener rigor político de alto nivel. No valen medias tintas.
 5. **Las normas llegan después.** Muchas piezas γ se escribieron con las normas primigenias o sin ellas. No se valora lo que el Pase final va a corregir: plantillas, aperturas con artículo, dos puntos, jerga, «trasciende» y «elude», conectores, longitud de frase. Lo semántico y lo pragmático ya están controlados por las normas-método y no entran en la ficha.
 6. **Sin números.** La no-norma se escribe en frases. Los números del taller (clasificación α/β/γ incluida) son de Claude y nunca deciden.
@@ -40,7 +40,7 @@ Además, aparte de la ficha: **un hecho erróneo se corrige siempre**, aunque no
 
 **Intención (por confirmar):** mostrar que un apellido o un topónimo es un trayecto del agua, no una herencia fija, y que el confín es umbral y no final; el Baztán como imagen condensada del libro. **Cadena con el libro:** toponimia y apellido como memoria del agua (etimología insurgente), y la captura y la resistencia (usurpación sistémica).
 
-**Subtemas contra la intención.** Ninguno es imposible de arreglar, así que ninguno va a la mesa de mezclas; lo que cada uno necesita se trabaja en el repaso final.
+**Subtemas contra la intención.**
 
 | Subtema | Veredicto | Qué necesita (repaso final) |
 |---|---|---|
@@ -49,8 +49,10 @@ Además, aparte de la ficha: **un hecho erróneo se corrige siempre**, aunque no
 | Amaya y la redada de 1749: el apellido como marca de dominio | Se queda | Fuente y cifra de la redada; quitar «imponen apellidos» y «proyecto de exterminio» sin respaldo. |
 | Karst de Ikaburu, Zugarramurdi y Sara | Se queda | Condensar. |
 | Lamiak, akelarre, Akerbeltz y Salazar Frías | Se queda | Corregir «11 vecinos» (5 vivos y 6 en efigie); fuente de la cifra. |
-| Maya y los cenotes | Se queda | Ya es «falso amigo» declarado; se encadena con «agua que piensa simbólicamente como propósito universal» (cosmologías hídricas lejanas) y se acorta. |
-| La diosa Maia y *Maius* | Se queda | Declarar la etimología como discutida y encadenarla con el confín que se abre (umbral); si no se logra la cadena, es candidata a descansar. |
+| Maya y los cenotes | **Mesa de mezclas (aplicado 09/10/26)** | Falso amigo declarado. A Semillas. |
+| La diosa Maia y *Maius* | **Mesa de mezclas (aplicado 09/10/26)** | Etimología discutida e improbable. A Semillas. |
+
+Aplicado en `urtz.html`: los dos párrafos y sus notas 4 y 9 salen a una Semilla («FALSOS AMIGOS · MAYA Y LOS CENOTES · LA DIOSA MAIA · fragmentos retirados de AMAIA · EL CONFÍN»); la pieza pasa de 2.084 a 1.620 palabras y la glosa de 9 a 7 notas.
 
 **Discurso:** los dos pasajes políticos (la redada y la Inquisición) tienen la materia, pero hoy no llegan al rigor de *Te Urewera* o *Horizonte jurídico*: faltan fuente y cifra exacta. Se llevan a ese nivel en el repaso final en profundidad.
 
