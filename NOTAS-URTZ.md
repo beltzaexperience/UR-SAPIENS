@@ -797,13 +797,19 @@ donde `(*-per)` y `(*-glo)` aparecen solo si procede. **Desde el 08/10/26 `(*-ti
 
 **La nota de lectura del libro (Luis, 08/10/26).** Palabras de Luis: *«HABRÍA QUE AÑADIR UNA NOTA DE LECTURA»* y, sobre el borrador: *«PREFACIO. ME PARECE BIEN DE MANUAL Y NEUTRO POR EL MOMENTO. (*-red)»*. Vive una sola vez, en el Prefacio («Ciclo hídrico · Geroglífico UR»), justo antes de la glosa, en cursiva pequeña gris como las demás notas de pieza. Texto: *«Nota de lectura. El libro se lee de corrido: no hace falta detenerse en las notas. Los números entre paréntesis remiten a la glosa que cierra cada pieza, con fechas, cifras, términos y fuentes para quien quiera comprobar un dato o seguir su rastro. Las rayuelas, al final de cada pieza, enlazan textos que se responden entre sí; se puede saltar de una a otra en cualquier orden.»* Ninguna pieza vuelve a explicar cómo se lee la glosa (la misma lógica de la Norma VIII bis). Su voz queda pendiente de la última lectura de redacción (`(*-red)`).
 
-## PENDIENTE — LÍNEA EDITORIAL Y REFERENTES: UR FRENTE A BAROJA, ORWELL Y MARTÍN SANTOS (08/10/26)
+## PENDIENTE — LÍNEA EDITORIAL, REFERENTES Y MARCO DE ANÁLISIS TEXTUAL (08-09/10/26)
 
-**El encargo de Luis (08/10/26):** hacer con tres obras de Baroja, tres de Orwell y una de Martín Santos subidas a `main` el trabajo hecho con el texto de Baroja sobre San Sebastián, para cerrar la línea editorial del manuscrito y perfilar las Normas-Método definitivas, teniendo en cuenta la anomalía rupestre que representa UR.
+**El encargo de Luis (08/10/26):** hacer con tres obras de Baroja, tres de Orwell y una de Martín Santos subidas a `main` el trabajo hecho con el texto de Baroja sobre San Sebastián, para cerrar la línea editorial del manuscrito y perfilar las Normas-Método definitivas, teniendo en cuenta la anomalía rupestre que representa UR. Después pidió llevar la comparación a los análisis de texto y sintáctico, con el marco de los 18 análisis en cuatro dimensiones, para usarlo en las correcciones finales.
 
-**Hecho.** `LINEA-EDITORIAL-REFERENTES.md` (informe completo: método, tablas, hallazgos, línea editorial propuesta, calibración norma por norma y matriz de las 66 piezas de URS) y `herramientas/perfil-corpus.py` (mide obras narrativas completas y compara cada pieza con el corredor del canon; los textos no se versionan). **Nada se ha aplicado a `urtz.html` ni a `NORMA-METODO.md`.**
+**Hecho.**
+- `LINEA-EDITORIAL-REFERENTES.md`: método, tablas, hallazgos, línea editorial propuesta, calibración norma por norma y matriz de las 66 piezas de URS.
+- `MARCO-ANALISIS-TEXTUAL.md`: los 18 análisis con su estado, el Pase de análisis final, resultados por dimensión con analizador sintáctico, borradores de las normas 42 bis (dos puntos) y 38.1 ter (continuidad del sujeto), caja de herramientas para alargar frases y respuesta sobre los gerundios.
+- Herramientas en `herramientas/`: `perfil-corpus.py` (indicadores de la Norma 36.8 y de puntuación y ritmo frente al corredor del canon) y `analisis-texto.py` (morfología, sintaxis, léxico, entidades, plantillas y estilometría; requiere spaCy). Los textos de las obras no se versionan.
+- Corrección de medida del 08/10/26: las llamadas de glosa «(n)» se excluyen del cuerpo en `perfil-frase.py` y `perfil-corpus.py`. Cambian unas décimas en los indicadores de UR de la Norma 36.8.
 
-**Pendiente de Luis:** las nueve decisiones del apartado 10 del informe (apertura de frase, dos puntos, gerundios, sustitución de la tabla de la Norma 36.8, metas de abstracción, registros, auditoría de «no… sino» en cinco piezas, pico licenciado de la Norma 34, prioridad de la Norma 48 sobre las cifras). Hasta su respuesta, las normas siguen como están.
+**Respuestas de Luis (09/10/26, palabras suyas resumidas).** La apertura con artículo, la abstracción y la racha de aperturas con artículo ya están en las normas (Normas 36.8 y 38.1 bis, motivo 5 «racha»). Los dos puntos se tratan con una norma específica y soluciones de puntuación clásicas y sencillas: tic artificial, útil en lo teórico y evitable en la narración. Gerundios: la norma 10 es efectiva (los datos lo confirman, `MARCO-ANALISIS-TEXTUAL.md` §7). Ampliar las frases es interesante, respetando la urgencia de The Clash. Las piezas teóricas se estudian aparte. Los informes se aplican a medida que se trabaja cada capítulo. Las nueve decisiones del informe se tratan una por una.
+
+**Pendiente de Luis:** las nueve decisiones del apartado 10 de `LINEA-EDITORIAL-REFERENTES.md` y las cinco nuevas del apartado 9 de `MARCO-ANALISIS-TEXTUAL.md`. Hasta su respuesta, las normas y `urtz.html` siguen como están.
 
 ## PLAN — INTERLUDIO IV · ANOMALÍA CIBERNÉTICA (04/10/26)
 
