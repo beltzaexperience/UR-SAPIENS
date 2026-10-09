@@ -332,7 +332,7 @@ Se suman a las nueve del informe anterior. Para cada una, mi recomendación.
 
 ## Anexo A · Tabla completa de indicadores
 
-Canon: ventanas de 1.000 palabras de las seis obras de Baroja y Orwell (270 ventanas). UR: 104 ventanas de las 66 piezas. «Orwell, exposición»: media de tres pasajes expositivos (el «libro» de Goldstein y el apéndice del neolengua en *1984*; cuatro trozos de contenido político de *Homenaje*). «UR, 9 piezas teóricas»: I, II, III×3, IV×2, Digitalismo y Antropología racial.
+Canon: ventanas de 1.000 palabras de las seis obras de Baroja y Orwell (270 ventanas). UR: 104 ventanas de las 66 piezas. «Orwell, exposición»: media de tres pasajes expositivos (el «libro» de Goldstein y el apéndice del neolengua en *1984*; cuatro trozos de contenido político de *Homenaje*). «UR, 9 piezas teóricas»: I, II, III×3, IV×2, Digitalismo y Antropología racial. (La lista de teóricas se amplió el 09/10/26 con Río Congo y, provisionalmente, la Introducción; las cifras de esta tabla corresponden a las nueve originales. La herramienta ya usa la lista nueva.)
 
 #### 1 · Fonético y fonológico
 

@@ -63,8 +63,8 @@ CONTENIDO = {'NOUN', 'VERB', 'ADJ', 'ADV', 'PROPN'}
 ALARMA = {'suj_art_sust': '↑', 'suj_abstracto_art': '↑', 'suj_pronombre': '↓', 'suj_omitido': '↓', 'm_sust': '↑', 'm_verbo': '↓',
           'm_pron': '↓', 's_sub_frase': '↓', 's_fin_frase': '↓', 'q_esqueleto': '↑', 'q_apertura2': '↑', 'e_anafora': '↑',
           'e_parent': '↑', 'r_cv': '↓', 'f_sil_sd': '↓', 'l_densidad': '↑', 'g_total': '↓'}
-# Piezas teóricas según la Norma 36.8 (pendiente de confirmar por Luis).
-TEORICAS = ('I ·', 'II ·', 'III ·', 'IV ·', 'DIGITALISMO', 'ANTROPOLOGÍA RACIAL')
+# Piezas teóricas según la Norma 36.8 (lista de Luis, 09/10/26; la Introducción es provisional).
+TEORICAS = ('I ·', 'II ·', 'III ·', 'IV ·', 'DIGITALISMO', 'ANTROPOLOGÍA RACIAL', 'RÍO CONGO', 'INTRODUCCIÓN')
 ABS = re.compile(r'(ción|sión|dad|tud|miento|ncia|ismo|aje)$')
 
 
