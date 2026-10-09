@@ -1923,3 +1923,13 @@ La pieza sube a URIM, a la mesa de mezclas, bajo una cabecera nueva `○ Interlu
 08/10/2026 (cuadragésima quinta parte): empujado el commit de las marcas. La «página de Hui» pendiente de la glosa 3 de IV·II se cierra sin cotejo: la glosa cita las obras y no la página, y el dato solo se cotejaría si una glosa citara la página.
 
 08/10/2026 (cuadragésima sexta parte): nueva marca `(*-glo)` (glosa pendiente de su auditoría final, en las dos direcciones: podar y ampliar por rigor) en las 63 piezas de URS con glosa; la auditoría de glosa del resto de URS pasa de «ahora» a «en el momento final de cada capítulo». Tema aparcado por Luis: qué hacer con los bloques «A la mesa» (11 piezas), sin acción hasta que lo valore. Local: 4bf5e1f.
+
+---
+
+### Actualización — 09/10/26 — Línea base de medición y formato del «antes y después»
+
+Decisión 14 de `LINEA-EDITORIAL-REFERENTES.md`, aprobada por Luis el 09/10/26. La medición del 08/10/26 de las 66 piezas de URS está en `LINEA-BASE-2026-10-08.md`. Cada vez que una pieza pasa por el Pase de análisis final (`NORMA-METODO.md`, XXVII), el ledger añade una línea con este formato:
+
+`PIEZA · fecha · antes → después: artículo inicial %, sujeto art.+sust. %, dos puntos ‰, desviación de frase, frases >40 %, gerundios /10.000, alarmas (de 17) · familias corregidas y nº de casos`
+
+Los números son del taller, no del libro (Norma 0): la comparación comprueba que una corrección sistemática mueve lo que debe mover y no decide nada sobre el texto.

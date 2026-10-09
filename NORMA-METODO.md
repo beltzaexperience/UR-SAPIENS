@@ -63,6 +63,8 @@ Fijo. Sin variantes. Válido para Luis, Claude y Perplexity por igual, cada vez 
 
 Palabras de Luis, ante las propuestas de las Normas 47 y 36.8 sobre IV·II: *«aquí había muchos posibles automatismos, no?»*, y tras la respuesta de Claude: *«OK a todo.»* Antes de presentar propuestas a Luis, Claude aplica en un solo pase, y en este orden, todas las correcciones que Luis ha concedido sin consulta: Norma 1, Norma 3, Norma 38.1 bis, Norma 36.7, Norma 46 (sustitución por el dato concreto), Norma 47 (sujeto abstracto → actor), cuerpo limpio y Norma 28 (tiempos de los hechos únicos). Cada paso respeta la guarda de la Norma 48 (la corrección no rebaja la densidad mitopoética) y las excepciones propias de su norma. La entrega es un único diff con su ledger y la medición del perfil (`herramientas/perfil-frase.py`); Luis recibe consulta solo por cada frase que cae en una excepción, nunca por las demás. **Lo que no se automatiza:** el ritmo (la desviación típica de la Norma 36.8 es una alarma y no un objetivo) y todo cambio que toque la carga de una frase. **Precedente:** en IV·II, 11 de las 16 propuestas de las Normas 47 y 36.8 ya estaban concedidas y se presentaron una a una; solo tres necesitaban el criterio de Luis (12, 14 y 16), y en las tres decidía la carga mitopoética.
 
+El Pase de análisis final de la sección XXVII (09/10/26) se hace a continuación de este, en el momento final de cada capítulo.
+
 ### Fase 1 — Diagnóstico, y solo diagnóstico
 
 **Comprobación previa, antes del punto 1 (14/09/26, Norma VIII ter):** ¿esta pieza activa UR en algún punto —fonema, argumento o cierre temático, ver precedente WHANGANUI— con el mismo peso que el resto del libro? Si la respuesta es no, se dice así, con esas palabras, antes de entrar en cadenas, tiempos verbales o cualquier otra norma: el resto del informe pasa a ser secundario, porque no hay pieza de este libro que pulir todavía. Esta comprobación no sustituye el resto del Procedimiento Relojero — va primero porque, si falla, las demás normas están afinando un texto que aún no es del libro correcto.
@@ -592,6 +594,28 @@ La primera frase no dice nada sobre la riada. Dice algo sobre el propio proceso 
 **Consecuencia práctica inmediata, para todo el trabajo de PEOIM/PAO en curso:** cada vez que una investigación de Luis entra en URIM, se desarrolla a su volumen real en la mesa de mezclas — todos los hilos verificados, sin recorte de contenido por economía. La pregunta "¿esto es demasiado para el libro?" no se hace en esta fase. El trabajo de la mesa es dejar cada pista lista para su sitio en la selección completa — no decidir de antemano cuáles suenan.
 
 > Numeración propia (0-32), independiente de los números romanos de las secciones anteriores — no renumerada, para no romper las referencias cruzadas internas que el propio manifiesto ya usa entre sus normas. Autoridad principal sobre estilo, tono y arquitectura de capítulo, por encima de las normas XXII, XXIII y XXV, marcadas como nota histórica más arriba.
+
+## XXVII. MARCO DE ANÁLISIS TEXTUAL Y PASE DE ANÁLISIS FINAL — LOS 18 ANÁLISIS EN CUATRO DIMENSIONES (09/10/26)
+
+**Aprobado por Luis el 09/10/26** (decisiones 13 y 14 de `MARCO-ANALISIS-TEXTUAL.md`: *«Aprobadas»*). Documentos de apoyo: `MARCO-ANALISIS-TEXTUAL.md` (los 18 análisis, resultados y anexos), `LINEA-EDITORIAL-REFERENTES.md` (corredor del canon) y `LINEA-BASE-2026-10-08.md` (medición de partida).
+
+**1. Qué es.** El conjunto de análisis con que se revisa una pieza en el momento final de su capítulo (el mismo de la auditoría de glosa, `(*-glo)`), después del Pase automático único. Se agrupa en cuatro dimensiones —estructural, cognitiva y de contenido, social y contextual, forense— y en tres tipos: medido por herramienta (2 morfológico, 3 sintáctico, 4 léxico, 9 legibilidad, 14 estilometría, 16 entidades, 18 plantillas), medido en parte (1 fonético, 5 textualidad, 8 estilístico, 13 narratológico, 17 sinteticidad) y lectura guiada de Claude (6 semántico, 7 temático, 10 pragmático, 11 discurso, 12 intención). El análisis 15 (sentimiento) no se aplica; la urgencia de The Clash (Norma 45) se mide con indicadores formales.
+
+**2. El corredor del canon.** Baroja y Orwell son el suelo llano del español narrativo; Martín Santos, el pico licenciado. El corredor es diagnóstico y contraste, no cuota ni destino (Norma 0, «Los números son del taller, no del libro»). Se aplica según el registro de la pieza (`(*-red)`; piezas teóricas confirmadas por Luis el 09/10/26 en la Norma 36.8). Ninguna cifra autoriza una corrección que rebaje la densidad mitopoética (Norma 48); el libro necesita conceptos abstractos potentes (Norma 36.8, punto 2).
+
+**3. El Pase de análisis final (seis pasos, por pieza).**
+1. **Medir.** `perfil-corpus.py --pieza X` y `analisis-texto.py --pieza X`: alarmas de la Norma 36.8 y las 17 del marco.
+2. **Diagnosticar por tipo y no frase a frase,** en cinco familias: sujeto y aperturas (Normas 38.1 bis y 38.1 ter), dos puntos (42 bis), longitud y cola (33), conectores y subordinación, gerundio (10).
+3. **Muestra y aplicación.** Claude enseña entre diez y veinte casos de muestra por familia, con su motivo y su arreglo; aprobados por Luis, los aplica sin consulta al resto de la pieza, con diff y ledger.
+4. **Lectura guiada** (análisis 6, 7, 10, 11, 12 y 13), seis líneas por pieza: *semántico* (términos propios con dos sentidos sin declarar, VIII bis y 12), *temático* (tema principal y hasta tres subtemas frente al título y los subtítulos, 25 y 43), *pragmático* (frases que piden permiso o se justifican, 0, 30 y XXV), *discurso* (voz de las fuentes, vocabulario cargado, 14 y 19), *intención* (informar, argumentar, proponer, homenajear, impugnar o jugar, frente al registro y la 13) y *narratológico* (quién narra, en qué tiempo, quién es el sujeto de las frases importantes, VIII quater y 47). Solo se enseña a Luis lo que levanta una bandera.
+5. **Voz.** Si la distancia de Burrows de la pieza al perfil medio de UR pasa de 0,7, se avisa: ¿voz atípica intencional (otro registro, otra mano) o pendiente de unificar?
+6. **Decisión y re-medición.** Decide Luis. Tras corregir, se vuelve a medir y el ledger (`analisis-editorial.md`) anota la cifra antes y después (decisión 14).
+
+**4. Alarmas vigentes** (instrumentos de Claude; los motivos de cada norma se aplican siempre): artículo inicial 35 % (38.1 bis); sujeto «artículo + sustantivo» 35 % (38.1 ter); dos puntos 5 por mil y cláusula + cláusula 1,6 (42 bis); desviación de frase 9,8 y frases de más de 40 palabras 2,5 % (36.8 y 33); abstracción 4,3 en geografía y 6,6 en teórico (36.8, sin meta de reducción); enumeración 20 % (36.7); párrafos cortos 10 % (26); y las 17 del marco (sujeto, sintaxis, léxico, ráfaga, plantillas), con la dirección en que saltan.
+
+**5. Línea base.** La medición del 08/10/26 sobre las 66 piezas de URS está en `LINEA-BASE-2026-10-08.md`. Una corrección sistemática se evalúa contra ella; la hipótesis de que el perfil nominal lo hubieran causado las normas se descartó midiendo cuatro cortes del historial (`MARCO-ANALISIS-TEXTUAL.md`, §4).
+
+**6. Cautelas.** El analizador es estadístico y comete errores en prosa literaria y en los neologismos de UR; Orwell está en traducción; las cifras orientan. La perplejidad no se calcula (exige un modelo de lenguaje).
 
 ## 0. LAS NORMAS SE SALTAN SI EL SALTO SE DEFIENDE MEJOR QUE LA NORMA
 
