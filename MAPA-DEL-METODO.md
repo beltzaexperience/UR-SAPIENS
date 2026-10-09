@@ -40,7 +40,9 @@
 
 **Cobertura de normas:** los 18 análisis tienen al menos una norma o un paso del Pase de análisis final. Los huecos son menores (cadencia, legibilidad, cohesión léxica) y no piden norma nueva.
 
-**Alfa, beta y gama.** Las alarmas miden distancia a la prosa llana, no calidad: la pieza con menos alarmas (el Prólogo, 0 de 17) o la más cercana al corredor (Frontera aquitano-celta) no son por eso las mejores, y las más alejadas incluyen piezas muy míticas (Curaca, I · UR). Por eso la categoría no sale de una suma. Propuesta de ficha para la mesa de mezclas, con tres preguntas de Luis y las alarmas solo como contexto: ¿aporta a la tesis algo que ninguna otra pieza aporta? ¿está su evidencia sólida (fuentes y glosa)? ¿su prosa suena a UR, con las manías defendidas o corregidas? (Luis dijo «gama» y luego «omega»: pendiente de elegir el nombre.)
+**Alfa, beta y gama.** Las alarmas miden distancia a la prosa llana, no calidad: la pieza con menos alarmas (el Prólogo, 0 de 17) o la más cercana al corredor (Frontera aquitano-celta) no son por eso las mejores, y las más alejadas incluyen piezas muy míticas (Curaca, I · UR). Por eso la categoría no sale de una suma. Propuesta de ficha para la mesa de mezclas, con tres preguntas de Luis y las alarmas solo como contexto: ¿aporta a la tesis algo que ninguna otra pieza aporta? ¿está su evidencia sólida (fuentes y glosa)? ¿su prosa suena a UR, con las manías defendidas o corregidas? Las tres preguntas están aprobadas por Luis (09/10/26) y la tercera categoría se llama **gama**.
+
+**Temática, discurso e intención:** no piden norma nueva. Están declaradas en dos textos fijos: el epígrafe del libro («Tras cualquier cobardía se esconde el miedo a pensar», ÄB/ÖC) y el primer párrafo de la Introducción. La lectura de cada pieza comprueba que sirve a esa tesis. **Plantillas:** objetivo de libro cercano a cero (Luis es inflexible); alarma de Claude a partir del 8 % de frases con esqueleto repetido (hoy, 18 %).
 
 ## 3. Lo que espera (nada urgente)
 
