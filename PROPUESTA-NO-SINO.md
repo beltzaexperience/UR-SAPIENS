@@ -26,6 +26,8 @@ El recuento solo cubre «sino». La Norma 1 también prohíbe «no X, pero Y», 
 8. ¶12 · *«El amor, en este libro, no quiere ser una metáfora blanda, sino el nombre de una emergencia:»* → *«El amor, en este libro, es el nombre de una emergencia:»*
 9. ⚠ ¶15 · *«Por eso el libro no debe resolver el misterio, sino mostrar cómo el misterio se administra.»* → *«Por eso el libro deja el misterio abierto y muestra cómo se administra.»* Aquí la negación lleva una postura (no resolver el misterio); el arreglo la conserva en afirmativo.
 
+10. **(caso añadido el 09/10/26)** ¶1 · primer párrafo del libro · *«Lejos de buscar una genealogía etimológica definitiva, estas páginas se adentran en una posible cosmogonía paleolingüística y en su posterior usurpación sistémica.»* → *«Estas páginas se adentran en una posible cosmogonía paleolingüística y en su posterior usurpación sistémica.»* Es el patrón de la Norma 1 («lejos de X, Y»). **No necesita justificación:** la negación no lleva información imprescindible, porque «posible» ya dice que la cosmogonía es una hipótesis y el párrafo 2 declara el método («Se trata de mantener abierta una herida de sentido»). Es el único caso del libro donde esto afecta a la apertura; queda con los demás de la Introducción.
+
 ## América · Ania · Anaia · UR en el Atlántico frío
 
 1. ¶1 · *«El Cantábrico fue durante siglos una escuela de dureza. No un borde muerto del mapa, sino un lugar donde aprender a leer el agua, a medir el viento…»* → *«El Cantábrico fue durante siglos una escuela de dureza. Un lugar donde aprender a leer el agua, a medir el viento…»*
