@@ -378,7 +378,7 @@ Ordenadas por evidencia. Para cada una, mi recomendación.
 4. **Sustituir la tabla de la Norma 36.8** por la del corredor (canon de seis obras + libro) y recalibrar las alarmas de ritmo (9,8) y cola larga (2,5 %). *Recomiendo sí.*
 5. **Abstracción.** *Cerrada el 09/10/26:* alarmas sin cambio y sin meta de reducción; el libro necesita conceptos abstractos potentes y se quita solo el de relleno. Criterio de Luis escrito en la Norma 36.8, punto 2.
 6. **Registros.** *Cerrada el 09/10/26:* diez piezas teóricas confirmadas por Luis (I, II, III×3, IV×2, Digitalismo, Antropología racial, Río Congo); la Introducción entra como teórica por propuesta de Claude, provisional; «el euskera y la frontera invisible» queda en estudio; Te Urewera es crónica. El resto de registros se clasifica al final de cada capítulo con `(*-red)`.
-7. **«No… sino» en cinco piezas** (Bonus Tracks · Sulfuro y oscuridad, Introducción: Círculo simbólico, Entrevista a Nexus-7, Sájaura, América · Ania · Anaia). ¿Aplico la Norma 1 y te enseño el resultado, o las defiendes con la justificación escrita que la norma exige? *Sin tocar nada hasta tu respuesta.*
+7. **«No… sino» en cinco piezas.** *En espera (09/10/26):* la Entrevista a NEXUS-7 es transcripción literal de una IA y se queda tal cual; los 28 casos de las otras cuatro piezas esperan a la mesa de mezclas (`PROPUESTA-NO-SINO.md`).
 8. **Pico licenciado.** ¿Escribo en la Norma 34 la medida de un período largo (60 o más palabras) como máximo por pieza? *Opcional; recomiendo sí.*
 9. **Norma 48 sobre las cifras.** ¿Confirmas que el corredor es diagnóstico y que, ante un choque entre una cifra y la densidad mitopoética, gana la densidad? *Recomiendo sí.*
 

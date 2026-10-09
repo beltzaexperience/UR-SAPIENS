@@ -1,6 +1,6 @@
 # PROPUESTA — «no… sino» en cinco piezas (decisión 7, 09/10/26)
 
-**Estado: PROPUESTA. No se ha tocado `urtz.html`.** Las cinco piezas llevan `☠ NO TOCAR`. Cada caso lleva su motivo (Norma 1: negar antes de decir) y su arreglo. Los arreglos conservan el contenido y la densidad (Norma 48). Marcados con ⚠ los cinco casos donde la negación puede llevar información y conviene que los mires.
+**Estado: EN ESPERA (09/10/26). Luis: la Entrevista a NEXUS-7 es transcripción literal de una IA y se queda tal cual; los 28 casos de las otras cuatro piezas y el ajuste de la Norma 1 esperan a la mesa de mezclas. No se ha tocado `urtz.html`.** Las cinco piezas llevan `☠ NO TOCAR`. Cada caso lleva su motivo (Norma 1: negar antes de decir) y su arreglo. Los arreglos conservan el contenido y la densidad (Norma 48). Marcados con ⚠ los cinco casos donde la negación puede llevar información y conviene que los mires.
 
 El recuento solo cubre «sino». La Norma 1 también prohíbe «no X, pero Y», «aunque» y «si bien», y la forma «no X, Y» con coma; esas variantes aparecerán al hacer el pase y se muestran con su diff.
 
