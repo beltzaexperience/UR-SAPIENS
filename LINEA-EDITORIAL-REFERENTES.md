@@ -311,7 +311,7 @@ La densidad mitopoética, el jeroglífico (Norma 22), el neologismo, el registro
 5. **Español vivo.** El gerundio de manera y simultaneidad, el adverbio que modula y el condicional que supone son legítimos. Se persigue el gerundio de posterioridad (Norma 10), el relleno y la cobertura repetida (32 bis).
 6. **Las prohibiciones propias de UR se mantienen aunque el canon no las pida:** «no X, sino Y» (credo), el par «No es X. Es Y», el párrafo terminal de resumen. Es una decisión editorial del libro, anotada como tal.
 7. **Párrafo de unas 60–120 palabras**, con techo del 10 % de párrafos cortos. Referencia: Orwell.
-8. **Pico licenciado.** Como máximo un período largo (60 o más palabras, con subordinación real) por pieza, en el punto de máxima tensión, rodeado de frases secas (Norma 34).
+8. **Pico licenciado.** *Cerrada el 09/10/26:* medida de apoyo sin alarma ni cuota, escrita en la Norma 34.
 9. **La anomalía se declara y se queda fuera del corredor:** jeroglífico, neologismo, mito, dadá, Hammurabeltz, aparato de glosa. Norma 48 sobre cualquier cifra.
 10. **La cifra es alarma, no cuota.** Gana la defensa de Luis (Norma 0).
 
@@ -374,13 +374,13 @@ Ordenadas por evidencia. Para cada una, mi recomendación.
 
 1. **Apertura de frase.** *Cerrada el 09/10/26:* alarma de pieza y meta de libro en el 35 %, como instrumento de Claude; los motivos de la Norma 38.1 bis se aplican siempre. Escrita en la Norma 38.1 bis. Criterio de Luis para todas las cifras: primero los motivos, segundo el canon (`NOTAS-URTZ.md`).
 2. **Dos puntos.** *Cerrada el 09/10/26:* Norma 42 bis. Se quedan para enumeración, cita y rótulo; la cláusula + cláusula se decide por motivos y no se sustituye por sistema. Alarma de Claude en 5 por mil.
-3. **Gerundios.** Resuelta con los datos de §5.5: la Norma 10 se queda como está. ¿Añado solo un recordatorio de una línea (el gerundio de manera y simultaneidad sirve para alargar frases) y dejo el suelo de 25 por 10.000 como chequeo de la revisión final, sin alarma? *Recomiendo sí.*
-4. **Sustituir la tabla de la Norma 36.8** por la del corredor (canon de seis obras + libro) y recalibrar las alarmas de ritmo (9,8) y cola larga (2,5 %). *Recomiendo sí.*
+3. **Gerundios.** *Cerrada el 09/10/26:* la Norma 10 se queda; recordatorio de una línea escrito en la propia norma.
+4. **Tabla de la Norma 36.8.** *Cerrada el 09/10/26 con el criterio de Luis sobre cifras:* corredor de seis obras como referencia vigente; alarmas de ritmo (9,8) y cola larga (2,5 %).
 5. **Abstracción.** *Cerrada el 09/10/26:* alarmas sin cambio y sin meta de reducción; el libro necesita conceptos abstractos potentes y se quita solo el de relleno. Criterio de Luis escrito en la Norma 36.8, punto 2.
 6. **Registros.** *Cerrada el 09/10/26:* diez piezas teóricas confirmadas por Luis (I, II, III×3, IV×2, Digitalismo, Antropología racial, Río Congo); la Introducción entra como teórica por propuesta de Claude, provisional; «el euskera y la frontera invisible» queda en estudio; Te Urewera es crónica. El resto de registros se clasifica al final de cada capítulo con `(*-red)`.
 7. **«No… sino» en cinco piezas.** *En espera (09/10/26):* la Entrevista a NEXUS-7 es transcripción literal de una IA y se queda tal cual; los 28 casos de las otras cuatro piezas esperan a la mesa de mezclas (`PROPUESTA-NO-SINO.md`).
 8. **Pico licenciado.** ¿Escribo en la Norma 34 la medida de un período largo (60 o más palabras) como máximo por pieza? *Opcional; recomiendo sí.*
-9. **Norma 48 sobre las cifras.** ¿Confirmas que el corredor es diagnóstico y que, ante un choque entre una cifra y la densidad mitopoética, gana la densidad? *Recomiendo sí.*
+9. **Norma 48 sobre las cifras.** *Cerrada el 09/10/26:* escrito en la Norma 0 («Los números son del taller, no del libro»).
 
 ---
 
