@@ -48,7 +48,7 @@ Además, aparte de la ficha: **un hecho erróneo se corrige siempre**, aunque no
 | Jon Maia: el apellido como bumerán | Se queda | Decidir la filiación de sus padres (permiso o quitarla). |
 | Amaya y la redada de 1749: el apellido como marca de dominio | Se queda | Fuente y cifra de la redada; quitar «imponen apellidos» y «proyecto de exterminio» sin respaldo. |
 | Karst de Ikaburu, Zugarramurdi y Sara | Se queda | Condensar. |
-| Lamiak, akelarre, Akerbeltz y Salazar Frías | Se queda | Corregir «11 vecinos» (5 vivos y 6 en efigie); fuente de la cifra. |
+| Lamiak, akelarre, Akerbeltz y Salazar Frías | Se queda | Corregir «11 vecinos» (6 en persona y 5 en efigie); fuente de la cifra. |
 | Maya y los cenotes | **Mesa de mezclas (aplicado 09/10/26)** | Falso amigo declarado. A Semillas. |
 | La diosa Maia y *Maius* | **Mesa de mezclas (aplicado 09/10/26)** | Etimología discutida e improbable. A Semillas. |
 
@@ -56,7 +56,7 @@ Aplicado en `urtz.html`: los dos párrafos y sus notas 4 y 9 salen a una Semilla
 
 **Discurso:** los dos pasajes políticos (la redada y la Inquisición) tienen la materia, pero hoy no llegan al rigor de *Te Urewera* o *Horizonte jurídico*: faltan fuente y cifra exacta. Se llevan a ese nivel en el repaso final en profundidad.
 
-**Hechos a corregir sea cual sea la norma:** los 11 de Zugarramurdi (5 vivos y 6 en efigie), «imponen apellidos», y las dos etimologías (*amaitu*, *Maius*) como hipótesis.
+**Hechos a corregir sea cual sea la norma:** los 11 de Zugarramurdi (6 en persona y 5 en efigie), «imponen apellidos», y las dos etimologías (*amaitu*, *Maius*) como hipótesis.
 
 **Riesgo:** Jon Maia, persona real y viva. Luis acepta las precauciones (permiso, o conservar la imagen sin la filiación). Decisión de método al aplicar la pieza.
 
