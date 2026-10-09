@@ -1,6 +1,22 @@
 # PASE DE ANÁLISIS FINAL — IV · II. LA TÉCNICA QUE RECUERDA SU ORIGEN (09/10/26)
 
-**Estado: MUESTRA PARA APROBAR. No se ha tocado `urtz.html`.** Es la primera pieza que pasa por la sección XXVII de `NORMA-METODO.md`. Registro: teórico. La pieza ya había pasado el Pase automático único el 08/10/26 y tiene aprobadas por Luis varias frases que aquí se respetan (lista en el apartado 5). Los números son del taller (Norma 0): ordenan el trabajo y no deciden nada.
+**Estado: ver la actualización de la segunda ronda más abajo. La muestra de la primera ronda se conserva como registro.** Es la primera pieza que pasa por la sección XXVII de `NORMA-METODO.md`. Registro: teórico. La pieza ya había pasado el Pase automático único el 08/10/26 y tiene aprobadas por Luis varias frases que aquí se respetan (lista en el apartado 5). Los números son del taller (Norma 0): ordenan el trabajo y no deciden nada.
+
+## Actualización, segunda ronda (09/10/26)
+
+Respuesta de Luis a la muestra: **conectores descartados** («una ristra de conectores típicos no me aportan mucho»); **aperturas, longitud y gerundio aprobados**; los **dos puntos** y las oraciones de relativo, con dudas. Qué se ha hecho:
+
+- **Aplicado en `urtz.html` (en local, sin empujar):** 10 frases cambiadas: 3 de apertura (¶13, ¶21, ¶30), 6 de longitud (¶6, ¶9, ¶11, ¶24, ¶36, ¶38) y 1 de gerundio (¶19). En la fusión de ¶36 el «y, para ello,» propuesto se cambia por un punto y coma, para no añadir un conector.
+- **Descartados:** los cuatro casos de conectores (Así, Por eso, Con ello, De ahí que) y las dos oraciones de relativo (el ejemplo de Guimbal y el de Ekain).
+- **Medición tras la primera tanda:** artículo inicial 47,1 → 45,6 %; esqueleto repetido 28,6 → 24,4 %; desviación de frase 8,5 → 8,7; gerundios 0 → 13,3 por 10.000; palabras 1.499 → 1.502. Sin los conectores, la apertura apenas se mueve: la pieza sigue por encima del 35 %; los motivos de la Norma 38.1 bis amparan el resto (sujeto nuevo, definición de un concepto).
+- **Pendiente de Luis (tres casos, en lenguaje llano):**
+  1. Ekain (¶7): cambiar los dos puntos por un punto y coma, porque ya hay otro dos puntos en el mismo párrafo. *«Ekain conserva una fase posterior de la misma alianza; pigmento, roca, humedad, luz, animal y gesto forman un dispositivo de atención.»*
+  2. Antropofagia (¶20): cambiar los dos puntos por «pues» entre comas. *«…qué memoria queda incorporada en el nuevo objeto, pues devorar la infraestructura dominante significa alterar la relación entre técnica y propiedad.»*
+  3. Caso nuevo de apertura (¶26): empezar por la circunstancia. Antes: *«La comunidad registra en el mapa cementerios, lugares sagrados, lugares de pesca y plantas medicinales.»* Después: *«En el mapa, la comunidad registra cementerios, lugares sagrados, lugares de pesca y plantas medicinales.»*
+
+Lo que sigue en este documento es la muestra de la primera ronda, que queda como registro.
+
+---
 
 ## 1. Medición (antes) y qué alarmas saltan
 
