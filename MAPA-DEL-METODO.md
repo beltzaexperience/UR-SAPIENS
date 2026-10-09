@@ -28,7 +28,7 @@
 | Sintaxis | Más plana, no más compleja: 1,8 verbos finitos por frase (2,2), 1,1 subordinadas (1,5). Sujeto «artículo + sustantivo» en el 46 % (23 %); sujeto omitido en el 9 % (28 %) | 38.1 bis y ter, adenda de la 33 |
 | Léxico | Riqueza normal; densidad léxica alta (55 % frente a 50 %); abstractos 4,4 por 100 (1,9), por diseño | 36.8 (sin meta de reducción) |
 | Legibilidad | Crónica en banda normal (INFLESZ 58, como *Homenaje a Cataluña*); teóricas «algo difíciles» (48, como la exposición de Orwell), con palabras más largas | 21 (sencillez) |
-| Estilometría | Voz propia (0,6–0,7 de distancia a cada obra; Baroja y Orwell, 0,5); 12 piezas con voz atípica | Pase, paso 5 |
+| Estilometría | Voz propia (0,6–0,7 de distancia a cada obra; Baroja y Orwell, 0,5). Dentro del libro, 5 piezas pasan de 0,7 de distancia a la voz media y 2 están en el límite (la lista de «12» era un ranking, no 12 fallos) | Pase, paso 5 |
 | Entidades | Anclaje de lugares y conceptos, pocas personas (0,9 frente a 2,0 por 100 palabras) | 36.1 |
 | Plantillas | **Lo más desviado:** el 18 % de las frases repite esqueleto (canon 0 %); «El agua evita la línea recta» abre el 7,8 % del libro | 38.1 bis, 36.7 |
 | Fonética | Más cadencia esdrújula en el cierre (7,9 % frente a 4,2 %: política, histórica, jurídica…); ritmo silábico más uniforme; rima y aliteración normales | 33 |
@@ -43,6 +43,8 @@
 **Alfa, beta y gama.** Las alarmas miden distancia a la prosa llana, no calidad: la pieza con menos alarmas (el Prólogo, 0 de 17) o la más cercana al corredor (Frontera aquitano-celta) no son por eso las mejores, y las más alejadas incluyen piezas muy míticas (Curaca, I · UR). Por eso la categoría no sale de una suma. Propuesta de ficha para la mesa de mezclas, con tres preguntas de Luis y las alarmas solo como contexto: ¿aporta a la tesis algo que ninguna otra pieza aporta? ¿está su evidencia sólida (fuentes y glosa)? ¿su prosa suena a UR, con las manías defendidas o corregidas? Las tres preguntas están aprobadas por Luis (09/10/26) y la tercera categoría se llama **gama**.
 
 **Temática, discurso e intención:** no piden norma nueva. Están declaradas en dos textos fijos: el epígrafe del libro («Tras cualquier cobardía se esconde el miedo a pensar», ÄB/ÖC) y el primer párrafo de la Introducción. La lectura de cada pieza comprueba que sirve a esa tesis. **Plantillas:** objetivo de libro cercano a cero (Luis es inflexible); alarma de Claude a partir del 8 % de frases con esqueleto repetido (hoy, 18 %).
+
+**Coherencia interna: prioridad de la revisión final (Luis, 09/10/26: «coherencia interna al 100 %»).** Cinco comprobaciones por pieza: voz (distancia de Burrows), persona y tiempo del narrador, términos propios frente al glosario, protagonistas (UR, URbe, la «T») y formato (marcas, subtítulos, glosa). UR es el personaje; el narrador sigue siendo impersonal; el zahorí (Norma 35) es una figura anónima.
 
 ## 3. Lo que espera (nada urgente)
 

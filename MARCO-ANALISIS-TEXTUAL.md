@@ -14,7 +14,7 @@
 6. **Dos puntos:** 68 % unen dos cláusulas con verbo. Borrador de norma y soluciones clásicas por clase en §5.
 7. **Gerundios:** la Norma 10 funciona; no hay que cambiarla (§7).
 8. **Plantillas (análisis 18):** el 18 % de las frases de UR tiene un esqueleto gramatical que se repite cuatro o más veces en su ventana (canon 0 %; Orwell expositivo 1 %). La forma más repetida, «artículo + sustantivo + verbo + artículo» (*«El agua evita la línea recta.»*), abre el 7,8 % de todas las frases del libro. El texto no repite frases literales (4-gramas al nivel del canon). Repite moldes.
-9. **Voz (análisis 14):** doce piezas se alejan del perfil medio de UR; las tres más alejadas (Sulfuro, Prólogo, Sájaura) coinciden en parte con las que concentran «no… sino». Aviso para la revisión final, no un defecto.
+9. **Voz (análisis 14):** cinco piezas pasan de 0,7 de distancia al perfil medio de UR (Sulfuro 0,91, Prólogo 0,85, Sájaura 0,74, Siouxsie 0,74, Rêv-E-UR 0,73) y dos están en el límite (América y Ciclo hídrico, 0,70). La lista de las doce más alejadas del §3 es un ranking y no doce fallos. Sulfuro y Sájaura coinciden con las que concentran «no… sino». Aviso para la revisión final, no un defecto.
 10. **Legibilidad (análisis 9):** las piezas de crónica están en la banda normal de INFLESZ (58); las teóricas, en «algo difícil» (48), igual que la exposición de Orwell (49), pero con palabras más largas.
 11. **Decisiones nuevas para Luis (§9),** que se suman a las nueve del informe anterior.
 
