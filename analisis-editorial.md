@@ -1933,3 +1933,5 @@ Decisión 14 de `LINEA-EDITORIAL-REFERENTES.md`, aprobada por Luis el 09/10/26. 
 `PIEZA · fecha · antes → después: artículo inicial %, sujeto art.+sust. %, dos puntos ‰, desviación de frase, frases >40 %, gerundios /10.000, alarmas (de 17) · familias corregidas y nº de casos`
 
 Los números son del taller, no del libro (Norma 0): la comparación comprueba que una corrección sistemática mueve lo que debe mover y no decide nada sobre el texto.
+
+`IV · II. LA TÉCNICA QUE RECUERDA SU ORIGEN · 09/10/26 · antes → después (primera tanda: aperturas, longitud y gerundio aprobados por Luis; dos puntos pendientes; conectores descartados): artículo inicial 47,1 → 45,6 %; sujeto art.+sust. 42 → 44 %; dos puntos 8,7 → 8,7 por mil; desviación de frase 8,5 → 8,7; frases >40 1,2 → 1,3 %; esqueleto repetido 28,6 → 24,4 %; gerundios 0 → 13,3 por 10.000; palabras 1.499 → 1.502 · 10 frases cambiadas (3 de apertura, 6 de longitud, 1 de gerundio)`
