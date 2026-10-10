@@ -52,3 +52,36 @@ Resultado de la prueba (09/10/26): la pieza **merecía la pena** y pasó de 2.20
 **Hechos corregidos:** los once de Zugarramurdi (seis quemados en persona y cinco en efigie); la cifra de la redada; la filiación de Jon Maia, fuera.
 
 **Regla aprendida (Luis):** lo no verificado que no sea de primera necesidad se corta o se generaliza (por ejemplo, «Paleolítico superior» en lugar de «13.000 años»; sin fechas de vida de Salazar Frías). Las investigaciones no se guardan en el repositorio.
+
+## 5. Cómo subir una pieza de γ a β o α (conclusiones de la prueba, 10/10/26)
+
+**La prueba.** Cuatro piezas γ pasaron por el método (Amaiur, Refugio punk, Cultura, Vendée) y se releyeron con la misma rúbrica y las mismas anclas. Un solo lector por pieza: el margen de ruido es de unas ±0,3 décimas.
+
+| Pieza | Nota antes | Nota después | Qué movió la nota |
+|---|---:|---:|---|
+| Amaiur: el confín | 2,5 γ | 3,1 β | Evidencia de 1,8 a 3,3 y riesgo menor |
+| Refugio punk | 2,4 γ | 2,9 β | Evidencia y riesgo; el gancho se mantiene |
+| Cultura: continente ibérico | 2,6 γ | 2,7 borde β/γ | Evidencia; el aporte sigue igual |
+| Vendée: escarpe y fosa | 1,6 γ | 2,5 γ | Evidencia; el lector aún la ve forzada |
+
+**Lo que sube una pieza a β (barato y seguro).** Auditar los hechos: corregir lo erróneo, generalizar o cortar lo que no tiene fuente, reducir la glosa a su esqueleto, declarar las resonancias como tales, quitar riesgos de personas reales. Subió la evidencia en las cuatro piezas (de unos 1,5 a unos 2,7 de media) y bajó el riesgo para el editor. Con eso, dos de cuatro pasaron a β, una llegó al borde y la cuarta ganó casi un punto.
+
+**Lo que no sube con el método y hay que decidir.** El aporte se queda en 2 o 3 en las cuatro. Para llegar a α hace falta algo que ningún corte da:
+1. **Una escena concreta e irrepetible** (un lugar, una persona, un hallazgo) en lugar de definiciones. Es lo que piden los lectores en Cultura, Amaiur y Refugio punk.
+2. **Una tesis propia y afilada de la pieza**, encadenada a la intención del libro; no un collage de referencias (Vendée).
+3. **Un lazo con UR que se vea**, no solo declarado (Refugio punk y Vendée).
+4. **Voz sin plantilla**: los lectores siguen marcando «trasciende», «elude», «se afirma». Es de norma y llega con el Pase final; no se ha aplicado aún.
+
+**Receta, en orden.**
+1. Intención de la pieza y cadena con la del libro; los subtemas que no la sostienen salen a la mesa de mezclas.
+2. Auditoría de hechos (investigar, cortar o generalizar).
+3. Glosa en esqueleto, pero sin perder lo que sostiene frases del cuerpo (término medio).
+4. Resonancias declaradas; falsos amigos a Semillas.
+5. Decisión de autor: escena y tesis (aquí está el salto a α).
+6. Pase final de forma.
+
+**Triaje rápido de una γ antes de gastar tiempo.** ¿Hay cadena con la intención del libro? ¿Cuántas afirmaciones sin fuente sostienen la tesis (si todas, la pieza es un castillo de naipes)? ¿Hay escena u objeto concreto? ¿El lazo con UR es literal o solo poético? Si fallan la primera y la tercera, la pieza es candidata a Semilla.
+
+**Coste.** Entre 8 y 15 búsquedas y tres a cinco rondas por pieza. Compensa en las que tienen espina clara (Amaiur, Refugio punk); es marginal en Cultura; y en Vendée costó mucho y sigue en γ.
+
+**Cautela.** Un lector por pieza no basta en el borde de un corte: conviene un segundo lector cuando la nota cae a menos de 0,2 de β o α.
