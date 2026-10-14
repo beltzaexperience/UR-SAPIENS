@@ -1459,4 +1459,18 @@ Luis: *"Ese párrafo final sin ningún sentido narrativo, prohibido. Lo tenemos 
 5. **Consecuencia para la verificación (Ley Hammurabeltz, Norma 40).** Una magnitud genérica y cierta (*miles de millones de litros*) no necesita cotejo cifra a cifra; la cifra exacta de la glosa sí, y si no está cotejada se marca estaño en el registro de verificación y se redacta sin atribuciones que la fuente no sostenga.
 6. **Momento y alcance.** Mesa de mezclas, con la revisión final de cada capítulo, y piezas nuevas desde hoy. Claude clasifica cada cifra del cuerpo: si se generaliza sin pérdida, la corrección es orgánica y se muestra en el diff; si la cifra parece ser la escena, es fricción real y se consulta a Luis. No se hace un barrido de todo `urtz.html` por esta norma sin que Luis lo pida.
 
+7. **La estantería (Luis, 14/10/26).** Palabras de Luis: *«hay que delimitar en qué estantería de la librería estamos: ¿en la de los libros que aportan datos de volúmenes y páginas, o en la de los libros de filosofía política contemporánea que aportan preguntas incómodas sin respuestas claras, basadas en intuiciones simbólicas con rigor?»* UR está en la segunda. Consecuencia para texto y glosa: el día y el mes, el volumen y las páginas, el título exacto de la edición y las listas de asistentes son aparato de la primera estantería y no se añaden. Basta el nombre, el año y, si hace falta, una fuente de consulta general que el lector pueda buscar. Un dato que solo cumple con la precisión, sin cambiar lo que el lector entiende o siente, sobra. Esta norma no rebaja la verificación de lo que sí se afirma (Ley Hammurabeltz): reduce lo que se afirma.
+
 **Precedente.** «IV · UR: Anomalía cibernética · III»: el cuerpo pasa de *«En 2023, los centros de datos de Google consumieron 6.100 millones de galones de agua…»* a *«Los centros de datos de Google consumen miles de millones de litros de agua al año»*, y *«unos 3.200 años en el océano»* a *«varios milenios en el océano»*. La glosa conserva «más de 20.000 millones de litros al año», con 2023 y el informe ambiental de Google como fuente de consulta.
+
+---
+
+## 51. LOS INFORMES A LUIS: «TEXTO» O «GLOSA» EN CADA CAMBIO, Y SIN REFINAMIENTOS NO PEDIDOS (14/10/26)
+
+**El origen.** Palabras de Luis (14/10/26): *«A partir de ahora especifica siempre si hablamos de texto o glosas, no tengo memoria para acordarme de todo.»* Y: *«Refinamientos que no hacen falta, intenta no señalarlos, son preocupaciones que no aportan nada. Ni a mí ni al lector.»*
+
+**La regla.**
+1. **Cada cambio, propuesta o pendiente que Claude presenta a Luis dice si afecta al *texto* (el cuerpo de la pieza), a la *glosa* o a otra cosa (rayuelas, título, Marcador, normas).** Las dos palabras, siempre, aunque parezca obvio por el contexto.
+2. **Claude no señala refinamientos que nadie ha pedido** (páginas, volúmenes, fechas exactas, fuentes con más precisión de la necesaria, comprobaciones que no cambian lo que el lector lee). Lo señala solo si cambia lo que el texto afirma o si una norma lo exige. Se aplica la estantería de la Norma 50, punto 7.
+3. **Lo que Claude no ha podido cotejar y sigue afirmado se dice una vez, en una línea**, y se propone la salida más corta: generalizar o cortar.
+
