@@ -1444,3 +1444,19 @@ Luis: *"Ese párrafo final sin ningún sentido narrativo, prohibido. Lo tenemos 
 5. **Control, instrumento de Claude (criterio de Luis sobre porcentajes).** Una pieza con más de 40 usos de «memoria» por 10.000 palabras (media del libro, 20,7), o con usos que atribuyen memoria al agua como agente, o con la palabra cerrando frase o serie, se relee en el momento final del capítulo: se conservan los usos con ancla y se varían con *huella*, *rastro*, *nombre* o *archivo* los que son relleno. Sin cuota (Norma 0).
 6. **Momento:** mesa de mezclas, con la revisión final de cada capítulo. No se toca `urtz.html` por esta norma hasta entonces.
 
+
+---
+
+## 50. LAS CIFRAS EN EL CUERPO SE GENERALIZAN; LA CIFRA EXACTA VIVE EN LA GLOSA (14/10/26)
+
+**El origen.** Palabras de Luis (14/10/26), al decidir el párrafo de Google en «IV · UR: Anomalía cibernética · III»: *«UR no habla de cifras salvo en glosas y por motivos muy necesarios en el texto. "Miles de millones" en genérico es mucho más brutal para la mente humana que x galones o y litros en tal año concreto y según qué informe específico. Creo que generalizar con los datos en UR es más eficaz para el propósito de lectura que hace el libro.»* Y, sobre la cifra de fondo: *«Ni 2023 ni 6.400 galones me aportan nada a no ser que sean cifras de glosa.»*
+
+**La regla.**
+1. **En el cuerpo, la magnitud se dice en genérico.** *Miles de millones de litros al año*, *varios milenios*, *siglos*, *decenas de metros*. Una cifra exacta con año e informe concreto en mitad de la prosa funciona como ficha (Norma 26) y obliga al lector a pensar en la fuente, no en la magnitud.
+2. **La cifra exacta, con su año y su fuente de consulta, va a la glosa** (Norma 18: una entrada existe para ahorrarle al lector una búsqueda). El cuerpo dice la magnitud; la glosa da el número que la respalda.
+3. **Una cifra entra en el cuerpo solo por motivo muy necesario:** cuando es la escena misma (la fecha de un hecho único, el número de una condena, la medida de un objeto que el lector tiene que ver) y no un respaldo de lo que el cuerpo afirma. Lo que decide es que la frase pierda fuerza sin ella; la precisión por sí sola no basta.
+4. **Relación con la Norma 29.** La Norma 29 quitó el cupo de cifras, fechas y medidas cotidianas tejidas en la frase, y eso sigue igual. Esta norma fija el punto de partida: se generaliza por defecto, y la cifra exacta tiene que ganarse su sitio en el cuerpo. Las fechas de los hechos únicos siguen la Norma 28.
+5. **Consecuencia para la verificación (Ley Hammurabeltz, Norma 40).** Una magnitud genérica y cierta (*miles de millones de litros*) no necesita cotejo cifra a cifra; la cifra exacta de la glosa sí, y si no está cotejada se marca estaño en el registro de verificación y se redacta sin atribuciones que la fuente no sostenga.
+6. **Momento y alcance.** Mesa de mezclas, con la revisión final de cada capítulo, y piezas nuevas desde hoy. Claude clasifica cada cifra del cuerpo: si se generaliza sin pérdida, la corrección es orgánica y se muestra en el diff; si la cifra parece ser la escena, es fricción real y se consulta a Luis. No se hace un barrido de todo `urtz.html` por esta norma sin que Luis lo pida.
+
+**Precedente.** «IV · UR: Anomalía cibernética · III»: el cuerpo pasa de *«En 2023, los centros de datos de Google consumieron 6.100 millones de galones de agua…»* a *«Los centros de datos de Google consumen miles de millones de litros de agua al año»*, y *«unos 3.200 años en el océano»* a *«varios milenios en el océano»*. La glosa conserva «más de 20.000 millones de litros al año», con 2023 y el informe ambiental de Google como fuente de consulta.
