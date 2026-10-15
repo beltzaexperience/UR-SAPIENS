@@ -1,4 +1,4 @@
-# MAPA DEL MÉTODO — una página (09/10/26)
+# MAPA DEL MÉTODO — una página (09/10/26, actualizado 15/10/26)
 
 **Para qué sirve:** saber qué está en vigor, qué está medido y qué espera. No hay nada nuevo aquí; es el resumen de lo ya hecho.
 
@@ -8,6 +8,18 @@
 2. Referentes: Baroja y Orwell son el suelo; Martín Santos, el pico; UR es la anomalía y puede quedar fuera del corredor cuando su registro lo pide. Ninguna corrección rebaja la densidad mitopoética (Norma 48).
 3. Lo que más separa a UR del canon, medido en las 66 piezas: sujetos con «artículo + sustantivo» (46 % frente a 23 %), dos puntos entre dos cláusulas (68 % de los que hay) y frases sin cola larga. Normas 38.1 bis y 38.1 ter, 42 bis y adenda de la 33.
 4. Cada pieza se corrige con el **Pase de análisis final** (sección XXVII), al final de su capítulo, enseñándote casos de muestra con su antes y después.
+5. **Desde el 14/10/26:** las cifras en el cuerpo se generalizan y las exactas, con año y fuente de consulta, van a la glosa; volumen, páginas y día del mes quedan fuera (Norma 50). Los informes dicen siempre «texto» o «glosa» y no traen refinamientos que nadie ha pedido (51). La glosa carga los datos que dan rigor y no explica el arte; si una norma ya decide, no es fricción (52). La narración se adecúa a la estantería, con ejecución diferida a la revisión final (53), y párrafos y secciones se construyen por contenido con seis preguntas de «cambio de tema» (25).
+
+## 1 bis. Dónde vive cada cosa
+
+| Archivo | Qué guarda |
+|---|---|
+| `NORMA-METODO.md` | Las reglas vigentes: qué hacer y por qué |
+| `analisis-editorial.md` | El historial fechado: decisiones, informes y el inventario de lo descartado (oro y estaño, Norma 40) |
+| `NOTAS-URTZ.md` | La mecánica de `urtz.html`: Marcador, procedimientos, plan de piezas |
+| `LINEA-EDITORIAL-REFERENTES.md` | Los referentes: el corredor del canon, los referentes de voz de Luis y el contraste con autores y manuales |
+| `MARCO-ANALISIS-TEXTUAL.md` y `LINEA-BASE-2026-10-08.md` | Los 18 análisis y las mediciones |
+| `GLOSARIO-UR-SAPIENS.md` | Los términos propios |
 
 ## 2. Los 18 análisis: ¿se aplican?
 

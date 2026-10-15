@@ -310,7 +310,7 @@ La densidad mitopoética, el jeroglífico (Norma 22), el neologismo, el registro
 4. **El abstracto sirve a un concepto propio de la tesis y no queda vacío de política.** El libro necesita una carga abstracta potente (Luis, 09/10/26); el porcentaje no es meta de reducción. Alarmas sin cambio (4,3 geografía y viaje; 6,6 teórico); el canon se usa como contraste. Se quita el abstracto de relleno (pruebas del verbo, de la omisión y de la cadena).
 5. **Español vivo.** El gerundio de manera y simultaneidad, el adverbio que modula y el condicional que supone son legítimos. Se persigue el gerundio de posterioridad (Norma 10), el relleno y la cobertura repetida (32 bis).
 6. **Las prohibiciones propias de UR se mantienen aunque el canon no las pida:** «no X, sino Y» (credo), el par «No es X. Es Y», el párrafo terminal de resumen. Es una decisión editorial del libro, anotada como tal.
-7. **Párrafo de unas 60–120 palabras**, con techo del 10 % de párrafos cortos. Referencia: Orwell.
+7. **Párrafo de unas 60–120 palabras**, con techo del 10 % de párrafos cortos. Referencia: Orwell. *(15/10/26: el tamaño sale del contenido, no al revés; ver §10 y §11 y la Norma 53.)*
 8. **Pico licenciado.** *Cerrada el 09/10/26:* medida de apoyo sin alarma ni cuota, escrita en la Norma 34.
 9. **La anomalía se declara y se queda fuera del corredor:** jeroglífico, neologismo, mito, dadá, Hammurabeltz, aparato de glosa. Norma 48 sobre cualquier cifra.
 10. **La cifra es alarma, no cuota.** Gana la defensa de Luis (Norma 0).
@@ -482,3 +482,29 @@ La herramienta `herramientas/perfil-corpus.py` reconstruye párrafos, separa el 
 La segunda herramienta, `herramientas/analisis-texto.py` (morfología, sintaxis, léxico, entidades, plantillas, estilometría; requiere spaCy), y el marco de los 18 análisis están en `MARCO-ANALISIS-TEXTUAL.md`.
 
 Los datos de este informe salen de una ejecución del 08/10/26 sobre `urtz.html` en el estado del commit `2efa0b2`. La herramienta reproduce las tablas de §3 y §11 y las cifras de §5 (con `--ordena CLAVE` lista las piezas por un indicador, por ejemplo `--ordena sino`). Quedan fuera de la herramienta, por ser cálculos de una sola vez: los dos puntos clasificados por tipo y la muestra de ocho casos (§5.2), las aperturas por tipo de palabra (§3.1), los extractos expositivos de Orwell (§0 y §5.3), las distancias entre obras (§4) y el contraste con el texto de San Sebastián (§2).
+
+---
+
+## 10. Referentes de voz de Luis y lugar en la librería (15/10/26)
+
+**Palabras de Luis**, sobre los vecinos de estantería de la sección VIII de `NORMA-METODO.md`: *«El problema es que no los conozco. Me reconozco "fan" de Rosalía, Valle-Inclán, Baroja, Ortega y Gasset, Unamuno, Emilia Pardo Bazán, Machado, Lorca, Alberti y del nuevo periodismo americano, la generación beat y la contracultura gráfica. Además de Orwell, Chesterton, Poe, Lovecraft o Frederick. Y terminaría por citar a Hugo Pratt y Alejandro Jodorowsky. No creo que sean de mi estantería. Por eso UR será una "anomalía rupestre" en cualquier estantería. Creo que su lugar debería ser la segunda mano desde el primer momento.»* («Frederick» es Friedrich Nietzsche, aclarado por Luis.)
+
+**Lectura de Claude, para que Luis la confirme o la corrija.** La lista trae los dos polos de la frase de la Norma 53: la urgencia de The Clash (Baroja, Orwell, la generación beat, el nuevo periodismo) y la elegancia de Marvin Gaye (Ortega y Gasset, Pardo Bazán, Machado, Lorca, Alberti). El tono lo aportan Valle-Inclán, Chesterton, Poe, Lovecraft, Pratt y Jodorowsky. Los tres «parientes» de la sección VIII (Sebald, las Blue Humanities y la psicogeografía) los eligió un asistente en agosto; esta lista es la de Luis.
+
+**Lugar: la segunda mano.** En una librería de segunda mano no hay categoría: el lector llega por la portada, el título y la primera página, y abre el libro por cualquier sitio. Consecuencia práctica anotada: cada pieza, y cada página, tiene que funcionar si se abre al azar. La Norma 50.7 no cambia: define al lector por las preguntas que le hace el libro y no por el nombre de la estantería.
+
+**Lectura de Luis de Nietzsche (15/10/26),** pilar de la sección XVI: su extrema sensibilidad ante la civilización de la escritura y cómo desvela su usurpación sistémica; su tergiversación forma parte del descrédito por su lucidez sin parangón; aportaba las soluciones que nadie quería escuchar sin pretender ser profeta ni visionario. Es una lectura de UR (registro mitopoético, Normas 13 y VI.4), no un dato.
+
+**Pendiente (Norma XXVII, punto 2, y Norma 53):** el corredor por estantería. Qué obras de esta lista se miden, y con qué textos, lo decide Luis en la revisión final; los textos los aporta él.
+
+## 11. Aliento, párrafo y sección: lo que dicen Kerouac y los manuales (15/10/26)
+
+Contraste pedido por Luis para fijar los criterios de «cambio de tema» de la Norma 25. **Estaño: leído en fragmentos de búsqueda; las páginas no se abrieron.**
+
+- **Kerouac.** Ordena por aliento y no por temas: recomienda la «vigorous space dash separating rhetorical breathing (as jazz musician drawing breath between outblown phrases)» en «Essentials of Spontaneous Prose» ([Britannica](https://www.britannica.com/topic/Belief-and-Technique-for-Modern-Prose); [texto en Penn](https://writing.upenn.edu/~afilreis/88/kerouac-spontaneous.html)). El manuscrito de *On the Road* se mecanografió en un rollo continuo, sin cortes de párrafo ([American Scholar](https://theamericanscholar.org/scrolling-through/)); la edición de Viking añadió cortes y puntuación ([Tahunt](https://tahunt.com/kerouacs-crooked-road/twice-upon-a-road-the-scroll-and-viking-versions-of-on-the-road/)). Aporta una pregunta que las normas no hacían, «¿dónde respira esta voz?»; no es modelo de método, porque Kerouac no revisaba y UR sí.
+- **Strunk y White.** Un párrafo por tema; su inicio marca un paso nuevo; puede medir desde una frase corta hasta un pasaje largo con tal de que se sostenga ([The Elements of Style](https://www.gutenberg.org/files/37134/37134-h/37134-h.htm)).
+- **RAE.** El punto y aparte separa párrafos que desarrollan ideas distintas dentro de la unidad del texto ([Diccionario panhispánico de dudas](https://www.rae.es/dpd/punto)); su Libro de estilo añade que no hay norma de longitud ([Libro de estilo](https://www.rae.es/libro-estilo-lengua-española/párrafo)). Chicago: no se localizó su criterio de longitud.
+- **Conclusión.** Todas las voces definen el párrafo por contenido y ninguna por longitud. Las 4 a 8 líneas de la Norma 26 miden el resultado. De aquí salen las seis preguntas de la Norma 25 aprobadas por Luis el 15/10/26.
+
+**Respiración (Luis):** no la puede decidir al corregir, porque no lee a UR sino que busca fallos y patrones; pide una lectura aparte y en frío (Norma 25, punto 4).
+
