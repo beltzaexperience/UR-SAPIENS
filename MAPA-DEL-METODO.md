@@ -20,6 +20,7 @@
 | `LINEA-EDITORIAL-REFERENTES.md` | Los referentes: el corredor del canon, los referentes de voz de Luis y el contraste con autores y manuales |
 | `MARCO-ANALISIS-TEXTUAL.md` y `LINEA-BASE-2026-10-08.md` | Los 18 análisis y las mediciones |
 | `GLOSARIO-UR-SAPIENS.md` | Los términos propios |
+| `herramientas/guardar-y-publicar.sh` | Guardar siempre y publicar todo menos los HTML, que esperan el «OK» de Luis (`NOTAS-URTZ.md`, Regla 38) |
 
 ## 2. Los 18 análisis: ¿se aplican?
 
