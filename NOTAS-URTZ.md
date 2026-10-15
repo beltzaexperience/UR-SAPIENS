@@ -248,11 +248,11 @@ Luis pidió explícitamente, al cierre de la sesión del 28/08-01/09, una audito
 
 ## REGLA 15 — `data-excluir-total="true"` PARA LO QUE NO ES LIBRO
 
-Marcador Fonomático y Al Yazirat Tarif tienen marca `data-nivel="categoria"` porque estructuralmente delimitan una zona del documento —hace falta para que el conteo por marcas no se desborde hacia ellas—, pero **nunca cuentan en el total del libro**: no son narrativa, son panel de control y valoración económica del propio trabajo.
+El Marcador Fonomático tiene marca `data-nivel="categoria"` porque estructuralmente delimita una zona del documento —hace falta para que el conteo por marcas no se desborde hacia ella—, pero **nunca cuenta en el total del libro**: no es narrativa, es panel de control del propio trabajo. **La categoría «Al Yazirat Tarif» se eliminó el 15/10/26** (decisión de Luis): su pestaña «ISLA DE TARIFA», la valoración económica del trabajo, vive ahora dentro del Marcador Fonomático, con las demás pestañas del panel.
 
-Ambas llevan ahora el atributo `data-excluir-total="true"` en el mismo div de su cabecera. Cualquier script de auditoría futuro debe filtrar por este atributo —`:not([data-excluir-total])`— en vez de mantener una lista de nombres excluidos a mano en el propio script. La lista a mano es exactamente el tipo de cosa que se olvida entre sesiones; el atributo en el documento no se olvida nunca, porque vive donde vive el dato.
+La cabecera del Marcador lleva el atributo `data-excluir-total="true"` en su mismo div. Cualquier script de auditoría futuro debe filtrar por este atributo —`:not([data-excluir-total])`— en vez de mantener una lista de nombres excluidos a mano en el propio script. La lista a mano es exactamente el tipo de cosa que se olvida entre sesiones; el atributo en el documento no se olvida nunca, porque vive donde vive el dato.
 
-Si en el futuro aparece una tercera categoría de este tipo —estructural pero no narrativa—, lleva el mismo atributo desde el momento en que se crea, no como parche posterior.
+Si en el futuro aparece otra categoría de este tipo —estructural pero no narrativa—, lleva el mismo atributo desde el momento en que se crea, no como parche posterior.
 
 ---
 
