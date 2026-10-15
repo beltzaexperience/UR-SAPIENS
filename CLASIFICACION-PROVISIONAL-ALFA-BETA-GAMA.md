@@ -20,9 +20,9 @@
 | Marca | Piezas | Páginas | Significado |
 |---|---:|---:|---|
 | **α** alfa | 27 | 252 | Lo mejor del libro por calidad e impacto |
-| **β** beta | 30 | 260 | Candidata fuerte; entra según espacio y equilibrio |
+| **β** beta | 31 | 267 | Candidata fuerte; entra según espacio y equilibrio |
 | **γ** gama | 15 | 151 | A mejorar hasta β (ver plan de la sección 6) |
-| **α + β** | 57 | **512** | Primera impresión de ≈ 500 páginas |
+| **α + β** | 58 | **519** | Primera impresión de ≈ 500 páginas |
 | Aparato (sin marca) | 1 | 2 | Radio Beltza: solapa interior, siempre dentro |
 | Fuera de URS | 4 | — | Isla de Tarifa; Distopía vegetal y Siouxsie (a los Bonus Tracks de URIM, 13/10/26; eran γ de 22 y 4 páginas); Wai-muri (a URIM, categoría «Oceanía · Nueva Zelanda · Maorí», 13/10/26; γ de 7 páginas) |
 
@@ -160,3 +160,5 @@ Cada fila dice qué le falta, según los lectores, para llegar a β. Es una list
 Subir o bajar una pieza es cambiar su símbolo en la cabecera (`α`, `β`, `γ`, delante de las marcas). Las piezas están ordenadas por nota dentro de cada marca.
 
 *Provisional. Nada de esto toca el texto de las piezas.*
+
+**Alta posterior (15/10/26): IV · UR: Anomalía cibernética · III. El circuito que no se apaga.** Entra en URS tras IV·II como **β provisional** (≈ 7 páginas; la cuenta de la tabla de arriba la incluye desde esta fecha). No la han leído los ocho lectores ni tiene nota de rúbrica: Claude la marca β por ser pieza avanzada y de la serie IV, con pendientes de ritmo, títulos de sección y fuentes sin abrir (ver `analisis-editorial.md`, 15/10/26). Cambiar la marca es cambiar el símbolo de la cabecera.
