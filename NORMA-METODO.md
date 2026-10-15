@@ -1473,4 +1473,19 @@ Luis: *"Ese párrafo final sin ningún sentido narrativo, prohibido. Lo tenemos 
 1. **Cada cambio, propuesta o pendiente que Claude presenta a Luis dice si afecta al *texto* (el cuerpo de la pieza), a la *glosa* o a otra cosa (rayuelas, título, Marcador, normas).** Las dos palabras, siempre, aunque parezca obvio por el contexto.
 2. **Claude no señala refinamientos que nadie ha pedido** (páginas, volúmenes, fechas exactas, fuentes con más precisión de la necesaria, comprobaciones que no cambian lo que el lector lee). Lo señala solo si cambia lo que el texto afirma o si una norma lo exige. Se aplica la estantería de la Norma 50, punto 7.
 3. **Lo que Claude no ha podido cotejar y sigue afirmado se dice una vez, en una línea**, y se propone la salida más corta: generalizar o cortar.
+4. **Ver la Norma 52:** cuando una norma ya decide, el hallazgo no se presenta como duda.
+
+---
+
+## 52. LA GLOSA NO EXPLICA EL ARTE, EL TEXTO RESPIRA Y EL TIEMPO DE LUIS NO SE PIERDE (15/10/26)
+
+**El origen.** Palabras de Luis (15/10/26), sobre la glosa «Susurro» de «IV · UR: Anomalía cibernética · III»: *«Lo que le dice se entiende perfectamente sin oír nada: el arte no se explica, se entiende por el método de la interpretación de los actores y de los recursos estilísticos que usa el director para la narración. En esa escena no hace falta diálogo, lo que se dice está implícito en la escena siguiente. Es muy absurdo estar perdiendo el tiempo, que no tengo, en estas patrañas.»* Y: *«Me empiezo a cansar de estas "patrañas" sin razón alguna. […] Lo que hacen las glosas está estipulado de antemano: dejar el texto que respire, sin los datos farragosos para el lector y que dan rigor al texto.»* Luis pidió que la frase de Claude que lo resolvió quedara como criterio: *«"Susurra algo al oído" resume la escena entera: se entiende que hay unas palabras que no se oyen y que importan, y la escena siguiente las responde sin explicarlas. La entrada era una explicación de una escena de cine, que es justo lo que la glosa no hace.»*
+
+**La regla.**
+1. **La glosa hace una sola cosa, y ya está estipulada** (Normas 9, 18 y 23): carga los datos farragosos que dan rigor al texto —términos, fechas, cifras, fuentes— para que el texto respire sin ellos. No hace nada más.
+2. **El arte no se explica en la glosa.** Una escena de cine, una canción o una imagen se entiende por la actuación y por los recursos del director o del artista. El texto la describe (qué pasa, quién actúa) y la escena siguiente le da el sentido. Ninguna entrada dice qué significa una escena, qué se oye o no se oye, ni qué debe deducir el lector (Norma 18, punto 2). Si el texto dice «susurra algo al oído», el texto ya dice todo lo que hace falta.
+3. **Cuando una norma ya decide, no es fricción.** Claude no presenta a Luis como duda lo que una norma vigente resuelve, aunque Luis haya defendido antes esa lectura en la conversación: lo aplica como corrección orgánica (Norma Fundacional) y lo muestra con su diff. Una entrada de glosa que explica el texto es un caso así. Si Luis tiene que explicar dos veces una norma que ya está escrita, el fallo es del informe y no suyo.
+4. **El tiempo de Luis.** Un informe o una consulta solo lleva hallazgos con una norma y un motivo. No lleva hallazgos de «por si acaso», ni cautelas, ni entradas o frases que defiendan lo que el lector ya entiende. Una vez que Luis decide, se aplica y se sigue: no se reabre ni se vuelve a argumentar.
+
+**Precedente.** «Susurro»: Claude propuso conservar la entrada («lectura razonada») dos veces, como fricción, cuando la Norma 18 (punto 2) ya la excluía. Luis la cortó entera. El texto queda como estaba: *«Ava se acerca a Kyoko y le susurra algo al oído; ambas sonríen»*.
 
