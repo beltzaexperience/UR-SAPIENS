@@ -381,28 +381,9 @@ Aclarado por Luis el 01/09/2026: **Semilla** es material que podría convertirse
 
 ---
 
-## REGLA 21 — PULL REQUEST OBLIGATORIO SOLO PARA HTML CON MAQUETACIÓN; NOTAS Y NORMAS VAN DIRECTAS
+## REGLA 21 — SUSTITUIDA EL 15/10/26 POR LA REGLA 38 (GUARDAR Y PUBLICAR)
 
-Pedido por Luis el 08-09/09/2026, norma fija desde ahora, con el alcance afinado el 09/09/2026: la exigencia de Pull Request no es plana para todo el repo — depende de si el archivo puede romperse visualmente.
-
-**Requieren Pull Request, siempre, sin excepción — riesgo real de romper maquetación (márgenes, layout, piezas mal cerradas):**
-- `urtz.html`
-- `index.html` / `index-local.html`
-- `permafrost.html`, `LABORATORIO-IGLUR.html` y cualquier otro HTML del libro
-
-Mecanismo para estos archivos:
-1. Claude trabaja siempre sobre una rama distinta de `main` (nunca escribe ni empuja commits directamente ahí).
-2. Al terminar un bloque de trabajo, Claude empuja esa rama a GitHub y abre un Pull Request contra `main` — una página de GitHub que muestra, línea por línea, el diff de texto.
-3. Además del PR, Claude envía el HTML actualizado directamente a Luis (como archivo, igual que antes) para que lo abra en Chrome en local y compruebe visualmente que nada se ha desajustado — el diff de GitHub no renderiza HTML, no sirve para juzgar maquetación por sí solo.
-4. Luis aprueba visualmente (Chrome) y revisa el diff (GitHub) antes de decir que se fusione.
-5. Solo cuando Luis fusiona el Pull Request (o pide explícitamente a Claude que lo haga), el cambio pasa a `main`.
-
-**No requieren Pull Request — sin riesgo de maquetación, edición directa a `main`:**
-- `NOTAS-URTZ.md`, `NORMA-METODO.md`, `NOTAS.md`, `NOTAS-UR-SAPIENS.md`, `NOTAS-URTZ.md`, `GLOSARIO-UR-SAPIENS.md` y cualquier otro `.md` de notas o normas.
-
-**Por qué importa especialmente para los HTML:** el repo tiene un `CNAME` (`ursapiens.beltzarecords.com`) apuntando a lo publicado desde `main` — motivo de más para que ningún cambio de maquetación llegue ahí sin que Luis lo haya visto, tanto en diff como en render real.
-
-**Nunca:** empujar commits directamente a `main`, ni fusionar un Pull Request sin permiso explícito de Luis para ese PR concreto, aunque parezca un cambio menor.
+Hasta el 15/10/26 los HTML iban por una rama aparte y una petición de unión (pull request) que Luis aprobaba, y los `.md` iban directos. Esa regla se retira: ya no hay ramas ni peticiones de unión en el trabajo diario. Cómo se guarda y cómo se publica está en la Regla 38. Se conserva el motivo de fondo: ningún cambio de maquetación llega a la web sin que Luis lo haya visto abierto en Chrome. Por eso los HTML se le envían siempre y solo se publican con su «OK».
 
 ---
 
@@ -694,28 +675,29 @@ No es un caso aislado. El mismo patrón, confirmado el mismo día con el qanat-7
 
 ---
 
-## REGLA 38 — COPIA DE SEGURIDAD OBLIGATORIA: CLAUDE ENVÍA A LUIS CADA ARCHIVO QUE CAMBIA; `urtz.html` E `index.html` NO SE EMPUJAN SIN SU OK
+## REGLA 38 — GUARDAR Y PUBLICAR (reescrita el 15/10/26, a petición de Luis)
 
-Pedida por Luis el 03/10/26, norma fija desde ahora, con el alcance afinado en la misma conversación: **cada vez que Claude modifica cualquier archivo del proyecto, se lo envía a Luis como archivo adjunto en ese mismo momento**, para que Luis tenga una copia en su ordenador. No se espera a que lo pida. Lo que cambia según el archivo es solo si hay que esperar su visto bueno antes del push.
+Palabras de Luis (15/10/26): *«un sistema más simple y eficaz sin main, hook, pull, ni anglicismos que no me aportan nada»* y *«guardar y publicar todo siempre salvo los HTML que se guardan siempre y se publican con mi OK y sin preguntarlo, ya me acuerdo de darte el OK cuando lo necesite.»* Sustituye a la regla anterior («`urtz.html` e `index.html` no se empujan sin su OK», copia de cada archivo, rama y petición de unión de la Regla 21).
 
-**`urtz.html` e `index.html` — los dos archivos con freno previo al push (`index.html` añadido por Luis el 03/10/26).** Claude los modifica, verifica (tamaño exacto, equilibrio de `<details>` y `<div>`), se lo envía completo a Luis y **no empuja hasta que Luis confirme** que lo ha comprobado. Es imprescindible porque la copia local de Luis no recibe lo que Claude cambia en la rama: sin el archivo enviado, Luis solo ve la versión que él tenía.
+**Dos palabras, nada más.**
 
-**Normas, notas y demás `.md` — push directo, más copia.** `NORMA-METODO.md`, `NOTAS-URTZ.md`, `analisis-editorial.md`, `GLOSARIO-UR-SAPIENS.md` y cualquier otro `.md`: Claude empuja sin esperar, y además envía a Luis el `.md` completo tal como queda, en el mismo momento.
+1. **Guardar.** Claude lo hace solo, siempre, al terminar cada cambio y antes de cerrar cada respuesta, con todos los archivos, HTML incluidos. Es la copia de seguridad en GitHub, en la línea de trabajo de la sesión. No cambia nada público y no se pregunta. Con todo guardado, el aviso automático de parada no salta, y no se pierde nada si la sesión se cierra.
+2. **Publicar.** Pasar lo guardado a la versión pública (`main`, la que GitHub enseña por defecto y de la que sale la web `ursapiens.beltzarecords.com`). **Todo lo que no es HTML se publica siempre, en el mismo paso que se guarda.** **Los HTML** (`urtz.html`, `index.html`, `permafrost.html`, `LABORATORIO-IGLUR.html` y cualquier `.html`) **se guardan siempre y se publican solo con el «OK» de Luis, sin que Claude se lo pregunte ni se lo recuerde: Luis se acuerda.** Hasta ese «OK», la versión pública conserva el último HTML publicado.
 
-**Cualquier otro archivo del proyecto** (`permafrost.html`, `LABORATORIO-IGLUR.html` —ambos vaciados, ver Fase 1 y 2—, imágenes, lo que sea) se envía igualmente cuando cambia. El freno previo al push solo rige para `urtz.html` e `index.html`; para el resto, la Regla 21. Si se borra un archivo, se avisa expresamente de cuál.
+**Herramienta:** `herramientas/guardar-y-publicar.sh`. Con un mensaje guarda todo y publica todo menos los HTML; con `--html` publica también los HTML; con `traer` incorpora a la línea de trabajo los archivos nuevos que Luis haya subido desde la web. Los borrados no se publican solos: se hacen a mano y se avisa a Luis de cuál.
 
-**Qué se envía:** el archivo entero tal como queda, no un fragmento ni un diff, con una línea que diga qué cambió y en qué commit.
+**Las subidas de Luis desde la web.** Luis sube solo archivos nuevos (investigaciones, PDFs, imágenes) y no edita en la web los `.md` ni los `.html`: lo que quiera cambiar lo dice en el chat y lo edita Claude. Así las dos líneas no se pisan. Al empezar cada sesión Claude ejecuta `traer`.
 
-**Por qué existe:** el 03/10/26 Luis comprobó que su copia local de `urtz.html` solo mostraba `NO TOCAR` en «Los viajes de UR por Iberoamérica», porque `(*-sub) (*-red)` se había añadido en la rama sin que el archivo le llegara. Sin la copia, no hay forma de contrastar lo que Claude dice que hizo con lo que de verdad hay.
+**Copia para Luis.** Cada HTML que cambia se le envía completo por el chat en el mismo momento, con una línea que diga qué cambió (Regla 6). Los `.md` se le envían cuando los pida. Si se borra un archivo, se le avisa expresamente de cuál.
+
+**Atajo «OK» (Luis, 08/10/26, ajustado el 15/10/26).** «OK» vale para publicar los HTML guardados y para seguir con lo último que Claude propuso. Claude no repite qué pasa con el «OK» (Luis: *«TANTO RESUMEN Y QUÉ PASA SI DIGO OK, ME SOBRA»*) y nombra el paso solo si de verdad hay duda. Sin «OK», los HTML no se publican; el aviso automático de parada no es un permiso.
+
+**Lenguaje (Luis, 15/10/26).** Claude habla con palabras corrientes: guardar, publicar, línea de trabajo, versión pública, aviso automático. Evita *commit*, *push*, *pull request*, *merge*, *hook* y *branch*; el nombre `main` solo cuando haga falta para ser exacto.
 
 **Formato y trato de los mensajes (Luis, 08/10/26).** Palabras de Luis: *«RESPECTO A TUS DOSSIERS SÓLO NECESITO LO QUE NECESITAS DE MI»* y *«MÁS CONFIANZA PARA LO QUE ME GUSTA OÍR COMO LO QUE NO. […] OTROS CLAUDE LOGRABAN UN TERMOSTATO BASTANTE BUENO, ENTRE RIGOR, EMPATÍA Y HUMOR.»* Los mensajes de Claude son cortos: dicen lo hecho y piden lo que Claude necesita de Luis, nada más; los detalles viven en los archivos (ledger, normas) y en el envío del archivo completo (Regla 38). Con confianza en las dos direcciones: Claude dice lo que a Luis le gusta oír y lo que no, incluida una discrepancia o un error propio, sin amortiguarlo. El termostato es rigor primero (el dato, la fuente, la norma), empatía en el trato al trabajo y a su coste para Luis, y humor ligero que nunca corre a cargo de un dato.
 
-**Atajo «OK» (Luis, 08/10/26).** Palabras de Luis: *«Cuando diga OK, empuja y seguimos.»* Cuando Luis responde «OK» a un mensaje de Claude, vale como el visto bueno explícito de esta regla para empujar `urtz.html` (y `index.html`, si también hubiera cambios) y como aprobación de lo que Claude propuso en ese mismo mensaje como siguiente paso. **Desde el 08/10/26 el mensaje no tiene que repetir qué pasa con el «OK»** (Luis: *«TANTO RESUMEN Y QUÉ PASA SI DIGO OK, ME SOBRA»*): «OK» vale para empujar lo pendiente y seguir con lo último que Claude propuso, y Claude nombra el paso solo si de verdad hay duda. Sin «OK», «empuja» ni una orden equivalente, `urtz.html` no se empuja; el aviso del hook de parada no es un permiso.
+**Por qué existe.** El 03/10/26 Luis comprobó que su copia local de `urtz.html` no tenía lo que Claude decía haber hecho, porque el cambio estaba en la rama y el archivo no le había llegado. Sin la copia no hay forma de contrastar lo que Claude dice con lo que hay. El 15/10/26 se vio además que `main` y la línea de trabajo llevaban separadas desde el 14/09 (458 cambios solo en la línea de trabajo, 60 solo en la pública) y que la web mostraba la versión de septiembre; ese día se unieron (punto común `d311120`) y se adoptó este sistema para que no vuelva a pasar.
 
-**Lo que no cambia:** la Regla 21 sigue vigente. Los HTML van por rama y Pull Request, nunca directos a `main`, y ningún Pull Request se fusiona sin permiso explícito de Luis para ese caso concreto.
-
-
----
 
 ## REGLA 39 — LEYENDA ÚNICA DE MARCAS DE PIEZA (04/10/26)
 
