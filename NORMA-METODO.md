@@ -851,6 +851,20 @@ Cada capítulo del libro elude el formato de artículo cerrado; opera como un á
 
 Antes de poner un subtítulo, preguntarse cuál de las dos funciones cumple. Si la respuesta es "ninguna, pero queda bien ahí", no va.
 
+**Pendiente de la revisión final: párrafos y secciones por contenido (Luis, 15/10/26).** Palabras de Luis, tras ver en «IV · UR: Anomalía cibernética · III» una razón entre secciones de 2,09 (Norma 39) con ocho tramos en unas 1.460 palabras: *«Deja apuntado para la revisión final. Tanto párrafos como secciones tendrán que cumplir la Norma 25 de una manera más profunda para que no haya fricción con la Norma 39. Hay que delimitar con preguntas "cambio de tema" también para mi plantilla de 4 a 8 líneas por párrafo, para facilitar la lectura. Tanto párrafos como secciones se construirán según contenido, en base a unos criterios.»* Queda fijado así:
+1. **El tamaño es el resultado y no el punto de partida.** Un párrafo o una sección existe porque cambia algo (el tema, el lugar, el siglo, la escala), y su tamaño sale de ese contenido. Las 4 a 8 líneas de la Norma 26 y la razón de 3,1 de la Norma 39 miden el resultado; no mandan.
+2. **La Norma 25 se aplica a las dos escalas:** al subtítulo (la sección) y al párrafo. La pregunta de «cambio de tema» es la misma para ambos, y es lo que evita que una fricción con la Norma 39 sea un reparto por plantilla.
+3. **Las seis preguntas, aprobadas por Luis (15/10/26),** valen para la sección y para el párrafo. Se contrastaron con Strunk y White (un párrafo por tema), la RAE (el punto y aparte separa ideas distintas dentro de la unidad del texto; no hay norma de longitud) y Kerouac (la unidad es el aliento):
+   1. **¿Qué cambia aquí?** El tema, el lugar, el siglo o la escala. Si no cambia nada, no hay sección ni párrafo nuevo.
+   2. **¿Qué hace esta unidad que la anterior no hace?** Se contesta en una frase. Si no se puede, se funde (la «distinción nueva» de esta Norma).
+   3. **¿Tiene arco propio?** Un planteamiento, un giro y un cierre que no repita (Norma 31).
+   4. **Prueba de fusión y de partición.** Si se funde con la vecina, ¿el lector se pierde? Si se parte, ¿cada mitad cambia algo? Si no, no se parte.
+   5. **¿Dónde respira?** Leída en voz alta, ¿necesita aire por un giro (ancla) o por cansancio (respiradero)?
+   6. **Solo para la sección: ¿el título intriga y se distingue de los vecinos en forma?** (la prueba de la cerveza fría).
+   El tamaño sale de las respuestas. Si tras aplicarlas la razón de la Norma 39 sigue baja, la pieza es uniforme de verdad y no se fuerza nada.
+4. **La respiración (pregunta 5) es criterio de oído de Luis y no se mide.** Palabras de Luis: *«Lo difícil de determinar es la respiración del lector y esta depende de un montón de detalles; para el maestro Jack dependía de "Jack D.", "Benny" y la cafeína. Para el lector de UR será totalmente diferente.»* Claude no la convierte en cifra ni la decide: la señala y decide Luis (Normas 0 y 27: la alarma la enciende la intuición, no el recuento).
+5. **Momento:** mesa de mezclas, con la revisión final de cada capítulo (marca `(*-red)`). Mientras tanto no se funden ni se parten secciones por la razón de la Norma 39. Precedente abierto: IV·III (secciones de 119 a 249 palabras; la fusión de §1 y §2 queda como candidata y sin decidir).
+
 
 ## 26. EL PÁRRAFO COMO UNIDAD (CONTRA LA FRASE-CARTELA)
 
