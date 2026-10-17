@@ -5,6 +5,7 @@
 ## 0. Ajustes de Luis (09/10/26) — lo que ya manda
 
 - **Significado de γ:** no es «sobra», es **«a mejorar hasta que suba por lo menos a β»**. El objetivo es que todas las piezas del libro sean α o β y que sea el editor quien tenga que elegir.
+- **Todas las piezas de URS, α o β, aunque se pase de las 500 páginas (Luis, 17/10/26):** *«Todas las piezas de URS tienen que ser α/β, aunque superen las 500 páginas que me estoy poniendo de máximo. Y que sea quien tenga que ser el que decida cuáles entran o no, incluso si quiere un libro de 300 páginas. Yo estaría dispuesto a cualquier poda, pero quiero ponérsela muy complicada a la decisión.»* Consecuencia: el tope de páginas no es motivo para quitar piezas ni para dejar pasar una γ; las 15 γ se mejoran hasta β y la poda, si llega, la decide la editorial. La glosa telegráfica (Norma 55) responde a la calidad editorial y al exceso de páginas, no a un cupo.
 - **Interludio I · Intuición simbólica:** «es fundamental, es β». Sube de γ a β.
 - **Radio Beltza (Desde 1964: UR ETA URBE):** aparato fijo (la solapa interior del autor), no pieza de argumento. Sin marca, siempre dentro. Aligerada el 09/10/26 de la jerga del libro (de 434 a unas 385 palabras); la primera persona del plural se queda: era el mundo de las tribus urbanas juveniles.
 - **Isla de Tarifa:** no es URS. Sale de la clasificación (cálculo de honorarios; pendiente de dónde se ubica).
