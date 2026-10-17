@@ -27,6 +27,12 @@ Aplicadas en `urtz.html` (guardado, sin publicar el HTML) y registradas en la No
 - **Kalergi:** sin cambios.
 - **Marcador:** libro puro 120.045 palabras (≈480 págs.); estimación del cartel ≈480.
 
+## Segunda actualización: los cuatro puntos menores y la deriva (17/10/26)
+
+- **Pinker, Mauricia, Whanganui, Antifonte, List y Heck:** aplicados con «lo más correcto» (antes y después en el mensaje de la sesión y en la Norma 55, «Segundos retoques»).
+- **Notas de proceso fuera de la glosa:** quito de once entradas las frases «la glosa anterior daba/decía…» que yo mismo había puesto al corregir; la corrección vive aquí, en los informes.
+- **Deriva del Marcador, auditada:** los +14 palabras / +67 caracteres del libro puro eran el crecimiento de «III · II» del commit 2f3c013 (14/10/26), no apuntado; un doble apunte de +10 / +48 en el commit 870201b (15/10/26) inflaba URS, TOTAL y la fila TOTAL DEL LIBRO. Corregido. Libro puro = medición exacta: 120.059 palabras (≈480 págs.). Queda sin explicar una diferencia constante de −4.335 palabras / −72.481 caracteres entre la línea URS y la medición, anterior a la poda.
+
 ## Qué criterio he aplicado (Norma 55)
 
 Dentro: la identificación de lo que el lector no conoce, el dato exacto que sostiene una cifra o una afirmación del cuerpo, la cautela que acota una fuente y una o dos fuentes de consulta. Fuera: lo que el cuerpo ya dice, los conceptos propios del libro (UR, la «T», URbeltz…), las lecturas del libro, las notas de proceso («Verificado…», «pendiente de…»), los términos de la cultura del lector y las entradas huérfanas (sin llamada en el cuerpo), que o se anclan con una llamada nueva o salen. Donde el cuerpo y la glosa no cuadraban, he igualado con el cambio mínimo en el cuerpo (cifras y nombres genéricos en el cuerpo, exactos en la glosa) y lo he contado en el informe. El estaño (lo que no he podido contrastar) queda como pendiente en cada informe; solo he comprobado con búsquedas en resúmenes, sin abrir los textos completos.
