@@ -27,22 +27,26 @@ for p in re.finditer(r'<details class="pieza"[^>]*>\s*<summary[^>]*>(.*?)</summa
         glosa += len(txt(ul).split())
 UMBRAL = 150  # solo las glosas de partida de al menos 150 palabras fijan r: las cortas, podadas hasta cero, no representan lo que queda
 repr_ = {k: v for k, v in tratadas.items() if v[0] >= UMBRAL}
-antes = sum(a for a, _ in repr_.values())
-despues = sum(d for _, d in repr_.values())
-r = (antes - despues) / antes
-todas_antes = sum(a for a, _ in tratadas.values())
-todas_despues = sum(d for _, d in tratadas.values())
-r_todas = (todas_antes - todas_despues) / todas_antes
 tratadas_despues = sum(d for _, d in tratadas.values())
 sin_tratar = glosa - tratadas_despues
-paginas = (palabras_libro - r * sin_tratar) / 250
-print('piezas tratadas: %d (todas: glosa %d -> %d, ahorro %.1f %%)' % (len(tratadas), todas_antes, todas_despues, r_todas * 100))
-print('piezas con glosa de partida de %d palabras o más: %d (glosa %d -> %d; ahorro medio r = %.1f %%)' % (UMBRAL, len(repr_), antes, despues, r * 100))
+
+def paginas(r):
+    return (palabras_libro - r * sin_tratar) / 250
+
+antes = sum(a for a, _ in repr_.values())
+despues = sum(d for _, d in repr_.values())
+r_pond = (antes - despues) / antes                       # ponderado por palabras
+ahorros = sorted((a - d) / a for a, d in repr_.values())  # ahorro de cada pieza
+n = len(ahorros)
+r_med = ahorros[n // 2] if n % 2 else (ahorros[n // 2 - 1] + ahorros[n // 2]) / 2   # mediana: robusta ante una pieza extrema
+sin_extremos = {k: v for k, v in repr_.items() if (v[0] - v[1]) / v[0] < 0.9}
+r_sin = (sum(a for a, _ in sin_extremos.values()) - sum(d for _, d in sin_extremos.values())) / sum(a for a, _ in sin_extremos.values())
+est = [paginas(r_med), paginas(r_pond), paginas(r_sin)]
+print('piezas tratadas: %d; con glosa de partida de %d palabras o más: %d' % (len(tratadas), UMBRAL, n))
 print('glosa del libro puro: %d palabras (%.0f pág.); sin tratar: %d' % (glosa, glosa / 250, sin_tratar))
 print('palabras del libro puro (Marcador): %d (%.1f pág.)' % (palabras_libro, palabras_libro / 250))
-print('páginas estimadas con glosa telegráfica: %.1f -> ≈%d' % (paginas, round(paginas)))
-print('(con r de todas las piezas, %.1f %%: ≈%d pág.)' % (r_todas * 100, round((palabras_libro - r_todas * sin_tratar) / 250)))
-rs = [(a - d) / a for a, d in repr_.values()]
-lo, hi = min(rs), max(rs)
-print('rango con el mínimo y el máximo de esas piezas (%.0f %% y %.0f %%): ≈%d a ≈%d pág.' % (
-    lo * 100, hi * 100, round((palabras_libro - hi * sin_tratar) / 250), round((palabras_libro - lo * sin_tratar) / 250)))
+print('ahorro por pieza: ' + ', '.join('%.0f %%' % (x * 100) for x in ahorros))
+print('r mediana %.1f %% -> ≈%d pág. (CENTRAL, la del cartel)' % (r_med * 100, round(est[0])))
+print('r ponderada %.1f %% -> ≈%d pág.' % (r_pond * 100, round(est[1])))
+print('r sin piezas de ahorro ≥ 90 %% (%.1f %%) -> ≈%d pág.' % (r_sin * 100, round(est[2])))
+print('rango entre los tres estimadores: ≈%d a ≈%d pág.' % (round(min(est)), round(max(est))))
