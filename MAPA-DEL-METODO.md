@@ -71,3 +71,5 @@ Las 14 decisiones del 09/10/26 están cerradas o en espera. `LINEA-EDITORIAL-REF
 ## 5. Apunte: idea de libro-método
 
 *«MÁQUINA DE ESCRIBIR: NORMAS Y MÉTODOS DE ESCRITURA DIGITAL»* (Luis, 09/10/26). Lo que ya existe para alimentarlo: normas por motivos y no por números, el corredor de Baroja y Orwell, el marco de los 18 análisis, dos herramientas (`perfil-corpus.py` y `analisis-texto.py`), el ledger de antes y después y un caso completo (IV·II). Sin compromiso ni plazo.
+
+**«Cuerpo» a control y punto y coma (Luis, 17/10/26).** Norma 54: «cuerpo» se sustituye por el sujeto concreto (persona, individuo, oyente) salvo que la abstracción aporte. Adenda de la Norma 36.8: el punto y coma es el conector de Baroja (13 por mil frente a 5,0 de la mediana de UR), no se crea norma, aviso informativo por encima de 11 por mil; «quien/quienes» es tic de la voz anónima y se reduce con el sujeto concreto.
