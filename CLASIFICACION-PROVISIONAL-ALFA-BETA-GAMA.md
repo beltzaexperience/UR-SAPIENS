@@ -10,6 +10,7 @@
 - **Radio Beltza (Desde 1964: UR ETA URBE):** aparato fijo (la solapa interior del autor), no pieza de argumento. Sin marca, siempre dentro. Aligerada el 09/10/26 de la jerga del libro (de 434 a unas 385 palabras); la primera persona del plural se queda: era el mundo de las tribus urbanas juveniles.
 - **Isla de Tarifa:** no es URS. Sale de la clasificación (cálculo de honorarios; pendiente de dónde se ubica).
 - **Vendée:** reconocida como γ difícil de mover.
+- **Cabo de Gata (Refugio punk en el desierto) y Vendée pasan a URIM (17/10/26, Luis):** «Llevemos a URIM… Reduciremos algo más las pág.» Son dos piezas γ: γ baja de 15 a 13 piezas y el libro puro, de 71 a 69 piezas (118.816 palabras, ≈475 págs.). Siguen íntegras en URIM (Cara 1 · Mediterráneo Andaluz y Cara 2 · Europa Latina), sin marcas de URS.
 - **Indo-Ganges y Mesopotamia:** preocupan por pseudociencia. A corregir.
 - **Vania Lima y los UR de Brasil, y Ogura:** en γ, a mejorar.
 - **Entrevista a NEXUS-7:** hace gracia «y poco más». Se queda en γ.
