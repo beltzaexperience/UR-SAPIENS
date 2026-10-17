@@ -6,11 +6,26 @@
 
 - **Hecho:** las 42 piezas de URS que seguían con `(*-glo)` están podadas, de «Introducción: círculo simbólico» a «III · II. Golgi, Cajal y la constelación rupestre». **Ninguna pieza de URS lleva ya `(*-glo)`.**
 - **Glosa de esas 42 piezas:** 28.470 → 12.393 palabras (−16.077, −56,5 %). Con las 17 piezas anteriores (Kurt · Shakur, IV · Anomalía cibernética, Epílogo, Etimología insurgente, etc.), son 59 piezas tratadas.
-- **Páginas:** al empezar este tramo (con Urabá hecha) el libro puro medía 124.722 palabras (≈499 págs.) y el cartel «FIN DEL LIBRO» estimaba ≈480 págs. con la glosa telegráfica. Ahora el libro puro mide **120.318 palabras (≈481 págs.)** y la estimación del cartel es ≈481: con todas las glosas tratadas, la estimación coincide con las páginas reales (mediana de ahorro por pieza, 49,8 %).
+- **Páginas:** al empezar este tramo (con Urabá hecha) el libro puro medía 124.722 palabras (≈499 págs.) y el cartel «FIN DEL LIBRO» estimaba ≈480 págs. con la glosa telegráfica. Al cerrar la poda el libro puro medía 120.318 palabras (≈481 págs.); tras los retoques de abajo mide **120.045 (≈480 págs.)** y la estimación del cartel es ≈480: con todas las glosas tratadas, la estimación coincide con las páginas reales (mediana de ahorro por pieza, 49,8 %).
 - **Tres piezas no se acortan, a propósito:** «Sájaura · Mauritania · Fur» (489 → 487: casi todo era dato exacto o cautela), «Digitalismo y el test gorila» (51 → 71: una referencia que no era fuente se sustituye por la real) y «III · II» (122 → 140: referencias completadas y corregidas). «III · I» se queda igual (58 → 58).
 - **Lo cortado no se pierde:** va a la pestaña interna de GLOSAS EXTENDIDAS (en las piezas con lista de glosa), por orden de URS. Las tres últimas piezas (Digitalismo, III · I y III · II) tienen glosa en forma de referencias en párrafo y no llevan pestaña: lo único que cambia queda descrito en su informe.
 - **El HTML no se ha publicado** (Regla 38: falta tu «OK»). Todo está guardado en la rama de trabajo; `main` conserva la versión pública anterior.
 - **Marcador al día** con cada pieza (Regla 14). Una salvedad: el libro puro figura con 120.318 palabras y una medición completa da 120.332 (+14). La deriva venía de antes; queda para la auditoría del Marcador (Regla 16) y no la he corregido a ojo.
+
+## Actualización: tus respuestas a las decisiones abiertas (17/10/26)
+
+Aplicadas en `urtz.html` (guardado, sin publicar el HTML) y registradas en la Norma 55 («Retoques a petición de Luis»):
+
+- **Edy Star en pasado** (Vânia Lima): el cuerpo pasa a pretérito; la glosa da su muerte (abril de 2025, 87 años).
+- **Fechas por la Norma 56** (Quelccaya): «a comienzos de 2025», «poco después», «una madrugada de mayo de 2025», «a mediados de junio de 2025»; las exactas, en la glosa. La «huelga de marzo de 2026» desaparece del cuerpo: solo consta la de marzo de 2025.
+- **Lo mismo en Whanganui:** «en la década de 1920» y «más de cien personas»; la fecha y la cifra exactas, con su cautela, en la glosa.
+- **«Material de apoyo» de Digitalismo** (302 palabras): llevado a GLOSAS EXTENDIDAS.
+- **Morton:** «Un estudio de 2018 sobre sus notas perdidas no halló manipulación en los datos; la política estaba en la lectura».
+- **Guirinoco** (Angostura): «lugar de remar» (warao *güiri* + *noko*).
+- **Odiel/Urius:** «Cultura: continente ibérico» dice ahora «el río Odiel —quizá el antiguo Urius—» y «Meseta central», «el probable nombre romano del Odiel».
+- **La «T» definida** en su primera aparición, que es «Ciclo hídrico · Geroglífico UR» y no la Introducción (allí aparece después): entrada nueva (4) en la glosa de Ciclo hídrico.
+- **Kalergi:** sin cambios.
+- **Marcador:** libro puro 120.045 palabras (≈480 págs.); estimación del cartel ≈480.
 
 ## Qué criterio he aplicado (Norma 55)
 
