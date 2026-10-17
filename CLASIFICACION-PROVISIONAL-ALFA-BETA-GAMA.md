@@ -20,9 +20,9 @@
 | Marca | Piezas | Páginas | Significado |
 |---|---:|---:|---|
 | **α** alfa | 27 | 252 | Lo mejor del libro por calidad e impacto |
-| **β** beta | 31 | 267 | Candidata fuerte; entra según espacio y equilibrio |
+| **β** beta | 32 | 276 | Candidata fuerte; entra según espacio y equilibrio |
 | **γ** gama | 15 | 151 | A mejorar hasta β (ver plan de la sección 6) |
-| **α + β** | 58 | **519** | Primera impresión de ≈ 500 páginas |
+| **α + β** | 59 | **528** | Primera impresión de ≈ 500 páginas |
 | Aparato (sin marca) | 1 | 2 | Radio Beltza: solapa interior, siempre dentro |
 | Fuera de URS | 4 | — | Isla de Tarifa; Distopía vegetal y Siouxsie (a los Bonus Tracks de URIM, 13/10/26; eran γ de 22 y 4 páginas); Wai-muri (a URIM, categoría «Oceanía · Nueva Zelanda · Maorí», 13/10/26; γ de 7 páginas) |
 
@@ -162,3 +162,5 @@ Subir o bajar una pieza es cambiar su símbolo en la cabecera (`α`, `β`, `γ`,
 *Provisional. Nada de esto toca el texto de las piezas.*
 
 **Alta posterior (15/10/26): IV · UR: Anomalía cibernética · III. El circuito que no se apaga.** Entra en URS tras IV·II como **β provisional** (≈ 7 páginas; la cuenta de la tabla de arriba la incluye desde esta fecha). No la han leído los ocho lectores ni tiene nota de rúbrica: Claude la marca β por ser pieza avanzada y de la serie IV, con pendientes de ritmo, títulos de sección y fuentes sin abrir (ver `analisis-editorial.md`, 15/10/26). Cambiar la marca es cambiar el símbolo de la cabecera.
+
+**Alta posterior (17/10/26): KURT · SHAKUR Y LA FRONTERA ANALÓGICA (pieza A de la obra Kurt y Shakur).** Entra en URS, en la categoría Biopsia del Sistema Mundo, tras «Digitalismo y el test gorila» (con la que nació el mismo día y con la misma persona), como **β provisional** (≈ 9 páginas; la cuenta de la tabla de arriba la incluye desde esta fecha: β 32 / 276, α + β 59 / 528). No la han leído los ocho lectores ni tiene nota de rúbrica: Claude la marca β por seguir el precedente de IV·III y por ser pieza avanzada, tras la pasada de contenido y ritmo del 17/10/26 y con pendientes de segundas vueltas, títulos de sección y fuentes sin abrir (ver `analisis-editorial.md`, 16–17/10/26). Su segunda parte, «La rosa y el hormigón», sigue en URIM. Cambiar la marca es cambiar el símbolo de la cabecera.
