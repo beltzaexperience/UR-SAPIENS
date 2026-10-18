@@ -53,3 +53,7 @@ Koxkero «custodia en el cuerpo la memoria del movimiento libre»; Turkana «con
 
 ## D. Forma de aplicarlo
 Las 33 de A se aplican en un solo pase, con diff, Marcador y registro. Los textos de la columna «Después» son propuesta mía: Luis puede cambiar cualquiera. Las 6 de B, a elegir. Piezas marcadas «NO TOCAR» afectadas por A: Dama de Marfil, Danubio Este, La escombrera, Quelccaya, Turkana, Antropología racial, Ogura, Vania Lima, Educación victoriana, Islandia (I, II y III) y Filipinas.
+
+
+## E. Aplicado (18/10/26)
+Luis aprueba las 33 («cuerpo no dice nada, esqueleto lo dice todo») y la sustitución por «esqueleto». Aplicadas las 33 más dos de las dudosas, que son la misma sustitución: Turkana «conserva un cuerpo de un millón y medio de años» → «un esqueleto»; «como si el cuerpo hubiera esperado allí» → «como si el esqueleto hubiera esperado allí». Tres «Después» ajustados al aplicar para no repetir palabra en la misma frase: Islandia II n.º 11 «El agua salvó a Gissur dentro del fuego» (el hombre ya aparece en la frase anterior); Danubio Este n.º 14 «por la fuerza de los vecinos»; Educación victoriana n.º 24 «El aula reúne alumnos cansados» (la frase acaba en «decenas de niños»). Quedan cuatro dudosas: Koxkero «custodia en el cuerpo la memoria», Educación victoriana «Pertenece a un cuerpo que recuerda el sonido de los golpes», Franco-belga RÊV-E-UR «engaña al cuerpo necesitado», Islandia I «con otro cuerpo». Las 163 − 2 de la sección C no se tocan. Libro puro tras el pase: 118.884 palabras.
