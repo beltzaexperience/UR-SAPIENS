@@ -2340,3 +2340,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 
 
 **Fuera la estimación del cartel «FIN DEL LIBRO» (18/10/2026).** Luis: «≈475 pág. con glosa telegráfica (estimación) esto ya sobra». El cartel queda en «≈475 pág. · 118.816 palabras · 69 piezas». Se anota en la Norma 55, punto 9; la herramienta `estimar-paginas-glosa.py` y su JSON se conservan. HTML sin publicar.
+
+**Cifras de TIMMUR corregidas (18/10/2026).** 1.066 / 4.462 eran una suma provisional de Nepal y Tíbet (01-02/09), no un balance consolidado; cuerpo con la frase de Luis, glosa (3) con las cifras exactas, fechadas y con fuente; topónimo Timure confirmado. Detalle y estaño pendiente en la Norma 55, «Corrección de las cifras de TIMMUR». **Marcador (Regla 14):** URS 1.040.613 caracteres / 172.657 palabras / ≈691 págs.; libro puro 747.504 / 118.852 / ≈475; URS+URIM 1.423.635 / 239.195 / ≈957; TOTAL DEL PROYECTO 1.524.130 / 255.779 / ≈1023. Cartel ≈475 págs. · 118.852 palabras · 69 piezas. HTML sin publicar.
