@@ -20,3 +20,8 @@
 - 134 en la forma del título de la pieza donde aparecen (K-UR-DA, B-UR-ZUM, Q-UR-T-UBA, T-UR-O, CAP-T-UR-A…): son el argumento de la pieza.
 - 78 con un argumento cercano (explican la descomposición).
 - **65 sin argumento cercano**, en 46 formas: T-UR-O, T-OR-T-UR-A, AG-UR, UR-i, zi-ur, UR-ales, Il-UR-o, A-UR-ingis, UR-OLA, fact-ura, J-UR-ÍDICO, T-UR-ismo, des-UR-pación, INS-UR-RECCIÓN, Luz-UR, SAT-UR-NO, M-UR-mullo, Buc-UR-ești, habi-UR, escri-T-ura, metal-UR-gica, LOC-UR-A, NAT-UR-A, NaT-UR, Ins-ur-rección, entre otras. Parte de ellas puede tener argumento que el cribado no ve; hay que leerlas.
+
+## Aplicado (18/10/26, a petición de Luis)
+- **Quedan 24 apariciones con guion en URS (piezas):** UR-Sapiens ×13, Ur-Nammu ×1, Ur-lañó ×4 (CICLO HÍDRICO ×1, EL KOXKERO ×2, TU NUBE SECA MI RÍO ×1) y Rêv-e-UR ×6 (a estudiar).
+- **Salen 16:** PLA-UR ×3 (más 2 en las pestañas), UR-be/UR-BE ×4 (más 7 en PRECEDENTES), T-UR ×3, sus-UR-ro ×1, LA-UR-EL ×1, K-UR-T / Shak-UR / MINO-TA-UR-O ×3 y UR-book ×1 (más 12 en PRECEDENTES, ahora «este libro»). También el UR-BELTZ de la etiqueta de la cuenca del Congo.
+- **URIM:** sin tocar.
