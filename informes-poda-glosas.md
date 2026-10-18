@@ -634,3 +634,29 @@ Las recojo tal como las dejé en cada informe, por orden de URS. Ninguna bloquea
 - Glosa (3): cifras exactas con fecha y fuente; retirados «562 y casi 2.500» y «Open; Outlook India; IANS».
 - Topónimo: Timure (no Timur ni Timmu).
 - **Estaño pendiente:** las cifras de la glosa (3) (solo resúmenes de buscador; páginas no abiertas); «Las cifras iniciales… más de trescientas sesenta muertos…»; «nueve metros en treinta minutos»; «Lhende Khola».
+
+## Recorrido (18/10/26): glosas con datos vivos y fecha de redacción
+
+Método: 595 glosas en 74 piezas (481 en URS, 114 en URIM) extraídas del HTML y cribadas por marcadores temporales («hoy», «actual», «sigue», «previsto», años 2023-2030, «abierto», «pendiente»…), con lectura de cada coincidencia. Las piezas cuyas glosas no van en lista (Islandia I-III, Ogura, I, II, III·I, III·II, Digitalismo, Absurdo, Susurro, Turba y 24 piezas de URIM) se rastrearon aparte: no hay datos vivos en sus glosas (lo que sale es cuerpo: «hoy» en Ártico, Urcos, Burdel…). Límite: una glosa sin marcador explícito puede escaparse. **No se ha tocado nada salvo TIMMUR (3).**
+
+**A. Datos vivos: llevarían «a fecha de redacción» (25 glosas, 12 piezas, ≈ 4 % de las glosas).**
+- DANUBIO ESTE · TURBINA NUCLEAR: (1) potencia y primera parada total de Cernavodă; (2) paradas de los reactores 1 y 2 y coste del desvío de caudal (julio-agosto 2026; falta el estado actual).
+- ENDOROS · OGIEK · SAN · LOLIONDO: (8) incumplimiento de Kenia declarado en diciembre de 2025; (13) pleitos de Loliondo «siguen abiertos».
+- QUELCCAYA: (3) proyecto minero Crespo (venta de 2024); (4) obras paralizadas y huelga (2025); (6) investigación de la Fiscalía por el ataque al puente.
+- TU NUBE SECA MI RÍO: (1) proyecciones de 2030; (3) agua por consulta de Gemini y ChatGPT; (4) petición de AWS; (5) consumo estimado de los centros; (7) anuncio de Amazon; (8) campaña en curso.
+- IA: FANTASÍA EN ÓRBITA LEO: (1) Suncatcher y prototipos de 2027; (2) Starmind y pruebas de 2027; (3) Starcloud, valoración y solicitud ante la FCC.
+- LA MUERTE DE LA INTUICIÓN TENÍA UN PRECIO: (2) LeCun «hoy al frente de AMI Labs».
+- IV · UR: ANOMALÍA CIBERNÉTICA: (7) consumo de agua de 2023-2024 (Axios, 2026).
+- KURT · SHAKUR: (7) propuesta de restricción de los PFAS (ECHA, 2023); (8) resumen de ESHRE 2025 sin revisión por pares.
+- FILIPINAS: (4) la federación Apo Mamalu «mantiene hoy el linaje activo».
+- ANTROPOLOGÍA RACIAL: (9) contador de cerebros «hoy 254, tras una devolución».
+- EL RÍO Y LA PRESA · TAMANRASSET (URIM): (6) conflicto del Nilo «actual» y llenado de la presa; (7) embalses de El Fasher.
+- LA ROSA Y EL HORMIGÓN (URIM): (4) ley del Mar Menor «en el marco legal vigente».
+- Ya hecha: TIMMUR (3).
+
+**B. Estado de un debate («sigue discutida», «sigue debatiéndose»): sin fecha, salvo que cambie.** UR, el euskera y la frontera invisible (1); TUR raíz preindoeuropea (1); PLA-UR (4); ÜRMÜZ (5). Meseta central (4): los Ojos del Guadiana «secos desde 1983».
+
+**C. Fecha de origen, estables:** el resto de las coincidencias (UNESCO 2008, artículos de 2023-2025, Edy Star, Penn State, Saint Laurent, Vevo, etc.): la fecha ya es la de la fuente.
+
+**D. Observación aparte (no es de fechas): notas de proceso dentro de la glosa.** IV·UR (3) «referencia primaria pendiente de fijar», (8) «página pendiente de contrastar con la edición», (9) «su contraste con una edición concreta queda pendiente»; LA ROSA Y EL HORMIGÓN (2) «esta glosa no dispone todavía de la fuente primaria exacta». Según la Norma 55 las notas de proceso van a los informes, no a la glosa.
+
