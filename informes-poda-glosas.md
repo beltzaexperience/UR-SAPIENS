@@ -660,3 +660,9 @@ Método: 595 glosas en 74 piezas (481 en URS, 114 en URIM) extraídas del HTML y
 
 **D. Observación aparte (no es de fechas): notas de proceso dentro de la glosa.** IV·UR (3) «referencia primaria pendiente de fijar», (8) «página pendiente de contrastar con la edición», (9) «su contraste con una edición concreta queda pendiente»; LA ROSA Y EL HORMIGÓN (2) «esta glosa no dispone todavía de la fuente primaria exacta». Según la Norma 55 las notas de proceso van a los informes, no a la glosa.
 
+## Actualización (18/10/26): retoques de Luis
+
+- Notas de proceso retiradas de las glosas: IV·I (3), (8), (9) y LA ROSA Y EL HORMIGÓN (2). **Lo pendiente que contenían** (estaño): referencia primaria de la salida de Benjamin Constant de la Iglesia Positivista (3); página de la cita de Yuk Hui (8); edición concreta de la cita de Fromm, Sartre y Kierkegaard (9); fuente primaria exacta del acrónimo T.H.U.G. L.I.F.E. (La rosa).
+- PLA-UR: Urmánczi → Ürményi (cuerpo y glosa (2)). Estaño: que los Ürményi fueran los propietarios del episodio.
+- TIMMUR: la «cláusula de reclutamiento» del tratado de Sugauli se sustituye por el reclutamiento anterior al fin de la guerra. Estaño: texto de Aitchison; autorización nepalí hacia 1885.
+- Aplicación de la fecha de redacción a las 25 glosas del recorrido: **pendiente** (decisión de Luis).
