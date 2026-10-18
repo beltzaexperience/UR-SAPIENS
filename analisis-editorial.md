@@ -2370,3 +2370,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **Rêveur pasa a URIM (18/10/2026, Luis: «menos páginas, más calidad»).** Detalle en la Norma 55, «Rêveur pasa de URS a URIM». **Marcador (Regla 14):** URS 1.032.070 caracteres / 171.210 palabras / ≈685 págs. (75 piezas); libro puro 738.949 / 117.402 / ≈470 (68 piezas); URIM 389.079 / 67.515 / ≈270 (91 piezas reales); URS+URIM 1.421.131 / 238.721; TOTAL DEL PROYECTO 1.521.626 / 255.305. Cartel ≈470 págs. · 117.402 palabras · 68 piezas. HTML sin publicar.
 
 **Publicación del HTML con Rêveur en URIM (18/10/2026, con el OK de Luis).** Libro puro 117.402 palabras, ≈470 págs., 68 piezas. HTML publicado.
+
+**CULTURA: CONTINENTE IBÉRICO, texto nuevo de Luis tras el Relojero-Plus (18/10/2026).** Detalle en la Norma 55, «CULTURA: CONTINENTE IBÉRICO: Relojero-Plus y texto nuevo de Luis». **Marcador (Regla 14):** URS 1.031.980 caracteres / 171.210 palabras / ≈685 págs.; libro puro 738.859 / 117.402 / ≈470; URS+URIM 1.421.041 / 238.721 / ≈955; TOTAL DEL PROYECTO 1.521.536 / 255.305 / ≈1021. Cartel ≈470 págs. · 117.402 palabras · 68 piezas. HTML sin publicar.
