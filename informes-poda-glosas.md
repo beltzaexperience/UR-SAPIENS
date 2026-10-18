@@ -669,3 +669,4 @@ Método: 595 glosas en 74 piezas (481 en URS, 114 en URIM) extraídas del HTML y
 - La escombrera sistémica: «Doce años antes» → «Casi cuatro décadas antes»; glosa (1) con el traslado del vertedero hacia 2009 a la comuna de Choeung Ek. Queda en estaño: hectáreas y personas del vertedero; «Time» como cabecera de Flynn.
 - TIMMUR, Sugauli: «impresionados por su resistencia y empiezan a reclutar…» (texto de Luis).
 - La «T» está definida en CICLO HÍDRICO (4), primera aparición.
+- Decisiones de Luis (18/10/26): Sugauli con comas; escombrera «a principios del siglo XXI»; PLA-UR con «nobleza terrateniente de los Ürményi» y «Los propietarios descubren»; la «T» entre comillas simples en todo el libro (146 usos; excepciones en la Norma 55). **Pendiente:** cautela de «escena de ambientación» en la glosa (2) de PLA-UR; los dos títulos con T sin comillas.
