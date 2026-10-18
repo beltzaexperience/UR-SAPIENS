@@ -25,3 +25,12 @@
 - **Quedan 24 apariciones con guion en URS (piezas):** UR-Sapiens ×13, Ur-Nammu ×1, Ur-lañó ×4 (CICLO HÍDRICO ×1, EL KOXKERO ×2, TU NUBE SECA MI RÍO ×1) y Rêv-e-UR ×6 (a estudiar).
 - **Salen 16:** PLA-UR ×3 (más 2 en las pestañas), UR-be/UR-BE ×4 (más 7 en PRECEDENTES), T-UR ×3, sus-UR-ro ×1, LA-UR-EL ×1, K-UR-T / Shak-UR / MINO-TA-UR-O ×3 y UR-book ×1 (más 12 en PRECEDENTES, ahora «este libro»). También el UR-BELTZ de la etiqueta de la cuenca del Congo.
 - **URIM:** sin tocar.
+
+## RÊVEUR (18/10/26)
+Luis: «Rêv-e-UR: sin guiones. ¿Y qué pasa con la “E”? ¿Se mantiene o es paraciencia total?». Respuesta: paraciencia. En francés *rêveur* es *rêv(er)* + el sufijo *-eur* (del latín *-orem*); la «e» pertenece al sufijo, no es una bisagra entre «rêv-» y UR, y la coincidencia con UR es una homografía. Se quitan los guiones (título, cuerpo y etiqueta de la pestaña de glosas extendidas), el párrafo que leía la «e» y la glosa (5); las glosas (6) y (7) pasan a (5) y (6). «El título no solo une carta, soñador y raíz» pasa a «El título une carta y soñador».
+
+**Párrafo retirado (para rescatarlo si hiciera falta):** «La grafía Rêv-e-UR refuerza esa deriva. La «e» no es un simple adorno visual; funciona como bisagra entre dos campos de fuerza. Por un lado está rêv-, con toda su historia de desplazamiento, distracción y desvío. Por otro, UR, que en este libro designa la raíz del agua viva, pero también la condición de lo necesario, de lo que sostiene la vida. Esa «e» intermedia evita que el título se cierre demasiado pronto. Hace de puente entre el sueño y la raíz, entre la deriva y la necesidad, entre la imagen poética y la materia.»
+**Glosa (5) retirada:** «Rêv-e-UR: Lectura propia del libro, no etimología académica: el sufijo -eur es una unidad morfológica única (del latín -orem), no dos piezas separables.»
+
+## UR no es el libro (18/10/26)
+Luis: «UR es el personaje del libro, no el libro». RÍO CONGO: «Entre esas tensiones, UR encuentra su cauce.» En el anexo PRECEDENTES, los 12 usos de UR-book pasan a «UR» (11) y, donde UR no encaja, a *Anomalía Rupestre* en cursiva (1: «el UR-Sapiens de *Anomalía Rupestre* apuntan en la misma dirección»).
