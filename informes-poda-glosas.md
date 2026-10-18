@@ -666,3 +666,6 @@ Método: 595 glosas en 74 piezas (481 en URS, 114 en URIM) extraídas del HTML y
 - PLA-UR: Urmánczi → Ürményi (cuerpo y glosa (2)). Estaño: que los Ürményi fueran los propietarios del episodio.
 - TIMMUR: la «cláusula de reclutamiento» del tratado de Sugauli se sustituye por el reclutamiento anterior al fin de la guerra. Estaño: texto de Aitchison; autorización nepalí hacia 1885.
 - Aplicación de la fecha de redacción a las 25 glosas del recorrido: **pendiente** (decisión de Luis).
+- La escombrera sistémica: «Doce años antes» → «Casi cuatro décadas antes»; glosa (1) con el traslado del vertedero hacia 2009 a la comuna de Choeung Ek. Queda en estaño: hectáreas y personas del vertedero; «Time» como cabecera de Flynn.
+- TIMMUR, Sugauli: «impresionados por su resistencia y empiezan a reclutar…» (texto de Luis).
+- La «T» está definida en CICLO HÍDRICO (4), primera aparición.
