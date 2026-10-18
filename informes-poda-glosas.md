@@ -626,3 +626,11 @@ Las recojo tal como las dejé en cada informe, por orden de URS. Ninguna bloquea
 - **Confirmado en resúmenes (sin abrir los textos completos):** de Castro 2019; Espinosa-Sánchez, Gómez-Marín y de Castro, *The Neuroscientist* 31(1) 14-30 (2025) (algunos registros dan 2023: edición anticipada); UNESCO/CSIC.
 - **Estaño pendiente:** el «retardo» y la formalización de McCulloch y Pitts; el DOI de la nota (10); la «Nota metodológica» del final (la dejo: es una cautela que el cuerpo repite); la numeración de las notas, que continúa la de III·I ((6) a (11)).
 - Se retira `(*-glo)`.
+
+## Actualización (18/10/26): TIMMUR, cifras de Rasuwa
+
+- 1.066 / 4.462: suma provisional de Nepal (1.050 y 3.916) y Tíbet (16 y 546) hacia el 01-02/09. Superada el 02/09 (Nepal 1.114; suma 1.130 y 4.462), el 04/09 (1.308 y 5.624) y el 16/09 (1.442 y 5.698).
+- Cuerpo: «El balance final, difícil de cuantificar a día de hoy, supera el millar de fallecidos y más de cuatro mil desaparecidos a ambos lados de la frontera.» (texto de Luis).
+- Glosa (3): cifras exactas con fecha y fuente; retirados «562 y casi 2.500» y «Open; Outlook India; IANS».
+- Topónimo: Timure (no Timur ni Timmu).
+- **Estaño pendiente:** las cifras de la glosa (3) (solo resúmenes de buscador; páginas no abiertas); «Las cifras iniciales… más de trescientas sesenta muertos…»; «nueve metros en treinta minutos»; «Lhende Khola».
