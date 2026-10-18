@@ -2368,3 +2368,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **Rêveur: relojero estándar y automatismos (18/10/2026).** Detalle en la Norma 55, «Rêveur: relojero estándar», y en `informe-reveur-relojero.md`. **Marcador (Regla 14):** URS 1.038.006 caracteres / 172.199 palabras / ≈689 págs.; libro puro 744.928 / 118.399 / ≈474; URIM 383.138 / 66.523 / ≈266; URS+URIM 1.421.126 / 238.718 / ≈955; TOTAL DEL PROYECTO 1.521.621 / 255.302 / ≈1021. Cartel ≈474 págs. · 118.399 palabras · 69 piezas. HTML sin publicar.
 
 **Rêveur pasa a URIM (18/10/2026, Luis: «menos páginas, más calidad»).** Detalle en la Norma 55, «Rêveur pasa de URS a URIM». **Marcador (Regla 14):** URS 1.032.070 caracteres / 171.210 palabras / ≈685 págs. (75 piezas); libro puro 738.949 / 117.402 / ≈470 (68 piezas); URIM 389.079 / 67.515 / ≈270 (91 piezas reales); URS+URIM 1.421.131 / 238.721; TOTAL DEL PROYECTO 1.521.626 / 255.305. Cartel ≈470 págs. · 117.402 palabras · 68 piezas. HTML sin publicar.
+
+**Publicación del HTML con Rêveur en URIM (18/10/2026, con el OK de Luis).** Libro puro 117.402 palabras, ≈470 págs., 68 piezas. HTML publicado.
