@@ -2372,3 +2372,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **Publicación del HTML con Rêveur en URIM (18/10/2026, con el OK de Luis).** Libro puro 117.402 palabras, ≈470 págs., 68 piezas. HTML publicado.
 
 **CULTURA: CONTINENTE IBÉRICO, texto nuevo de Luis tras el Relojero-Plus (18/10/2026).** Detalle en la Norma 55, «CULTURA: CONTINENTE IBÉRICO: Relojero-Plus y texto nuevo de Luis». **Marcador (Regla 14):** URS 1.031.980 caracteres / 171.210 palabras / ≈685 págs.; libro puro 738.859 / 117.402 / ≈470; URS+URIM 1.421.041 / 238.721 / ≈955; TOTAL DEL PROYECTO 1.521.536 / 255.305 / ≈1021. Cartel ≈470 págs. · 117.402 palabras · 68 piezas. HTML sin publicar.
+
+**CULTURA: CONTINENTE IBÉRICO, tercera versión de Luis (18/10/2026).** Detalle en la Norma 55, «CULTURA: CONTINENTE IBÉRICO, tercera versión de Luis». **Marcador (Regla 14):** URS 1.031.884 caracteres / 171.193 palabras / ≈685 págs.; libro puro 738.763 / 117.385 / ≈470; URS+URIM 1.420.945 / 238.704 / ≈955; TOTAL DEL PROYECTO 1.521.440 / 255.288 / ≈1021. Cartel ≈470 págs. · 117.385 palabras · 68 piezas. HTML sin publicar.
