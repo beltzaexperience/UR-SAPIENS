@@ -2,7 +2,7 @@
 
 **Encargo de Luis:** «Pasa al relojero, no hace falta que sea el plus y corrige todo lo que sea automatismos en Rêveur, luego crea lectores independientes y a ver qué dicen.»
 
-**Método:** Procedimiento Relojero estándar (lectura corrida de la pieza entera, cuerpo y glosa) con el Pase automático único (Normas 1, 3, 36.7, 38.1 bis, 31 y 28; las demás del listado no tenían casos). Perfil de frase (`herramientas/perfil-frase.py`) antes de entregar. La pieza pasa de 1.360 a 997 palabras.
+**Método:** Procedimiento Relojero estándar (lectura corrida de la pieza entera, cuerpo y glosa) con el Pase automático único (Normas 1, 3, 36.7, 38.1 bis, 31 y 28; las demás del listado no tenían casos). Perfil de frase (`herramientas/perfil-frase.py`) antes de entregar. La pieza pasa de 1.359 a 997 palabras.
 
 ## Cambios automáticos (antes → después)
 
