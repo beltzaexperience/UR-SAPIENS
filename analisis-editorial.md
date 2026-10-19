@@ -2385,7 +2385,7 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 
 **CULTURA: CONTINENTE IBÉRICO, preguntas abiertas y contraste con la bibliografía (19/10/2026).** Detalle en la Norma 55, «CULTURA: CONTINENTE IBÉRICO, preguntas abiertas y contraste de las tesis de Luis con la bibliografía». Sin cambios en el HTML ni en el Marcador.
 
-**«A- CULTURA»: informe Hammurabeltz (19/10/2026).** Detalle en la Norma 55, ««A- CULTURA»: informe Hammurabeltz», y en `informe-a-cultura-hammurabeltz.md`. Sin cambios en el HTML ni en el Marcador.
+**«A- CULTURA»: informe Hammurabeltz (19/10/2026).** Detalle en la Norma 55, ««A- CULTURA»: informe Hammurabeltz» (el informe se entregó a Luis en la conversación; el archivo se retiró del repo a petición suya). Sin cambios en el HTML ni en el Marcador.
 
 **CULTURA: CONTINENTE IBÉRICO, tres pendientes investigados y corrección sobre Can Sadurní (19/10/2026).** Detalle en la Norma 55, «CULTURA: CONTINENTE IBÉRICO, tres pendientes investigados y corrección sobre Can Sadurní». Sin cambios en el HTML ni en el Marcador.
 
@@ -2394,3 +2394,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **CULTURA: versión de trabajo en URIM, con Hammurabeltz y Relojero-Plus (19/10/2026).** Detalle en la Norma 55, «CULTURA: versión de trabajo, a URIM, con Hammurabeltz y Relojero-Plus». **Marcador (Regla 14):** URS 1.031.878 caracteres / 171.190 palabras / ≈685 págs.; libro puro 738.757 / 117.382 / ≈470; URS+URIM 1.464.512 / 245.837 / ≈983; TOTAL DEL PROYECTO 1.565.007 / 262.421 / ≈1050. HTML sin publicar.
 
 **CULTURA: versión de trabajo, Pase automático, glosa y cifras aplicados (19/10/2026).** Detalle en la Norma 55, «CULTURA: versión de trabajo, Pase automático, glosa y cifras aplicados». **Marcador (Regla 14):** URS 1.031.878 caracteres / 171.190 palabras / ≈685 págs.; libro puro 738.757 / 117.382 / ≈470; URS+URIM 1.460.237 / 245.176 / ≈981; TOTAL DEL PROYECTO 1.560.732 / 261.760 / ≈1047. HTML sin publicar.
+
+**CULTURA: versión de trabajo, recorrido de Luis aplicado, glosa reducida y referencias huérfanas limpiadas (19/10/2026).** Detalle en la Norma 55, «CULTURA: versión de trabajo, recorrido de Luis aplicado y glosa reducida». **Marcador (Regla 14):** URS 1.031.878 caracteres / 171.190 palabras / ≈685 págs.; libro puro 738.757 / 117.382 / ≈470; URS+URIM 1.456.482 / 244.599 / ≈978; TOTAL DEL PROYECTO 1.556.977 / 261.183 / ≈1045. HTML sin publicar.
