@@ -2382,3 +2382,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **CULTURA: CONTINENTE IBÉRICO, apertura sin «agua y origen» (18/10/2026).** Detalle en la Norma 55, «CULTURA: CONTINENTE IBÉRICO, apertura sin «agua y origen» y búsqueda de anclas en URS». **Marcador (Regla 14):** URS 1.031.878 caracteres / 171.190 palabras / ≈685 págs.; libro puro 738.757 / 117.382 / ≈470; URS+URIM 1.420.939 / 238.701 / ≈955; TOTAL DEL PROYECTO 1.521.434 / 255.285 / ≈1021. Cartel ≈470 págs. · 117.382 palabras · 68 piezas. HTML sin publicar.
 
 **Búsqueda de datos nuevos en las cinco zonas de Cara 1 sin piezas en URS (19/10/2026).** Detalle en la Norma 55, «Búsqueda de datos nuevos en las cinco zonas de Cara 1 sin piezas en URS». Sin cambios en el HTML ni en el Marcador.
+
+**CULTURA: CONTINENTE IBÉRICO, preguntas abiertas y contraste con la bibliografía (19/10/2026).** Detalle en la Norma 55, «CULTURA: CONTINENTE IBÉRICO, preguntas abiertas y contraste de las tesis de Luis con la bibliografía». Sin cambios en el HTML ni en el Marcador.
