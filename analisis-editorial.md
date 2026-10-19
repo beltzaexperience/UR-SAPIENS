@@ -2384,3 +2384,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **Búsqueda de datos nuevos en las cinco zonas de Cara 1 sin piezas en URS (19/10/2026).** Detalle en la Norma 55, «Búsqueda de datos nuevos en las cinco zonas de Cara 1 sin piezas en URS». Sin cambios en el HTML ni en el Marcador.
 
 **CULTURA: CONTINENTE IBÉRICO, preguntas abiertas y contraste con la bibliografía (19/10/2026).** Detalle en la Norma 55, «CULTURA: CONTINENTE IBÉRICO, preguntas abiertas y contraste de las tesis de Luis con la bibliografía». Sin cambios en el HTML ni en el Marcador.
+
+**«A- CULTURA»: informe Hammurabeltz (19/10/2026).** Detalle en la Norma 55, ««A- CULTURA»: informe Hammurabeltz», y en `informe-a-cultura-hammurabeltz.md`. Sin cambios en el HTML ni en el Marcador.
