@@ -2388,3 +2388,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **«A- CULTURA»: informe Hammurabeltz (19/10/2026).** Detalle en la Norma 55, ««A- CULTURA»: informe Hammurabeltz», y en `informe-a-cultura-hammurabeltz.md`. Sin cambios en el HTML ni en el Marcador.
 
 **CULTURA: CONTINENTE IBÉRICO, tres pendientes investigados y corrección sobre Can Sadurní (19/10/2026).** Detalle en la Norma 55, «CULTURA: CONTINENTE IBÉRICO, tres pendientes investigados y corrección sobre Can Sadurní». Sin cambios en el HTML ni en el Marcador.
+
+**CULTURA: borrador de las mesas, a URIM por el momento (19/10/2026).** Detalle en la Norma 55, «CULTURA: borrador de las mesas, a URIM por el momento». **Marcador (Regla 14):** URS 1.031.878 caracteres / 171.190 palabras / ≈685 págs.; libro puro 738.757 / 117.382 / ≈470; URS+URIM 1.441.609 / 242.164 / ≈969; TOTAL DEL PROYECTO 1.542.104 / 258.748 / ≈1035. HTML sin publicar.
