@@ -2406,3 +2406,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **«Continente» y «continental» en todo el libro, y glosa de Terán y Gibson (19/10/2026).** Detalle en la Norma 55, ««Continente» y «continental» en todo el libro, y glosa de los dos referentes». **Marcador (Regla 14):** URS 1.032.526 caracteres / 171.278 palabras / ≈685 págs.; libro puro 739.405 / 117.470 / ≈470; URS+URIM 1.456.150 / 244.515 / ≈978; TOTAL DEL PROYECTO 1.556.645 / 261.099 / ≈1044. HTML sin publicar desde estos cambios.
 
 **«Continente» y «continental» ambiguos se precisan con «ibérico» (19/10/2026).** Detalle en la Norma 55, ««Continente» y «continental» ambiguos se precisan con «ibérico»». **Marcador (Regla 14):** URS 1.032.582 caracteres / 171.287 palabras / ≈685 págs.; libro puro 739.461 / 117.479 / ≈470; URS+URIM 1.456.201 / 244.527 / ≈978; TOTAL DEL PROYECTO 1.556.696 / 261.111 / ≈1044. HTML sin publicar desde estos cambios.
+
+**Publicación del HTML con el OK de Luis (19/10/2026).** Detalle en la Norma 55, «Publicación del HTML con el OK de Luis». Marcador sin cambios respecto al anterior.
