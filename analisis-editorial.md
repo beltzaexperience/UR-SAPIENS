@@ -2482,3 +2482,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **APERTURA: quinta lectura, con la sacerdotisa y la glosa de Valencina (20/10/2026).** Detalle en la Norma 55, «APERTURA: quinta lectura». Nota 3,99 (α); público 3,81; emoción 3,00. Sin cambios en el HTML ni en el Marcador.
 
 **EI de URS sin (*-tit); (*-nor) se mantiene (20/10/2026).** Detalle en la Norma 55, «EI de URS sin (*-tit); (*-nor) se mantiene», y en la Regla 39. **Marcador (Regla 14):** URS 1.037.495 caracteres / 172.071 palabras / ≈688 págs. / 76 piezas; libro puro 744.374 / 118.263 / ≈473 / 69 piezas; URS+URIM 1.460.510 / 245.218 / ≈981 / 167; TOTAL DEL PROYECTO 1.561.005 / 261.802 / ≈1047 / 220. HTML sin publicar desde este cambio.
+
+**HTML publicado: EI de URS sin (*-tit) (20/10/2026).** Detalle en la Norma 55, «HTML publicado: EI de URS sin (*-tit)». HTML publicado.
