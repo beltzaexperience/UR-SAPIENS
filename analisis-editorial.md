@@ -2448,3 +2448,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **APERTURA: propuestas del Relojero-Plus aplicadas y HTML publicado (20/10/2026).** Detalle en la Norma 55, «APERTURA: propuestas del Relojero-Plus aplicadas y HTML publicado». **Marcador (Regla 14):** URS 1.037.204 caracteres / 172.030 palabras / ≈688 págs. / 76 piezas; libro puro 744.083 / 118.222 / ≈473 / 69 piezas; URS+URIM 1.460.219 / 245.177 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.714 / 261.761 / ≈1047 / 220. HTML publicado.
 
 **APERTURA: las cinco fricciones, comentarios de Luis y propuestas (20/10/2026).** Detalle en la Norma 55, «APERTURA: las cinco fricciones, comentarios de Luis y propuestas». Sin cambios en el HTML ni en el Marcador.
+
+**APERTURA: A2, redacción de Luis para el pozo y D sin cambio (20/10/2026).** Detalle en la Norma 55, «APERTURA: A2, redacción de Luis para el pozo y D sin cambio». **Marcador (Regla 14):** URS 1.037.258 caracteres / 172.028 palabras / ≈688 págs. / 76 piezas; libro puro 744.137 / 118.220 / ≈473 / 69 piezas; URS+URIM 1.460.273 / 245.175 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.768 / 261.759 / ≈1047 / 220. HTML sin publicar desde este cambio.
