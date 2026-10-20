@@ -2428,3 +2428,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **APERTURA: borrador v4, la tesis es la pregunta; conclusiones de la respuesta de Chrome con rigor (20/10/2026).** Detalle en la Norma 55, «APERTURA: borrador v4, la tesis es la pregunta». Sin cambios en el HTML ni en el Marcador.
 
 **APERTURA: borrador v5, las pérdidas no pesan y la protección del pozo va en afirmativo (20/10/2026).** Detalle en la Norma 55, «APERTURA: borrador v5». Sin cambios en el HTML ni en el Marcador.
+
+**APERT-UR-A: v6 final entra en ETIMOLOGÍA INSURGENTE (20/10/2026).** Detalle en la Norma 55, «APERT-UR-A: v6 final entra en ETIMOLOGÍA INSURGENTE». **Marcador (Regla 14):** URS 1.036.695 caracteres / 171.954 palabras / ≈688 págs. / 76 piezas; libro puro 743.574 / 118.146 / ≈473 / 69 piezas; URS+URIM 1.459.710 / 245.101 / ≈980 / 167; TOTAL DEL PROYECTO 1.560.205 / 261.685 / ≈1047 / 220. HTML sin publicar desde este cambio.
