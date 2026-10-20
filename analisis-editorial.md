@@ -2418,3 +2418,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **CULTURA: versión de trabajo, decisiones de Luis aplicadas y propuestas (20/10/2026).** Detalle en la Norma 55, «CULTURA: versión de trabajo, decisiones de Luis aplicadas y propuestas». **Marcador (Regla 14):** URS 1.032.494 caracteres / 171.281 palabras / ≈685 págs.; libro puro 739.373 / 117.473 / ≈470; URS+URIM 1.455.509 / 244.428 / ≈978; TOTAL DEL PROYECTO 1.556.004 / 261.012 / ≈1044. HTML sin publicar desde este cambio.
 
 **ETIMOLOGÍA INSURGENTE · APERTURA: auditoría de la investigación de Luis (20/10/2026).** Detalle en la Norma 55, «ETIMOLOGÍA INSURGENTE · APERTURA: auditoría de la investigación de Luis». Sin cambios en el HTML ni en el Marcador.
+
+**ETIMOLOGÍA INSURGENTE · APERTURA: pieza nueva en URS (20/10/2026).** Detalle en la Norma 55, «ETIMOLOGÍA INSURGENTE · APERTURA: pieza nueva en URS». **Marcador (Regla 14):** URS 1.034.887 caracteres / 171.672 palabras / ≈687 págs. / 76 piezas; libro puro 741.766 / 117.864 / ≈471 / 69 piezas; URS+URIM 1.457.902 / 244.819 / ≈979; TOTAL DEL PROYECTO 1.558.397 / 261.403 / ≈1046. HTML sin publicar desde este cambio.
