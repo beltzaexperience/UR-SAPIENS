@@ -2426,3 +2426,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **APERTURA: borrador v3, con la lectura del libro corregida (20/10/2026).** Detalle en la Norma 55, «APERTURA: borrador v3, con la lectura del libro corregida». Sin cambios en el HTML ni en el Marcador.
 
 **APERTURA: borrador v4, la tesis es la pregunta; conclusiones de la respuesta de Chrome con rigor (20/10/2026).** Detalle en la Norma 55, «APERTURA: borrador v4, la tesis es la pregunta». Sin cambios en el HTML ni en el Marcador.
+
+**APERTURA: borrador v5, las pérdidas no pesan y la protección del pozo va en afirmativo (20/10/2026).** Detalle en la Norma 55, «APERTURA: borrador v5». Sin cambios en el HTML ni en el Marcador.
