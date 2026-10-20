@@ -2468,3 +2468,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **APERTURA: tercera lectura, con criterios específicos de público y emoción (20/10/2026).** Detalle en la Norma 55, «APERTURA: tercera lectura, con criterios específicos de público y emoción». Nota 3,94 (α); emoción 2,75, el criterio más bajo. Sin cambios en el HTML ni en el Marcador.
 
 **APERTURA: dos frases de Luis para la emoción del medio (20/10/2026).** Detalle en la Norma 55, «APERTURA: dos frases de Luis para la emoción del medio». **Marcador (Regla 14):** URS 1.037.195 caracteres / 172.013 palabras / ≈688 págs. / 76 piezas; libro puro 744.074 / 118.205 / ≈473 / 69 piezas; URS+URIM 1.460.210 / 245.160 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.705 / 261.744 / ≈1047 / 220. HTML sin publicar desde este cambio.
+
+**APERTURA: cuarta lectura, con las dos frases de Luis dentro (20/10/2026).** Detalle en la Norma 55, «APERTURA: cuarta lectura, con las dos frases de Luis dentro». Nota 3,94 (α); entrada 3,94; emoción 2,88. Sin cambios en el HTML ni en el Marcador.
