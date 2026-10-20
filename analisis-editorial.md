@@ -2444,3 +2444,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **EI en orden alfabético y marca de APERTURA (20/10/2026).** Detalle en la Norma 55, «EI en orden alfabético y marca de APERTURA». **Marcador (Regla 14):** URS 1.037.295 caracteres / 172.048 palabras / ≈688 págs. / 76 piezas; libro puro 744.174 / 118.240 / ≈473 / 69 piezas; URS+URIM 1.460.310 / 245.195 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.805 / 261.779 / ≈1047 / 220. HTML sin publicar.
 
 **APERTURA: Relojero-Plus, resultado y propuestas (20/10/2026).** Detalle en la Norma 55, «APERTURA: Relojero-Plus, resultado y propuestas». Cursivas de los titulares de la glosa corregidas (sin cambio en el Marcador); el HTML sigue sin publicar.
+
+**APERTURA: propuestas del Relojero-Plus aplicadas y HTML publicado (20/10/2026).** Detalle en la Norma 55, «APERTURA: propuestas del Relojero-Plus aplicadas y HTML publicado». **Marcador (Regla 14):** URS 1.037.204 caracteres / 172.030 palabras / ≈688 págs. / 76 piezas; libro puro 744.083 / 118.222 / ≈473 / 69 piezas; URS+URIM 1.460.219 / 245.177 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.714 / 261.761 / ≈1047 / 220. HTML publicado.
