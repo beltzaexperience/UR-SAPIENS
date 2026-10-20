@@ -2462,3 +2462,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **APERTURA: el gancho emocional de una EI (20/10/2026).** Detalle en la Norma 55, «APERTURA: el gancho emocional de una EI». Sin cambios en el HTML ni en el Marcador.
 
 **APERTURA: entrada de Luis (20/10/2026).** Detalle en la Norma 55, «APERTURA: entrada de Luis». **Marcador (Regla 14):** URS 1.037.113 caracteres / 171.999 palabras / ≈688 págs. / 76 piezas; libro puro 743.992 / 118.191 / ≈473 / 69 piezas; URS+URIM 1.460.128 / 245.146 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.623 / 261.730 / ≈1047 / 220. HTML sin publicar desde este cambio.
+
+**APERTURA: remate b, sin la frase del permiso (20/10/2026).** Detalle en la Norma 55, «APERTURA: remate b, sin la frase del permiso». Sin cambios en el HTML ni en el Marcador.
