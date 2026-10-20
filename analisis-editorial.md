@@ -2412,3 +2412,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **Glosa del continente ibérico: Saramago sustituye a Gibson (20/10/2026).** Detalle en la Norma 55, «Glosa del continente ibérico: Saramago sustituye a Gibson (opción A)». **Marcador (Regla 14):** URS 1.032.558 caracteres / 171.290 palabras / ≈685 págs.; libro puro 739.437 / 117.482 / ≈470; URS+URIM 1.456.177 / 244.530 / ≈978; TOTAL DEL PROYECTO 1.556.672 / 261.114 / ≈1044. HTML sin publicar desde este cambio.
 
 **CULTURA: versión de trabajo, Relojero-Plus (20/10/2026).** Detalle en la Norma 55, «CULTURA: versión de trabajo, Relojero-Plus». Sin cambios en el HTML ni en el Marcador.
+
+**CULTURA: versión de trabajo, Pase automático aplicado tras el Relojero-Plus (20/10/2026).** Detalle en la Norma 55, «CULTURA: versión de trabajo, Pase automático aplicado tras el Relojero-Plus». **Marcador (Regla 14):** URS 1.032.494 caracteres / 171.281 palabras / ≈685 págs.; libro puro 739.373 / 117.473 / ≈470; URS+URIM 1.455.958 / 244.501 / ≈978; TOTAL DEL PROYECTO 1.556.453 / 261.085 / ≈1044. HTML sin publicar desde este cambio.
