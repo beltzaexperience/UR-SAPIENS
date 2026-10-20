@@ -4,7 +4,7 @@
 Uso:  python3 herramientas/glosa-extendida.py "INICIO DEL TÍTULO DE LA PIEZA" ["Sección que se muestra"] [--prueba]
 
 Lee la glosa actual de la pieza (antes de podarla), arma su pestaña interna con la etiqueta «⚑ PARA:» y el texto
-completo, y la inserta en la pieza GLOSAS EXTENDIDAS de la categoría «CONTRAPORTADA Y GLOSAS EXTENDIDAS»
+completo, y la inserta en la pieza GLOSAS EXTENDIDAS de la categoría «CONTRAPORTADA Y OTROS ASUNTOS RELEVANTES»
 en el lugar que le corresponde por orden de URS. Con --prueba no escribe nada. No toca el Marcador ni la pieza.
 """
 import html, re, sys, os
