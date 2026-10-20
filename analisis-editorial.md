@@ -2478,3 +2478,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **APERTURA: sacerdotisa con vestido de conchas (20/10/2026).** Detalle en la Norma 55, «APERTURA: sacerdotisa con vestido de conchas». **Marcador (Regla 14):** URS 1.037.480 caracteres / 172.066 palabras / ≈688 págs. / 76 piezas; libro puro 744.359 / 118.258 / ≈473 / 69 piezas; URS+URIM 1.460.495 / 245.213 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.990 / 261.797 / ≈1047 / 220. HTML sin publicar desde este cambio.
 
 **APERTURA: glosa «Véase TUR: LA DAMA DE MARFIL», nueva lectura y HTML publicado (20/10/2026).** Detalle en la Norma 55, «APERTURA: glosa Véase TUR: LA DAMA DE MARFIL, nueva lectura y HTML publicado». **Marcador (Regla 14):** URS 1.037.543 caracteres / 172.077 palabras / ≈688 págs. / 76 piezas; libro puro 744.422 / 118.269 / ≈473 / 69 piezas; URS+URIM 1.460.558 / 245.224 / ≈981 / 167; TOTAL DEL PROYECTO 1.561.053 / 261.808 / ≈1047 / 220. HTML publicado.
+
+**APERTURA: quinta lectura, con la sacerdotisa y la glosa de Valencina (20/10/2026).** Detalle en la Norma 55, «APERTURA: quinta lectura». Nota 3,99 (α); público 3,81; emoción 3,00. Sin cambios en el HTML ni en el Marcador.
