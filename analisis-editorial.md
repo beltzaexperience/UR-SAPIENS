@@ -2474,3 +2474,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **APERTURA: encargo de 4 o 5 líneas con una sacerdotisa ibérica (20/10/2026).** Detalle en la Norma 55, «APERTURA: encargo de 4 o 5 líneas con una sacerdotisa ibérica». Propuestas presentadas; sin cambios en el HTML ni en el Marcador.
 
 **APERTURA: la sacerdotisa de Luis, con la daga corregida (20/10/2026).** Detalle en la Norma 55, «APERTURA: la sacerdotisa de Luis, con la daga corregida». **Marcador (Regla 14):** URS 1.037.474 caracteres / 172.065 palabras / ≈688 págs. / 76 piezas; libro puro 744.353 / 118.257 / ≈473 / 69 piezas; URS+URIM 1.460.489 / 245.212 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.984 / 261.796 / ≈1047 / 220. HTML sin publicar desde este cambio.
+
+**APERTURA: sacerdotisa con vestido de conchas (20/10/2026).** Detalle en la Norma 55, «APERTURA: sacerdotisa con vestido de conchas». **Marcador (Regla 14):** URS 1.037.480 caracteres / 172.066 palabras / ≈688 págs. / 76 piezas; libro puro 744.359 / 118.258 / ≈473 / 69 piezas; URS+URIM 1.460.495 / 245.213 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.990 / 261.797 / ≈1047 / 220. HTML sin publicar desde este cambio.
