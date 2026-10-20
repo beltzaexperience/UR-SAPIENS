@@ -2440,3 +2440,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **APERTURA: título sin guiones (20/10/2026).** Detalle en la Norma 55, «APERTURA: título sin guiones». Las entradas anteriores llamadas «APERT-UR-A» se refieren a la misma pieza. **Marcador (Regla 14):** URS 1.037.304 caracteres / 172.048 palabras / ≈688 págs. / 76 piezas; libro puro 744.183 / 118.240 / ≈473 / 69 piezas; URS+URIM 1.460.319 / 245.195 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.814 / 261.779 / ≈1047 / 220. HTML sin publicar desde este cambio.
 
 **Norma 58 escrita: Etimología Insurgente, intención, objetivo, función y método (20/10/2026).** Detalle en la Norma 58 y en la Norma 55, «Norma 58 escrita». Sin cambios en el HTML ni en el Marcador.
+
+**EI en orden alfabético y marca de APERTURA (20/10/2026).** Detalle en la Norma 55, «EI en orden alfabético y marca de APERTURA». **Marcador (Regla 14):** URS 1.037.295 caracteres / 172.048 palabras / ≈688 págs. / 76 piezas; libro puro 744.174 / 118.240 / ≈473 / 69 piezas; URS+URIM 1.460.310 / 245.195 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.805 / 261.779 / ≈1047 / 220. HTML sin publicar.
