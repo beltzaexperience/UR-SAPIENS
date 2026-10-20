@@ -2422,3 +2422,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **APERTURA: pieza retirada y Norma 58 no adoptada (20/10/2026).** Detalle en la Norma 55, «APERTURA: pieza retirada y Norma 58 no adoptada». **Marcador (Regla 14):** URS 1.032.494 caracteres / 171.281 palabras / ≈685 págs. / 75 piezas; libro puro 739.373 / 117.473 / ≈470 / 68 piezas; URS+URIM 1.455.509 / 244.428 / ≈978; TOTAL DEL PROYECTO 1.556.004 / 261.012 / ≈1044.
 
 **APERTURA: borrador v2 entregado a Luis, sin tocar el HTML (20/10/2026).** Detalle en la Norma 55, «APERTURA: borrador v2 entregado a Luis, sin tocar el HTML». Sin cambios en el HTML ni en el Marcador.
+
+**APERTURA: borrador v3, con la lectura del libro corregida (20/10/2026).** Detalle en la Norma 55, «APERTURA: borrador v3, con la lectura del libro corregida». Sin cambios en el HTML ni en el Marcador.
