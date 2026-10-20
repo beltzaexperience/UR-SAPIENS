@@ -2442,3 +2442,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **Norma 58 escrita: Etimología Insurgente, intención, objetivo, función y método (20/10/2026).** Detalle en la Norma 58 y en la Norma 55, «Norma 58 escrita». Sin cambios en el HTML ni en el Marcador.
 
 **EI en orden alfabético y marca de APERTURA (20/10/2026).** Detalle en la Norma 55, «EI en orden alfabético y marca de APERTURA». **Marcador (Regla 14):** URS 1.037.295 caracteres / 172.048 palabras / ≈688 págs. / 76 piezas; libro puro 744.174 / 118.240 / ≈473 / 69 piezas; URS+URIM 1.460.310 / 245.195 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.805 / 261.779 / ≈1047 / 220. HTML sin publicar.
+
+**APERTURA: Relojero-Plus, resultado y propuestas (20/10/2026).** Detalle en la Norma 55, «APERTURA: Relojero-Plus, resultado y propuestas». Cursivas de los titulares de la glosa corregidas (sin cambio en el Marcador); el HTML sigue sin publicar.
