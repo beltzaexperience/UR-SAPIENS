@@ -2458,3 +2458,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **APERTURA: lectura editorial para la letra de gama (20/10/2026).** Detalle en la Norma 55, «APERTURA: lectura editorial para la letra de gama». Resultado α (nota bruta 3,90); pendiente del OK de Luis para poner la letra. Sin cambios en el HTML ni en el Marcador.
 
 **APERTURA: cierre y guiño eliminados, α puesta y prueba con la primera redacción (20/10/2026).** Detalle en la Norma 55, «APERTURA: cierre y guiño eliminados, α puesta y prueba con la primera redacción». Primera redacción 3,74 frente a versión del día anterior 3,90 (aporte +0,44; público +0,19). **Marcador (Regla 14):** URS 1.037.021 caracteres / 171.984 palabras / ≈688 págs. / 76 piezas; libro puro 743.900 / 118.176 / ≈473 / 69 piezas; URS+URIM 1.460.036 / 245.131 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.531 / 261.715 / ≈1047 / 220. HTML sin publicar desde este cambio.
+
+**APERTURA: el gancho emocional de una EI (20/10/2026).** Detalle en la Norma 55, «APERTURA: el gancho emocional de una EI». Sin cambios en el HTML ni en el Marcador.
