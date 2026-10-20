@@ -2068,6 +2068,8 @@ Un resultado o un hallazgo abstracto (*el hallazgo, el resultado, la obra*) no e
 
 **APERTURA: título sin guiones (20/10/26).** Luis: *«Nada de guiones, APERTURA a secas, ninguna EI lleva guiones. Está en las normas.»* Error de Claude: la regla vigente es «Títulos sin guion» (entrada «Guiones -UR- en URS: decisiones de Luis (18/10/26)», punto 3; LAUREL pasó a LAUREL) y la pieza entró como APERT-UR-A. **Corregido:** título, encabezado, glosa y pie pasan a APERTURA, con UR en rojo. El cuerpo no cambia: «Apert-» (la forma del participio) y «Apert-UR-a» (la descomposición de la Regla 24) siguen con guion, como notación morfológica; Luis decide si también salen. **Marcador (Regla 14):** URS 1.037.304 caracteres / 172.048 palabras / ≈688 págs. / 76 piezas; libro puro 744.183 / 118.240 / ≈473 / 69 piezas; URS+URIM 1.460.319 / 245.195 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.814 / 261.779 / ≈1047 / 220 unidades. HTML sin publicar desde este cambio.
 
+**Norma 58 escrita: Etimología Insurgente, intención, objetivo, función y método (20/10/26).** Luis lo pide expresamente: *«Quiero que dejes constancia en una norma específica cuáles son las intenciones, el objetivo, la función y el método para construir una pieza breve de Etimología Insurgente.»* Se redacta como `## 58` al final de este archivo, con sus palabras citadas, siete pasos de método, reglas de voz, forma, proceso y nueve pruebas de revisión. No se añade criterio nuevo: se ordena lo dicho durante el trabajo de APERTURA. Las cinco EI anteriores no se tocan por esta norma sin que Luis lo pida. Sin cambios en el HTML ni en el Marcador.
+
 **Dos piezas pasan de URS a URIM (17/10/26, a petición de Luis).** «Mediterráneo ibérico · Cabo de Gata · Refugio punk en el desierto» (560 palabras, γ) pasa a URIM · Cara 1 · Mediterráneo Andaluz, y «Vendée · Francia atlántica · El escarpe y la fosa» (695 palabras, γ) a URIM · Cara 2 · Europa Latina · Francia-Italia-Grecia. Íntegras, con su glosa ya en forma telegráfica, sin las marcas de URS (γ, ☠ NO TOCAR!!!, (*-tit), (*-red), (*-nor)); como Wai-muri, que se movió así el 13/10/26. Sus pestañas de GLOSAS EXTENDIDAS se quedan donde estaban, con el rótulo «(URIM) —pieza retirada de URS a URIM el 17/10/26». Se retiran de la lista del estimador (`glosas-tratadas.json`), que queda en 57 piezas. La nota del Compost «Bar de Jo y el rodaje de Straight to Hell… ya desarrollados en URS» pasa a «en URIM». Los fragmentos «A LA MESA · Refugio punk en el desierto» y «Sigurd · Wagner», retirados de estas piezas el 10/10/26, siguen en su sitio. Efecto: el libro puro baja de 120.071 a 118.816 palabras (−1.255, ≈−5 págs.), de 71 a 69 piezas y de ≈480 a ≈475 págs.; el cartel estima ≈475. La subsección «Mediterráneo Andaluz» de URS queda sin pieza. HTML sin publicar.
 
 ## 56. PEGADA POLÍTICA: CIFRAS, AÑOS, TÉRMINOS Y NOMBRES — LA LECTURA DE UR NO SE LASTRA CON DATOS UNIVERSITARIOS (17/10/26)
@@ -2108,5 +2110,64 @@ Un resultado o un hallazgo abstracto (*el hallazgo, el resultado, la obra*) no e
 6. **Fuente para el curioso.** Lo anterior no quita la puerta del curioso (Norma 55, punto 5): una fuente de consulta barata sigue en la glosa cuando abre camino a quien quiera investigar, aunque el autor pudiera dar fe (caso resuelto el 17/10/26: Jakue Pascual se queda como fuente de «Gaztetxe», pieza A, aunque la definición del término sale, Norma 55).
 7. **Estaños: estado a 17/10/26 (después de las tandas 1 a 4; detalle en la Norma 55, «Tandas de estaño»).** *Resueltos* (con fuente de consulta, corregidos, generalizados o condicionados): «Antártida»; la profundidad de las Marianas; «Endorois», «Vilcabamba», «Curaca», «Tu nube seca mi río», «La Dama de Marfil» e «IA: Fantasía en órbita LEO». *Pendientes* (no se han podido confirmar con las búsquedas en resúmenes y se dejan así, a petición de Luis): Cúneo Vidal y la *Enciclopedia Incana*; el texto de «Ccollanan Pachacamac» y los cronistas Ocampo y Oviedo; los Kanas y su «raíz aimara»; «suri mana kapunchu»; la adopción del Júcar por Aurora Gómez y la cita de Naomi Klein; la «inmaterialidad» atribuida a Gómez; la datación del tholos de Montelirio (2875-2635 a. C.); el marfil de elefante asiático en Valencina; las dataciones de Mari y de Los Millares; la apicultura ogiek en troncos ahuecados; que el Servicio Forestal siguiera demoliendo casas después de 2017; el estado judicial de Pololeti (las fuentes divergen); la distancia de «decenas de kilómetros» al agua del Kalahari; el peso de la ayuda a la Dama (colmillo completo). Los casos de los satélites, la envergadura, el año de Sinangoe y la causa de la suspensión del Templo da Humanidade se resolvieron antes al generalizar el cuerpo.
 8. **Relación con otras normas.** Endurece las Normas 50 (punto 5) y 56 (punto 6); se apoya en la 40 (el registro); no cambia la 55 (el nivel 2 conserva dato exacto y fuente cuando el cuerpo los usa).
+
+---
+
+## 58. ETIMOLOGÍA INSURGENTE: INTENCIÓN, OBJETIVO, FUNCIÓN Y MÉTODO DE LA PIEZA BREVE (20/10/26)
+
+**El origen.** Luis (20/10/26), tras las redacciones de APERTURA y sus enfados: *«Has presenciado desde la primera redacción y mi consiguiente enfado hasta esta redacción lo que es y significa una Etimología Insurgente. Quiero que dejes constancia en una norma específica cuáles son las intenciones, el objetivo, la función y el método para construir una pieza breve de Etimología Insurgente, basada en la etimología, la paleolingüística y la historia oficial al servicio de la intuición simbólica de los posibles significados primitivos basados en la lógica y el razonamiento legítimo.»* Esta norma recoge lo que Luis dijo a lo largo de ese trabajo, ordenado. No añade criterios nuevos de gusto.
+
+**Lo que dijo Luis, en sus palabras.**
+- *«No es un libro sobre lingüística. Es una tesis, planteada como hipótesis, contra el poder que se apropia del agua, del origen y del lenguaje y sus significados simbólicos. No pide aprobación a la academia: la discute, además con sus propias herramientas y con máxima rigurosidad.»*
+- *«Lo que abrían y tapaban los PIE no lo saben ni la academia ni yo; ellos plantean sus tesis y sus especulaciones sin documentos para confirmarlo, UR hace lo mismo y de manera legítima.»*
+- *«Precaución bien, cautela también, rigurosidad fundamental, pero de ahí a cercenar el libre pensamiento del libro, de eso nada.»*
+- *«Aquí nos centramos en la paleolingüística y lo que dice de ella los paleolingüistas y luego desarrollamos nuestra tesis.»* La política concreta (Chile, Cochabamba, Valencia) es cosa de los capítulos, no de la pieza.
+- *«En esta pregunta a Chrome está la tesis del libro, no deduzco "pozo de agua", pregunto qué abren y cierran los cazadores recolectores con una tapa, qué es tan importante como para nombrarlo simbólicamente en \*apwerjo.»* Y: *«Sacar de la respuesta las conclusiones, pero con el rigor que caracteriza a UR.»*
+- Estantería: ensayo político y social, entre el pensamiento crítico y la ecología política de los bienes comunes. Nunca la infantil.
+
+**1. Intención.** Una Etimología Insurgente (EI) lee una palabra con UR como signo de resistencia popular («intuiciones, diagramas y signos de resistencia popular», dice el frontispicio): busca en el sonido, la raíz y la historia de la palabra el significado primitivo ligado al agua y señala dónde el poder lo capturó. En APERTURA, el gesto común de proteger el pozo. La EI no demuestra ese significado: lo propone como hipótesis legítima, al modo en que la propia academia reconstruye lo que nadie leyó.
+
+**2. Objetivo.** Que el lector vea tres cosas, en este orden: *(a)* lo que la ciencia dice de la palabra; *(b)* dónde la ciencia calla; *(c)* qué lectura da UR a ese silencio, y por qué es razonable. El lector sale sabiendo qué es dato, qué es límite y qué es tesis, sin que nadie se lo diga con avisos.
+
+**3. Función.** Es una pieza breve (no un capítulo ni un ensayo) que prueba que el método del libro funciona sobre una sola palabra con UR. La suma de piezas sostiene la tesis general (el agua, el origen y el lenguaje como bienes comunes capturados), pero cada pieza se sostiene sola. La EI no es un artículo de lingüística ni una pieza política: es el puente entre las dos.
+
+**4. Método: siete pasos (APERTURA es el ejemplo).**
+1. **Se abre con la descomposición real.** El UR es literal y la palabra se parte en morfemas con sentido (Regla 24): X-UR-Y, aquí *apert-* + *-ura*, y *ura* es agua en euskera. Sin esta prueba no hay EI.
+2. **Lo que dicen los especialistas, primero y verificado.** Etimología del diccionario, reconstrucción de los paleolingüistas (raíces, cognados, método comparativo), historia oficial. Todo con su glosa de dos niveles (Norma 55) y la fuente pendiente de cotejo como estaño (Norma 57). Las raíces reconstruidas se presentan con su asterisco y se explica en una frase por qué se llaman así.
+3. **Se dice dónde la ciencia calla, como un hecho.** «Hasta ahí llega la lingüística. Calla qué cubierta era, porque las palabras no dejan fósiles.» El límite del especialista se afirma; no se pide perdón por él.
+4. **La tesis es la pregunta.** El libro no deduce la respuesta: pregunta qué importaba tanto como para nombrarlo, y la pregunta es lo que sostiene la pieza. La respuesta de UR llega después, como lectura y no como hallazgo.
+5. **La lectura simbólica va por lógica y razonamiento legítimos.** Se razona con lo que el ser humano necesita y hace (los hechos de la vida diaria del agua, el cuidado, el trabajo), con las capacidades cognitivas de un *Homo sapiens* completo. Cuando la naturaleza del objeto impide la prueba directa (una tapa de madera o de piedra suelta no sobrevive diez mil años), no se pide la prueba: se razona, y la ausencia no se presenta como laguna. La lógica sustituye al hallazgo solo en lo que el hallazgo no puede dar; lo que sí tiene fuente, la lleva.
+6. **Lo que complica la tesis se pone, y se convierte en argumento.** El límite que más pesa (los hablantes del protoindoeuropeo eran pastores, pero descendían en buena parte de cazadores-recolectores) se dice y se usa a favor: el gesto pasa de generación en generación hasta la palabra. Sin tono defensivo.
+7. **La tesis en una frase y el cierre con la descomposición.** «La palabra conserva el gesto de lo que importa de verdad: UR, el agua.» Y la pieza se cierra donde se abrió: *Apert-UR-a: se va la tapa y queda UR.*
+
+**5. Reglas de la voz.**
+- **Afirmativa y sin permiso.** La pieza no pide aprobación a la academia ni invita a los lectores a refutarla. Prohibidas las fórmulas del tipo «quien tenga otra hipótesis puede plantearla», «esto es solo una intuición» o «se declara como tal». La separación entre lo que dicen los especialistas y lo que dice UR se hace con frases de transición («Hasta ahí llega la lingüística», «La tesis de este libro es…»), no con avisos.
+- **Rigor que no cercena.** Cautela y precaución van en la glosa y en el registro (estaño); el cuerpo conserva el pensamiento libre del libro. Los errores de dato (fecha, cifra, atribución) se corrigen; el criterio de la tesis no se negocia con la prudencia.
+- **Sin política concreta ni cifras del poder.** Chile, Cochabamba y los tribunales de agua van a los capítulos. Norma 56: en el cuerpo no hay años ni cifras exactas; van en la glosa.
+- **Sin citas de adorno.** No entran citas clásicas o literarias que no sostengan la pieza (en APERTURA salieron Vitruvio y Virgilio).
+- **Rayuelas entre piezas.** Un vínculo etimológico verificado con otra EI (el *ab-* de *absurdo* y el *ap-* de *aperire* vienen del mismo *\*h₂epó*) puede ir en una frase y en su glosa, con «Véase». Es opcional y se tacha sin tocar el resto.
+
+**6. Forma.**
+- **Título:** la palabra a secas, sin guiones, con UR en rojo (APERTURA, no APERT-UR-A). Los guiones solo aparecen dentro del cuerpo, como notación morfológica, y Luis decide si salen.
+- **Longitud:** pieza breve. Referencias: las cinco EI anteriores son más cortas que APERTURA, que tiene 8 párrafos cortos y 7 entradas de glosa (767 palabras con la glosa). Luis fija el límite si quiere uno.
+- **Glosa:** dos niveles (Norma 55); toda duda de fecha se da como intervalo concreto con «según las fuentes consultadas» (Luis: *«siempre que hay dudas en genérico entre tal y tal año según las fuentes consultadas»*), nunca como «las fechas varían según la fuente».
+- **Marcas:** gama provisional y `(*-tit) (*-red) (*-nor)`; ☠ NO TOCAR solo cuando Luis lo diga.
+
+**7. Cómo se trabaja (el proceso que enseñó esta norma).** Luis plantea la pregunta o la palabra. Claude investiga, clasifica lo hallado en *se sostiene / sin confirmar / se retira / límite* y escribe un borrador fuera del HTML. Luis corrige y da el OK; solo entonces se inserta (Regla 38: no se publica el HTML sin su visto bueno explícito). Lo que Luis pega o selecciona en la conversación es material de trabajo para Claude: no se escribe en el libro ni se convierte en norma sin que lo pida. Cuando Luis avisa «te lo digo a ti», es material para el criterio de Claude, no para transcribir.
+
+**8. Las pruebas antes de dar una EI por terminada.**
+1. ¿La palabra contiene «ur» literal y la pieza abre con una descomposición morfemática real? (Regla 24)
+2. ¿Cada afirmación de especialista es verificable y tiene su glosa?
+3. ¿El silencio de la ciencia está dicho como hecho?
+4. ¿La tesis aparece como pregunta y como afirmación de UR, no como hallazgo?
+5. ¿El razonamiento no pide pruebas que el objeto no puede dar?
+6. ¿Sin política concreta, sin años en el cuerpo, sin citas de adorno?
+7. ¿Sin disculpas, avisos ni peticiones de permiso?
+8. ¿Título sin guion y UR en rojo?
+9. ¿Es breve (referencia: APERTURA)?
+
+**9. Alcance.** Piezas nuevas desde hoy. Las cinco EI anteriores a APERTURA (ABSURDO, SUSURRO, TURBA, HURÓN y LAUREL) no se tocan por esta norma sin que Luis lo pida: Luis las aprobó y algunas tienen un molde distinto (literario o musical).
+
+**10. Relación con otras normas.** Aplica la Regla 24 (descomposición con UR literal); se apoya en las Normas 55 (glosa de dos niveles), 56 (cifras y años fuera del cuerpo) y 57 (estaño por el texto); se subordina a la Norma Cero (UR no mendiga legitimidad) y a la Regla 38 (el HTML se publica con el OK explícito de Luis).
 
 ---
