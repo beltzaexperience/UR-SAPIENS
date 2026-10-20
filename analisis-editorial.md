@@ -2420,3 +2420,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **ETIMOLOGÍA INSURGENTE · APERTURA: auditoría de la investigación de Luis (20/10/2026).** Detalle en la Norma 55, «ETIMOLOGÍA INSURGENTE · APERTURA: auditoría de la investigación de Luis». Sin cambios en el HTML ni en el Marcador.
 
 **ETIMOLOGÍA INSURGENTE · APERTURA: pieza nueva en URS (20/10/2026).** Detalle en la Norma 55, «ETIMOLOGÍA INSURGENTE · APERTURA: pieza nueva en URS». **Marcador (Regla 14):** URS 1.034.887 caracteres / 171.672 palabras / ≈687 págs. / 76 piezas; libro puro 741.766 / 117.864 / ≈471 / 69 piezas; URS+URIM 1.457.902 / 244.819 / ≈979; TOTAL DEL PROYECTO 1.558.397 / 261.403 / ≈1046. HTML sin publicar desde este cambio.
+
+**APERTURA: correcciones tras una revisión externa (20/10/2026).** Detalle en la Norma 55, «APERTURA: correcciones tras una revisión externa». **Marcador (Regla 14):** URS 1.034.773 caracteres / 171.655 palabras / ≈687 págs. / 76 piezas; libro puro 741.652 / 117.847 / ≈471 / 69 piezas; URS+URIM 1.457.788 / 244.802 / ≈979; TOTAL DEL PROYECTO 1.558.283 / 261.386 / ≈1046. HTML sin publicar desde este cambio.
