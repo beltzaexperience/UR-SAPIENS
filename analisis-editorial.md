@@ -2454,3 +2454,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **APERTURA: redundancia extirpada en P5 (20/10/2026).** Detalle en la Norma 55, «APERTURA: redundancia extirpada en P5». **Marcador (Regla 14):** URS 1.037.228 caracteres / 172.022 palabras / ≈688 págs. / 76 piezas; libro puro 744.107 / 118.214 / ≈473 / 69 piezas; URS+URIM 1.460.243 / 245.169 / ≈981 / 167; TOTAL DEL PROYECTO 1.560.738 / 261.753 / ≈1047 / 220. HTML sin publicar desde este cambio.
 
 **APERTURA: HTML publicado con la redacción final de P5 y el encuadre A2 (20/10/2026).** Detalle en la Norma 55, «APERTURA: HTML publicado con la redacción final de P5». HTML publicado.
+
+**APERTURA: lectura editorial para la letra de gama (20/10/2026).** Detalle en la Norma 55, «APERTURA: lectura editorial para la letra de gama». Resultado α (nota bruta 3,90); pendiente del OK de Luis para poner la letra. Sin cambios en el HTML ni en el Marcador.
