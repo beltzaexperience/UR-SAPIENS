@@ -2520,3 +2520,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **Corrección: glosas de Burzahom sin repetir el cuerpo y Zubieta en Malerreka (21/10/2026).** Detalle en la Norma 55. **Marcador (Regla 14):** URS 1.038.764 caracteres / 172.299 palabras / ≈689 págs. / 76 piezas; libro puro 745.643 / 118.491 / ≈474 / 69; URS+URIM 1.461.779 / 245.446 / ≈982 / 167; TOTAL 1.562.274 / 262.030 / ≈1048 / 220. HTML guardado, sin publicar (Regla 38).
 
 **Horche sin repetir el cuerpo (21/10/2026).** Detalle en la Norma 55. **Marcador (Regla 14):** URS 1.038.741 caracteres / 172.296 palabras / ≈689 págs. / 76 piezas; libro puro 745.620 / 118.488 / ≈474 / 69; URS+URIM 1.461.756 / 245.443 / ≈982 / 167; TOTAL 1.562.251 / 262.027 / ≈1048 / 220. HTML guardado, sin publicar (Regla 38).
+
+**Dossier de propuestas para el resto del estaño (21/10/2026).** Detalle en la Norma 55 y en `PROPUESTAS-ESTANO.md`. 65 propuestas con antes y después, 7 errores reales; nada aplicado. La línea final del libro («Luis Beltza puede estar equivocado…») queda descartada por Luis. HTML sin tocar.
