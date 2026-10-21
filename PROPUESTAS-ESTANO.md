@@ -13,6 +13,14 @@ Se ha aplicado lo que Luis ya decidió: no añadir «probablemente» donde frena
 **Clave:** **[G]** generalizar · **[C]** condicionar · **[E]** eliminar · **[?]** decisión de Luis · **[D]** se deja, con la razón.
 **Marca de error:** ⚠ = no es solo prudencia: lo que dice el libro **no coincide** con lo que he encontrado.
 
+## Estado (actualizado el 21/10/2026)
+
+Luis: *«Empieza por los errores. Respecto al resto hay que ir poco a poco.»*
+
+- **Aplicadas (✔):** las siete marcadas ⚠: 9.1 (Nippur), 10.1 (Masdevall), 12.1 (Muge), 16.4 (Tourcoing), 17.1 (Marco Polo), 20.1 (Timmur) y 32.3 (Whanganui).
+- **1.2 (Ekain):** no se elimina; Luis conserva la frase y la mejora con su redacción, ya aplicada.
+- **En curso, una a una:** el resto, empezando por 1.1. Pendientes: 57 propuestas.
+
 ## Resumen
 
 - **Propuestas con antes y después: 65** (G 49 · C 7 · E 5 · [?] 4), de ellas **7 son errores reales** (⚠) y 4 piden decisión de Luis (6.1, 19.1, 34.2, 42.1).
@@ -43,9 +51,10 @@ Otros cuatro ajustes de menor entidad pero que corrigen un dato: el «Ura Dzong�
 *Después:* «Ekain(4) y Altxerri(5) custodian dos santuarios de arte parietal de la fachada atlántica: el pensamiento simbólico hecho pigmento sobre piedra húmeda. Más tarde, cuando el mar avanza tras el deshielo, otras cuevas cercanas acogen el marisqueo, los concheros de una nueva relación con el litoral.»
 *Efecto:* las glosas (4) y (5) no cambian; Altxerri pasa a lo que sí consta.
 
-**1.2 [E] Ekain, panel de los caballos.** Dato no confirmado y repite el cuerpo («piedra húmeda»).
+**✔ 1.2 Ekain, panel de los caballos: APLICADA con la redacción de Luis (no se elimina).** Luis: la frase original «ni siquiera es errata ni intuición, es evidencia» y se queda; la mejora así.
 *Antes (glosa 4):* «…célebre su panel de los caballos, que aprovecha las escorrentías y la humedad natural de la piedra. Patrimonio Mundial…»
-*Después:* «…célebre su panel de los caballos. Patrimonio Mundial…»
+*Después (texto de Luis, aplicado):* «…célebre su panel de los caballos, que aprovecha accidentes de la roca, relieves naturales y el equilibrio higrométrico en la humedad de la piedra para dotar de tridimensionalidad a los cuerpos de los animales; el grabado y la pintura se combinaron de forma planificada para que el relieve de la roca se convierta en símbolo de forma permanente. Patrimonio Mundial…»
+*Contraste de lo que Luis pegó:* confirmado el aprovechamiento de grietas, rebordes y perfiles de la roca en Ekain ([Universidad de Salamanca](https://revistas.usal.es/uno/index.php/0514-7336/article/download/1072/1150/2178)), el «panel de los caballos» o Zaldei ([Gobierno Vasco](https://www.euskadi.eus/un-poco-de-historia/web01-a2ekain/es/)) y la galería La Fontana, con caballos grabados con los dedos sobre arcilla descalcificada ([Trabajos de Prehistoria, 2018](https://tp.revistas.csic.es/index.php/tp/article/download/772/796/852)). **No confirmado:** el «equilibrio higrométrico», la película de calcita sobre el pigmento, el grabado de contorno previo, el manganeso y el difuminado soplado, y el nombre «Azkenzaldei»; una fuente turística da unas setenta figuras, 64 pintadas y 6 grabadas. Quedan en el dossier como [B].
 
 *Se deja:* Krause et al. 2007 y Arensburg et al. 1989 (artículos de revista, citados con autor, revista y año; se comprueban sin ambigüedad).
 
@@ -116,7 +125,7 @@ Otros cuatro ajustes de menor entidad pero que corrigen un dato: el «Ura Dzong�
 
 ### 9. MESETA CENTRAL · DEL RIOJA AL ATLÁNTICO · UR VIAJERO
 
-**9.1 ⚠ [G] Los «primeros» de Nippur.**
+**✔ APLICADA · 9.1 ⚠ [G] Los «primeros» de Nippur.**
 *Antes:* «La primera literatura, la primera ley y la primera cartografía legislan sobre el mismo eje: el gobierno del agua.»
 *Después:* «Una de las primeras literaturas, una de las primeras leyes y una de las primeras cartografías legislan sobre el mismo eje: el gobierno del agua.»
 
@@ -124,7 +133,7 @@ Otros cuatro ajustes de menor entidad pero que corrigen un dato: el «Ura Dzong�
 
 ### 10. TUR: LA RAÍZ PREINDOEUROPEA · LA MATRIZ PANIBÉRICA
 
-**10.1 ⚠ [G] Masdevall.**
+**✔ APLICADA · 10.1 ⚠ [G] Masdevall.**
 *Antes (cuerpo):* «Josep Masdevall documentó en 1790 las fiebres «pútridas y malignas del Ampurdán»(5)»
 *Después:* «Josep Masdevall documentó a finales del siglo XVIII las calenturas «pútridas y malignas» de Cataluña(5)»
 *Antes (glosa 5):* «Josep Masdevall: Memoria práctica sobre las fiebres pútridas y malignas del Ampurdán (1790): primer estudio documentado del paludismo endémico de la comarca.»
@@ -144,7 +153,7 @@ Otros cuatro ajustes de menor entidad pero que corrigen un dato: el «Ura Dzong�
 
 ### 12. TUR · UN CONTINENTE EN TRÁNSITO
 
-**12.1 ⚠ [G] Muge.**
+**✔ APLICADA · 12.1 ⚠ [G] Muge.**
 *Antes:* «varias comunidades mesolíticas levantaron grandes concheros entre el VIII y el VI milenio a. C.»
 *Después:* «varias comunidades mesolíticas levantaron grandes concheros.»
 *Efecto:* la frase siguiente («aproximadamente entre 8500 y 6600 años calibrados antes del presente») queda como único dato y coincide con las fuentes.
@@ -195,7 +204,7 @@ Otros cuatro ajustes de menor entidad pero que corrigen un dato: el «Ura Dzong�
 *Antes:* «…Matrona y Sequana, integradas en el grupo protector de las Matres Ollogabiae para custodiar el territorio sin necesidad de atarse a un único cauce.»
 *Después:* «…Matrona y Sequana custodian el territorio sin necesidad de atarse a un único cauce.»
 
-**16.4 ⚠ [G] Tourcoing.**
+**✔ APLICADA · 16.4 ⚠ [G] Tourcoing.**
 *Antes:* «Tourcoing ofrece uno de los casos más duros de usurpación sistémica: en la década de 1860, la 'T' del poder industrial desvía el flujo del Lys hacia las calderas de las fábricas textiles, mientras el agua potable para las viviendas obreras tarda décadas en llegar. La epidemia de cólera de 1866 no es un mero accidente biológico: constituye la factura material e irrebatible de esa prioridad del capital.»
 *Después:* «Tourcoing ofrece uno de los casos más duros de usurpación sistémica: en el siglo XIX, la 'T' del poder industrial pone el agua del Lys al servicio de las fábricas textiles, mientras el agua potable para las viviendas obreras tarda décadas en llegar. Las epidemias de cólera de aquel siglo no son un mero accidente biológico: constituyen la factura material e irrebatible de esa prioridad del capital.»
 
@@ -203,7 +212,7 @@ Otros cuatro ajustes de menor entidad pero que corrigen un dato: el «Ura Dzong�
 
 ### 17. ÜRMÜZ: AHURA MAZDĀ · SABIDURÍA UR
 
-**17.1 ⚠ [G] Marco Polo.**
+**✔ APLICADA · 17.1 ⚠ [G] Marco Polo.**
 *(De memoria; se comprueba en *Il Milione*.)*
 *Antes:* «Marco Polo llegó a Ormuz en 1290 y dejó una descripción de la isla, de sus barcos y de su riqueza(4).»
 *Después:* «Marco Polo pasó por Ormuz en el siglo XIII y dejó una descripción de la ciudad, de sus barcos y de su riqueza(4).»
@@ -246,7 +255,7 @@ Otros cuatro ajustes de menor entidad pero que corrigen un dato: el «Ura Dzong�
 
 ### 20. TIMMUR: HIMALAYA VERTICAL
 
-**20.1 ⚠ [G] Las «cifras iniciales».**
+**✔ APLICADA · 20.1 ⚠ [G] Las «cifras iniciales».**
 *Antes:* «Las cifras iniciales hablaron de más de trescientas sesenta muertos y más de novecientas desaparecidos, muchas de ellas peregrinas en ruta hacia el Kailash.»
 *Después:* «Las primeras cifras fueron muy inferiores a las definitivas.»
 
@@ -376,7 +385,7 @@ Otros cuatro ajustes de menor entidad pero que corrigen un dato: el «Ura Dzong�
 *Antes:* «En las paredes del cañón, las comunidades tallaban espirales que imitaban los remolinos del agua. Esas marcas señalaban zonas de pesca exclusivas y advertían sobre la presencia de guardianes espirituales.»
 *Después:* «Según la tradición, en las paredes del cañón las comunidades tallaban espirales que imitaban los remolinos del agua, y esas marcas señalaban zonas de pesca exclusivas y advertían de la presencia de guardianes espirituales.»
 
-**32.3 ⚠ [G] El pleito del lecho.**
+**✔ APLICADA · 32.3 ⚠ [G] El pleito del lecho.**
 *Antes:* «El caso llegó al Tribunal de Tierras Nativas. Un juez falló a favor de los demandantes, declarando que los maoríes eran los dueños del río según la costumbre maorí. El gobierno apeló, pero el Tribunal de Apelación Maorí confirmó la decisión. Esa sentencia no se ejecutó. El río siguió degradándose.»
 *Después:* «El caso llegó al Tribunal de Tierras Nativas, que falló a favor de los demandantes: los maoríes eran los dueños del río según la costumbre maorí. El gobierno apeló, pero el Tribunal de Apelación confirmó la decisión. Años después, la Corte Suprema declaró que una ley de 1903 había dado el lecho a la Corona, y la sentencia quedó sin efecto. El río siguió degradándose.»
 
