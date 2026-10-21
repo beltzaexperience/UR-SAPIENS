@@ -18,7 +18,7 @@ Se ha aplicado lo que Luis ya decidió: no añadir «probablemente» donde frena
 Luis: *«Empieza por los errores. Respecto al resto hay que ir poco a poco.»*
 
 - **Aplicadas (✔):** las siete marcadas ⚠: 9.1 (Nippur), 10.1 (Masdevall), 12.1 (Muge), 16.4 (Tourcoing), 17.1 (Marco Polo), 20.1 (Timmur) y 32.3 (Whanganui).
-- **1.2 (Ekain):** no se elimina; Luis conserva la frase y la mejora con su redacción, ya aplicada.
+- **1.2 (Ekain):** no se elimina; Luis conserva la frase y la mejora con su redacción (definitiva, con el párrafo de la luz), ya aplicada; las objeciones constan en la pestaña estaño.
 - **En curso, una a una:** el resto, empezando por 1.1. Pendientes: 57 propuestas.
 
 ## Resumen
@@ -51,10 +51,7 @@ Otros cuatro ajustes de menor entidad pero que corrigen un dato: el «Ura Dzong�
 *Después:* «Ekain(4) y Altxerri(5) custodian dos santuarios de arte parietal de la fachada atlántica: el pensamiento simbólico hecho pigmento sobre piedra húmeda. Más tarde, cuando el mar avanza tras el deshielo, otras cuevas cercanas acogen el marisqueo, los concheros de una nueva relación con el litoral.»
 *Efecto:* las glosas (4) y (5) no cambian; Altxerri pasa a lo que sí consta.
 
-**✔ 1.2 Ekain, panel de los caballos: APLICADA con la redacción de Luis (no se elimina).** Luis: la frase original «ni siquiera es errata ni intuición, es evidencia» y se queda; la mejora así.
-*Antes (glosa 4):* «…célebre su panel de los caballos, que aprovecha las escorrentías y la humedad natural de la piedra. Patrimonio Mundial…»
-*Después (texto de Luis, aplicado):* «…célebre su panel de los caballos, que aprovecha accidentes de la roca, relieves naturales y el equilibrio higrométrico en la humedad de la piedra para dotar de tridimensionalidad a los cuerpos de los animales; el grabado y la pintura se combinaron de forma planificada para que el relieve de la roca se convierta en símbolo de forma permanente. Patrimonio Mundial…»
-*Contraste de lo que Luis pegó:* confirmado el aprovechamiento de grietas, rebordes y perfiles de la roca en Ekain ([Universidad de Salamanca](https://revistas.usal.es/uno/index.php/0514-7336/article/download/1072/1150/2178)), el «panel de los caballos» o Zaldei ([Gobierno Vasco](https://www.euskadi.eus/un-poco-de-historia/web01-a2ekain/es/)) y la galería La Fontana, con caballos grabados con los dedos sobre arcilla descalcificada ([Trabajos de Prehistoria, 2018](https://tp.revistas.csic.es/index.php/tp/article/download/772/796/852)). **No confirmado:** el «equilibrio higrométrico», la película de calcita sobre el pigmento, el grabado de contorno previo, el manganeso y el difuminado soplado, y el nombre «Azkenzaldei»; una fuente turística da unas setenta figuras, 64 pintadas y 6 grabadas. Quedan en el dossier como [B].
+**✔ 1.2 Ekain, panel de los caballos: APLICADA con la redacción de Luis, en dos versiones sucesivas.** Luis conserva la frase y la mejora; la versión definitiva (21/10/26) es la suya, íntegra: relieve de la roca y pintura adaptada al relieve, y un segundo párrafo sobre la tecnología lumínica (lámparas de grasa animal, entre ellas las de tuétano; luces y sombras; ilusión de vida y movimiento). Regla de Luis: las objeciones a este tipo de texto se señalan en la pestaña ESTAÑO, nunca en la fe de erratas. Objeciones anotadas allí: lámparas y restos de combustión en Ekain, humo y duración, y la hipótesis de Azéma y Rivère (2012) no probada en Ekain.
 
 *Se deja:* Krause et al. 2007 y Arensburg et al. 1989 (artículos de revista, citados con autor, revista y año; se comprueban sin ambigüedad).
 
