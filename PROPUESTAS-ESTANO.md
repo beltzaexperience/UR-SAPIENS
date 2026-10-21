@@ -18,7 +18,7 @@ Se ha aplicado lo que Luis ya decidió: no añadir «probablemente» donde frena
 Luis: *«Empieza por los errores. Respecto al resto hay que ir poco a poco.»*
 
 - **Aplicadas (✔):** las siete marcadas ⚠: 9.1 (Nippur), 10.1 (Masdevall), 12.1 (Muge), 16.4 (Tourcoing), 17.1 (Marco Polo), 20.1 (Timmur) y 32.3 (Whanganui).
-- **1.2 (Ekain):** no se elimina; Luis conserva la frase y la mejora con su redacción (definitiva, con el párrafo de la luz), ya aplicada; las objeciones constan en la pestaña estaño.
+- **1.2 (Ekain):** no se elimina; el texto de Luis (con el párrafo de la luz) va en el cuerpo, ya aplicado; la glosa (4) conserva su redacción original; las objeciones constan en la pestaña estaño.
 - **En curso, una a una:** el resto, empezando por 1.1. Pendientes: 57 propuestas.
 
 ## Resumen
@@ -51,7 +51,8 @@ Otros cuatro ajustes de menor entidad pero que corrigen un dato: el «Ura Dzong�
 *Después:* «Ekain(4) y Altxerri(5) custodian dos santuarios de arte parietal de la fachada atlántica: el pensamiento simbólico hecho pigmento sobre piedra húmeda. Más tarde, cuando el mar avanza tras el deshielo, otras cuevas cercanas acogen el marisqueo, los concheros de una nueva relación con el litoral.»
 *Efecto:* las glosas (4) y (5) no cambian; Altxerri pasa a lo que sí consta.
 
-**✔ 1.2 Ekain, panel de los caballos: APLICADA con la redacción de Luis, en dos versiones sucesivas.** Luis conserva la frase y la mejora; la versión definitiva (21/10/26) es la suya, íntegra: relieve de la roca y pintura adaptada al relieve, y un segundo párrafo sobre la tecnología lumínica (lámparas de grasa animal, entre ellas las de tuétano; luces y sombras; ilusión de vida y movimiento). Regla de Luis: las objeciones a este tipo de texto se señalan en la pestaña ESTAÑO, nunca en la fe de erratas. Objeciones anotadas allí: lámparas y restos de combustión en Ekain, humo y duración, y la hipótesis de Azéma y Rivère (2012) no probada en Ekain.
+**✔ 1.2 Ekain, panel de los caballos: APLICADA con el texto de Luis, en el CUERPO (no en la glosa).** Luis (21/10/26): el texto es para el libro, no para la glosa. Va en el párrafo de Ekain de «El UR cósmico»: tras «…piedra húmeda;» sigue «célebre su panel de los caballos, que aprovecha accidentes de la roca y relieves naturales…», y el segundo párrafo («La maestría del Panel de los Caballos trasciende el pigmento…») abre párrafo propio antes de «Más tarde, cuando el mar avanza tras el deshielo…». La glosa (4) conserva su redacción original («que aprovecha las escorrentías y la humedad natural de la piedra»), que Luis dijo que se quedaba. Regla de Luis: las objeciones se señalan en la pestaña ESTAÑO, nunca en la fe de erratas; anotadas allí (lámparas y restos en Ekain, humo y duración, hipótesis de Azéma y Rivère de 2012 no probada en Ekain).
+*Pendiente relacionada:* la 1.1 (Altxerri) hay que releerla con el párrafo nuevo antes de decidir.
 
 *Se deja:* Krause et al. 2007 y Arensburg et al. 1989 (artículos de revista, citados con autor, revista y año; se comprueban sin ambigüedad).
 
