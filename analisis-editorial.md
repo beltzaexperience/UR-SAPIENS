@@ -2536,3 +2536,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **Ekain: texto definitivo de la luz (22/10/2026).** Detalle en la Norma 55. **Marcador (Regla 14):** URS 1.039.719 caracteres / 172.473 palabras / ≈690 págs. / 76 piezas; libro puro 746.598 / 118.665 / ≈475 / 69; URS+URIM 1.462.734 / 245.620 / ≈982 / 167; TOTAL 1.563.229 / 262.204 / ≈1049 / 220. HTML guardado, sin publicar (Regla 38).
 
 **Ekain: «símbolo permanente» y «dar volumen» salen del estaño (22/10/2026).** Detalle en la Norma 55. El texto del libro no cambia. HTML guardado, sin publicar (Regla 38).
+
+**Estaño de Ekain, limpio; el estaño no recoge soluciones (22/10/2026).** Detalle en la Norma 55. Regla de Luis: lo resuelto con generalización, condicional o eliminación no consta como estaño. El texto del libro no cambia. HTML guardado, sin publicar (Regla 38).
