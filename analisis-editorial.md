@@ -2530,3 +2530,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **Corrección: el texto de Ekain va en el cuerpo, no en la glosa (21/10/2026).** Detalle en la Norma 55. **Marcador (Regla 14):** URS 1.039.552 caracteres / 172.442 palabras / ≈690 págs. / 76 piezas; libro puro 746.431 / 118.634 / ≈475 / 69; URS+URIM 1.462.567 / 245.589 / ≈982 / 167; TOTAL 1.563.062 / 262.173 / ≈1049 / 220. HTML guardado, sin publicar (Regla 38).
 
 **Ekain: qué consta en el estaño y qué se sabe de la luz (22/10/2026).** Detalle en la Norma 55. Se añade al estaño una fila sobre la humedad de Ekain; el texto del libro no cambia. HTML guardado, sin publicar (Regla 38).
+
+**Ekain: lectura de los textos completos pasados por Luis (22/10/2026).** Detalle en la Norma 55. Corregida mi respuesta sobre humo y duración de las lámparas; filas de estaño ajustadas. El texto del libro no cambia. HTML guardado, sin publicar (Regla 38).
