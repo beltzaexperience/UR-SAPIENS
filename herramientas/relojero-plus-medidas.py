@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Relojero-Plus: batería de medidas (tipo M de MATRIZ-RELOJERO-PLUS.md).
+"""Relojero-Plus: batería de medidas (tipo M de la «Matriz del Relojero-Plus» de NORMA-METODO.md).
 
 Uso:
     python3 herramientas/relojero-plus-medidas.py "cultura: continente ibérico umbral"
