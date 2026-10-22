@@ -2538,3 +2538,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **Ekain: «símbolo permanente» y «dar volumen» salen del estaño (22/10/2026).** Detalle en la Norma 55. El texto del libro no cambia. HTML guardado, sin publicar (Regla 38).
 
 **Estaño de Ekain, limpio; el estaño no recoge soluciones (22/10/2026).** Detalle en la Norma 55. Regla de Luis: lo resuelto con generalización, condicional o eliminación no consta como estaño. El texto del libro no cambia. HTML guardado, sin publicar (Regla 38).
+
+**«Símbolo permanente» y procedimiento para cerrar el estaño (22/10/2026).** Detalle en la Norma 55: «símbolo permanente» se queda (traducción insurgente de «patrimonio humano»); criterio de tres pasos, una propuesta por punto sin menús, y dos bloques (A, 37 datos; B, 20 frases). Sin cambios en el HTML.
