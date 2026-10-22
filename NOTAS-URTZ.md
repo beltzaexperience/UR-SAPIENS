@@ -784,6 +784,20 @@ donde `(*-per)` y `(*-glo)` aparecen solo si procede. **Desde el 08/10/26 `(*-ti
 
 Pedida por Luis el 22/10/26: *«A partir de ahora deja en las notas que en las correcciones necesito lo que cambia de antes a después en negrita. Antes lo hacías y me facilitaba un montón.»* **Regla:** siempre que se muestre a Luis una corrección o una propuesta de cambio de texto, se presenta como **Antes** y **Después**, y en las dos versiones se marca en negrita solo lo que cambia (palabras añadidas, quitadas, movidas o sustituidas), de modo que se vea de un vistazo sin comparar frase a frase. Vale para propuestas, para tandas ya decididas y para los informes de cambios. Cuando lo que cambia es una supresión, se pone en negrita lo que desaparece en el «Antes»; cuando es una adición, lo que aparece en el «Después». No sustituye la entrega del HTML real que pide la Norma de entrega, la complementa. El HTML de `urtz.html` no lleva esa negrita: es solo para el mensaje a Luis.
 
+## REGLA 43 — PROCEDIMIENTO DE MEJORA FINAL DE UNA PIEZA (modelo: CULTURA, 22/10/26)
+
+Luis, 22/10/26, tras pasar CULTURA de gama a alfa: *«Esta pieza me la he tomado como ejemplo del método a seguir en la redacción final. Hemos pasado de gama a alfa, este es el procedimiento de mejora final.»* **Orden que se siguió y que se repite con cada pieza:**
+1. **Automatismos sin consulta** (Normas 28, 31, 54, 59…): tiempo verbal de los hechos únicos, cierres que no aportan, moldes. Se muestran a Luis en el parte.
+2. **Aperturas y moldes, en tandas de cinco**, una propuesta por frase, en antes y después con lo que cambia en negrita (Regla 42). Decide Luis; sus textos se aplican tal cual.
+3. **Glosa** con la Norma 55 (dos niveles) y la 56 (el rigor vive en la glosa); el encabezado de cada entrada coincide con la palabra del cuerpo que anota.
+4. **Estaño** de la pieza, con el procedimiento de la Norma 57: prueba en tres pasos, una solución por apunte, sin menús; las objeciones van a la pestaña II del estaño y nunca a la fe de erratas.
+5. **Repaso línea por línea del texto vivo** (nunca de memoria): se corrige lo orgánico, y lo demás va a Luis con una propuesta por punto.
+6. **Paso a URS** (si estaba en URIM), sustitución de la pieza anterior, Marcador (Regla 14) y tamaño.
+7. **Lectura editorial de ocho lectores independientes** (rúbrica ampliada y calibración con Angostura e Islandia I): da la letra α, β o γ. Una pieza γ no se publica como terminada.
+8. **Soluciones a lo más bajo de la lectura** (emoción, público, tramos fríos), con propuestas de Claude que se apoyan solo en datos ya documentados en la glosa (Normas 35, 46, 47 y 48), y **segunda lectura** de los ocho lectores.
+9. **Publicación** del HTML solo con el OK de Luis (Regla 38).
+Estado de CULTURA a 22/10/26: pasos 1 a 7 hechos (α, nota 3,58); paso 8 en curso. Norma 55, entradas del 22/10/26.
+
 ## PENDIENTE — LÍNEA EDITORIAL, REFERENTES Y MARCO DE ANÁLISIS TEXTUAL (08-09/10/26)
 
 **El encargo de Luis (08/10/26):** hacer con tres obras de Baroja, tres de Orwell y una de Martín Santos subidas a `main` el trabajo hecho con el texto de Baroja sobre San Sebastián, para cerrar la línea editorial del manuscrito y perfilar las Normas-Método definitivas, teniendo en cuenta la anomalía rupestre que representa UR. Después pidió llevar la comparación a los análisis de texto y sintáctico, con el marco de los 18 análisis en cuatro dimensiones, para usarlo en las correcciones finales.
