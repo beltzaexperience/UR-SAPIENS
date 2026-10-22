@@ -792,6 +792,7 @@ Luis, 22/10/26, tras pasar CULTURA de gama a alfa: *«Esta pieza me la he tomado
 3. **Glosa** con la Norma 55 (dos niveles) y la 56 (el rigor vive en la glosa); el encabezado de cada entrada coincide con la palabra del cuerpo que anota.
 4. **Estaño** de la pieza, con el procedimiento de la Norma 57: prueba en tres pasos, una solución por apunte, sin menús; las objeciones van a la pestaña II del estaño y nunca a la fe de erratas.
 5. **Repaso línea por línea del texto vivo** (nunca de memoria): se corrige lo orgánico, y lo demás va a Luis con una propuesta por punto.
+5 bis. **Compactación** (Normas 53, 25, 26, 39 y 43; primera ejecución en CULTURA, 22/10/26): subtítulos solo donde el lector se perdería sin ellos, párrafos fundidos de forma natural, subtítulos en la forma `<h4>` de la Norma 43.
 6. **Paso a URS** (si estaba en URIM), sustitución de la pieza anterior, Marcador (Regla 14) y tamaño.
 7. **Lectura editorial de ocho lectores independientes** (rúbrica ampliada y calibración con Angostura e Islandia I): da la letra α, β o γ. Una pieza γ no se publica como terminada.
 8. **Soluciones a lo más bajo de la lectura** (emoción, público, tramos fríos), con propuestas de Claude que se apoyan solo en datos ya documentados en la glosa (Normas 35, 46, 47 y 48), y **segunda lectura** de los ocho lectores.
