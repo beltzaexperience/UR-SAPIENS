@@ -10,6 +10,8 @@
 4. Cada pieza se corrige con el **Pase de análisis final** (sección XXVII), al final de su capítulo, enseñándote casos de muestra con su antes y después.
 5. **Desde el 14/10/26:** las cifras en el cuerpo se generalizan y las exactas, con año y fuente de consulta, van a la glosa; volumen, páginas y día del mes quedan fuera (Norma 50). Los informes dicen siempre «texto» o «glosa» y no traen refinamientos que nadie ha pedido (51). La glosa carga los datos que dan rigor y no explica el arte; si una norma ya decide, no es fricción (52). La narración se adecúa a la estantería, con ejecución diferida a la revisión final (53), y párrafos y secciones se construyen por contenido con seis preguntas de «cambio de tema» (25). Autores o documento como sujeto: depende del verbo, de la continuidad y del eco, caso por caso y con consulta (47, 38.1 bis).
 
+6. **Desde el 22/10/26:** el Relojero-Plus comprueba **todas** las normas con una matriz (`MATRIZ-RELOJERO-PLUS.md`), un script de medidas (`herramientas/relojero-plus-medidas.py`) y una pasada de sentido; el informe trae la matriz entera y una fila que falta lo invalida. Solo se difiere una norma con una frase de Luis.
+
 ## 1 bis. Dónde vive cada cosa
 
 | Archivo | Qué guarda |
