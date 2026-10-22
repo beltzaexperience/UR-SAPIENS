@@ -2528,3 +2528,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **Ekain: glosa (4) con el texto definitivo de Luis (21/10/2026).** Detalle en la Norma 55. Regla nueva: las objeciones a un texto decidido por Luis van a la pestaña estaño, nunca a la fe de erratas. **Marcador (Regla 14):** URS 1.039.451 caracteres / 172.424 palabras / ≈690 págs. / 76 piezas; libro puro 746.330 / 118.616 / ≈474 / 69; URS+URIM 1.462.466 / 245.571 / ≈982 / 167; TOTAL 1.562.961 / 262.155 / ≈1049 / 220. HTML guardado, sin publicar (Regla 38).
 
 **Corrección: el texto de Ekain va en el cuerpo, no en la glosa (21/10/2026).** Detalle en la Norma 55. **Marcador (Regla 14):** URS 1.039.552 caracteres / 172.442 palabras / ≈690 págs. / 76 piezas; libro puro 746.431 / 118.634 / ≈475 / 69; URS+URIM 1.462.567 / 245.589 / ≈982 / 167; TOTAL 1.563.062 / 262.173 / ≈1049 / 220. HTML guardado, sin publicar (Regla 38).
+
+**Ekain: qué consta en el estaño y qué se sabe de la luz (22/10/2026).** Detalle en la Norma 55. Se añade al estaño una fila sobre la humedad de Ekain; el texto del libro no cambia. HTML guardado, sin publicar (Regla 38).
