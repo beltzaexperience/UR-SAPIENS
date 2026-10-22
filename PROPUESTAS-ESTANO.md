@@ -19,6 +19,7 @@ Luis: *«Empieza por los errores. Respecto al resto hay que ir poco a poco.»*
 
 - **Aplicadas (✔):** las siete marcadas ⚠: 9.1 (Nippur), 10.1 (Masdevall), 12.1 (Muge), 16.4 (Tourcoing), 17.1 (Marco Polo), 20.1 (Timmur) y 32.3 (Whanganui).
 - **1.2 (Ekain):** no se elimina; el texto de Luis (con el párrafo de la luz) va en el cuerpo, ya aplicado; la glosa (4) conserva su redacción original; las objeciones constan en la pestaña estaño.
+- **Bloque A aplicado el 22/10/26 (37 propuestas, ver subpestaña del estaño) y 1.1 (Altxerri) resuelta con frase propia.** Pendiente el bloque B: 19 frases con intención.
 - **En curso, una a una:** el resto, empezando por 1.1. Pendientes: 57 propuestas.
 
 ## Resumen
