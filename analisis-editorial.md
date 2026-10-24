@@ -2596,3 +2596,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **CULTURA: coma de Iturza quitada (24/10/2026).** Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.051.976 caracteres / 174.440 palabras / ≈698 págs.; libro puro 755.503 / 120.081 / ≈480; URS+URIM 1.471.946 / 247.157 / ≈989; TOTAL DEL PROYECTO 1.572.441 / 263.741 / ≈1055. HTML guardado, sin publicar (Regla 38).
 
 **CULTURA: cuatro de los seis reparos de los lectores (24/10/2026).** Detalle en la Norma 55 (registro) y adenda a la Regla 42 (etiqueta TEXTO o GLOSA). **Marcador (Regla 14):** URS 1.052.062 caracteres / 174.451 palabras / ≈698 págs.; libro puro 755.589 / 120.092 / ≈480; URS+URIM 1.472.032 / 247.168 / ≈989; TOTAL DEL PROYECTO 1.572.527 / 263.752 / ≈1055. HTML guardado, sin publicar (Regla 38).
+
+**CULTURA: el último párrafo abre en Ekain y Altxerri (24/10/2026).** Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.052.074 caracteres / 174.453 palabras / ≈698 págs.; libro puro 755.601 / 120.094 / ≈480; URS+URIM 1.472.044 / 247.170 / ≈989; TOTAL DEL PROYECTO 1.572.539 / 263.754 / ≈1055. HTML guardado, sin publicar (Regla 38).
