@@ -1,0 +1,579 @@
+Gender archaeology: before and today
+Gender archaeology emerged in the 1960s and early 1970s from feminist discontent with androcentric views on prehistory and history that overlooked women’s contributions and roles in past societies1. Fifty years on, a growing body of research projects, conference proceedings, monographs, and papers bear witness to the transformation of gender into a mainstream topic of archaeological research2,3,4,5,6,7,8,9,10,11. Although, as an analytical category, gender is a comparatively late incorporation to modern Archaeology6 few will deny that it has quickly expanded into a major area of interest. Multiple topics are dealt with under the rather broad conceptual umbrella of gender, including kinship and residential patterns12,13, the complexity and fluidity of sex-gender systems14, the relationship between gender and violence15 as well as cultural definitions of masculinity16, among others. However, since the earliest studies, one topic stands out: the analysis of gender inequalities.
+
+As a cultural construct broadly based on the biological differences between men and women, gender is not always expressed in binary terms17. Nevertheless, the understanding of past sex-gender systems frequently rests on the identification of biological sex. Such identification, which is of crucial importance for anthropological, demographic and sociological analysis, becomes challenging when the evidence at hand is thousands of years old. The analysis of gender asymmetries is often hindered by poor preservation of human remains resulting from factors such as soil chemistry, weathering, animal scavenging, and looting. Indeed, prehistoric societies often engaged in burial practices that involved the separation, manipulation, burning and/or partial destruction of skeletal elements18,19,20. Under those conditions, the identification of the sexually dimorphic morphological traits normally used in biological anthropology (i.e. in the pelvis and the cranium) is often challenging, if not impossible. While genetic sex identification is an alternative, it does require the preservation of ancient DNA, which is limited in hot and dry climatic conditions.
+
+In the last few years, however, a new scientific technique has been developed, based on the analysis of sexually dimorphic amelogenin peptides in tooth enamel by nanoflow liquid chromatography-tandem mass spectrometry21,22 (see Methods section for a full description of the method). This new procedure can provide highly reliable sex determinations even for poorly preserved human skeletons. The application of this technique to prehistoric human remains23,24,25,26 has yielded results that are likely going to significantly modify the way gender archaeology will be approached in the future. By coupling proteomics with other recently developed scientific methods, such as isotopic and aDNA analysis, which are themselves expanding rapidly, the study of prehistoric social organisation is set to change (see examples in27,28,29). The results presented here, set in Copper Age Iberia (c. 3200–2200 BC) demonstrates how the addition of proteomics can transform the study of prehistoric social organisation.
+
+Data overview: The Ivory Lady
+Valencina (Seville, SW Spain) (Fig. 1) is a Copper Age ‘mega-site’ spreading over c. 450 hectares, much larger than other coeval sites. Recent research30 has revealed the extent of Valencina’s monumentalism with its sophisticated megalithic chambers and massive ditches as well as its associated high-end material culture, including finely crafted sumptuary artefacts produced from exotic raw materials such as ivory, rock crystal, amber, flint, and ostrich eggshell30. In addition, the site has yielded the largest collection of human bone for any Iberian Copper Age site to date31,32. As a result, Valencina offers a unique dataset to analyse the interplay between early social complexity and gender differentiation.
+
+Figure 1
+Figure 1
+Full size image
+Location of Valencina. Map created using Qgis 3.22 (https://qgis.org/es/site/).
+
+Even though Copper Age funerary practices in Iberia are largely characterized by collective inhumations, burial 10.049 at Valencina yielded the remains of a single individual interred as a primary inhumation (Fig. 2). This burial is remarkable for several reasons33,34. The individual buried in it was first identified as a probable young male between 17 and 25 years of age at the time of death based on standard anthropological analysis35. Strontium isotopes showed this individual to be of local origin, while at the same time, strikingly high levels of mercury in the bones revealed intense ante-mortem exposure to cinnabar36. This person was accompanied by a lavish set of prestige goods that included a large ceramic plate (in which chemical traces of wine and cannabis were found—Personal communication by Nicolas Garnier and Elisabeth Dodinet), a small copper awl and multiple flint and ivory objects (Fig. 2: lower level and Fig. 3). Remarkably, amongst the latter was a full tusk, weighing 1.8 kg, of an African elephant, which is unparalleled in western Europe37,38. Sometime after this burial, another offering was made to the individual buried in tomb 10.049 (Fig. 2: upper level and Fig. 4): a set of flat slate slabs were carefully laid above, and further grave goods were then deployed, including several large ceramic plates and many more ivory objects. Among the latter, a beautiful dagger with a blade made of rock crystal and an ivory handle decorated with 90 perforated discoid beads made of mother of pearl stands out37,39.
+
+Figure 2
+Figure 2
+Full size image
+Structure 10.049, plans of the lower and upper levels. Author: Miriam Luciañez Triviño.
+
+Figure 3
+Figure 3
+Full size image
+Individual buried in the lower level of the structure 10.049, and main artefacts deposited around the body. Author: Miriam Luciañez Triviño.
+
+Figure 4
+Figure 4
+Full size image
+Upper level of structure 10.049, and main artefacts included in the offering. Author: Miriam Luciañez Triviño.
+
+The quantity and quality of the artefact assemblage used as burial offering implies that this young person was the most socially prominent individual in the whole pre-Beaker Copper Age of the Iberian Peninsula (c. 3200 to 2500 cal BC), as a recent comparative review has shown40. Furthermore, the fact that none of the infant burials found in Valencina have grave goods suggests that, among the communities that lived in or frequented this site, social status was not ascribed by birth (and therefore no significant inheritance of wealth occurred), contrary to what would happen later in the Early Bronze Age)32. Therefore, it is fair to assume that the individual inhumed in structure 10.049 gained a prominent social position through merit and personal achievement and did not ‘inherit’ it by birth. These characteristics, together with the promotion of communal work (such as the construction and maintenance of monuments) and conspicuous consumption (feasting) match those employed by anthropologists as M. Sahlins to explain the ‘big-man’ concept41—but see42 for a critique. This concept, together with that of ‘aggrandizers’ in transegalitarian societies43 has been used within the context of Late Neolithic and Copper Age Iberia 44,45.
+
+In the autumn of 2021, in the scope of broader cooperation on sex and gender systems in European later prehistory46, peptide analysis showed that the chromosomal sex of the individual in Structure 10.049 was female, revealing ‘The ‘Ivory Man’ to be ‘The Ivory Lady” (Fig. 5).
+
+Figure 5
+Figure 5
+Full size image
+Recreation drawing of ‘The Ivory Lady’. Author: Miriam Luciañez Triviño.
+
+Copper age female leadership
+This revelation foregrounds the connection of this woman with the people buried in the neighbouring Montelirio tholos47. Located barely 100 m to the south of burial 10.049, Montelirio is a two-chambered tholos-type monument that contained the remains of grand funerals occurring two or three generations after the “Ivory Lady”. These funerals involved 25 people, three of whom were buried in the corridor, 20 in the Large Chamber and two in the Small Chamber. A Bayesian model based on 22 radiocarbon dates on human bone suggested that the use of the Montelirio tholos started in 2875–2700 cal BC 2σ and ended in 2805–2635 cal BC 2σ48. While the remains found in the Small Chamber of Montelirio were badly disturbed in Roman times, the Large Chamber provided good-quality anthropological and artefactual data. According to the osteological study, 15 of the 20 individuals buried in it (all of them primary inhumations) were female or likely female, while the remaining five are undetermined49. All of them were adults at the time of death, with a predominance of ages between 20 and 35 years49. A major collection of high-end artefacts was recovered from the tomb, many of them manufactured from exotic raw materials, including ivory, rock crystal, gold, amber, mylonite, and flint. In addition, some of the women in the Large Chamber were dressed in sophisticated attires made with thousands of perforated beads carved from marine shell, including a full-body tunic.
+
+Much like 'The ‘Ivory Lady’, most of the women buried in the Large Chamber of Montelirio displayed extraordinarily high levels of mercury in their bones, suggesting intense pre-mortem exposure to cinnabar36,50. In addition, one of the women presented a case of post-axial polydactyly (six toes at each foot), which probably marked her as a special person during her life, as is common in numerous cultures worldwide51,52,53,54. Based on their highly ‘choreographed’ burial arrangement, demographic profile, osteo-biographical characterization and associated material culture, these women were interpreted as a group of religious specialists55. Indeed, various pieces of evidence drawn from the analysis of the material culture found both in tomb 10.049 and in Montelirio suggest that the offerings found above ‘The Ivory Lady’ were made when Montelirio was built, two or three generations later34. The builders of Montelirio sought to underline the connection which tied them with ‘The Ivory Lady’. Neither in Valencina nor in the whole of the Iberian Cooper Age has any other grave been found which remotely compares in material wealth and sophistication to these two graves. These results raise entirely new questions regarding the nature of early forms of political leadership not only in Valencina but among Iberian Copper Age communities as a whole, the role played by women within them, and the specific relationship of ‘The Ivory Lady’ with the people buried in the neighbouring Montelirio tholos.
+
+First, we stress that ‘The Ivory Lady’ was the person with the highest social status dating to the pre-Beaker Copper Age (c. 3200–2500 BC) for the whole of Iberia, based on the currently available evidence. This is significant not only because a woman distinctly appears as the most powerful person of this crucial period, when processes leading to a more hierarchical society were at play across Western Europe, but also because there is no comparable or analogous male counterpart in Iberia. The only other persons buried with comparable pomp and wealth at that time were also women: the 20 individuals, including 15 females, found in the Large Chamber of the Montelirio tholos. These findings are highly relevant to the study of gender asymmetries in European Late Prehistory. Well-documented cases of high-ranking Bronze Age or Iron Age women buried with substantial wealth, such as those from La Almoloya56, Franzhausen57 or the so-called ‘Princess of Vix’58, to name but a few, occurred within a social context in which high-standing male burials were prevalent. In comparison, the Iberian Pre-Beaker Copper Age record shows no male burials remotely comparable to those of grave 10.049 or Montelirio at Valencina.
+
+Second, early 3rd millennium Iberian societies do not display the traits indicative of highly stratified, class-like or state societies identified elsewhere in Bronze Age or Iron Age Europe. As the Valencina record shows, leadership systems in the Iberian Copper Age were at best unstable and financed by a wealth economy rather than a staple economy59. ‘The Ivory Lady’ appears to have drawn her influence, prestige, or power neither from birth, nor from the control of agricultural produce, but from her personal charisma and her achievements. Her association with substances such as cinnabar, including high levels of mercury exposure, wine and cannabis, are unlikely to result from exclusively mundane practices.
+
+Third, the Valencina evidence raises further questions regarding the nature of European Late Neolithic and Copper Age societies. While there is growing evidence of gender differentiation13, tomb 10.049 and the Montelirio tholos suggests that, within the context of the incipient dynamics of social hierarchisation occurring between the late 4th and early 3rd millennia BC in Valencina, women ostensibly enjoyed high-ranking positions not attained by men. It is worth noting that both structure 10.049 and the Montelirio tholos are the most sumptuous tombs for the whole of Copper Age Iberia (and, notably, the pre-Beaker Copper Age), which suggests women held positions of leadership.
+
+The evidence from Valencina makes a significant contribution to the wider research on gender differences and the role of women in early political organisations. Since the nineteenth century, the idea of a prehistoric past in which women were rulers has been pervasive60,61,62,63. The absence of decisive archaeological evidence for a matriarchy, which would support this socio-evolutionary idea, led most scholars to dismiss this approach completely64,65,66. Considering the empirical findings presented in this paper, themes such as matriarchal political systems and the role of female leaders in early political organisations deserve further discussion. The examples discussed here invite us to reconsider prevailing ideas about power, social complexity, and gender differences among early complex societies. Moreover, it opens the door to reflect on the role that nineteenth century discourse about wealth and gender play in modern interpretations, and the power of new scientific methods to challenge long-standing narratives of the past in the social sciences and the humanities.
+
+Methods
+The recently developed method of sex determination via sexually dimorphic amelogenin peptides in human tooth enamel22,23 represents a breakthrough for both archaeology and anthropology. Tooth enamel contains sex chromosome-linked isoforms of amelogenin, an enamel-forming protein, which preserves well even in archaeological specimens. These sex-specific peptides can be identified by nanoflow liquid chromatography-tandem mass spectrometry (nanoLC-MS/MS). Applicable for both adult and deciduous teeth, the method is particularly useful for identifying the sex of children25,67, whose morphology is not yet sexually dimorphic.
+
+In autumn 2021, the upper left first incisor (FDI 21) from individual 10.049 at Valencina was submitted to the Center for Forensic Medicine, Medical University of Vienna, Austria, for peptide-based sex identification.
+
+The sample for peptide extraction from human tooth enamel was prepared using a previously described protocol24,25. In brief, a c. 2 × 2 mm area of the tooth enamel was first abraded using sandpaper, subsequently washed with hydrogen peroxide and rinsed with MS grade water. The abraded part was immersed in hydrochloric acid, etched for two minutes and the resulted solution was discarded; a second etch was performed and further processed for analysis. C18 ZipTips were used for the peptide clean-up procedure. After eluting the peptides with elution buffer, the sample was dried in a vacuum concentrator and reconstituted in 30% formic acid containing four synthetic standard peptides (10 fM, Supplementary Table S1) for internal quality control. 10 µL Eluent A (98% H2O, 2% ACN, 0.1% FA) were added.
+
+A Dionex Ultimate 3000 nano LC-system coupled to a Q Exactive orbitrap mass spectrometer (Thermo Fisher Scientific) equipped with a nanospray ion source (Nanospray FlexTM, Thermo Fisher Scientific) and a stainless-steel nano bore emitter (Thermo Fisher Scientific) were employed at the Institute for Analytical Chemistry of the University of Vienna. LC–MS conditions were an adapted version of a recently published method23.
+
+The software Skyline (version 20.1.0.7968) was employed to monitor high-quality peptide candidates in a filtering step. Isotope distribution proportions were monitored via the Skyline idotp score, with an applied cut-off of > 0.95 and a mass tolerance of 5 ppm. In order to monitor retention time shifts and confirm peptide identification, retention time differences Δt between mean AMELX/AMELY precursor ion retention times and mean retention times of closest synthetic standard peptide precursor ions were calculated. The data that meet defined quality threshold (Mass tolerance 5 ppm, Skyline idotp score > 0.95 for Enamelin and AMELX/AMELY, Δt < 4 min) were interpreted as providing reliable results.
+
+Results
+The analysis of the upper right third molar (FDI 18) of individual 10.049 at Valencina resulted in the detection of AMELX in absence of AMELY, suggesting female as chromosomal sex. As the precursor ion intensity of AMELX was low, a second tooth, a left upper first incisive (FDI 21) was analysed, confirming female chromosomal sex of the buried individual.
+
+The individual log peak areas of AMELX/AMELY precursor ions are shown in Supplementary Table S2, as well as their sums and the ratios of the sums between AMELY and AMELX to provide an overview of the isotope distribution proportions.
+
+The mass spectrometry proteomics data have been deposited to the ProteomeXchange69, Consortium (http://proteomecentral.proteomexchange.org) via the PRIDE partner repository70.
+
+Data availability
+The mass spectrometry proteomics data have been deposited to the ProteomeXchange69, Consortium (http://proteomecentral.proteomexchange.org) via the PRIDE partner repository70 with the dataset identifier PXD038664 and https://doi.org/10.6019/PXD038664.
+
+References
+Bolger, D. Introduction: Gender Prehistory – The Story So Far. In A Companion to Gender Prehistory, 1–19 (ed. Bolger, D.) 1–19 (Wiley-Blackwell, 2013).
+
+Google Scholar
+ 
+
+Gero, J. M. & Conkey, M. W. Engendering Archaeology: Women and Prehistory (Basil Blackwell, 1984).
+
+Google Scholar
+ 
+
+Conkey, M. & Spector, J. Archaeology and the study of gender. Adv. Archaeol. Method Theory 7, 1–38 (1984).
+
+Google Scholar
+ 
+
+Gilchrist, R. Gender and archaeology: contesting the past (Routledge, 1999).
+
+Google Scholar
+ 
+
+Sørensen, M. L. S. Gender Archaeology (Polity Press, 2000).
+
+Google Scholar
+ 
+
+B. Arnold, N.L. Wicker, Gender and the Archaeology of Death (Altamira, Walnut Creek, CA, 2001).
+
+Nelson, S. M. Handbook of Gender in Archaeology (Altamira Press, 2006).
+
+Google Scholar
+ 
+
+Wylie, A. Doing archaeology as a feminist: Introduction. J. Archaeol. Method Theory 14, 209–216 (2007).
+
+Article
+ 
+Google Scholar
+ 
+
+Montón Subías, S. & Sánchez Romero, M. (eds) Engendering Social Dynamics: The Archaeology of Maintenance Activities (British Archaeological Reports, 2008).
+
+Google Scholar
+ 
+
+Cruz Berrocal, M. Feminismo, teoría y práctica de una arqueología científica. Trab. Prehist. 66(2), 25–43 (2009).
+
+Article
+ 
+Google Scholar
+ 
+
+Hernando Gonzalo, A. La fantasía de la individualidad. Sobre la construcción sociohistórica del sujeto moderno (Katz, 2012).
+
+Book
+ 
+Google Scholar
+ 
+
+Villalba-Mouco, V. et al. Kinship practices in the early state el argar society from Bronze Age Iberia. Sci. Rep. 12(1), 22415 (2022).
+
+Article
+ 
+ADS
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+M. Cintas-Peña, L. García Sanjuán, Women, residential patterns and social complexity. From theory to practice in Copper Ager Iberia. J. Anthropol. Archaeol.
+
+Soriano, I., Herrero-Corral, A. M., Garrido-Pena, R. & Majó, T. Sex/gender system and social hierarchization in Bell Beaker burials from Iberia. J. Anthropol. Archaeol. 64, 101335 (2021).
+
+Article
+ 
+Google Scholar
+ 
+
+Matić, U. & Jensen, B. (eds) Archaeologies of Gender and Violence (Oxbow Books, 2017).
+
+Google Scholar
+ 
+
+Skogstrand, I. Warriors and other men: Notions of masculinity from the late Bronze Age to the early Iron Age in Scandinavia (Archaeo Press, 2016).
+
+Book
+ 
+Google Scholar
+ 
+
+Ghisleni, L., Jordan, A. M. & Fioccoprile, E. Introduction to binary binds: Deconstructing sex and gender dichotomies in archaeological practice. J. Archaeol. Method Theory 23(3), 765–787 (2019).
+
+Article
+ 
+Google Scholar
+ 
+
+C. Rihuete Herrada, Bio-arqueología de las prácticas funerarias: análisis de la comunidad enterrada en el cementerio prehistórico de la Cova des Càrritx (Ciutadella, Menorca), ca. 1450–800 cal ANE. (BAR Publishing, 2003).
+
+Tomé, T. et al. (eds) Current approaches to collective burials in the Late European prehistory (Archaeo Press, 2014).
+
+Google Scholar
+ 
+
+L. Shaw Evangelista, Resting in Peace or in Pieces? Tomb I and Death Management in the 3rd Millennium BC at the Perdigões Enclosure (Reguengos de Monsaraz, Portugal). (BAR International Series, 2019).
+
+Stewart, N. A. et al. The identification of peptides by nanoLC-MS/MS from human surface tooth enamel following a simple acid etch extraction. R. Soc. Chem. Adv. 6(66), 61673–61679 (2016).
+
+CAS
+ 
+Google Scholar
+ 
+
+Parker, G. J. et al. Sex estimation using sexually dimorphic amelogenin protein fragments in human enamel. J. Archaeol. Sci. 101, 169–180 (2019).
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Stewart, N. A. et al. Sex determination of human remains from peptides in tooth enamel. Proc. Natl. Acad. Sci. 114(52), 13649–13654 (2017).
+
+Article
+ 
+ADS
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Rebay-Salisbury, K. et al. Child murder in the early bronze age: Proteomic sex identification of a cold case from Schleinbach, Austria. Archaeol. Anthropol. Sci. 12, 265 (2020).
+
+Article
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Rebay-Salisbury, K. et al. Gendered burial practices of early bronze age children align with peptide-based sex identification: A case study from Franzhausen I, Austria. J. Archaeol. Sci. 139, 105549 (2022).
+
+Article
+ 
+CAS
+ 
+Google Scholar
+ 
+
+Lugli, F. et al. Enamel peptides reveal the sex of the late antique ‘lovers of modena’. Sci. Rep. 9(1), 1–8 (2019).
+
+Article
+ 
+ADS
+ 
+Google Scholar
+ 
+
+Mittnik, A., Wang, C. C., Svoboda, J. & Krause, J. A. molecular approach to the sexing of the triple burial at the upper paleolithic site of Dolní Věstonice. PLoS ONE 11(10), e0163019 (2016).
+
+Article
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Haas, R. et al. Female hunters of the early Americas. Sci. Adv. 6(45), eabd0310 (2020).
+
+Article
+ 
+ADS
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Moilanen, U. et al. A Woman with a Sword? – Weapon grave at suontaka vesitorninmäki, Finland. Eur. J. Archaeol. 25(1), 42–60 (2022).
+
+Article
+ 
+Google Scholar
+ 
+
+García Sanjuán, L., Scarre, C. & Wheatley, D. The mega-site of valencina de la concepción (Seville, Spain): Debating settlement form, monumentality and aggregation in southern Iberian Copper Age societies. J. World Prehist. 30(3), 239–257 (2017).
+
+Article
+ 
+Google Scholar
+ 
+
+Díaz-Zorita Bonilla, M. Bioarqueología de las prácticas funerarias del yacimiento de la Edad del Cobre de Valencina de la Concepción-Castilleja de Guzmán (Sevilla): revisión de las investigaciones. In El Asentamiento Prehistórico de Valencina de la Concepción. Investigación y Tutela en el 150 Aniversario del descubrimiento de La Pastora (eds García Sanjuán, L. et al.) 359–368 (Universidad de Sevilla, 2013).
+
+Google Scholar
+ 
+
+Cintas-Peña, M., García Sanjuán, L., Díaz-Zorita Bonilla, M., Herrero Corral, A. M. & Robles Carrasco, S. The non-adult population of the Copper Age settlement of Valencina de la Concepción (Seville, Spain): A demographic, contextual and sociological approach. Trab. Prehist. 75(1), 85–103 (2018).
+
+Article
+ 
+Google Scholar
+ 
+
+García Sanjuán, L. et al. Burial practices and social hierarchisation in Copper Age southern Spain: analysing tomb 10.042–10.049 of Valencina de la Concepción (Seville, Spain) Megaliths, societies, landscapes: Early monumentality and social differentiation in Neolithic Europe 1005–1037 (University of Kiel, 2018).
+
+Google Scholar
+ 
+
+García Sanjuán, L., Luciañez Triviño, M. & Cintas-Peña, M. Ivory, elites, and lineages in Copper Age Iberia. Exploring the wider significance of the Montelirio tomb. Madrider Mitteilungen 59, 22–65 (2018).
+
+Google Scholar
+ 
+
+Robles Carrasco, S. & Díaz-Zorita Bonilla, M. Análisis bioarqueológico de tres contextos-estructuras funerarias del sector PP4-Montelirio del yacimiento de Valencina de la Concepción-Castilleja de Guzmán (Sevilla). In El asentamiento prehistórico de Valencina de la Concepción (Sevilla): investigación y tutela en el 150 aniversario del descubrimiento de La Pastora (eds García Sanjuán, L. et al.) 369–386 (Universidad de Sevilla, 2013).
+
+Google Scholar
+ 
+
+Emslie, S. et al. The use and abuse of cinnabar in Late Neolithic and Copper Age Iberia. Int. J. Osteoarchaeol. 32(1), 202–214 (2021).
+
+Article
+ 
+Google Scholar
+ 
+
+García Sanjuán, L., Luciañez Triviño, M., Schuhmacher, T., Wheatley, D. & Banerjee, A. Ivory craftsmanship, trade and social significance in the southern Iberian Copper Age: The evidence from the PP4-Montelirio sector of Valencina de la Concepción (Seville Spain). Eur. J. Archaeol. 16(4), 610–635 (2013).
+
+Article
+ 
+Google Scholar
+ 
+
+Luciañez Triviño, M., García Sanjuán, L. & Schuhmacher, T. Crafting idiosyncrasies. Early social complexity, ivory and identity-making in Copper Age Iberia. Camb. Archaeol. J. 32(1), 23–60 (2022).
+
+Article
+ 
+Google Scholar
+ 
+
+Morgado Rodríguez, A., Lozano Rodríguez, J. A., García Sanjuán, L., Odriozola Lloret, C. & Luciáñez Triviño, M. The allure of rock crystal in southern Iberian Copper Age: Technical mastery and distinguished objects at Valencina de la Concepción (Seville, Spain). Quatern. Int. 424, 232–249 (2016).
+
+Article
+ 
+Google Scholar
+ 
+
+GarcíaSanjuán, L., Cintas-Peña, M., Bartelheim, M. & LuciañezTriviño, M. Defining the ‘elites’: A comparative analysis of social ranking in Copper Age Iberia. In Surplus without the State: Political Forms in Prehistory Proceedings of the 10th Archaeological Congress of Central Germany (Halle, October 2017) (eds Meller, H. et al.) 311–335 (State Office of Heritage Management and Archaeology Saxony-Anhalt (LDA), 2018).
+
+Google Scholar
+ 
+
+Sahlins, M. D. Poor man, rich man, big-man, chief: Political types in melanesia and polynesia. Comp. Stud. Soc. Hist. 5(3), 285–303 (1963).
+
+Article
+ 
+Google Scholar
+ 
+
+Spriggs, M. Ethnographic parallels and the denial of history. World Archaeol. 40(4), 538–552 (2008).
+
+Article
+ 
+Google Scholar
+ 
+
+Hayden, B. Big man, big heart? The political role of aggrandizers in egalitarian and transegalitarian societies. In For the Greater Good of All: Perspectives on Individualism, Society, and Leadership (eds Forsyth, D. & Hoyt, C.) 101–108 (Palgrave Macmillan, 2011).
+
+Chapter
+ 
+Google Scholar
+ 
+
+Garrido-Pena, R. Transegalitarian societies: an ethnoarchaeological model for the analysis of Bell-beaker using groups in Central Iberia. In Social Inequality in Iberian Late Prehistory (eds Díaz del Río Español, P. & García Sanjuán, L.) 81–96 (British Archaeological Reports International Series, 2006).
+
+Google Scholar
+ 
+
+Ramos Millán, A. Villages of wealth and resistance in paradise: Millaran and Argaric chiefdoms in the Iberian Southeast. In The Prehistory of Iberia: Debating Early Social Stratification and the State (eds Cruz Berrocal, M. et al.) 74–98 (Routledge, 2013).
+
+Google Scholar
+ 
+
+García Sanjuán, L. et al. In the bosom of the earth. A new megalithic monument at the Antequera world heritage site (Spain). Antiquity 1, 1–20 (2023).
+
+Article
+ 
+Google Scholar
+ 
+
+Fernández Flores, Á. et al. (eds) Montelirio: Un gran monumento megalítico de la Edad del Cobre (Junta de Andalucía, 2016).
+
+Google Scholar
+ 
+
+Bayliss, A. et al. La cronología radiocarbónica del tholos de Montelirio. In Montelirio: Un gran monumento megalítico de la Edad del Cobre (eds Fernández Flores, Á. et al.) 485–502 (Junta de Andalucía, 2016).
+
+Google Scholar
+ 
+
+Pecero Espín, J. C. Caracterización antropológica de los restos óseos humanos del tholos de Montelirio. In Montelirio: Un gran monumento megalítico de la Edad del Cobre (eds Fernández Flores, Á. et al.) 409–442 (Junta de Andalucía, 2016).
+
+Google Scholar
+ 
+
+Emslie, S., Mckenzie, A. C. & Shaller, H. Análisis de mercurio de los restos humanos del tholos de Montelirio. In Montelirio: Un Gran Monumento Megalítico de la Edad del Cobre 449–454 (eds Fernández Flores, Á. et al.) 449–459 (Junta de Andalucía, 2016).
+
+Google Scholar
+ 
+
+Case, D. T., Hill, R. J., Merbs, C. F. & Fong, M. Polydactyly in the Prehistoric American Southwest. Int. J. Osteoarchaeol. 16, 221–235 (2006).
+
+Article
+ 
+Google Scholar
+ 
+
+Wrobel, G. D., Helmke, C., Nash, L. & Awe, J. J. Polydactyly and the maya: A review and a case from the site of Peligroso, Upper Macal River Valley, Belize. Ancient Mesoam. 23(1), 131–142 (2012).
+
+Article
+ 
+Google Scholar
+ 
+
+Crown, P. L., Marden, K. & Mattson, H. Foot notes: The social implications of polydactyly and foot-related imagery at Pueblo Bonito, Chaco Canyon. Am. Antiq. 81(3), 426–448 (2016).
+
+Article
+ 
+Google Scholar
+ 
+
+Standen, V. G. et al. Prehistoric polydactylism: Biological evidence and rock art representation from the Atacama Desert in northern Chile. Int. J. Paleopathol. 22, 54–65 (2018).
+
+Article
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+García Sanjuán, L., Fernández Flores, Á. & Díaz-Zorita Bonilla, M. Montelirio. Valoración e Interpretación de una tumba excepcional. In Montelirio: Un Gran Monumento Megalítico de la Edad del Cobre (eds Fernández Flores, Á. et al.) 503–553 (Junta de Andalucía, 2016).
+
+Google Scholar
+ 
+
+Lull, V. et al. Emblems and spaces of power during the Argaric Bronze Age at La Almoloya, Murcia. Antiquity 95(380), 329–348 (2021).
+
+Article
+ 
+Google Scholar
+ 
+
+Grömer, K. & BenderJørgensen, L. Visualiy–Movement–Body Language. The costume of a rich woman from Franzhausen, c. 2000 BC. In Vetus Textrinum. Textiles in the Ancient World Studies in Honour of Carmen Alfaro Giner (eds García Sánchez, M. & Gleba, M.) 211–224 (Universitat de Barcelona Editions, 2018).
+
+Google Scholar
+ 
+
+Arnold, B. The Deposed Princess of Vix: The Need for an Engendered European Prehistory. In The Archaeology of Gender. Proceedings of the Twenty-Second Annual Conference of the Archaeological Association of the University of Calgari (eds Walde, D. & Willows, N.) 366–374 (The University of Calgari, 1991).
+
+Google Scholar
+ 
+
+García Sanjuán, L. Farming economy and wealth economy in the Copper Age of the Lower Guadalquivir River: Debating strategic resources at Valencina de la Concepción (Seville, Andalusia, Spain). In Key Resources and Socio-Cultural Developments in the Iberian Chalcolithic 237–256 (eds Bartelheim, M. et al.) 237–256 (University of Tübingen, 2017).
+
+Google Scholar
+ 
+
+J.J. Bachofen, El matriarcado. Una investigación sobre la ginecocracia en el mundo antiguo según su naturaleza religiosa y jurídica (Akal, 1992 [First edition 1861]).
+
+F. Engels, El origen de la familia, la propiedad privada y el estado (El Cid Editor, 2003 [First edition 1884].
+
+Gimbutas, M. The gods and goddesses of old Europe: 7000 to 3500 BC myths, legends and cult images (University of California, 1974).
+
+Google Scholar
+ 
+
+Eisler, R. The Chalice and the Blade: Our History (Our Future. Harper and Row, 1987).
+
+Google Scholar
+ 
+
+Meskell, L. Goddesses, gimbutas and new age archaeology. Antiquity 69(262), 74–86 (1995).
+
+Article
+ 
+Google Scholar
+ 
+
+Eller, C. The Myth of Matriarchal Prehistory. Why an Invented Past will not Give Women a Future (Beacon Press, 2000).
+
+Google Scholar
+ 
+
+Koerner, S. Revisiting the myth of matriarchy, rethinking determinism, seeing anew. In Archaeologies of Gender and Violence (eds Matic, U. & Jensen, B.) 24–44 (Oxbow, 2017).
+
+Chapter
+ 
+Google Scholar
+ 
+
+Gowland, R. et al. Sex estimation of teeth at different developmental stages using dimorphic enamel peptide analysis. Am. J. Phys. Anthropol. 174, 859–869 (2021).
+
+Article
+ 
+PubMed
+ 
+Google Scholar
+ 
+
+Schilling, B. et al. Platform independent and label-free quantitation of proteomic data using MS1 extracted ion chromatograms in skyline. Application to protein acetylation and phosphorylation. Mol. Cell. Proteomics 11(5), 202 (2012).
+
+Article
+ 
+CAS
+ 
+PubMed
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Deutsch, E. W. et al. The ProteomeXchange consortium in 2020: Enabling ‘big data’ approaches in proteomics. Nucleic Acids Res. 48(D1), D1145–D1152 (2019).
+
+PubMed Central
+ 
+Google Scholar
+ 
+
+Perez-Riverol, Y. et al. The PRIDE database and related tools and resources in 2019: Improving support for quantification data. Nucleic Acids Res. 47(D1), D442–D450 (2018).
+
+Article
+ 
+PubMed Central
+ 
+Google Scholar
+ 
+
+Download references
+
+Acknowledgements
+This research has received funding from various projects, including ‘WOMAM. Women, Men and Mobility: Understanding Gender Inequality in Prehistory’ (European Union’s Horizon 2020 research and innovation program under the Marie Sklodowska-Curie Grant Agreement No 891776), “Temporality, Landscape and Social Complexity at Major Andalusian Megalithic Sites: Antequera and Valencina” (Andalusian R&D FEDER Program, 2018 Call) and ‘The Value of Mothers to Society’ (European Research Council (ERC) under the European Union’s Horizon 2020 Research and Innovation Programme (Grant Agreement No 676828). We thank Roderick B. Salisbury for comments and editing for language. We also thank professors Antonio Gilman and Timothy Earle for their comments on the first drafts of this paper.
+
+Author information
+Authors and Affiliations
+Department of Prehistory and Archaeology, University of Seville, C/María de Padilla s/n, 41004, Seville, Spain
+
+Marta Cintas-Peña, Miriam Luciañez-Triviño, Raquel Montero Artús & Leonardo García Sanjuán
+
+Department of Analytical Chemistry, University of Vienna, Vienna, Austria
+
+Andrea Bileck & Patricia Bortel
+
+Joint Metabolome Facility, University of Vienna, Vienna, Austria
+
+Andrea Bileck
+
+Center for Forensic Medicine, Medical University of Vienna, Vienna, Austria
+
+Fabian Kanz
+
+Department of Prehistoric and Historical Archaeology, University of Vienna, Vienna, Austria
+
+Katharina Rebay-Salisbury
+
+Contributions
+M.C.P.: conceptualization, sampling, writing—original draft, funding acquisition, writing—review and editing. M.L.T.: graphics, writing—review and editing. R.M.A.: laboratory analysis, writing—review and editing. A.B.: laboratory analysis supervision, writing—review and editing. P.B.: laboratory analysis, writing—review and editing. F.K.: laboratory analysis, writing—review and editing. K.R.S.: funding acquisition, writing—review and editing. L.G.S.: conceptualization, writing—original draft, funding acquisition, supervision, writing—review and editing.
+
+Corresponding author
+Correspondence to Marta Cintas-Peña.
+
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+
+Additional information
+Publisher's note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Supplementary Information
+Supplementary Tables. (download PDF )
+Rights and permissions
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+
+Reprints and permissions
