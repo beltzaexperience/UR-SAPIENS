@@ -1,0 +1,21 @@
+# Herramientas
+
+Todo lo que no es texto del libro pero hace falta para trabajarlo. Los textos de las obras de referencia (Baroja, Orwell, Martín Santos) no se guardan en el repositorio.
+
+| Archivo | Para qué sirve |
+|---|---|
+| `guardar-y-publicar.sh` | Guarda el trabajo en la rama y publica en `main` todo menos los HTML (los HTML, solo con el OK de Luis y la opción `--html`). Con `traer`, recoge lo que Luis sube desde la web. Los borrados no se publican solos. |
+| `relojero-plus-medidas.py` | Mide una pieza con la batería de la Matriz del Relojero-Plus (Normas 38, 55 y otras): tabla con valor, umbral y estado. |
+| `perfil-frase.py` | Perfil de frase de cada pieza (Norma 36.8): longitud, comienzos, subordinación. |
+| `perfil-corpus.py` | Compara las piezas con el corredor del canon (rango de los trozos de 2.000 palabras de las obras de referencia). |
+| `analisis-texto.py` | Los 18 análisis del marco textual con analizador sintáctico (necesita spaCy). |
+| `estimar-paginas-glosa.py` y `glosas-tratadas.json` | Estimación de páginas del libro puro con la glosa telegráfica; el JSON guarda las palabras de glosa antes y después de cada pieza tratada. |
+| `glosa-extendida.py` | Deposita la glosa íntegra de una pieza en la pestaña GLOSAS EXTENDIDAS antes de podarla. |
+| `edicion/lib_poda.py` | Utilidades de edición: poda de glosas, Marcador, ledger, medición por piezas. |
+| `edicion/herr.py` | Búsqueda tolerante a etiquetas y entidades dentro del texto y aplicación de lotes antes/después. |
+| `edicion/medir-piezas.js` | Palabras y caracteres de cada pieza de `urtz.html` (node y playwright). |
+| `edicion/lectura-rubrica.md` | Protocolo de la lectura de ocho lectores independientes (nueve criterios, calibración). |
+| `edicion/lectura-resumen.py` | Nota, medias por criterio, ajuste de calibración y dispersión de una ronda de lectura. |
+| `edicion/calibracion/` | Las dos piezas de calibración (Angostura e Islandia I) en la versión usada en las lecturas. |
+
+Los scripts de `edicion/` guardan sus copias de seguridad y medidas en `/tmp/ur-trabajo` (o en la carpeta de la variable `UR_TRABAJO`) y la autoría de los commits se pasa por la variable `CIERRE`.
