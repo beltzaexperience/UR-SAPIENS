@@ -2630,3 +2630,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **CULTURA: cuatro ideas externas para «Cómo acaba un poder» (24/10/2026).** Detalle en la Norma 55 (registro). Sin cambios en el HTML ni en el Marcador.
 
 **CULTURA: la revuelta y el 40 % sin metal (24/10/2026).** Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.052.824 caracteres / 174.581 palabras / ≈698 págs.; libro puro 756.351 / 120.222 / ≈481; URS+URIM 1.472.795 / 247.298 / ≈989; TOTAL DEL PROYECTO 1.573.290 / 263.882 / ≈1056. HTML guardado, sin publicar (Regla 38).
+
+**CULTURA: verificación con los artículos de Luis (24/10/2026).** Glosas (22) y (7) corregidas; Fe de erratas n.º 6. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.053.029 caracteres / 174.610 palabras / ≈698 págs.; libro puro 756.556 / 120.251 / ≈481; URS+URIM 1.473.000 / 247.327 / ≈989; TOTAL DEL PROYECTO 1.573.495 / 263.911 / ≈1056. HTML guardado, sin publicar (Regla 38).
