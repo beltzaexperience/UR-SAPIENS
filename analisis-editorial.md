@@ -2616,3 +2616,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **CULTURA: el orden del párrafo de «Lo que viaja» se queda (24/10/2026).** Detalle en la Norma 55 (registro). Sin cambios en el HTML ni en el Marcador.
 
 **CULTURA: subtítulos en mayúsculas y más cortos (24/10/2026).** Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.052.487 caracteres / 174.522 palabras / ≈698 págs.; libro puro 756.014 / 120.163 / ≈481; URS+URIM 1.472.458 / 247.239 / ≈989; TOTAL DEL PROYECTO 1.572.953 / 263.823 / ≈1055. HTML guardado, sin publicar (Regla 38).
+
+**CULTURA: tercera lectura de los ocho lectores (24/10/2026).** Nota 3,65 (ajustada 3,97): α se mantiene. Emoción 2,38 → 2,56; memorabilidad 2,81 → 3,31; público 3,12 → 3,38. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.052.487 caracteres / 174.522 palabras / ≈698 págs.; libro puro 756.014 / 120.163 / ≈481; URS+URIM 1.472.458 / 247.239 / ≈989; TOTAL DEL PROYECTO 1.572.953 / 263.823 / ≈1055. HTML guardado, sin publicar (Regla 38).
