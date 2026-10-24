@@ -23,4 +23,4 @@ REPAROS: reparos repetidos
 SACA: frases que sacan al lector
 ```
 
-**Cautelas.** Los lectores son subagentes del mismo modelo, no personas: sirven para comparar versiones entre sí. La dispersión entre lectores es de ≈0,1 a 0,2 puntos de nota; diferencias entre rondas menores de ≈0,1 son ruido. Una sola ronda al final de la pieza basta; las rondas intermedias aportaron poco (CULTURA, 24/10/26).
+**Cautelas.** Los lectores son subagentes del mismo modelo, no personas: sirven para comparar versiones entre sí. La dispersión entre lectores es de ≈0,1 a 0,2 puntos de nota; diferencias entre rondas menores de ≈0,1 son ruido. La lectura vale más por los reparos que señala, que se convierten en deberes de la pieza, que por la nota: una ronda al empezar, como diagnóstico, y otra al final, para la nota; las intermedias aportaron poco a la nota (CULTURA, 24/10/26).
