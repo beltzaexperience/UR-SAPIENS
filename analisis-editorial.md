@@ -2610,3 +2610,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **CULTURA: el marfil, tercera versión de Luis (24/10/2026).** Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.052.529 caracteres / 174.532 palabras / ≈698 págs.; libro puro 756.056 / 120.173 / ≈481; URS+URIM 1.472.500 / 247.249 / ≈989; TOTAL DEL PROYECTO 1.572.995 / 263.833 / ≈1055. HTML guardado, sin publicar (Regla 38).
 
 **CULTURA: el marfil, cuarta versión de Luis; Fe de erratas n.º 6 retirado (24/10/2026).** Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.052.469 caracteres / 174.520 palabras / ≈698 págs.; libro puro 755.996 / 120.161 / ≈481; URS+URIM 1.472.440 / 247.237 / ≈989; TOTAL DEL PROYECTO 1.572.935 / 263.821 / ≈1055. HTML guardado, sin publicar (Regla 38).
+
+**CULTURA: el marfil, quinta versión de Luis (24/10/2026).** Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.052.503 caracteres / 174.527 palabras / ≈698 págs.; libro puro 756.030 / 120.168 / ≈481; URS+URIM 1.472.474 / 247.244 / ≈989; TOTAL DEL PROYECTO 1.572.969 / 263.828 / ≈1055. HTML guardado, sin publicar (Regla 38).
