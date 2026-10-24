@@ -2626,3 +2626,5 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **CULTURA: sexo mal asignado, la mujer coronada y el cierre sin repetición (24/10/2026).** Detalle en la Norma 55 (registro). Fe de erratas n.º 6 retirado. **Marcador (Regla 14):** URS 1.052.498 caracteres / 174.532 palabras / ≈698 págs.; libro puro 756.025 / 120.173 / ≈481; URS+URIM 1.472.469 / 247.249 / ≈989; TOTAL DEL PROYECTO 1.572.964 / 263.833 / ≈1055. HTML guardado, sin publicar (Regla 38).
 
 **CULTURA: cinco artículos de apertura, Norma 38 (24/10/2026).** Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.052.497 caracteres / 174.533 palabras / ≈698 págs.; libro puro 756.024 / 120.174 / ≈481; URS+URIM 1.472.468 / 247.250 / ≈989; TOTAL DEL PROYECTO 1.572.963 / 263.834 / ≈1055. HTML guardado, sin publicar (Regla 38).
+
+**CULTURA: cuatro ideas externas para «Cómo acaba un poder» (24/10/2026).** Detalle en la Norma 55 (registro). Sin cambios en el HTML ni en el Marcador.
