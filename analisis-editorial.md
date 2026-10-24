@@ -2644,3 +2644,55 @@ Tamaños de sección tras los cortes: Umbral 119, §1 152, §2 182, §3 121, §4
 **CULTURA: cuarta lectura de los ocho lectores (24/10/2026).** Nota 3,79 (ajustada 4,16): α se mantiene, la mejor de las cuatro. Emoción 2,56 → 2,88; memorabilidad 3,31 → 3,62; aporte 3,50 → 3,75. Los ocho señalan «sexo mal asignado». Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.054.175 caracteres / 174.798 palabras / ≈699 págs.; libro puro 757.702 / 120.439 / ≈482; URS+URIM 1.474.146 / 247.515 / ≈990; TOTAL DEL PROYECTO 1.574.641 / 264.099 / ≈1056. HTML guardado, sin publicar (Regla 38).
 
 **CULTURA: «sexo mal asignado» se queda; pierde (*-tit) (24/10/2026).** Detalle en la Norma 55 (registro) y NOTAS-URTZ.md. **Marcador (Regla 14):** URS 1.054.167 caracteres / 174.797 palabras / ≈699 págs.; libro puro 757.694 / 120.438 / ≈482; URS+URIM 1.474.138 / 247.514 / ≈990; TOTAL DEL PROYECTO 1.574.633 / 264.098 / ≈1056. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: valoración de costes materiales e intelectuales, de la pieza original a la de hoy (24/10/2026).** Encargo de Luis: *«una valoración estadística de costes materiales e intelectuales de arreglar este capítulo de lo que teníamos al principio y el resultado de hoy, teniendo en cuenta que hay que seguir mejorando los tramos fríos y los reparos; sobre estos último quiero saber si el libro los minimizaría»*. Cada cifra va marcada como **medida** o **estimada**. Sin cambios en el HTML ni en el Marcador.
+
+**1. Tres estados (medido).**
+
+| | Original (antes del 18/10) | Máximo del 22/10 | Hoy (24/10) |
+|---|---|---|---|
+| Cuerpo | 229 palabras | 1.183 | 1.329 |
+| Glosa | 161 | 693 | 985 |
+| Total | 390 | ≈1.900 (1.876 o 1.924 según el recuento) | 2.314 |
+| Párrafos | 5 | 36 | 15 |
+| Subtítulos | n/d | 10 | 3 |
+| Entradas de glosa | 3 | 29 | 29 |
+
+Norma 38 hoy al 31 % (alarma al 35 %).
+
+**2. Resultado (medido).** La pieza original no se leyó nunca con la rúbrica: no hay nota de partida. La serie empieza en la primera lectura, ya sobre la versión reconstruida.
+
+| Lectura | Nota | Ajustada | Emoción | Memorabilidad |
+|---|---|---|---|---|
+| 1.ª | 3,58 | 3,86 | 2,50 | 2,94 |
+| 2.ª | 3,60 | 3,96 | 2,38 | 2,81 |
+| 3.ª | 3,65 | 3,97 | 2,56 | 3,31 |
+| 4.ª | 3,79 | 4,16 | 2,88 | 3,62 |
+
+Dispersión entre lectores de ≈0,11 a 0,18 (calculada con los ocho de la 1.ª y con los 4–5 de la 3.ª y la 4.ª cuyos ficheros individuales se conservan). Error típico de cada media ≈0,05; de la diferencia entre dos lecturas, ≈0,07 a 0,09. Los pasos 1.ª→2.ª (+0,02) y 2.ª→3.ª (+0,05) son ruido; 3.ª→4.ª (+0,14) está en 1,5 a 2 errores típicos; el acumulado 1.ª→4.ª (+0,21), en 2,5 a 3, y es el único resultado firme. Los lectores son subagentes del mismo modelo, no personas: sirven para comparar versiones entre sí, no como prueba de cómo recibirá el libro un lector real. **Qué compró cada trabajo:** podar y quitar moldes subió la evidencia (4,12→4,31) y no movió la emoción; lo que movió emoción (+0,38) y memorabilidad (+0,68) fueron los hechos con personas sacados de las fuentes (Dama del Marfil y su daga, niñas con herramientas a los seis años, tumba 38, rito de enterrar bajo las casas).
+
+**3. Costes materiales (medido, salvo lo indicado).** 219 commits desde el 17/10 (71 mencionan CULTURA; los 219 incluyen contraportada, índices y normas). 41 scripts de edición y 44 copias del HTML. 62 entradas de registro de CULTURA (≈24.100 palabras: ≈10 de registro por cada palabra de pieza), repartidas 5 (18/10), 9 (19/10), 3 (20/10), 20 (22/10), 25 (24/10). Diff desde el 19/10: +1.775 / −494 líneas en las normas, el análisis, las notas y el HTML. Lecturas: 4 rondas × 8 lectores = 32 subagentes de ≈63.000 tokens: **≈2,0 millones de tokens**, el mayor gasto. Últimas 24 h de la sesión: 170 comandos, 16 agentes, 12 búsquedas, 25 envíos del HTML.
+
+**4. Costes intelectuales.** *Medido:* unas 62 rondas de decisión de Luis; ≈4.480 palabras suyas en 41 mensajes en las últimas 24 h (incluyen índices y contraportada). *Estimado:* 8 a 10 de las 62 rondas (13–16 %) fueron rehacer algo: el marfil pasó por 5 versiones de Luis, la regla de fechas se aplicó mal y hubo que revertirla, propuestas de Claude afirmaron más de lo que decía la fuente (cánones, princesa, género); el registro tiene 5 o 6 «Error de Claude» explícitos. Esos errores trasladaron a Luis trabajo de verificación. *Capital reutilizable:* Normas 55.12, 50.8, 59 y 60, Reglas 42–44, Relojero-Plus v2; entre un tercio y la mitad del coste fue fijo (juicio de Claude, no medido).
+
+**5. Lo que queda en CULTURA (estimado).** Cuatro tramos fríos: «Viajan materias…», «De Los Millares a El Argar…», «Una teoría clásica…» y la lista final. Se arreglan con un hecho concreto con personas por tramo, no con tijera. Unas 12–16 decisiones de Luis, 10–15 commits y una lectura final (≈0,5 millones de tokens): una quinta parte de lo gastado. Techo de nota esperado en torno a 3,9–4,0 (juicio, no estadística). **Referencia:** la nota de corte de α es 3,34 y CULTURA está en 3,79; el objetivo de Luis para el libro (9/10 y 17/10) es que *todas* las piezas sean α o β (β desde 2,74), no que todas lleguen al nivel de CULTURA.
+
+**6. ¿El libro minimiza los reparos? (clasificación de Claude, no medida, muestra pequeña).**
+
+| Tipo de reparo | Peso aprox. | ¿Lo reduce el libro? |
+|---|---|---|
+| Falta de contexto: «'T' y UR sin explicar» | ≈25 % | Sí: Prefacio y demás piezas lo definen |
+| Tesis afirmada sin demostrar («UR es el signo…», el cierre) | ≈30 % | En parte: la demostración acumulada es del libro, pero la pieza no debe afirmar más de lo que prueba sola |
+| Oficio de la pieza: tramos fríos, «la 'T' se apaga» causal, fuentes débiles de glosa, cronología de La Bastida, mosaico, lista -ura como juego fónico | ≈45 % | No |
+
+Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo está inflado frente a un lector del libro entero (y es exactamente lo que mide el criterio de capítulo independiente). Coste de una declaración mínima de 'T' y UR en cada pieza (1 o 2 frases, ≈40 palabras): ≈3.100 palabras en 78 piezas, el 2,6 % del libro puro (≈12 páginas). Precedente: la apertura de CULTURA, la frase que los ocho lectores citaron como lo que más engancha. El Prefacio y el Epílogo cargarían con la demostración acumulada y con un párrafo de falsabilidad. Riesgo: la repetición para quien lee seguido; se mitiga variando la fórmula. **Propuesta pendiente de Luis:** repetir la lectura de ocho con CULTURA precedida del Prefacio (≈0,5 millones de tokens) para convertir esta clasificación en medida.
+
+**7. Escenario para el resto del libro (supuestos de Claude, no medidos).** El escenario inicial (10 piezas con tratamiento completo, 25 con pulido y 43 con pasadas mecánicas: ≈32 millones de tokens de lectores y ≈500 commits) era una suposición de Claude y **queda sustituido por el de la sección 8**, que parte del criterio de Luis (todas α o β).
+
+**8. Carga de Luis en la corrección final (estimado; Luis debe corregir sus minutos reales).** Modelo: horas = rondas × minutos por ronda (5 a 10 min por ronda, supuesto de Claude), más la lectura final.
+- Piezas γ a subir a β (13 según la clasificación del 09/10 ajustada el 17/10; no es un recuento actual), con pulido de ≈15 rondas cada una: ≈195 rondas = 16–33 h.
+- Revisión de las pasadas de todo el libro (Normas 59 y 60, «UR sin artículo», Relojero-Plus): 10–20 h.
+- Lectura final del libro puro (≈120.000 palabras) a 2.700–4.000 palabras por hora (velocidad de corrección editorial habitual): 30–45 h.
+- **Total ≈ 55–100 h**, frente a las ≈85–170 h de tratar todas las piezas como CULTURA.
+- Palancas para bajarlo (propuesta a Luis): cerrar CULTURA (3,79 > 3,34) y llevar los tramos fríos a la lectura final del libro entero; ampliar la Norma 55, punto 10, a todo lo que no sea voz o interpretación de Luis (erratas, comas, fidelidad a la fuente, cifras, identificación de glosa, renumeraciones: ≈un tercio de las 62 rondas, estimado); un único lote antes/después por pieza, con veto por número; informes de Claude más cortos; una sola lectura de ocho por pieza, al final.
