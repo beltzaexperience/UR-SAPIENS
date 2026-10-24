@@ -800,6 +800,10 @@ Luis, 22/10/26, tras pasar CULTURA de gama a alfa: *«Esta pieza me la he tomado
 9. **Publicación** del HTML solo con el OK de Luis (Regla 38).
 Estado de CULTURA a 22/10/26: pasos 1 a 7 hechos (α, nota 3,58); paso 8 en curso. Norma 55, entradas del 22/10/26.
 
+## REGLA 44 — GRAFÍA DE GIPUZKOA Y GUIPUZCOANO (24/10/26)
+
+Luis, 24/10/26, tras preguntar si el topónimo debía escribirse «Guipúzcoa»: *«Pues la que escribe Guipúzcoa hay que cambiarla a Gipuzkoa. y gipuzkoano a guipuzcoano, unifica criterios.»* **Regla:** el territorio se escribe **Gipuzkoa** (forma oficial) y su gentilicio **guipuzcoano, -a, -os, -as** (forma registrada en español). «Guipúzcoa» y «gipuzkoano» no se usan. **No cambia** el nombre propio histórico «Real Compañía Guipuzcoana de Caracas». Aplicado en todo `urtz.html` (4 casos: «Guipúzcoa con Caracas», «cuevas guipuzcoanas», «Muy guipuzcoana» y una clave de búsqueda). Hasta nueva orden, el mismo criterio de unificar vale para otros topónimos con doble forma: se pregunta a Luis antes de fijarlo.
+
 ## PENDIENTE — LÍNEA EDITORIAL, REFERENTES Y MARCO DE ANÁLISIS TEXTUAL (08-09/10/26)
 
 **El encargo de Luis (08/10/26):** hacer con tres obras de Baroja, tres de Orwell y una de Martín Santos subidas a `main` el trabajo hecho con el texto de Baroja sobre San Sebastián, para cerrar la línea editorial del manuscrito y perfilar las Normas-Método definitivas, teniendo en cuenta la anomalía rupestre que representa UR. Después pidió llevar la comparación a los análisis de texto y sintáctico, con el marco de los 18 análisis en cuatro dimensiones, para usarlo en las correcciones finales.
