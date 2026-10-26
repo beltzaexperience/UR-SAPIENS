@@ -2716,3 +2716,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: cierre reordenado, «UR, EUSKERA Y 'T'» (26/10/2026).** Luis ordena el final: subtítulo nuevo, Göbekli sin título propio y «Tras raspar tantas capas…» como párrafo final. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.056.693 caracteres / 175.207 palabras / ≈701 págs.; libro puro 760.220 / 120.848 / ≈483; URS+URIM 1.476.664 / 247.924 / ≈992; TOTAL DEL PROYECTO 1.577.159 / 264.508 / ≈1058. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: tres frases sin artículo y subtítulo «UR Y 'T'» (26/10/2026).** Luis aprueba las tres sustituciones propuestas y el nuevo título de la sección. Norma 38 baja del 35 % al 31 %. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.056.685 caracteres / 175.206 palabras / ≈701 págs.; libro puro 760.212 / 120.847 / ≈483; URS+URIM 1.476.656 / 247.923 / ≈992; TOTAL DEL PROYECTO 1.577.151 / 264.507 / ≈1058. HTML guardado, sin publicar (Regla 38).
