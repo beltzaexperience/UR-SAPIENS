@@ -2713,3 +2713,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: nueva sección «LA 'T' DE GÖBEKLI TEPE · EL PILAR SIN ROSTRO» (26/10/2026).** Luis: *«Verdad no existe. Esto es para Cultura, ampliando el texto»*. Subtítulo y dos párrafos al final de la pieza, con su redacción; glosa (30) a (32). Alarmas: Norma 38 en el límite (35 %) y glosa al 45 % del total. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.056.733 caracteres / 175.216 palabras / ≈701 págs.; libro puro 760.260 / 120.857 / ≈483; URS+URIM 1.476.704 / 247.933 / ≈992; TOTAL DEL PROYECTO 1.577.199 / 264.517 / ≈1058. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: cierre reordenado, «UR, EUSKERA Y 'T'» (26/10/2026).** Luis ordena el final: subtítulo nuevo, Göbekli sin título propio y «Tras raspar tantas capas…» como párrafo final. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.056.693 caracteres / 175.207 palabras / ≈701 págs.; libro puro 760.220 / 120.848 / ≈483; URS+URIM 1.476.664 / 247.924 / ≈992; TOTAL DEL PROYECTO 1.577.159 / 264.508 / ≈1058. HTML guardado, sin publicar (Regla 38).
