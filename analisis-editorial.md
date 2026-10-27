@@ -2857,3 +2857,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **Angostura bajo el protocolo nuevo (27/10/2026).** Nota 2,83 frente a la oficial de 3,50: el protocolo sin referencias descuenta 0,67. La sexta lectura de CULTURA (3,28) equivale a 3,95 en la escala antigua (α; quinta lectura ajustada, 4,01). Un solo punto de calibración. Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
+
+
+**CULTURA: la apertura, el rosario de nombres (27/10/2026).** Frase de la Meseta con la redacción de Luis (Odiel, Urius, Estrecho); salen Tarteso y Doñana; glosa de 37 a 35 entradas. Cuerpo 1.881 palabras, glosa 1.558. **Marcador (Regla 14):** URS 1.074.258 caracteres / 178.018 palabras / ≈712 págs.; libro puro 764.641 / 121.563 / ≈486; URS+URIM 1.494.229 / 250.735 / ≈1003; TOTAL DEL PROYECTO 1.594.724 / 267.319 / ≈1069. HTML guardado, sin publicar (Regla 38).
