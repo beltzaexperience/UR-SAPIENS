@@ -2839,3 +2839,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: se revierte «la antigua Edesa» (27/10/2026).** Por decisión de Luis, «Urfa, «La Ciudad Bendita»(34)» vuelve a su forma anterior (Urfa, la misma ciudad en dos lecturas). Cuerpo 1.889 palabras, glosa 1.596. **Marcador (Regla 14):** URS 1.074.543 caracteres / 178.064 palabras / ≈712 págs.; libro puro 764.926 / 121.609 / ≈486; URS+URIM 1.494.514 / 250.781 / ≈1003; TOTAL DEL PROYECTO 1.595.009 / 267.365 / ≈1069. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: Urfa pasa a Urhāy (27/10/2026).** Cinco «Urfa» del cuerpo a «Urhāy» con el «Ur» en rojo; glosas (32), (33) y (34) identifican el nombre actual. Cuerpo 1.889 palabras, glosa 1.602. **Marcador (Regla 14):** URS 1.074.595 caracteres / 178.070 palabras / ≈712 págs.; libro puro 764.978 / 121.615 / ≈486; URS+URIM 1.494.566 / 250.787 / ≈1003; TOTAL DEL PROYECTO 1.595.061 / 267.371 / ≈1069. HTML guardado, sin publicar (Regla 38).
