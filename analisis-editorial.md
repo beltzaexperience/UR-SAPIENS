@@ -2776,3 +2776,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: La Bastida, balsa y cisterna son dos obras (27/10/2026).** La glosa (15) mezclaba la gran balsa (300.000 litros según Lull; más de 400.000 según una nota de la UB) con la cisterna de la muralla, que es la que tiene paralelos orientales. Corregida. El texto no cambia. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.063.091 caracteres / 176.245 palabras / ≈705 págs.; libro puro 766.618 / 121.886 / ≈488; URS+URIM 1.483.062 / 248.962 / ≈996; TOTAL DEL PROYECTO 1.583.557 / 265.546 / ≈1062. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: «Europa occidental» y el Tribunal «a día de hoy» (27/10/2026).** «Sin precedentes en Europa occidental para su época» aplicado (vale para la fortificación). El Tribunal se reúne hoy; su jurisdicción de riego es de origen musulmán. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.063.082 caracteres / 176.244 palabras / ≈705 págs.; libro puro 766.609 / 121.885 / ≈488; URS+URIM 1.483.053 / 248.961 / ≈996; TOTAL DEL PROYECTO 1.583.548 / 265.545 / ≈1062. HTML guardado, sin publicar (Regla 38).
