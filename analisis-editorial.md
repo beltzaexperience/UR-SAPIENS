@@ -2818,3 +2818,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: la Meseta en dos frases (27/10/2026).** «…hasta el Duero y el Guadiana. Llega a la gran puerta del suroeste…» (F3, primera mitad). Cuerpo 1.904 palabras, glosa 1.596. **Marcador (Regla 14):** URS 1.074.629 caracteres / 178.079 palabras / ≈712 págs.; libro puro 765.012 / 121.624 / ≈486; URS+URIM 1.494.600 / 250.796 / ≈1003; TOTAL DEL PROYECTO 1.595.095 / 267.380 / ≈1070. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: «Mercaderes» en dos frases (27/10/2026).** «…la violencia. En América todo se volvió a mezclar.» (F3, segunda mitad). Cuerpo 1.903 palabras, glosa 1.596. **Marcador (Regla 14):** URS 1.074.627 caracteres / 178.078 palabras / ≈712 págs.; libro puro 765.010 / 121.623 / ≈486; URS+URIM 1.494.598 / 250.795 / ≈1003; TOTAL DEL PROYECTO 1.595.093 / 267.379 / ≈1070. HTML guardado, sin publicar (Regla 38).
