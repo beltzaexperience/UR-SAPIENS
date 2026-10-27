@@ -2797,3 +2797,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **El Relojero-Plus Ultra: Norma 62 (27/10/2026).** Creada a petición de Luis la pasada final de cada pieza (línea, palabra, norma, Baroja-Orwell y los 18 análisis, con las cinco filas de Luis). Pendiente de OK en el desarrollo operativo y de construir el script de palabras. Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior. Detalle en la Norma 55 (registro) y en la Norma 62.
+
+
+**Norma 62 en vigor (27/10/2026).** Luis da el OK al Relojero-Plus Ultra y a su desarrollo operativo. Pendiente el script de palabras. Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
