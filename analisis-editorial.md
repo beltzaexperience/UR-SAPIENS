@@ -2752,3 +2752,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: el texto de Gavà de Luis, aplicado con tres correcciones de datos (27/10/2026).** Dos frases nuevas sobre Gavà (flujos de variscita, entrada de sílex, obsidiana y roca alpina; mineros enterrados con hachas de eclogita). Corregido «reutilizaron»; «obsidiana de Cerdeña» pasa a «de islas del Mediterráneo» hasta confirmar; retiradas la frase de las rocas más densas y la procedencia de Cabo Ortegal o la Bética, sin fuente. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.061.029 caracteres / 175.898 palabras / ≈704 págs.; libro puro 764.556 / 121.539 / ≈486; URS+URIM 1.481.000 / 248.615 / ≈994; TOTAL DEL PROYECTO 1.581.495 / 265.199 / ≈1061. HTML guardado, sin publicar (Regla 38).
+
+
+**Norma 61: enlaces solo vistos en resultados (27/10/2026).** Claude dio a Luis un DOI inventado para la cerveza (no existía). Se añade a la Norma 61, punto 3: solo se dan enlaces vistos en una búsqueda; si no hay enlace directo, la ficha del repositorio. Hallada la ficha del trabajo de Edo, Cardoso y Breu (2023); el abstract basta para la glosa (10). Sin cambios en el HTML ni en el Marcador.
