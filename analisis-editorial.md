@@ -2800,3 +2800,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **Norma 62 en vigor (27/10/2026).** Luis da el OK al Relojero-Plus Ultra y a su desarrollo operativo. Pendiente el script de palabras. Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
+
+
+**Norma 61 en vigor (27/10/2026).** Luis da el OK al reparto de trabajo, fuentes y glosa a cargo de Claude. Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
