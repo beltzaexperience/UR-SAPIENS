@@ -2854,3 +2854,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: sexta lectura, sin referencias (27/10/2026).** Nota 3,28 (calidad 3,35, impacto 3,16), línea de partida de la escala nueva (sin calibración; no comparable con las cinco anteriores). Criterio más bajo: entrada, 2,56. Tramo vivo: AGUA Y PODER (8 de 8). Frío: la apertura. Detalle en la Norma 55 (registro). Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
+
+
+**Angostura bajo el protocolo nuevo (27/10/2026).** Nota 2,83 frente a la oficial de 3,50: el protocolo sin referencias descuenta 0,67. La sexta lectura de CULTURA (3,28) equivale a 3,95 en la escala antigua (α; quinta lectura ajustada, 4,01). Un solo punto de calibración. Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
