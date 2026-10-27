@@ -19,6 +19,7 @@
 | Borrell y Bosch (2012); Munibe (2025) sobre Gavà | RESUMEN | — | Minas de variscita de Gavà |
 | Çelik (2014); Güler, Çelik y Güler (2013) | RESUMEN | — | Pilares en 'T' en yacimientos de la región de Urfa |
 | Herrmann y Schmidt (2012); Dietrich et al. (2019); Clare (2020) | RESUMEN (vía Wikipedia) | — | Cisternas, estructuras domésticas y cereal en Göbekli Tepe |
+| Edo, Cardoso y Breu (2023), «Cerveza prehistórica: estado de la cuestión» | RESUMEN | ficha: repositorioaberto.uab.pt/handle/10400.2/15107 | Cerveza en la península, Can Sadurní (Begues) |
 | Dietrich et al. (2012); blog del DAI | RESUMEN | — | Vasijas de piedra con oxalato |
 | Encyclopaedia Iranica y GEDSH, «Edessa»; Schaff-Herzog; SPEAR | RESUMEN | — | Nombre, ríos e inundaciones de Edesa |
 | Eusebio (*HE* I, 13); Procopio (*Guerras* II, 12); Evagrio (*HE* IV, 27); Egeria (*Itinerario* 19) | RESUMEN | — | Leyenda de Abgar, promesa de inviolabilidad, asedio del 544 |
