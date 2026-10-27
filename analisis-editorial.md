@@ -2815,3 +2815,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: nueva frase final y sequía (27/10/2026).** Aplicada la frase de la sequía sin el molde «quien X decide Y» (F2) y la frase final de Luis («Cuando la 'T' se desmorone…»). Cuerpo 1.905 palabras, glosa 1.596. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.074.631 caracteres / 178.080 palabras / ≈712 págs.; libro puro 765.014 / 121.625 / ≈486; URS+URIM 1.494.602 / 250.797 / ≈1003; TOTAL DEL PROYECTO 1.595.097 / 267.381 / ≈1070. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: la Meseta en dos frases (27/10/2026).** «…hasta el Duero y el Guadiana. Llega a la gran puerta del suroeste…» (F3, primera mitad). Cuerpo 1.904 palabras, glosa 1.596. **Marcador (Regla 14):** URS 1.074.629 caracteres / 178.079 palabras / ≈712 págs.; libro puro 765.012 / 121.624 / ≈486; URS+URIM 1.494.600 / 250.796 / ≈1003; TOTAL DEL PROYECTO 1.595.095 / 267.380 / ≈1070. HTML guardado, sin publicar (Regla 38).
