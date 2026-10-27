@@ -2734,3 +2734,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: lectura del artículo del marfil y corrección de la glosa (7) (27/10/2026).** Los 8,8 kg son de todo Valencina, no de la Dama; el origen africano y asiático no está probado (Schreger). Glosa (7) corregida; el cuerpo queda a la espera del párrafo de Luis. Detalle y datos para el párrafo en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.059.240 caracteres / 175.608 palabras / ≈702 págs.; libro puro 762.767 / 121.249 / ≈485; URS+URIM 1.479.211 / 248.325 / ≈993; TOTAL DEL PROYECTO 1.579.706 / 264.909 / ≈1060. HTML guardado, sin publicar (Regla 38).
+
+
+**Norma 61 (propuesta) y `FUENTES.md` (27/10/2026).** Método de fuentes y reparto de trabajo para la redacción final: Luis escribe el texto; Claude, las fuentes, la verificación y la glosa; enlace directo al PDF y «descarga y sube a GitHub»; estados abierta, resumen y sin abrir. Detalle en la Norma 55 (registro) y en la propia Norma 61. Sin cambios en el HTML ni en el Marcador.
