@@ -2791,3 +2791,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: «130 marineros» (27/10/2026).** «130 balleneros» → «130 marineros» en el cuerpo, para no repetir «balleneros». **Marcador (Regla 14):** URS 1.064.421 caracteres / 176.462 palabras / ≈706 págs.; libro puro 767.948 / 122.103 / ≈488; URS+URIM 1.484.392 / 249.179 / ≈997; TOTAL DEL PROYECTO 1.584.887 / 265.763 / ≈1063. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: poda de la glosa con el texto cerrado (27/10/2026).** Glosa de 2.041 a 1.551 palabras (−490, −24 %), 37 entradas; íntegra anterior en GLOSAS EXTENDIDAS («CULTURA: CONTINENTE IBÉRICO · segunda poda»). Queda al 45 % del total (zona 24-43 %): lo restante es nivel 2. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.074.435 caracteres / 178.059 palabras / ≈712 págs. (incluye la pestaña nueva de GLOSAS EXTENDIDAS); libro puro 764.818 / 121.604 / ≈486; URS+URIM 1.494.406 / 250.776 / ≈1003; TOTAL DEL PROYECTO 1.594.901 / 267.360 / ≈1069. HTML guardado, sin publicar (Regla 38).
