@@ -2788,3 +2788,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: la apertura, versión de Luis (27/10/2026).** Aplicado el texto de Luis con dos correcciones mías (130 balleneros hallados en la isla, no «matados»; llamada (5) restituida en Red Bay). Detalle en la Norma 55. **Marcador (Regla 14):** URS 1.064.422 caracteres / 176.462 palabras / ≈706 págs.; libro puro 767.949 / 122.103 / ≈488; URS+URIM 1.484.393 / 249.179 / ≈997; TOTAL DEL PROYECTO 1.584.888 / 265.763 / ≈1063. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: «130 marineros» (27/10/2026).** «130 balleneros» → «130 marineros» en el cuerpo, para no repetir «balleneros». **Marcador (Regla 14):** URS 1.064.421 caracteres / 176.462 palabras / ≈706 págs.; libro puro 767.948 / 122.103 / ≈488; URS+URIM 1.484.392 / 249.179 / ≈997; TOTAL DEL PROYECTO 1.584.887 / 265.763 / ≈1063. HTML guardado, sin publicar (Regla 38).
