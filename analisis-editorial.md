@@ -2740,3 +2740,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: artículo de 2021 abierto; glosa (7) cerrada (27/10/2026).** Abierta: sí. Los colmillos llegan «de África y del Oriente Próximo» desde c. 3000-2900 a. C. (discusión, punto 1); 8,8 kg, mayor conjunto de Europa occidental. Glosa (7) al día; `FUENTES.md` actualizado. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.059.241 caracteres / 175.611 palabras / ≈702 págs.; libro puro 762.768 / 121.252 / ≈485; URS+URIM 1.479.212 / 248.328 / ≈993; TOTAL DEL PROYECTO 1.579.707 / 264.912 / ≈1060. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: el marfil, texto de Luis aplicado con cuatro correcciones de datos y glosa (7) ampliada (27/10/2026).** Seis frases nuevas sobre Valencina (más de 4.600 años, objetos refinados en grandes tumbas, cuerda y arena, objetos únicos). Correcciones: Oriente Próximo, Valencina en singular, sin «agua», «Ningún otro yacimiento de Europa occidental…». Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.060.074 caracteres / 175.746 palabras / ≈703 págs.; libro puro 763.601 / 121.387 / ≈486; URS+URIM 1.480.045 / 248.463 / ≈994; TOTAL DEL PROYECTO 1.580.540 / 265.047 / ≈1060. HTML guardado, sin publicar (Regla 38).
