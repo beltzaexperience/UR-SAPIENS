@@ -1,6 +1,6 @@
 # FUENTES — estado de lo que Claude ha abierto (Norma 61)
 
-**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 27/10/26.
+**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 27/10/26 (tarde).
 
 ## CULTURA: CONTINENTE IBÉRICO
 
@@ -11,7 +11,7 @@
 | Wikipedia, «Göbekli Tepe» (texto subido) | ABIERTA (segunda mano) | `0- GOBLEKI` | Pilares, banquetes, edificios domésticos, cisternas, mano de obra |
 | Lull et al. (2013), «Political collapse…»; Lull et al. (2014), Antiquity 88 (resumen) | ABIERTA el de 2013 (archivo retirado); RESUMEN el de 2014 | retirado del repositorio | Colapso de El Argar, tumba 38, fortificación de La Bastida |
 | Cintas-Peña et al. (2023), *Scientific Reports* (texto de Valencina) | ABIERTA (archivo retirado) | retirado del repositorio | Dama del Marfil, tumba infantil sin ajuar |
-| Luciañez-Triviño, García Sanjuán y Schuhmacher (2021), *CAJ* 32 | **SIN ABRIR** | pendiente (DOI 10.1017/S0959774321000287) | Contextos y especies del marfil de Valencina |
+| Luciañez-Triviño, García Sanjuán y Schuhmacher (2021), *CAJ* 32 (1), 23-60 | ABIERTA | `crafting-idiosyncrasies-early-social-complexity-ivory-and-identity-making-in-copper-age-iberia.pdf` | Marfil de Valencina: 8,8 kg, especies por estructura, «desde c. 3000-2900 a. C. llegaban colmillos de África y de Oriente Próximo» |
 | Nocete et al. (2013), *JAS* 40 | RESUMEN | — | Marfil de elefante asiático en el taller de Valencina |
 | Tarriño, *Munibe* (Praileaitz I) | **SIN ABRIR** (no cabe en GitHub) | pendiente | Sílex de Chalosse en el Magdaleniense vasco |
 | Borrell y Bosch (2012); Munibe (2025) sobre Gavà | RESUMEN | — | Minas de variscita de Gavà |
