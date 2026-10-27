@@ -2812,3 +2812,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: cerveza «ágrafos» y lectura sin referencias (27/10/2026).** Aplicada la frase de Luis sobre la cerveza (F1); nuevo protocolo de lectura (sin Angostura ni Islandia I, con aviso de terminología UR; sin ajuste de calibración hasta que CULTURA sea referencia); decisiones sobre el informe: el párrafo de las materias y Urfa se quedan. Cuerpo 1.889 palabras, glosa 1.596. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.074.552 caracteres / 178.064 palabras / ≈712 págs.; libro puro 764.935 / 121.609 / ≈486; URS+URIM 1.494.523 / 250.781 / ≈1003; TOTAL DEL PROYECTO 1.595.018 / 267.365 / ≈1069. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: nueva frase final y sequía (27/10/2026).** Aplicada la frase de la sequía sin el molde «quien X decide Y» (F2) y la frase final de Luis («Cuando la 'T' se desmorone…»). Cuerpo 1.905 palabras, glosa 1.596. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.074.631 caracteres / 178.080 palabras / ≈712 págs.; libro puro 765.014 / 121.625 / ≈486; URS+URIM 1.494.602 / 250.797 / ≈1003; TOTAL DEL PROYECTO 1.595.097 / 267.381 / ≈1070. HTML guardado, sin publicar (Regla 38).
