@@ -2746,3 +2746,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: el agua en el aserrado del marfil y glosa (7) (27/10/2026).** Abierto el trabajo de Luciañez-Triviño y Liesau (2026): remojar el marfil apenas ayuda y el serrín mojado traba la sierra; el cordel con arena de Valencina, probablemente sin remojo previo. El texto no cambia; glosa (7) ampliada. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.060.328 caracteres / 175.784 palabras / ≈703 págs.; libro puro 763.855 / 121.425 / ≈486; URS+URIM 1.480.299 / 248.501 / ≈994; TOTAL DEL PROYECTO 1.580.794 / 265.085 / ≈1060. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: Gavà, la variscita y el sílex de Provenza; glosa (8) (27/10/2026).** Abierto el artículo de Borrell et al. (2019): minas de 4200-3600 a. C., mineros enterrados con sílex de Provenza, variscita y obsidiana (una mina, en planta, en forma de 'T'), y Gavà como nodo de intercambio. Glosa (8) ampliada; «rutas hoy desconocidas» no está sostenido. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.060.583 caracteres / 175.824 palabras / ≈703 págs.; libro puro 764.110 / 121.465 / ≈486; URS+URIM 1.480.554 / 248.541 / ≈994; TOTAL DEL PROYECTO 1.581.049 / 265.125 / ≈1060. HTML guardado, sin publicar (Regla 38).
