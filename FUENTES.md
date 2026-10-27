@@ -17,6 +17,7 @@
 | Tarriño, *Munibe* (Praileaitz I) | **SIN ABRIR** (no cabe en GitHub) | pendiente | Sílex de Chalosse en el Magdaleniense vasco |
 | Borrell, Bosch, Gibaja, Schmidt y Terradas (2019), *PLoS ONE* 14 (11), e0224238 | ABIERTA | `obsidiana .pdf` (el contenido es este artículo) | Minas de variscita de Gavà, sílex de Provenza, hoja de obsidiana, mineros enterrados |
 | Borrell y Bosch (2012); Munibe (2025) sobre Gavà | RESUMEN | — | Minas de variscita de Gavà |
+| Gibaja et al., *Antiquity*, Project Gallery 340 (2014) | RESUMEN (extracto de la página) | — | Seis piezas de obsidiana de Monte Arci en tumbas del nordeste ibérico, entre ellas una hoja de las minas de Gavà |
 | Çelik (2014); Güler, Çelik y Güler (2013) | RESUMEN | — | Pilares en 'T' en yacimientos de la región de Urfa |
 | Herrmann y Schmidt (2012); Dietrich et al. (2019); Clare (2020) | RESUMEN (vía Wikipedia) | — | Cisternas, estructuras domésticas y cereal en Göbekli Tepe |
 | Edo, Cardoso y Breu (2023), «Cerveza prehistórica: estado de la cuestión» | RESUMEN | ficha: repositorioaberto.uab.pt/handle/10400.2/15107 | Cerveza en la península, Can Sadurní (Begues) |
