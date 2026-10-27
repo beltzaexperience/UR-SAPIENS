@@ -2860,3 +2860,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: la apertura, el rosario de nombres (27/10/2026).** Frase de la Meseta con la redacción de Luis (Odiel, Urius, Estrecho); salen Tarteso y Doñana; glosa de 37 a 35 entradas. Cuerpo 1.881 palabras, glosa 1.558. **Marcador (Regla 14):** URS 1.074.258 caracteres / 178.018 palabras / ≈712 págs.; libro puro 764.641 / 121.563 / ≈486; URS+URIM 1.494.229 / 250.735 / ≈1003; TOTAL DEL PROYECTO 1.594.724 / 267.319 / ≈1069. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: fuera «UR es el signo que cruza el universo…» (27/10/2026).** Corte del párrafo de dos frases de la apertura, a petición de Luis. Cuerpo 1.853 palabras, glosa 1.558. **Marcador (Regla 14):** URS 1.074.099 caracteres / 177.990 palabras / ≈712 págs.; libro puro 764.482 / 121.535 / ≈486; URS+URIM 1.494.070 / 250.707 / ≈1003; TOTAL DEL PROYECTO 1.594.565 / 267.291 / ≈1069. HTML guardado, sin publicar (Regla 38).
