@@ -2737,3 +2737,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **Norma 61 (propuesta) y `FUENTES.md` (27/10/2026).** Método de fuentes y reparto de trabajo para la redacción final: Luis escribe el texto; Claude, las fuentes, la verificación y la glosa; enlace directo al PDF y «descarga y sube a GitHub»; estados abierta, resumen y sin abrir. Detalle en la Norma 55 (registro) y en la propia Norma 61. Sin cambios en el HTML ni en el Marcador.
+
+
+**CULTURA: artículo de 2021 abierto; glosa (7) cerrada (27/10/2026).** Abierta: sí. Los colmillos llegan «de África y del Oriente Próximo» desde c. 3000-2900 a. C. (discusión, punto 1); 8,8 kg, mayor conjunto de Europa occidental. Glosa (7) al día; `FUENTES.md` actualizado. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.059.241 caracteres / 175.611 palabras / ≈702 págs.; libro puro 762.768 / 121.252 / ≈485; URS+URIM 1.479.212 / 248.328 / ≈993; TOTAL DEL PROYECTO 1.579.707 / 264.912 / ≈1060. HTML guardado, sin publicar (Regla 38).
