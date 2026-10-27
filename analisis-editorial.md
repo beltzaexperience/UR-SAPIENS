@@ -2779,3 +2779,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: «Europa occidental» y el Tribunal «a día de hoy» (27/10/2026).** «Sin precedentes en Europa occidental para su época» aplicado (vale para la fortificación). El Tribunal se reúne hoy; su jurisdicción de riego es de origen musulmán. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.063.082 caracteres / 176.244 palabras / ≈705 págs.; libro puro 766.609 / 121.885 / ≈488; URS+URIM 1.483.053 / 248.961 / ≈996; TOTAL DEL PROYECTO 1.583.548 / 265.545 / ≈1062. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: el puente hacia el Tribunal de las Aguas (27/10/2026).** Aplicada la frase propuesta («de origen musulmán, un tribunal de regantes sigue reuniéndose hoy») y ampliada la glosa (16). Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.063.296 caracteres / 176.277 palabras / ≈705 págs.; libro puro 766.823 / 121.918 / ≈488; URS+URIM 1.483.267 / 248.994 / ≈996; TOTAL DEL PROYECTO 1.583.762 / 265.578 / ≈1062. HTML guardado, sin publicar (Regla 38).
