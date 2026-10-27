@@ -15,6 +15,7 @@
 | Luciañez-Triviño y Liesau von Lettow-Vorbeck (2026), «Ivory segmentation procedures with copper-based tools», *Séances de la SPF* 24, 53-64 | ABIERTA | `https___www.prehistoire.org_offres_doc_inline_src_515_SPF+-+WBRG-+04+LuciaF1ez+TriviF1o+V003+BAT+BD.pdf` | Sierras de cobre, 13 ensayos, remojo del marfil, aserrado con cordel y arena |
 | Nocete et al. (2013), *JAS* 40 | RESUMEN | — | Marfil de elefante asiático en el taller de Valencina |
 | Tarriño, *Munibe* (Praileaitz I) | **SIN ABRIR** (no cabe en GitHub) | pendiente | Sílex de Chalosse en el Magdaleniense vasco |
+| Borrell, Bosch, Gibaja, Schmidt y Terradas (2019), *PLoS ONE* 14 (11), e0224238 | ABIERTA | `obsidiana .pdf` (el contenido es este artículo) | Minas de variscita de Gavà, sílex de Provenza, hoja de obsidiana, mineros enterrados |
 | Borrell y Bosch (2012); Munibe (2025) sobre Gavà | RESUMEN | — | Minas de variscita de Gavà |
 | Çelik (2014); Güler, Çelik y Güler (2013) | RESUMEN | — | Pilares en 'T' en yacimientos de la región de Urfa |
 | Herrmann y Schmidt (2012); Dietrich et al. (2019); Clare (2020) | RESUMEN (vía Wikipedia) | — | Cisternas, estructuras domésticas y cereal en Göbekli Tepe |
