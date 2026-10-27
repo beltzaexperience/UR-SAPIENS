@@ -2767,3 +2767,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: abierto el artículo sobre el Tribunal de las Aguas (27/10/2026).** Ramón Fernández (2024): jueves a las 12 en la puerta de los Apóstoles, procedimiento oral y en valenciano, sentencias inapelables, síndicos elegidos por cada comunidad de regantes; Consejo de Hombres Buenos de Murcia. Borrador de párrafo mostrado a Luis, sin aplicar. Sin cambios en el HTML ni en el Marcador.
+
+
+**CULTURA: el párrafo de la teoría, texto de Luis y glosa (16) (27/10/2026).** Iberia custodia el agua de dos maneras: la infraestructura de La Bastida y el Tribunal de las Aguas de Valencia. Corregido «a quien se juzga» por «a quien juzga». Glosa (16) nueva; renumeradas las siguientes. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.062.254 caracteres / 176.102 palabras / ≈704 págs.; libro puro 765.781 / 121.743 / ≈487; URS+URIM 1.482.225 / 248.819 / ≈995; TOTAL DEL PROYECTO 1.582.720 / 265.403 / ≈1062. HTML guardado, sin publicar (Regla 38).
