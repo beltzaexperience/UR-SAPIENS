@@ -2755,3 +2755,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **Norma 61: enlaces solo vistos en resultados (27/10/2026).** Claude dio a Luis un DOI inventado para la cerveza (no existía). Se añade a la Norma 61, punto 3: solo se dan enlaces vistos en una búsqueda; si no hay enlace directo, la ficha del repositorio. Hallada la ficha del trabajo de Edo, Cardoso y Breu (2023); el abstract basta para la glosa (10). Sin cambios en el HTML ni en el Marcador.
+
+
+**CULTURA: la cerveza de Can Sadurní, texto de Luis y glosa (10) (27/10/2026).** Dos frases: cueva funeraria de Begues, junto a Gavà, hace más de seis milenios; «con los primeros agricultores». Corregido «de que». Glosa (10) reescrita. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.061.514 caracteres / 175.986 palabras / ≈704 págs.; libro puro 765.041 / 121.627 / ≈487; URS+URIM 1.481.485 / 248.703 / ≈995; TOTAL DEL PROYECTO 1.581.980 / 265.287 / ≈1061. HTML guardado, sin publicar (Regla 38).
