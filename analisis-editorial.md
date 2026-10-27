@@ -2725,3 +2725,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: Urfa, cita sin comillas, Tadeo, Segal a la glosa y entradas nuevas (27/10/2026).** Luis: quita las comillas (no era cita), reformula el sujeto de la curación, acepta llevar a Segal a la glosa y preparar entradas; pregunta en qué se equivocó Claude (en dudar de la existencia de Segal). Glosa (30) y (31) nuevas; Göbekli pasa a (32)-(34). Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.058.803 caracteres / 175.548 palabras / ≈702 págs.; libro puro 762.330 / 121.189 / ≈485; URS+URIM 1.478.774 / 248.265 / ≈993; TOTAL DEL PROYECTO 1.579.269 / 264.849 / ≈1059. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: la frase de Tadeo, con la redacción de Luis (27/10/2026).** Jesús promete enviar a un discípulo; Tomás envía a Tadeo, que cura a Abgar y convierte la ciudad. Corrige el hecho (Eusebio, I, 13) que Claude había señalado sin explicarlo bien. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.058.815 caracteres / 175.548 palabras / ≈702 págs.; libro puro 762.342 / 121.189 / ≈485; URS+URIM 1.478.786 / 248.265 / ≈993; TOTAL DEL PROYECTO 1.579.281 / 264.849 / ≈1059. HTML guardado, sin publicar (Regla 38).
