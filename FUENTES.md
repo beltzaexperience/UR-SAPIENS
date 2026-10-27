@@ -26,5 +26,6 @@
 | Encyclopaedia Iranica y GEDSH, «Edessa»; Schaff-Herzog; SPEAR | RESUMEN | — | Nombre, ríos e inundaciones de Edesa |
 | Eusebio (*HE* I, 13); Procopio (*Guerras* II, 12); Evagrio (*HE* IV, 27); Egeria (*Itinerario* 19) | RESUMEN | — | Leyenda de Abgar, promesa de inviolabilidad, asedio del 544 |
 | Segal (1970), *Edessa, «the Blessed City»* | SIN ABRIR (de memoria) | — | Cita bibliográfica |
+| Carneiro (1970), *Science*; Adams; Wikipedia, «Hydraulic empire»; Britannica, «Karl Wittfogel»; Hunt y Hunt (1976), *Current Anthropology* | RESUMEN (extractos) | — | Hipótesis hidráulica de Wittfogel y su crítica |
 | Hesíodo, *Teogonía*; Apolodoro, *Biblioteca* III, 7 | SIN ABRIR (de memoria) | — | Kallirrhoé en la mitología |
 | `A- VERDAD`, `A- ALTXERRI Y EKAIN` | **no son fuentes** (conversaciones con una IA) | `A- VERDAD`, `A- ALTXERRI Y EKAIN` | Solo pistas |

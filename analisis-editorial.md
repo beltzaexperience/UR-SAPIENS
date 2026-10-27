@@ -2761,3 +2761,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: vuelve «Cerdeña» (27/10/2026).** Confirmado por el *Antiquity* Project Gallery 340 (extracto): la hoja de las minas de Gavà es una de las seis piezas de Monte Arci halladas cerca de Barcelona. Glosa (9) reescrita. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.061.503 caracteres / 175.988 palabras / ≈704 págs.; libro puro 765.030 / 121.629 / ≈487; URS+URIM 1.481.474 / 248.705 / ≈995; TOTAL DEL PROYECTO 1.581.969 / 265.289 / ≈1061. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: «Una teoría clásica», glosa (14) y material (27/10/2026).** Cita débil sustituida por Carneiro (1970), Wikipedia y Britannica; material para el texto: el Tribunal de las Aguas de Valencia frente a la cisterna de La Bastida. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.061.627 caracteres / 176.004 palabras / ≈704 págs.; libro puro 765.154 / 121.645 / ≈487; URS+URIM 1.481.598 / 248.721 / ≈995; TOTAL DEL PROYECTO 1.582.093 / 265.305 / ≈1061. HTML guardado, sin publicar (Regla 38).
