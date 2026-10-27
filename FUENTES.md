@@ -26,6 +26,7 @@
 | Encyclopaedia Iranica y GEDSH, «Edessa»; Schaff-Herzog; SPEAR | RESUMEN | — | Nombre, ríos e inundaciones de Edesa |
 | Eusebio (*HE* I, 13); Procopio (*Guerras* II, 12); Evagrio (*HE* IV, 27); Egeria (*Itinerario* 19) | RESUMEN | — | Leyenda de Abgar, promesa de inviolabilidad, asedio del 544 |
 | Segal (1970), *Edessa, «the Blessed City»* | SIN ABRIR (de memoria) | — | Cita bibliográfica |
+| Ramón Fernández (2024), «El Tribunal de las Aguas de la Vega de Valencia y la Huerta Valenciana», *Anales de la Facultad de Ciencias Jurídicas y Sociales* (UNLP) 54, 33-48 | ABIERTA | `03+FERNANDEZ+(33+a+48).pdf` | Tribunal de las Aguas: jueves a las 12, puerta de los Apóstoles, oralidad, síndicos elegidos por los regantes, sentencias inapelables; Consejo de Hombres Buenos de Murcia |
 | Carneiro (1970), *Science*; Adams; Wikipedia, «Hydraulic empire»; Britannica, «Karl Wittfogel»; Hunt y Hunt (1976), *Current Anthropology* | RESUMEN (extractos) | — | Hipótesis hidráulica de Wittfogel y su crítica |
 | Hesíodo, *Teogonía*; Apolodoro, *Biblioteca* III, 7 | SIN ABRIR (de memoria) | — | Kallirrhoé en la mitología |
 | `A- VERDAD`, `A- ALTXERRI Y EKAIN` | **no son fuentes** (conversaciones con una IA) | `A- VERDAD`, `A- ALTXERRI Y EKAIN` | Solo pistas |
