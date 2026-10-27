@@ -2728,3 +2728,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: la frase de Tadeo, con la redacción de Luis (27/10/2026).** Jesús promete enviar a un discípulo; Tomás envía a Tadeo, que cura a Abgar y convierte la ciudad. Corrige el hecho (Eusebio, I, 13) que Claude había señalado sin explicarlo bien. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.058.815 caracteres / 175.548 palabras / ≈702 págs.; libro puro 762.342 / 121.189 / ≈485; URS+URIM 1.478.786 / 248.265 / ≈993; TOTAL DEL PROYECTO 1.579.281 / 264.849 / ≈1059. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: cita completa del marfil en la glosa (7) (27/10/2026).** Con el resumen y la bibliografía de Luciañez-Triviño (2023) se completa la cita de *CAJ* 2021 y se añade Nocete et al. (2013) para el marfil asiático. Sigue sin comprobar la cifra de 8,8 kg y el marfil africano. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.058.981 caracteres / 175.572 palabras / ≈702 págs.; libro puro 762.508 / 121.213 / ≈485; URS+URIM 1.478.952 / 248.289 / ≈993; TOTAL DEL PROYECTO 1.579.447 / 264.873 / ≈1059. HTML guardado, sin publicar (Regla 38).
