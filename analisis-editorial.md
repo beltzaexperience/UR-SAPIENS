@@ -2782,3 +2782,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: el puente hacia el Tribunal de las Aguas (27/10/2026).** Aplicada la frase propuesta («de origen musulmán, un tribunal de regantes sigue reuniéndose hoy») y ampliada la glosa (16). Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.063.296 caracteres / 176.277 palabras / ≈705 págs.; libro puro 766.823 / 121.918 / ≈488; URS+URIM 1.483.267 / 248.994 / ≈996; TOTAL DEL PROYECTO 1.583.762 / 265.578 / ≈1062. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: la apertura con hechos (27/10/2026).** Párrafo «Iberia se abre hacia afuera» reescrito con Red Bay (1543, 1565) y Urdaneta (1565); glosas (5) y (6) nuevas, resto renumerado a (7)-(37). Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.064.429 caracteres / 176.467 palabras / ≈706 págs.; libro puro 767.956 / 122.108 / ≈488; URS+URIM 1.484.400 / 249.184 / ≈997; TOTAL DEL PROYECTO 1.584.895 / 265.768 / ≈1063. HTML guardado, sin publicar (Regla 38).
