@@ -2773,3 +2773,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: La Bastida situada y Valencia «a día de hoy» (27/10/2026).** Frase nueva de Luis sobre la planificación y la fuerza laboral de La Bastida; «sin precedentes en el Mediterráneo occidental para su época»; «a quien juzga». Glosas (15) y (7) ampliadas (marfil de elefante sirio hacia 2200 a. C.). Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.062.861 caracteres / 176.198 palabras / ≈705 págs.; libro puro 766.388 / 121.839 / ≈487; URS+URIM 1.482.832 / 248.915 / ≈996; TOTAL DEL PROYECTO 1.583.327 / 265.499 / ≈1062. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: La Bastida, balsa y cisterna son dos obras (27/10/2026).** La glosa (15) mezclaba la gran balsa (300.000 litros según Lull; más de 400.000 según una nota de la UB) con la cisterna de la muralla, que es la que tiene paralelos orientales. Corregida. El texto no cambia. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.063.091 caracteres / 176.245 palabras / ≈705 págs.; libro puro 766.618 / 121.886 / ≈488; URS+URIM 1.483.062 / 248.962 / ≈996; TOTAL DEL PROYECTO 1.583.557 / 265.546 / ≈1062. HTML guardado, sin publicar (Regla 38).
