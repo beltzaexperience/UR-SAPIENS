@@ -2794,3 +2794,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: poda de la glosa con el texto cerrado (27/10/2026).** Glosa de 2.041 a 1.551 palabras (−490, −24 %), 37 entradas; íntegra anterior en GLOSAS EXTENDIDAS («CULTURA: CONTINENTE IBÉRICO · segunda poda»). Queda al 45 % del total (zona 24-43 %): lo restante es nivel 2. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.074.435 caracteres / 178.059 palabras / ≈712 págs. (incluye la pestaña nueva de GLOSAS EXTENDIDAS); libro puro 764.818 / 121.604 / ≈486; URS+URIM 1.494.406 / 250.776 / ≈1003; TOTAL DEL PROYECTO 1.594.901 / 267.360 / ≈1069. HTML guardado, sin publicar (Regla 38).
+
+
+**El Relojero-Plus Ultra: Norma 62 (27/10/2026).** Creada a petición de Luis la pasada final de cada pieza (línea, palabra, norma, Baroja-Orwell y los 18 análisis, con las cinco filas de Luis). Pendiente de OK en el desarrollo operativo y de construir el script de palabras. Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior. Detalle en la Norma 55 (registro) y en la Norma 62.
