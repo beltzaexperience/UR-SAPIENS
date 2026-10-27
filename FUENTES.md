@@ -12,6 +12,7 @@
 | Lull et al. (2013), «Political collapse…»; Lull et al. (2014), Antiquity 88 (resumen) | ABIERTA el de 2013 (archivo retirado); RESUMEN el de 2014 | retirado del repositorio | Colapso de El Argar, tumba 38, fortificación de La Bastida |
 | Cintas-Peña et al. (2023), *Scientific Reports* (texto de Valencina) | ABIERTA (archivo retirado) | retirado del repositorio | Dama del Marfil, tumba infantil sin ajuar |
 | Luciañez-Triviño, García Sanjuán y Schuhmacher (2021), *CAJ* 32 (1), 23-60 | ABIERTA | `crafting-idiosyncrasies-early-social-complexity-ivory-and-identity-making-in-copper-age-iberia.pdf` | Marfil de Valencina: 8,8 kg, especies por estructura, «desde c. 3000-2900 a. C. llegaban colmillos de África y de Oriente Próximo» |
+| Luciañez-Triviño y Liesau von Lettow-Vorbeck (2026), «Ivory segmentation procedures with copper-based tools», *Séances de la SPF* 24, 53-64 | ABIERTA | `https___www.prehistoire.org_offres_doc_inline_src_515_SPF+-+WBRG-+04+LuciaF1ez+TriviF1o+V003+BAT+BD.pdf` | Sierras de cobre, 13 ensayos, remojo del marfil, aserrado con cordel y arena |
 | Nocete et al. (2013), *JAS* 40 | RESUMEN | — | Marfil de elefante asiático en el taller de Valencina |
 | Tarriño, *Munibe* (Praileaitz I) | **SIN ABRIR** (no cabe en GitHub) | pendiente | Sílex de Chalosse en el Magdaleniense vasco |
 | Borrell y Bosch (2012); Munibe (2025) sobre Gavà | RESUMEN | — | Minas de variscita de Gavà |

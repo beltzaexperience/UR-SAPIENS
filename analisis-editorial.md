@@ -2743,3 +2743,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: el marfil, texto de Luis aplicado con cuatro correcciones de datos y glosa (7) ampliada (27/10/2026).** Seis frases nuevas sobre Valencina (más de 4.600 años, objetos refinados en grandes tumbas, cuerda y arena, objetos únicos). Correcciones: Oriente Próximo, Valencina en singular, sin «agua», «Ningún otro yacimiento de Europa occidental…». Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.060.074 caracteres / 175.746 palabras / ≈703 págs.; libro puro 763.601 / 121.387 / ≈486; URS+URIM 1.480.045 / 248.463 / ≈994; TOTAL DEL PROYECTO 1.580.540 / 265.047 / ≈1060. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: el agua en el aserrado del marfil y glosa (7) (27/10/2026).** Abierto el trabajo de Luciañez-Triviño y Liesau (2026): remojar el marfil apenas ayuda y el serrín mojado traba la sierra; el cordel con arena de Valencina, probablemente sin remojo previo. El texto no cambia; glosa (7) ampliada. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.060.328 caracteres / 175.784 palabras / ≈703 págs.; libro puro 763.855 / 121.425 / ≈486; URS+URIM 1.480.299 / 248.501 / ≈994; TOTAL DEL PROYECTO 1.580.794 / 265.085 / ≈1060. HTML guardado, sin publicar (Regla 38).
