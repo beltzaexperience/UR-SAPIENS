@@ -2830,3 +2830,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: «Tras ese final» (27/10/2026).** «Tras 1550 a. C.» pasa a «Tras ese final» (F5, Norma 50). Cuerpo 1.899 palabras, glosa 1.596. **Marcador (Regla 14):** URS 1.074.610 caracteres / 178.074 palabras / ≈712 págs.; libro puro 764.993 / 121.619 / ≈486; URS+URIM 1.494.581 / 250.791 / ≈1003; TOTAL DEL PROYECTO 1.595.076 / 267.375 / ≈1070. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: la «bendición» de la Ciudad Bendita (27/10/2026).** Fusión de las dos frases en la redacción de Luis (F6, primera parte). Cuerpo 1.889 palabras, glosa 1.596. **Marcador (Regla 14):** URS 1.074.543 caracteres / 178.064 palabras / ≈712 págs.; libro puro 764.926 / 121.609 / ≈486; URS+URIM 1.494.514 / 250.781 / ≈1003; TOTAL DEL PROYECTO 1.595.009 / 267.365 / ≈1069. HTML guardado, sin publicar (Regla 38).
