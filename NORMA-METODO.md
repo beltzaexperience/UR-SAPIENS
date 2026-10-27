@@ -199,6 +199,7 @@ Pedida por Luis el 22/10/26, al ver que el recuento de la Norma 47, la Tabla Mar
 | 58 | Etimología insurgente | N | piezas EI | n/a |
 | 59 | Plantilla de la anterioridad | M, A | | medidas |
 | 60 | Plantilla del reparto de poder | M, A | | medidas |
+| 61 | Redacción final: reparto de trabajo, estado de las fuentes y glosa a cargo de Claude | A, L | estado de cada fuente en `FUENTES.md`; glosa al día con el texto | cada tanda |
 | Regla 14 | Marcador al día | A | | cada cambio |
 | Regla 38 | Guardar y publicar | X | solo con el OK de Luis | publicación |
 | Regla 39 | Leyenda de marcas | X | `(*-tit) (*-red) (*-nor)` | publicación |
@@ -2487,6 +2488,8 @@ Un resultado o un hallazgo abstracto (*el hallazgo, el resultado, la obra*) no e
 
 **CULTURA: lectura del artículo de Luciañez-Triviño (2023) y corrección de la glosa (7) (27/10/26).** Luis sube a GitHub el PDF completo (*Trabajos de Prehistoria* 80 (1), e08; 18 páginas); el de *Munibe* (Tarriño) no cabe en GitHub. **Error de Claude, corregido en la GLOSA (7):** (1) los 8,8 kg de marfil son de **todo el yacimiento de Valencina**, no de la tumba de la Dama, y son el mayor conjunto publicado de la península y de Europa para el período (12 estructuras de 8 sectores; el marfil es el 65 % de la industria ósea donde aparece, casi todo en grandes tumbas); (2) «africano y asiático» **no está probado**: Nocete et al. (2013) identificaron marfil de elefante asiático, pero Luciañez-Triviño advierte de que los ángulos de Schreger no distinguen el elefante africano del asiático (solapamiento total entre *Loxodonta africana* y *Elephas maximus*). La glosa (7) pasa a decir lo que las fuentes sostienen. **El cuerpo no se ha tocado:** «El marfil viajó desde África y desde Asia…» queda a la espera del párrafo que Luis va a reescribir; no está sostenido en los dos orígenes. **Datos del artículo para ese párrafo (verificados en el PDF):** marfil solo para objetos de exhibición personal, nunca utilitarios; el trabajo local del marfil no pudo empezar antes de c. 2800 cal a. C. (dos restos de desecho con fechas de 2855-2580 cal a. C.; Montelirio, 2875-2635 cal a. C.); antes, la materia prima, objetos acabados o semiacabados y el saber hacer pudieron llegar de otras zonas del Mediterráneo, y después los trabajaron artesanos locales o incluso extranjeros asentados allí; el 72,6 % de los objetos con modo identificable salió de placas longitudinales; los diez discos perforados de Montelirio, emparejados por tamaño (cuatro de 40-41 mm, dos de unos 33 mm y cuatro de 22-23 mm), pudieron salir de un mismo segmento de colmillo; aserrado con cuerda y arena (único caso documentado en la península), porque las sierras de cobre penetraban mal; la autora lo sitúa «varios milenios por delante» de lo que en Anatolia no se vería hasta finales de la Edad del Bronce. **Medidas:** glosa, 45 % del total. **Marcador (Regla 14):** URS 1.059.240 caracteres / 175.608 palabras / ≈702 págs.; libro puro 762.767 / 121.249 / ≈485; URS+URIM 1.479.211 / 248.325 / ≈993; TOTAL DEL PROYECTO 1.579.706 / 264.909 / ≈1060. HTML guardado, sin publicar (Regla 38).
 
+**Norma 61 propuesta: método de fuentes y reparto de trabajo (27/10/26).** Luis pide una metodología sencilla para los textos que Claude no puede abrir y para el reparto de la redacción final (*«Yo me ocupo del texto»*; la glosa es de Claude). Escrita al final del archivo, con su fila en la matriz, y `FUENTES.md` con el estado de las fuentes de CULTURA (abierta, resumen o sin abrir). Pendiente de OK. Sin cambios en el HTML ni en el Marcador.
+
 **Dos piezas pasan de URS a URIM (17/10/26, a petición de Luis).** «Mediterráneo ibérico · Cabo de Gata · Refugio punk en el desierto» (560 palabras, γ) pasa a URIM · Cara 1 · Mediterráneo Andaluz, y «Vendée · Francia atlántica · El escarpe y la fosa» (695 palabras, γ) a URIM · Cara 2 · Europa Latina · Francia-Italia-Grecia. Íntegras, con su glosa ya en forma telegráfica, sin las marcas de URS (γ, ☠ NO TOCAR!!!, (*-tit), (*-red), (*-nor)); como Wai-muri, que se movió así el 13/10/26. Sus pestañas de GLOSAS EXTENDIDAS se quedan donde estaban, con el rótulo «(URIM) —pieza retirada de URS a URIM el 17/10/26». Se retiran de la lista del estimador (`glosas-tratadas.json`), que queda en 57 piezas. La nota del Compost «Bar de Jo y el rodaje de Straight to Hell… ya desarrollados en URS» pasa a «en URIM». Los fragmentos «A LA MESA · Refugio punk en el desierto» y «Sigurd · Wagner», retirados de estas piezas el 10/10/26, siguen en su sitio. Efecto: el libro puro baja de 120.071 a 118.816 palabras (−1.255, ≈−5 págs.), de 71 a 69 piezas y de ≈480 a ≈475 págs.; el cartel estima ≈475. La subsección «Mediterráneo Andaluz» de URS queda sin pieza. HTML sin publicar.
 
 ## 56. PEGADA POLÍTICA: CIFRAS, AÑOS, TÉRMINOS Y NOMBRES — LA LECTURA DE UR NO SE LASTRA CON DATOS UNIVERSITARIOS (17/10/26)
@@ -2648,5 +2651,33 @@ Un resultado o un hallazgo abstracto (*el hallazgo, el resultado, la obra*) no e
 **Cómo se aplica.** Rige desde hoy para lo que se escriba o se toque. La detección es del Relojero-Plus en la pasada Baroja-Orwell (Norma 36, punto 9). **No crea marca nueva** (Regla 39). El pase sobre todo el libro lo ordena Luis; el inventario completo queda para la lectura final que retira `(*-red)`. Cada hallazgo se muestra con el antes y el después con lo que cambia en negrita (Regla 42).
 
 **Relación con otras normas.** Hermana de la Norma 59; complementa las Normas 27, 36.7, 42 y 46; usa la 47 y se subordina a la 48 y a la Norma Cero.
+
+---
+
+## 61. REDACCIÓN FINAL: REPARTO DE TRABAJO, FUENTES Y GLOSA A CARGO DE CLAUDE (27/10/26)
+
+**Estado: propuesta de Claude a petición de Luis; entra en vigor con su OK.** *Origen.* Luis (27/10/26): *«Primero construyamos una metodología de eficacia absoluta para textos que necesitemos y tú no puedas abrir. Esto será una constante infernal en la redacción final. […] Sencillez, facilidad, eficacia y no marear la perdiz. […] La glosa no es asunto mío, es asunto tuyo. Yo me ocupo del texto.»* Dos semanas de CULTURA se perdieron en gran parte en idas y venidas por fuentes que Claude no podía abrir.
+
+**1. Reparto.** **Luis escribe el texto (el cuerpo) y decide qué entra.** **Claude hace todo lo demás:** buscar y verificar fuentes, la glosa entera (entradas, números, citas, nivel 1 y nivel 2, Norma 55), cifras, fechas, erratas, marcas, Marcador y registro. La glosa y sus datos no se consultan a Luis, salvo en tres casos: (a) una fuente admite dos lecturas y la elección cambia el sentido del texto; (b) falta una fuente imprescindible que Claude no puede abrir; (c) una decisión de voz.
+
+**2. Estado de cada fuente.** Toda fuente tiene uno de tres estados en `FUENTES.md`: **ABIERTA** (Claude tiene el texto completo y lo ha leído), **RESUMEN** (solo resumen, extracto del buscador o cita de otra obra), **SIN ABRIR** (ni eso). Cuando Luis pregunta si Claude ha leído algo, la respuesta es **«Abierta: sí»** o **«Abierta: no»**, y a lo sumo una línea más. Un dato que solo está en RESUMEN o SIN ABRIR no se afirma en el cuerpo sin cautela («según los análisis», «se ha propuesto») y la glosa dice «según el resumen de…».
+
+**3. Cómo pide Claude un texto que no puede abrir.** Un mensaje, un texto, esta fórmula y nada más: **«Descarga este PDF y súbelo a GitHub:»** + el **enlace directo al PDF** (no a la ficha del artículo) + el rango de páginas si basta con una parte. Sin explicaciones y sin otra tarea en el mismo mensaje. Un solo texto a la vez, por orden de prioridad.
+
+**4. Si algo falla, Luis contesta con una palabra.** **«No abre»:** Claude da otro enlace (hasta tres: DOI, editorial, repositorio de la institución del autor). **«Pesa»:** Luis sube solo las páginas necesarias (Imprimir, Guardar como PDF, rango de páginas) y Claude le dice cuáles. **«De pago»:** Claude pasa a otra fuente o redacta con la cautela del punto 2, y lo dice en una línea.
+
+**5. Al recibirlo.** Claude trae el archivo, comprueba que es el pedido (título y páginas) y responde en tres líneas: **«Abierta: sí/no. Dice: … Se puede escribir: …»**. Si el archivo no es el pedido, lo dice en una línea y repite el enlace.
+
+**6. Qué se informa.** Lo que **se puede escribir de UR según las fuentes**. No se comparan autores ni se abren debates que no cambien lo que se puede escribir. **Una pregunta como máximo por mensaje, sin menús, un solo trabajo a la vez.**
+
+**7. Cuando Luis cambia el texto.** Claude ajusta la glosa sin preguntar y lo informa en cinco líneas como máximo: texto verificado, glosa hecha, pendiente de fuente X. **Solo se señala lo que no se sostiene o no tiene fuente**; lo que se sostiene no se informa.
+
+**8. Fuentes enfrentadas.** Claude elige la formulación que sostienen todas («según los análisis», «se discute») y deja el debate en la glosa. No consulta.
+
+**9. Pistas y fuentes.** Los chats de IA, los resúmenes de buscador y las enciclopedias en línea son **pistas**: sirven para localizar la fuente, y la fuente se pide por el punto 3. Wikipedia se acepta como fuente de segunda mano declarada («con el rigor de la Wikipedia», Luis, 26/10/26) y se cita junto a la obra que ella misma cita. Lo que Claude sabe de memoria (clásicos, obras generales) no se usa como fuente sin cotejar; si se cita, `FUENTES.md` lo marca «de memoria».
+
+**10. Registro.** `FUENTES.md` se actualiza en cada tanda. Lo que cambia en el texto o en la glosa va a la Norma 55 (registro) y al ledger, como hasta ahora.
+
+**Relación con otras normas.** Desarrolla el punto 10 de la Norma 55 (errores de datos y cautelas de rigor, de Claude) y se apoya en la Norma 57 (el estaño se juzga por el texto). Rige para toda la redacción final.
 
 ---
