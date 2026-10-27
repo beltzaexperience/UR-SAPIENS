@@ -2821,3 +2821,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: «Mercaderes» en dos frases (27/10/2026).** «…la violencia. En América todo se volvió a mezclar.» (F3, segunda mitad). Cuerpo 1.903 palabras, glosa 1.596. **Marcador (Regla 14):** URS 1.074.627 caracteres / 178.078 palabras / ≈712 págs.; libro puro 765.010 / 121.623 / ≈486; URS+URIM 1.494.598 / 250.795 / ≈1003; TOTAL DEL PROYECTO 1.595.093 / 267.379 / ≈1070. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: las gacelas en dos frases (27/10/2026).** Frase de 50 palabras partida en dos (F4, primera mitad); Norma 41.1 sin casos. Cuerpo 1.900 palabras, glosa 1.596. **Marcador (Regla 14):** URS 1.074.611 caracteres / 178.075 palabras / ≈712 págs.; libro puro 764.994 / 121.620 / ≈486; URS+URIM 1.494.582 / 250.792 / ≈1003; TOTAL DEL PROYECTO 1.595.077 / 267.376 / ≈1070. HTML guardado, sin publicar (Regla 38).
