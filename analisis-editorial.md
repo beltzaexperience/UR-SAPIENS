@@ -2836,3 +2836,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: «la antigua Edesa» (27/10/2026).** «Urfa, la antigua Edesa, «La Ciudad Bendita»(34)» (F6, segunda parte). Cuerpo 1.892 palabras, glosa 1.596. **Marcador (Regla 14):** URS 1.074.561 caracteres / 178.067 palabras / ≈712 págs.; libro puro 764.944 / 121.612 / ≈486; URS+URIM 1.494.532 / 250.784 / ≈1003; TOTAL DEL PROYECTO 1.595.027 / 267.368 / ≈1069. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: se revierte «la antigua Edesa» (27/10/2026).** Por decisión de Luis, «Urfa, «La Ciudad Bendita»(34)» vuelve a su forma anterior (Urfa, la misma ciudad en dos lecturas). Cuerpo 1.889 palabras, glosa 1.596. **Marcador (Regla 14):** URS 1.074.543 caracteres / 178.064 palabras / ≈712 págs.; libro puro 764.926 / 121.609 / ≈486; URS+URIM 1.494.514 / 250.781 / ≈1003; TOTAL DEL PROYECTO 1.595.009 / 267.365 / ≈1069. HTML guardado, sin publicar (Regla 38).
