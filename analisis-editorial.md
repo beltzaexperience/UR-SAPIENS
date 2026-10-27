@@ -2842,3 +2842,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: Urfa pasa a Urhāy (27/10/2026).** Cinco «Urfa» del cuerpo a «Urhāy» con el «Ur» en rojo; glosas (32), (33) y (34) identifican el nombre actual. Cuerpo 1.889 palabras, glosa 1.602. **Marcador (Regla 14):** URS 1.074.595 caracteres / 178.070 palabras / ≈712 págs.; libro puro 764.978 / 121.615 / ≈486; URS+URIM 1.494.566 / 250.787 / ≈1003; TOTAL DEL PROYECTO 1.595.061 / 267.371 / ≈1069. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: se corta «Todo esto se movió con manos y necesidad» (27/10/2026).** F7 aplicada. Cuerpo 1.881 palabras, glosa 1.602. **Marcador (Regla 14):** URS 1.074.553 caracteres / 178.062 palabras / ≈712 págs.; libro puro 764.936 / 121.607 / ≈486; URS+URIM 1.494.524 / 250.779 / ≈1003; TOTAL DEL PROYECTO 1.595.019 / 267.363 / ≈1069. HTML guardado, sin publicar (Regla 38).
