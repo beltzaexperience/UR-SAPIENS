@@ -2770,3 +2770,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: el párrafo de la teoría, texto de Luis y glosa (16) (27/10/2026).** Iberia custodia el agua de dos maneras: la infraestructura de La Bastida y el Tribunal de las Aguas de Valencia. Corregido «a quien se juzga» por «a quien juzga». Glosa (16) nueva; renumeradas las siguientes. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.062.254 caracteres / 176.102 palabras / ≈704 págs.; libro puro 765.781 / 121.743 / ≈487; URS+URIM 1.482.225 / 248.819 / ≈995; TOTAL DEL PROYECTO 1.582.720 / 265.403 / ≈1062. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: La Bastida situada y Valencia «a día de hoy» (27/10/2026).** Frase nueva de Luis sobre la planificación y la fuerza laboral de La Bastida; «sin precedentes en el Mediterráneo occidental para su época»; «a quien juzga». Glosas (15) y (7) ampliadas (marfil de elefante sirio hacia 2200 a. C.). Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.062.861 caracteres / 176.198 palabras / ≈705 págs.; libro puro 766.388 / 121.839 / ≈487; URS+URIM 1.482.832 / 248.915 / ≈996; TOTAL DEL PROYECTO 1.583.327 / 265.499 / ≈1062. HTML guardado, sin publicar (Regla 38).
