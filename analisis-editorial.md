@@ -2806,3 +2806,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: Relojero-Plus completo y quinta lectura (27/10/2026).** Nota bruta 3,61 (cuarta lectura, 3,79), ajustada 4,01 (4,16); α. Bajan evidencia (4,38 a 3,88), editores (3,81 a 3,44) y no especialista (3,56 a 3,00); suben aporte y memorabilidad. Matriz de 89 filas en `INFORME-RELOJERO-PLUS-CULTURA-27-10-26.md`, con propuestas sin aplicar. Detalle en la Norma 55 (registro). Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
+
+
+**CULTURA: desajustes resueltos, cierre fuera, glosa y forma (27/10/2026).** Aplicados los puntos 1, 2, 3 y 6 de Luis sobre el informe del Relojero-Plus (Red Bay, La Bastida, Göbekli, «posible», cierre cortado, 11 encabezados de glosa a la palabra del cuerpo, nivel 1 corto, Balıklıgöl en la (33)). Datos de Tarriño (Praileaitz I) anotados en `FUENTES.md` para el capítulo de Ekain y Altxerri. Cuerpo 1.910 palabras, glosa 1.596 (46 %). Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.074.669 caracteres / 178.085 palabras / ≈712 págs.; libro puro 765.052 / 121.630 / ≈487; URS+URIM 1.494.640 / 250.802 / ≈1003; TOTAL DEL PROYECTO 1.595.135 / 267.386 / ≈1070. HTML guardado, sin publicar (Regla 38).
