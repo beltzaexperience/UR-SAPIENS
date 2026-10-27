@@ -2764,3 +2764,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: «Una teoría clásica», glosa (14) y material (27/10/2026).** Cita débil sustituida por Carneiro (1970), Wikipedia y Britannica; material para el texto: el Tribunal de las Aguas de Valencia frente a la cisterna de La Bastida. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.061.627 caracteres / 176.004 palabras / ≈704 págs.; libro puro 765.154 / 121.645 / ≈487; URS+URIM 1.481.598 / 248.721 / ≈995; TOTAL DEL PROYECTO 1.582.093 / 265.305 / ≈1061. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: abierto el artículo sobre el Tribunal de las Aguas (27/10/2026).** Ramón Fernández (2024): jueves a las 12 en la puerta de los Apóstoles, procedimiento oral y en valenciano, sentencias inapelables, síndicos elegidos por cada comunidad de regantes; Consejo de Hombres Buenos de Murcia. Borrador de párrafo mostrado a Luis, sin aplicar. Sin cambios en el HTML ni en el Marcador.
