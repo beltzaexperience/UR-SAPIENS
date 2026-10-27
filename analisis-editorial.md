@@ -2863,3 +2863,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: fuera «UR es el signo que cruza el universo…» (27/10/2026).** Corte del párrafo de dos frases de la apertura, a petición de Luis. Cuerpo 1.853 palabras, glosa 1.558. **Marcador (Regla 14):** URS 1.074.099 caracteres / 177.990 palabras / ≈712 págs.; libro puro 764.482 / 121.535 / ≈486; URS+URIM 1.494.070 / 250.707 / ≈1003; TOTAL DEL PROYECTO 1.594.565 / 267.291 / ≈1069. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: «Cultura en Iberia es un recipiente con forma de continente» (27/10/2026).** Frase de Luis aplicada. Cuerpo 1.860 palabras, glosa 1.558. **Marcador (Regla 14):** URS 1.074.134 caracteres / 177.997 palabras / ≈712 págs.; libro puro 764.517 / 121.542 / ≈486; URS+URIM 1.494.105 / 250.714 / ≈1003; TOTAL DEL PROYECTO 1.594.600 / 267.298 / ≈1069. HTML guardado, sin publicar (Regla 38).
