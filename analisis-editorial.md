@@ -2803,3 +2803,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **Norma 61 en vigor (27/10/2026).** Luis da el OK al reparto de trabajo, fuentes y glosa a cargo de Claude. Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
+
+
+**CULTURA: Relojero-Plus completo y quinta lectura (27/10/2026).** Nota bruta 3,61 (cuarta lectura, 3,79), ajustada 4,01 (4,16); α. Bajan evidencia (4,38 a 3,88), editores (3,81 a 3,44) y no especialista (3,56 a 3,00); suben aporte y memorabilidad. Matriz de 89 filas en `INFORME-RELOJERO-PLUS-CULTURA-27-10-26.md`, con propuestas sin aplicar. Detalle en la Norma 55 (registro). Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
