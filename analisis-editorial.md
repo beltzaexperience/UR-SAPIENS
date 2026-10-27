@@ -2851,3 +2851,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: coma y acento (27/10/2026).** F22 aplicada («que se convirtió», «vascónica»). Cierre de las propuestas del informe del Relojero-Plus. Cuerpo 1.881 palabras, glosa 1.602. **Marcador (Regla 14):** URS 1.074.550 caracteres / 178.062 palabras / ≈712 págs.; libro puro 764.933 / 121.607 / ≈486; URS+URIM 1.494.521 / 250.779 / ≈1003; TOTAL DEL PROYECTO 1.595.016 / 267.363 / ≈1069. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: sexta lectura, sin referencias (27/10/2026).** Nota 3,28 (calidad 3,35, impacto 3,16), línea de partida de la escala nueva (sin calibración; no comparable con las cinco anteriores). Criterio más bajo: entrada, 2,56. Tramo vivo: AGUA Y PODER (8 de 8). Frío: la apertura. Detalle en la Norma 55 (registro). Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
