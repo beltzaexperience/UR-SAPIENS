@@ -2722,3 +2722,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: cuatro párrafos de Urfa en «UR Y 'T'» (27/10/2026).** Luis entrega la sección con Urfa (oasis, Kallirrhoé, «La Ciudad Bendita», Segal). Aplicado con cuatro correcciones de forma; señalados cuatro puntos sin tocar (cita sin fuente, Tadeo, Segal en el cuerpo, glosa pendiente). Corregida la duda sobre Segal en la entrada de Urfa. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.058.017 caracteres / 175.422 palabras / ≈702 págs.; libro puro 761.544 / 121.063 / ≈484; URS+URIM 1.477.988 / 248.139 / ≈993; TOTAL DEL PROYECTO 1.578.483 / 264.723 / ≈1059. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: Urfa, cita sin comillas, Tadeo, Segal a la glosa y entradas nuevas (27/10/2026).** Luis: quita las comillas (no era cita), reformula el sujeto de la curación, acepta llevar a Segal a la glosa y preparar entradas; pregunta en qué se equivocó Claude (en dudar de la existencia de Segal). Glosa (30) y (31) nuevas; Göbekli pasa a (32)-(34). Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.058.803 caracteres / 175.548 palabras / ≈702 págs.; libro puro 762.330 / 121.189 / ≈485; URS+URIM 1.478.774 / 248.265 / ≈993; TOTAL DEL PROYECTO 1.579.269 / 264.849 / ≈1059. HTML guardado, sin publicar (Regla 38).
