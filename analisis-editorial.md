@@ -2848,3 +2848,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: «El ADN antiguo» (27/10/2026).** F8 aplicada (Norma 47). Cuerpo 1.882 palabras, glosa 1.602. **Marcador (Regla 14):** URS 1.074.556 caracteres / 178.063 palabras / ≈712 págs.; libro puro 764.939 / 121.608 / ≈486; URS+URIM 1.494.527 / 250.780 / ≈1003; TOTAL DEL PROYECTO 1.595.022 / 267.364 / ≈1069. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: coma y acento (27/10/2026).** F22 aplicada («que se convirtió», «vascónica»). Cierre de las propuestas del informe del Relojero-Plus. Cuerpo 1.881 palabras, glosa 1.602. **Marcador (Regla 14):** URS 1.074.550 caracteres / 178.062 palabras / ≈712 págs.; libro puro 764.933 / 121.607 / ≈486; URS+URIM 1.494.521 / 250.779 / ≈1003; TOTAL DEL PROYECTO 1.595.016 / 267.363 / ≈1069. HTML guardado, sin publicar (Regla 38).
