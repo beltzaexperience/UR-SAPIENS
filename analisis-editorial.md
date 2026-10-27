@@ -2731,3 +2731,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: cita completa del marfil en la glosa (7) (27/10/2026).** Con el resumen y la bibliografía de Luciañez-Triviño (2023) se completa la cita de *CAJ* 2021 y se añade Nocete et al. (2013) para el marfil asiático. Sigue sin comprobar la cifra de 8,8 kg y el marfil africano. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.058.981 caracteres / 175.572 palabras / ≈702 págs.; libro puro 762.508 / 121.213 / ≈485; URS+URIM 1.478.952 / 248.289 / ≈993; TOTAL DEL PROYECTO 1.579.447 / 264.873 / ≈1059. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: lectura del artículo del marfil y corrección de la glosa (7) (27/10/2026).** Los 8,8 kg son de todo Valencina, no de la Dama; el origen africano y asiático no está probado (Schreger). Glosa (7) corregida; el cuerpo queda a la espera del párrafo de Luis. Detalle y datos para el párrafo en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.059.240 caracteres / 175.608 palabras / ≈702 págs.; libro puro 762.767 / 121.249 / ≈485; URS+URIM 1.479.211 / 248.325 / ≈993; TOTAL DEL PROYECTO 1.579.706 / 264.909 / ≈1060. HTML guardado, sin publicar (Regla 38).
