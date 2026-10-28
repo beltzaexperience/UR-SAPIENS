@@ -2869,3 +2869,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: «el extremo que retiene las culturas de Eurasia y África» (28/10/2026).** Frase de Luis aplicada en el segundo párrafo. Cuerpo 1.864 palabras, glosa 1.558. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.494.124 / 250.718 / ≈1003; TOTAL DEL PROYECTO 1.594.619 / 267.302 / ≈1069. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: séptima lectura, sin referencias (28/10/2026).** Nota 3,30 (sexta, 3,28; equivalente 3,97 en la escala antigua). Suben evidencia (3,38 a 3,81) y entrada (2,56 a 2,88); bajan prosa y emoción. Detalle en la Norma 55 (registro). Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
