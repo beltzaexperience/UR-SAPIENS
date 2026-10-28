@@ -2884,3 +2884,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **«La rosa y el hormigón»: la B se desmonta y lo mejor del texto se injerta en la A (28/10/2026).** T.H.U.G. L.I.F.E. verificado en lo esencial (el acrónimo es de Shakur; la paráfrasis es de la pieza). Decisión de Luis: se injerta lo mejor del texto de la B en la A; la A está sellada, injerto en espera. Detalle en la Norma 55 (registro). Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
+
+
+**«La rosa y el hormigón»: Relojero-Plus completo de la B (28/10/2026).** Matriz de 89 filas en `INFORME-RELOJERO-PLUS-ROSA-Y-HORMIGON-28-10-26.md`: 35 hallazgos, el mayor el descarte «no X / Y» (unos 15 pares), el cierre que resume, la glosa que justifica la pieza y el aviso de «cuerpo». Datos comprobados; correcciones de glosa pendientes (17 naciones, «Balkan River Defence»). Detalle en la Norma 55 (registro). Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
