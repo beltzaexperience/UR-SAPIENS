@@ -2887,3 +2887,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **«La rosa y el hormigón»: Relojero-Plus completo de la B (28/10/2026).** Matriz de 89 filas en `INFORME-RELOJERO-PLUS-ROSA-Y-HORMIGON-28-10-26.md`: 35 hallazgos, el mayor el descarte «no X / Y» (unos 15 pares), el cierre que resume, la glosa que justifica la pieza y el aviso de «cuerpo». Datos comprobados; correcciones de glosa pendientes (17 naciones, «Balkan River Defence»). Detalle en la Norma 55 (registro). Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
+
+
+**«La rosa y el hormigón»: glosa y datos corregidos (28/10/2026).** Glosa de 1.050 a 703 palabras (−347), sin las frases de justificación; 17 naciones en lugar de 18; STC 142/2024 y fuentes añadidas; encabezados a la palabra del cuerpo. Texto del cuerpo intacto. Detalle en la Norma 55 (registro). **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.492.062 / 250.371 / ≈1001; TOTAL DEL PROYECTO 1.592.557 / 266.955 / ≈1068. HTML guardado, sin publicar (Regla 38).
