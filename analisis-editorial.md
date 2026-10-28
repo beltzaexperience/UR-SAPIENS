@@ -2896,3 +2896,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **«La rosa y el hormigón»: segunda tanda de «no X / Y» (28/10/2026).** Cuatro espantapájaros cortados. Cuerpo 753 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.491.771 / 250.317 / ≈1001; TOTAL DEL PROYECTO 1.592.266 / 266.901 / ≈1068. HTML guardado, sin publicar (Regla 38).
+
+
+**«La rosa y el hormigón»: el cierre (28/10/2026).** Cierre recortado a cuatro frases, con la última de Luis. Cuerpo 660 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.491.257 / 250.224 / ≈1001; TOTAL DEL PROYECTO 1.591.752 / 266.808 / ≈1067. HTML guardado, sin publicar (Regla 38).
