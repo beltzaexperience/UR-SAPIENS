@@ -2866,3 +2866,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: «Cultura en Iberia es un recipiente con forma de continente» (27/10/2026).** Frase de Luis aplicada. Cuerpo 1.860 palabras, glosa 1.558. **Marcador (Regla 14):** URS 1.074.134 caracteres / 177.997 palabras / ≈712 págs.; libro puro 764.517 / 121.542 / ≈486; URS+URIM 1.494.105 / 250.714 / ≈1003; TOTAL DEL PROYECTO 1.594.600 / 267.298 / ≈1069. HTML guardado, sin publicar (Regla 38).
+
+
+**CULTURA: «el extremo que retiene las culturas de Eurasia y África» (28/10/2026).** Frase de Luis aplicada en el segundo párrafo. Cuerpo 1.864 palabras, glosa 1.558. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.494.124 / 250.718 / ≈1003; TOTAL DEL PROYECTO 1.594.619 / 267.302 / ≈1069. HTML guardado, sin publicar (Regla 38).
