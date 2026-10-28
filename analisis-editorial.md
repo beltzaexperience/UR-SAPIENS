@@ -2893,3 +2893,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **«La rosa y el hormigón»: cuatro «no X / Y» cortados (28/10/2026).** Primera tanda de F1 aplicada, con la frase de Luis para el Mar Menor. Cuerpo 841 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.491.946 / 250.347 / ≈1001; TOTAL DEL PROYECTO 1.592.441 / 266.931 / ≈1068. HTML guardado, sin publicar (Regla 38).
+
+
+**«La rosa y el hormigón»: segunda tanda de «no X / Y» (28/10/2026).** Cuatro espantapájaros cortados. Cuerpo 753 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.491.771 / 250.317 / ≈1001; TOTAL DEL PROYECTO 1.592.266 / 266.901 / ≈1068. HTML guardado, sin publicar (Regla 38).
