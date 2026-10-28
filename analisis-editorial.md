@@ -2875,3 +2875,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA cerrada por el momento; octava lectura con Angostura e Islandia I (28/10/2026).** Nota bruta 3,61 (idéntica a la quinta), ajustada 4,22 (quinta, 4,01: la subida viene de que los lectores puntuaron las referencias más bajo). La distancia a Angostura es +0,47 sin referencias y +0,51 con ellas. Meta (>4 y criterios en 3): solo en la nota ajustada. Detalle en la Norma 55 (registro). Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
+
+
+**Etiqueta ω y publicación (28/10/2026).** Creada la etiqueta omega para un capítulo en 4/3 (nota superior a 4 y los demás criterios en 3). Publicado `urtz.html` con CULTURA cerrada. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.494.124 / 250.718 / ≈1003; TOTAL DEL PROYECTO 1.594.619 / 267.302 / ≈1069.
