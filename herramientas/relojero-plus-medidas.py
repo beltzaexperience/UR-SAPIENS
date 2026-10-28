@@ -123,8 +123,18 @@ def main():
     fila('4', 'frases con 3 o más «y»', len(c), 'saturación', 'OK' if not c else 'AVISO', [x[:150] for x in c])
     c = cita(r'\b[\wáéíóúñ]+,\s+[\wáéíóúñ ]{1,30},\s+[\wáéíóúñ ]{1,30}\s+y\s+[\wáéíóúñ ]+')
     fila('36.7', 'enumeraciones de 4 o más elementos (revisar si son cadena)', len(c), 'cada elemento un dato o un verbo propio', 'INFO', c)
+    # Norma 54 (alarma y excepciones naturales, Luis 28/10/26): «cuerpo» no vale para todo
+    EXC_CUERPO = (r'cuerpos? del delito|cuerpos? de agua|cuerpos? celestes?|tom\w+ cuerpo|(?:dar|da|dan|dio) cuerpo|cuerpo a cuerpo|de cuerpo presente|cuerpo humano'
+                  r'|cuerpos? (?:legal\w*|normativ\w+|de seguridad|de bomberos|diplom\w+|docente|de (?:Cristo|ejército|policía))'
+                  r'|(?:bell\w+|hermos\w+|desnud\w+|muert\w+|inerte\w*|animal\w*|devorad\w+)\W+(?:\w+\W+){0,3}cuerpos?'
+                  r'|cuerpos?\W+(?:\w+\W+){0,3}(?:bell\w+|hermos\w+|desnud\w+|muert\w+|inerte\w*|animal\w*|devorad\w+)')
     c = cita(r'\bcuerpos?\b')
-    fila('54', '«cuerpo»', len(c), 'sujeto concreto por defecto', 'OK' if len(c) <= 2 else 'AVISO', c)
+    sus = [x for x in c if not re.search(EXC_CUERPO, x, re.I)]
+    dens = len(c) / W * 1e4
+    est = 'ALARMA' if (dens > 30 or len(sus) >= 3) else ('AVISO' if sus else 'OK')
+    fila('54', '«cuerpo»: usos, por 10.000 y sin excepción natural', '%d (%.0f por 10.000); %d sin excepción natural' % (len(c), dens, len(sus)),
+         'control 30 por 10.000 (media del libro 15); sujeto concreto por defecto', est,
+         [('[REVISAR] ' if x in sus else '[excepción natural] ') + x for x in c])
     mem = len(re.findall(r'\bmemoria\b', txt, re.I))
     fila('49', '«memoria» por 10.000 palabras', '%d (%.0f)' % (mem, mem / W * 1e4), 'control: 40 (media del libro 20,7)', 'OK' if mem / W * 1e4 <= 40 else 'ALARMA')
     c = cita(r'^(?:La|El)\s+(?:civilización|cultura|escritura|agricultura|función|transición|sequía|lectura|crítica|palabra|lengua|genética|hipótesis|pregunta|ascendencia|dependencia|irrigación|coordinación|burocracia|técnica|relación|infraestructura|proceso)\b')
