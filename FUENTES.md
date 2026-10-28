@@ -30,3 +30,4 @@
 | Carneiro (1970), *Science*; Adams; Wikipedia, «Hydraulic empire»; Britannica, «Karl Wittfogel»; Hunt y Hunt (1976), *Current Anthropology* | RESUMEN (extractos) | — | Hipótesis hidráulica de Wittfogel y su crítica |
 | Hesíodo, *Teogonía*; Apolodoro, *Biblioteca* III, 7 | SIN ABRIR (de memoria) | — | Kallirrhoé en la mitología |
 | `A- VERDAD`, `A- ALTXERRI Y EKAIN` | **no son fuentes** (conversaciones con una IA) | `A- VERDAD`, `A- ALTXERRI Y EKAIN` | Solo pistas |
+| Stereogum, «Thug Life, rap music and the word thug»; Dictionary.com, «thug life» | **RESUMEN** (extractos de búsqueda, 28/10/26) | para «La rosa y el hormigón» | Shakur explicó T.H.U.G. L.I.F.E. («The Hate U Give Little Infants Fucks Everybody») en una entrevista de MTV de 1994 con Abbie Kearse; Dictionary.com lo lee como advertencia: el odio sembrado en la infancia vuelve contra todos. Transcripción de la entrevista sin abrir. |

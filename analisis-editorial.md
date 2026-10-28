@@ -2881,3 +2881,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **«La rosa y el hormigón» empieza; alarma «cuerpo» (28/10/2026).** Diagnóstico de la pieza B (865 palabras de cuerpo, 1.050 de glosa, URIM · Biopsia). Norma 54 ampliada con alarma y excepciones naturales; el medidor las aplica (la pieza B: 4 usos, 50 por 10.000, ALARMA). Abiertas: una o dos piezas, «consuelo»/«terreno», rescates, «ruido compartido» duplicado. Detalle en la Norma 55 (registro). Sin cambios en `urtz.html`. **Marcador (Regla 14):** igual que en la entrada anterior: URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.494.124 / 250.718 / ≈1003; TOTAL DEL PROYECTO 1.594.619 / 267.302 / ≈1069.
+
+
+**«La rosa y el hormigón»: la B se desmonta y lo mejor del texto se injerta en la A (28/10/2026).** T.H.U.G. L.I.F.E. verificado en lo esencial (el acrónimo es de Shakur; la paráfrasis es de la pieza). Decisión de Luis: se injerta lo mejor del texto de la B en la A; la A está sellada, injerto en espera. Detalle en la Norma 55 (registro). Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
