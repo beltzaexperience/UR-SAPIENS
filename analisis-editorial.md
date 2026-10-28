@@ -2872,3 +2872,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **CULTURA: séptima lectura, sin referencias (28/10/2026).** Nota 3,30 (sexta, 3,28; equivalente 3,97 en la escala antigua). Suben evidencia (3,38 a 3,81) y entrada (2,56 a 2,88); bajan prosa y emoción. Detalle en la Norma 55 (registro). Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
+
+
+**CULTURA cerrada por el momento; octava lectura con Angostura e Islandia I (28/10/2026).** Nota bruta 3,61 (idéntica a la quinta), ajustada 4,22 (quinta, 4,01: la subida viene de que los lectores puntuaron las referencias más bajo). La distancia a Angostura es +0,47 sin referencias y +0,51 con ellas. Meta (>4 y criterios en 3): solo en la nota ajustada. Detalle en la Norma 55 (registro). Sin cambios en `urtz.html`; Marcador igual que en la entrada anterior.
