@@ -1,6 +1,6 @@
 # FUENTES — estado de lo que Claude ha abierto (Norma 61)
 
-**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 27/10/26 (tarde).
+**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 29/10/26.
 
 ## CULTURA: CONTINENTE IBÉRICO
 
@@ -31,3 +31,21 @@
 | Hesíodo, *Teogonía*; Apolodoro, *Biblioteca* III, 7 | SIN ABRIR (de memoria) | — | Kallirrhoé en la mitología |
 | `A- VERDAD`, `A- ALTXERRI Y EKAIN` | **no son fuentes** (conversaciones con una IA) | `A- VERDAD`, `A- ALTXERRI Y EKAIN` | Solo pistas |
 | Stereogum, «Thug Life, rap music and the word thug»; Dictionary.com, «thug life» | **RESUMEN** (extractos de búsqueda, 28/10/26) | para «Kurt · Shakur y la frontera analógica» (apartado «La rosa y el hormigón») | Shakur explicó T.H.U.G. L.I.F.E. («The Hate U Give Little Infants Fucks Everybody») en una entrevista de MTV de 1994 con Abbie Kearse; Dictionary.com lo lee como advertencia: el odio sembrado en la infancia vuelve contra todos. Transcripción de la entrevista sin abrir. |
+
+## KURT · SHAKUR Y LA FRONTERA ANALÓGICA (con «La rosa y el hormigón»)
+
+| Fuente | Estado | Archivo | Para qué se usa |
+|---|---|---|---|
+| Archbridge Institute, Human Flourishing Lab (Clay Routledge), «Why Gen Z is nostalgic for a world it never knew» y páginas del instituto | **RESUMEN** (extractos de búsqueda, 29/10/26) | — | Glosa 3: 68 % y 73 % de la Generación Z; encuesta nacional representativa de algo más de 2.000 adultos de EE. UU. Tablas completas sin abrir |
+| Science Media Centre España; MIMS; Focus on Reproduction (ESHRE 2025, Gómez Sánchez y Viñas) | **RESUMEN** (extractos de búsqueda, 29/10/26) | — | Glosa 9: microplásticos en el 55 % del plasma seminal (22 hombres) y el 69 % del líquido folicular (29 mujeres); PTFE el polímero más frecuente (41 % y 31 %); resumen sin revisión por pares. Una fuente periodística da 18 y 25 |
+| Wikipedia, «The Rose That Grew from Concrete (poetry collection)» | **RESUMEN** (extracto de búsqueda, 29/10/26) | — | Glosa 11: 1 de noviembre de 1999, Pocket Books (MTV Books); poemas escritos entre 1989 y 1991; 72 o más de cien |
+| Wikipedia, «In Defence of Our Earth» (cita Discogs); EuroNatur, «The other Balkan route»; Patagonia, «Save the Blue Heart of Europe» | **RESUMEN** (extractos de búsqueda, 28/10/26) | — | Glosas 13 y 14: Oi Polloi y Balkan Rivers Tour |
+| Vevo, *Then is Now* (2026); Highsnobiety y Stereogum (Saint Laurent, 2023); Jakue Pascual, *Movimiento de resistencia* (2015); ECHA (2023) y EFSA (2020); OMS y BOE (amianto); Penn State (Freedman, 2024) | **SIN REGISTRAR** (consultadas en sesiones anteriores; estado no recuperable) | — | Glosas 1, 4, 5, 7, 8 y 10 |
+
+Para el bloque «EN BRUTO · MAR MENOR · LEY 19/2022» de URIM (texto sacado de la B el 29/10/26):
+
+| Fuente | Estado | Archivo | Para qué se usa |
+|---|---|---|---|
+| Maldita.es (2021), «¿Cómo ha llegado el Mar Menor a esta situación de crisis ecológica?»; Murcia Today (2021), «ANSE and WWF say eight tons of fish have been removed…» | **RESUMEN** (extractos de búsqueda, 29/10/26) | — | Mortandad por hipoxia del 16/08/2021 (y la de 2019); toneladas, 8 (ANSE y WWF) o 15 (Maldita) |
+| ga-p.com, «Personificación jurídica del Mar Menor» (2025, Lozano Cutanda); INAP; BOE, Real Decreto 90/2025 | **RESUMEN** (extractos de búsqueda, 28 y 29/10/26) | — | Acción pública universal tras la STC 142/2024; Ley 19/2022, de 30 de septiembre; tres órganos |
+| Gobierno de Murcia, canalmarmenor.carm.es | **RESUMEN** (extracto de búsqueda, 29/10/26) | — | Mayor laguna salada de Europa; La Manga, franja de arena de unos 21 km |
