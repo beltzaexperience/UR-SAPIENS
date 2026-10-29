@@ -2927,6 +2927,8 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **«La rosa y el hormigón»: F6 (29/10/2026).** «La respuesta llega sobre el terreno.» (Luis, tal cual); 13 de 37 con artículo (35 %). Cuerpo 565 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.491.137 / 250.190 / ≈1001; TOTAL DEL PROYECTO 1.591.632 / 266.774 / ≈1067. HTML guardado, sin publicar (Regla 38).
 
+**«Kurt · Shakur y la frontera analógica»: F7 (29/10/2026).** Next Fertility fuera del cuerpo; años se quedan. Cuerpo 1.803 palabras. **Marcador (Regla 14):** URS 1.078.022 caracteres / 178.636 palabras / ≈715 págs.; libro puro 768.405 / 122.181 / ≈489; URS+URIM 1.489.468 / 249.886 / ≈1000; TOTAL DEL PROYECTO 1.589.963 / 266.470 / ≈1066. HTML guardado, sin publicar (Regla 38).
+
 **«La rosa y el hormigón»: «Sobre el terreno llega la respuesta.» (29/10/2026).** 12 de 37 con artículo (32 %). Cuerpo 565 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.491.137 / 250.190 / ≈1001; TOTAL DEL PROYECTO 1.591.632 / 266.774 / ≈1067. HTML guardado, sin publicar (Regla 38).
 
 **«La rosa y el hormigón»: F12 (29/10/2026).** Imagen física del Mar Menor (peces y crustáceos muertos por falta de oxígeno); glosa 4 ampliada. Cuerpo 576 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.491.544 / 250.258 / ≈1001; TOTAL DEL PROYECTO 1.592.039 / 266.842 / ≈1067. HTML guardado, sin publicar (Regla 38).
