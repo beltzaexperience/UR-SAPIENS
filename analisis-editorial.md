@@ -2908,3 +2908,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 **«La rosa y el hormigón»: cierre de una frase y subtítulos 5 → 3 (29/10/2026).** Cuerpo 590 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.490.827 / 250.152 / ≈1001; TOTAL DEL PROYECTO 1.591.322 / 266.736 / ≈1067. HTML guardado, sin publicar (Regla 38).
 
 **«La rosa y el hormigón»: «cuerpo», dos de tres (29/10/2026).** Cuerpo 588 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.490.817 / 250.150 / ≈1001; TOTAL DEL PROYECTO 1.591.312 / 266.734 / ≈1067. HTML guardado, sin publicar (Regla 38).
+
+**«La rosa y el hormigón»: años y cifras fuera del cuerpo (29/10/2026).** Cuerpo 574 palabras; glosa 1 corregida con Wikipedia. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.490.820 / 250.147 / ≈1001; TOTAL DEL PROYECTO 1.591.315 / 266.731 / ≈1067. HTML guardado, sin publicar (Regla 38).
