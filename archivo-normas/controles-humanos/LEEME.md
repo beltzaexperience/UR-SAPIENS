@@ -28,4 +28,6 @@ Un texto sin fecha no puede ser control (regla 1). Mientras Luis no confirme que
 | `pendientes-de-fecha/sin-fecha-no-future-peter-test-tube-babies.txt` | Luis Beltza | sin fecha | 669 | crónica «NO FUTURE · Peter & the Test Tube Babies»; la segunda línea (título del concierto) se mide como párrafo corto |
 | `pendientes-de-fecha/sin-fecha-rich-kids-on-lsd-jimmy-jazz.txt` | Luis Beltza | **2025 según el propio texto** («41 años después del lanzamiento de su primer single (1984)»): posterior a 2023, por tanto **no puede ser control** de texto anterior a la IA | 676 | crónica del concierto de Rich Kids on LSD en la Jimmy Jazz |
 
-Los tres textos de ese mensaje de Luis eran dos crónicas y un ensayo («Costra en mi cerebro: Brad Delp»). El ensayo no se guarda: es de procedencia mixta (narra hechos y cita a Cirlot, Smail y Wilson, de fuentes que no se identifican) y no sirve como control de la voz de Luis.
+Los tres textos de ese mensaje de Luis eran dos crónicas y un ensayo («Costra en mi cerebro: Brad Delp»). El ensayo no se guarda: Luis aclaró después que es de un amigo (publicado en Beltza en 2024), es decir, de un tercero y posterior a la IA.
+
+**Textos de terceros: no se guardan.** Un texto ajeno (aunque lo aporte Luis y esté publicado) no se copia al repositorio sin permiso de su autor. Se mide desde fuera del repositorio y solo se anotan los resultados en `RESULTADOS.md`, con autor y año. Así ocurrió con «RAMM: ΣLL: ZΣΣ» (Carlos G. De Marcos, 2024).
