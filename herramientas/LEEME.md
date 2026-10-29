@@ -6,6 +6,8 @@ Todo lo que no es texto del libro pero hace falta para trabajarlo. Los textos de
 |---|---|
 | `guardar-y-publicar.sh` | Guarda el trabajo en la rama y publica en `main` todo menos los HTML (los HTML, solo con el OK de Luis y la opción `--html`). Con `traer`, recoge lo que Luis sube desde la web. Los borrados no se publican solos. |
 | `relojero-plus-medidas.py` | Mide una pieza con la batería de la Matriz del Relojero-Plus (Normas 38, 55 y otras): tabla con valor, umbral y estado. |
+| `relojero-ultra-palabras.py` | Recorrido 3 del Relojero-Plus Ultra (Norma 62): «ur» en rojo y la 'T', concordancia de palabras, términos propios, tipografía y léxico desconocido, y nombres, cifras y fechas contra la glosa. |
+| `ultra-18-analisis.py` | Recorrido 5 del Ultra: los 18 análisis medidos de una pieza frente al corredor del canon y a las piezas de URS (necesita spaCy y el caché de `analisis-texto.py`). |
 | `perfil-frase.py` | Perfil de frase de cada pieza (Norma 36.8): longitud, comienzos, subordinación. |
 | `perfil-corpus.py` | Compara las piezas con el corredor del canon (rango de los trozos de 2.000 palabras de las obras de referencia). |
 | `analisis-texto.py` | Los 18 análisis del marco textual con analizador sintáctico (necesita spaCy). |

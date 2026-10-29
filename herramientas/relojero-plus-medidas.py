@@ -56,7 +56,7 @@ def main():
     P = [limpia(p) for p in ps]
     heads = re.findall(r'<h4[^>]*>(.*?)</h4>', cuerpo_html, re.S)
     heads_div = re.findall(r"<div style=\"font-family:'Bebas Neue',sans-serif; font-size:1\.1rem[^>]*>(.*?)</div>", cuerpo_html, re.S)
-    li = re.findall(r'<li style[^>]*>(.*?)</li>', glosa_html, re.S)
+    li = re.findall(r'<li(?: [^>]*)?>(.*?)</li>', glosa_html, re.S)
     txt = ' '.join(P)
     W = len(txt.split())
     SF = []

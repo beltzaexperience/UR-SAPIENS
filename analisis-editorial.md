@@ -2956,3 +2956,6 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 **«Kurt · Shakur y la frontera analógica»: F4 (29/10/2026).** «cuerpos» → «personas»; matriz sin alarmas. **Marcador (Regla 14):** URS 1.078.074 caracteres / 178.644 palabras / ≈715 págs.; libro puro 768.457 / 122.189 / ≈489; URS+URIM 1.489.520 / 249.894 / ≈1000; TOTAL DEL PROYECTO 1.590.015 / 266.478 / ≈1066. HTML guardado, sin publicar (Regla 38).
 
 **«Kurt · Shakur y la frontera analógica»: F6 (29/10/2026).** «ese tránsito» → «esa búsqueda». **Marcador (Regla 14):** URS 1.078.074 caracteres / 178.644 palabras / ≈715 págs.; libro puro 768.457 / 122.189 / ≈489; URS+URIM 1.489.520 / 249.894 / ≈1000; TOTAL DEL PROYECTO 1.590.015 / 266.478 / ≈1066. HTML guardado, sin publicar (Regla 38).
+
+
+**«Kurt · Shakur y la frontera analógica»: primer Relojero-Plus Ultra (29/10/2026).** Informe `INFORME-RELOJERO-PLUS-ULTRA-KURT-SHAKUR-29-10-26.md`; seis automatismos y depósito en GLOSAS EXTENDIDAS. **Marcador (Regla 14):** URS 1.079.079 caracteres / 178.819 palabras / ≈715 págs.; libro puro 767.337 / 122.018 / ≈488; URS+URIM 1.490.525 / 250.069 / ≈1000; TOTAL DEL PROYECTO 1.591.020 / 266.653 / ≈1067. HTML guardado, sin publicar (Regla 38).
