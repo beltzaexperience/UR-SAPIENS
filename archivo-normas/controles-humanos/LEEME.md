@@ -13,3 +13,4 @@ Banco de textos humanos conocidos para calibrar las medidas de tipo M del Reloje
 | Archivo | Autor | Fecha | Palabras | Uso |
 |---|---|---|---|---|
 | `2019-continente-ur-o-reyno-de-la-mancha.txt` | Luis Beltza | 2019 (antes del 28/04/2019, según el propio texto) | 572 | reservado (comprobación) |
+| `sin-fecha-el-reyno-de-la-mancha-quinta-temporada.txt` | Luis Beltza | sin fecha de Luis; por el contenido (Rajoy en activo, el «proceso» en curso) hacia 2017-2018, **por confirmar** | 696 | fijación |
