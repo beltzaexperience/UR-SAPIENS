@@ -4,7 +4,7 @@
 Uso:
     python3 herramientas/ultra-medidas.py "cultura: continente ibérico umbral"
     python3 herramientas/ultra-medidas.py "cultura: continente ibérico umbral" --frases
-    python3 herramientas/ultra-medidas.py archivo-normas/controles-humanos/texto.txt --texto
+    python3 herramientas/ultra-medidas.py ruta/al/texto.txt --texto
 
 Con --texto el argumento es un texto plano (un párrafo por línea; la primera línea es el título y no se mide):
 mide solo las filas que dependen del texto (no las del marcado HTML, la glosa ni la estructura de la pieza), para
