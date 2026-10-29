@@ -8,3 +8,5 @@ Material sacado de `NORMA-METODO.md` el 29/10/26 (poda total de la versión exte
 - `MARCO-DEL-LIBRO-EXTENSO.md`: secciones I a XVII completas.
 - `CASOS-DE-NORMAS.md`: índice de dónde está cada norma con todos sus casos en el extenso.
 - `PROMPTS-Y-CADENA-DE-REVISION-EXTERNA.md`: prompts para Claude y Perplexity, adaptados al Relojero Ultra, y cadena de trabajo.
+- `NORMA-METODO-CON-ORIGENES-29-10-26.md`: la versión corta con orígenes, citas de Luis y fechas, anterior a las normas puras. Sin valor normativo.
+- `PIEZA-HOMO-RELOJERO.md` y `.html`: la pestaña «El Homo Relojero y su tipógrafo sintético» (contaba líneas y palabras de la versión extensa), retirada de `urtz.html`.
