@@ -2916,3 +2916,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 **«La rosa y el hormigón»: quitar el sujeto repetido (29/10/2026).** Cuerpo 569 palabras; 14 de 39 con artículo (36 %). **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.490.800 / 250.142 / ≈1001; TOTAL DEL PROYECTO 1.591.295 / 266.726 / ≈1067. HTML guardado, sin publicar (Regla 38).
 
 **«La rosa y el hormigón»: la rosa deja de abrir frase (29/10/2026).** F2 cerrado (34 %). **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.490.800 / 250.142 / ≈1001; TOTAL DEL PROYECTO 1.591.295 / 266.726 / ≈1067. HTML guardado, sin publicar (Regla 38).
+
+**«La rosa y el hormigón»: verificado «cualquier persona puede actuar» (29/10/2026).** Glosa 4 ampliada con la acción pública y su fuente. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.491.030 / 250.175 / ≈1001; TOTAL DEL PROYECTO 1.591.525 / 266.759 / ≈1067. HTML guardado, sin publicar (Regla 38).
