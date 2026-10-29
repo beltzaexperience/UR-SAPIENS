@@ -1,6 +1,6 @@
 # RESULTADOS.md · qué umbrales saltan en textos humanos
 
-Una fila por medida y por control (los textos están descritos en `LEEME.md`, sin su contenido). «Salta» = ALARMA o AVISO de `ultra-medidas.py --texto`. Banco del grupo A: **6 textos (4.029 palabras), n insuficiente** (regla 4 de `LEEME.md`): los umbrales de VI.2 no cambian todavía.
+Una fila por medida y por control (los textos están descritos en `LEEME.md`, sin su contenido). «Salta» = ALARMA o AVISO de `ultra-medidas.py --texto`. Banco del grupo A: **7 textos (5.575 palabras), n insuficiente** (regla 4 de `LEEME.md`): los umbrales de VI.2 no cambian todavía.
 
 ## Resultados por texto (29/10/26)
 | Id | Palabras de cuerpo | Alarmas | Avisos | Qué saltó |
@@ -14,6 +14,7 @@ Una fila por medida y por control (los textos están descritos en `LEEME.md`, si
 | T7 | 674 | 0 | 4 | 10 gerundio; 41.1 frase con tres «que»; 4 frase con tres «y»; 50/56 cifras (**falso positivo**: años y nombres de discos en una crónica musical) |
 | T9 | 1.648 | 6 | 5 | artículo de 2010, ver abajo |
 | T10 | 819 | 3 | 4 | comentarios de 2010 (41 párrafos de una o dos líneas): 26 párrafos cortos (76 %) y media por párrafo (20); 1 «no X, sino Y» (**falso positivo**: «pero este es…»); 3 «hasta aquí» (**falso positivo**: locución); 10 gerundio; 32/32 bis coberturas (3); 50/56 cifras y años |
+| T11 | 1.546 | 5 | 5 | artículo de 2010, ver abajo |
 | T8 | 3.597 | 3 | 7 | ver abajo |
 
 ## T8 (ensayo de Carlos G. De Marcos, 2024; primeras 3.597 palabras; no se copia)
@@ -41,22 +42,25 @@ No saltaron: artículo inicial (16 % frente a 35 %), desviación de frase (31,0 
 
 No saltaron: artículo inicial (11 % frente a 35 %), desviación de frase (13,6 frente a 9,8).
 
-## Cuántos controles disparan cada medida (grupo A, n = 6, insuficiente)
+## T11 (artículo de Carlos G. De Marcos, Beltza, 07/05/2010; 1.546 palabras de cuerpo; no se copia)
+**5 ALARMAS y 5 AVISOS** en un texto humano de 2010: párrafos cortos (5 de 19, 26 %: las notas a pie), «no X, sino Y» (3), «aquí» (2), andamios (1), «alguien» (1: «antes de que alguien me lo pregunte», referencia natural); avisos de gerundio (3), coberturas (6), tres «que» (3), tres «y» (2) y años y cifras (20: **falso positivo**, son las llamadas de nota «(1)» a «(10)» contadas como cifras). No saltaron: artículo inicial (12 % frente a 35 %) ni desviación de frase (11,9 frente a 9,8).
+
+## Cuántos controles disparan cada medida (grupo A, n = 7, insuficiente)
 | Norma | Medida | Salta en | Estado |
 |---|---|---|---|
-| 26 | párrafos cortos (≤ 25 palabras) | 5 de 6 | líneas finales, notas a pie, viñetas y comentarios: **efecto de la estructura** |
-| 26 | media de palabras por párrafo | 4 de 6 | AVISO: textos con pocos párrafos o de comentarios |
-| 4 | frases con tres o más «y» | 4 de 6 | AVISO |
-| 10 | gerundio tras coma | 4 de 6 | AVISO |
-| 3 | «aquí» / «aparece» | 3 de 6 | 1 real (T9: «aquí tenemos…») y falsos positivos de locución |
-| 1 | no X, sino Y | 3 de 6 | 1 real (T9) y 2 falsos positivos del patrón |
-| 32/32 bis | coberturas | 3 de 6 | AVISO |
-| 50/56 | años y cifras | 3 de 6 | falsos positivos (nombres, precios, años de discos) |
-| 5 | andamios de entrada | 1 de 6 | real (T9) |
-| 41.1 | frases con tres o más «que» | 1 de 6 | AVISO (T9) |
-| 59 | molde de la anterioridad | 1 de 6 | coincidencia del patrón (T9) |
-| adenda 17/10 | «alguien» | 1 de 6 | falso positivo (T9) |
-| 36.8 | punto y coma por mil palabras | 1 de 6 | AVISO: viñetas con «;» (T4) |
+| 26 | párrafos cortos (≤ 25 palabras) | 6 de 7 | líneas finales, notas a pie, viñetas y comentarios: **efecto de la estructura** |
+| 4 | frases con tres o más «y» | 5 de 7 | AVISO |
+| 10 | gerundio tras coma | 5 de 7 | AVISO |
+| 26 | media de palabras por párrafo | 4 de 7 | AVISO: textos con pocos párrafos o de comentarios |
+| 3 | «aquí» / «aparece» | 4 de 7 | reales («aquí tenemos…») y falsos positivos de locución |
+| 1 | no X, sino Y | 4 de 7 | algunos reales y otros falsos positivos del patrón |
+| 32/32 bis | coberturas | 4 de 7 | AVISO |
+| 50/56 | años y cifras | 4 de 7 | falsos positivos (nombres, precios, años de discos, llamadas de nota) |
+| 5 | andamios de entrada | 2 de 7 | reales |
+| 41.1 | frases con tres o más «que» | 2 de 7 | AVISO |
+| adenda 17/10 | «alguien» | 2 de 7 | falsos positivos (referencia concreta) |
+| 59 | molde de la anterioridad | 1 de 7 | coincidencia del patrón |
+| 36.8 | punto y coma por mil palabras | 1 de 7 | AVISO: viñetas con «;» |
 
 ## Pista (no resultado)
 - **Un texto de 2010, con fecha pública, de un autor que no usó IA, salta en 6 alarmas** (3 reales: antítesis «no X, sino Y», «aquí», andamios; 3 de estructura o de patrón). Los tics de las normas 1, 3, 5 y 59 son decisiones de estilo de UR, no marcas de la IA: **estas medidas sirven para corregir el estilo, no para probar autoría** (VI.4).
