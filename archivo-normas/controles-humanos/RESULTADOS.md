@@ -47,3 +47,7 @@ Texto breve, traducido, de registro institucional (209 palabras, 7 párrafos, 8 
 | 36.8 | punto y coma por mil palabras | 1 de 4 | AVISO: viñetas con «;» |
 
 Pista (no resultado): las medidas de **párrafo** (26) y de **«y»** (4) saltan en tres de cuatro textos humanos y las de **gerundio** (10) en dos; son las más sensibles al género (blog, lista, texto breve). Dos de los falsos positivos son defectos de la propia medida (patrón «no X, sino Y»; «Felipe 6» como cifra). Los textos de menos de unas 300 palabras solo sirven para medidas léxicas; para fijar umbrales de forma hacen falta trozos de unas 1.000 palabras.
+
+## Pendientes de fecha (no cuentan en el recuento)
+### pendientes-de-fecha/sin-fecha-talleres-heriotza.txt (29/10/26)
+Texto breve (170 palabras, 3 párrafos, 6 frases), presentación de un taller; el original termina cortado en «gráfic». **0 ALARMAS y 1 AVISO:** años y cifras en el cuerpo (6 cifras: «1 hora y 1/4», «10 €», «3/4 de hora»). Son datos de precio y horario, no cifras de prosa: **falso positivo de la medida** en textos de anuncio. Sin fecha, no cuenta hasta confirmarla.

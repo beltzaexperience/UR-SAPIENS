@@ -18,3 +18,10 @@ Banco de textos humanos conocidos para calibrar las medidas de tipo M del Reloje
 | `2019-manifiesto-41-senadores-franceses.txt` | 41 senadores franceses, traducción al castellano (traductor sin identificar) | 24-25/03/2019, según la prensa | 211 | fijación (registro institucional y traducido; solo medidas léxicas: texto breve) |
 
 Los dos últimos llegaron en un mismo mensaje de Luis: el comentario es suyo y el manifiesto es el texto que cita. Se guardan por separado para no mezclar autores.
+
+## Pendientes de fecha (no cuentan en el banco)
+Un texto sin fecha no puede ser control (regla 1). Mientras Luis no confirme que es anterior a 2023, se guarda en `pendientes-de-fecha/`, se mide y sus resultados se anotan aparte; no entra en los recuentos.
+
+| Archivo | Autor | Fecha | Palabras | Nota |
+|---|---|---|---|---|
+| `pendientes-de-fecha/sin-fecha-talleres-heriotza.txt` | Luis Beltza | sin fecha | 171 | presentación de los Talleres Heriötza; el original termina cortado en «su importancia gráfic» |
