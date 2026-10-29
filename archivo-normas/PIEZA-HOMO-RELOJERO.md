@@ -1,6 +1,6 @@
-# EL HOMO RELOJERO Y SU TIPÓGRAFO SINTÉTICO · pieza retirada de urtz.html el 29/10/26
+# EL HOMO RELOJERO Y SU TIPÓGRAFO SINTÉTICO · copia de la versión del 15/10/26
 
-*Pestaña del MARCADOR FONOMÁTICO que contaba las líneas, palabras y encabezados de `NORMA-METODO.md` el 15/10/26 (versión extensa anterior). No afecta a la corrección de los capítulos y se archivó por decisión de Luis. Texto tal como estaba (HTML original en `archivo-normas/PIEZA-HOMO-RELOJERO.html`).*
+*Copia histórica de la pestaña del MARCADOR FONOMÁTICO tal como estaba el 15/10/26, cuando contaba la versión extensa de `NORMA-METODO.md`. La pestaña vigente está en `urtz.html` y se actualizó el 29/10/26 (HTML original de esta copia en `archivo-normas/PIEZA-HOMO-RELOJERO.html`).*
 
 ▶EL HOMO RELOJERO Y SU TIPÓGRAFO SINTÉTICO
 
