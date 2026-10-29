@@ -2929,6 +2929,8 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **«Kurt · Shakur y la frontera analógica»: F7 (29/10/2026).** Next Fertility fuera del cuerpo; años se quedan. Cuerpo 1.803 palabras. **Marcador (Regla 14):** URS 1.078.022 caracteres / 178.636 palabras / ≈715 págs.; libro puro 768.405 / 122.181 / ≈489; URS+URIM 1.489.468 / 249.886 / ≈1000; TOTAL DEL PROYECTO 1.589.963 / 266.470 / ≈1066. HTML guardado, sin publicar (Regla 38).
 
+**«Kurt · Shakur y la frontera analógica»: F8 y F11 (29/10/2026).** *In Bloom* en cursiva; glosa de 15 a 13 entradas y de 755 a 573 palabras; regla de Luis: glosas que hablan del texto, fuera. **Marcador (Regla 14):** URS 1.076.999 caracteres / 178.479 palabras / ≈714 págs.; libro puro 767.382 / 122.024 / ≈488; URS+URIM 1.488.445 / 249.729 / ≈999; TOTAL DEL PROYECTO 1.588.940 / 266.313 / ≈1065. HTML guardado, sin publicar (Regla 38).
+
 **«La rosa y el hormigón»: «Sobre el terreno llega la respuesta.» (29/10/2026).** 12 de 37 con artículo (32 %). Cuerpo 565 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.491.137 / 250.190 / ≈1001; TOTAL DEL PROYECTO 1.591.632 / 266.774 / ≈1067. HTML guardado, sin publicar (Regla 38).
 
 **«La rosa y el hormigón»: F12 (29/10/2026).** Imagen física del Mar Menor (peces y crustáceos muertos por falta de oxígeno); glosa 4 ampliada. Cuerpo 576 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.491.544 / 250.258 / ≈1001; TOTAL DEL PROYECTO 1.592.039 / 266.842 / ≈1067. HTML guardado, sin publicar (Regla 38).
