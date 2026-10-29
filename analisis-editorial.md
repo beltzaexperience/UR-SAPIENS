@@ -2902,3 +2902,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **«La rosa y el hormigón»: fuera las consignas del Mar Menor (28/10/2026).** Tres frases cortadas (F5). Cuerpo 622 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.491.040 / 250.186 / ≈1001; TOTAL DEL PROYECTO 1.591.535 / 266.770 / ≈1067. HTML guardado, sin publicar (Regla 38).
+
+**«La rosa y el hormigón»: cierre en indicativo (29/10/2026).** Dos frases de cierre, sin condicional (TEXTO de Luis). Cuerpo 596 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.490.881 / 250.160 / ≈1001; TOTAL DEL PROYECTO 1.591.376 / 266.744 / ≈1067. HTML guardado, sin publicar (Regla 38).
