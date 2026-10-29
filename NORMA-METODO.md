@@ -963,12 +963,13 @@ La Norma 62 es la **Parte II** de este archivo, entera: aplicación estricta y a
 | Gerundios (10) | gerundios por 10.000 palabras (chequeo de revisión final) | revisar si pasa de 25 |
 | Delta de Burrows (XXVII, 3.5) | distancia de la pieza al perfil medio de UR, 150 palabras más frecuentes | aviso por encima de 0,7 (registro y tiempo verbal pesan; no es veredicto) |
 
-**Calibración con controles humanos.** Toda medida de tipo M se contrasta con un banco de textos humanos conocidos.
-1. **Banco:** solo texto humano anterior a la IA (textos de Luis fechados antes de 2023 y trozos del canon); cada texto con autor, fecha y origen, guardado tal como se escribió, sin corregir. Una parte queda reservada: sirve para comprobar umbrales ya fijados, nunca para fijarlos.
-2. **Umbral de ALARMA:** se fija donde salta como máximo el 1 % de los trozos humanos del banco; el rango p10–p90 del canon es AVISO. Una alarma que salta en más del 5 % de los textos humanos se lee como pista, no como hallazgo.
-3. **Anotación:** junto a cada umbral se anota «salta en X % de textos humanos (n = …)». Con menos de 100 trozos el X % se anota como «n insuficiente» y los umbrales vigentes de esta tabla no cambian.
-4. **Falso positivo conocido:** una ALARMA o AVISO que salta en un control humano se anota como falso positivo de esa medida; en una pieza, la lectura decide como siempre.
-5. **Detectores externos de IA:** ningún detector externo es criterio único ni veredicto; su resultado abre una pregunta que resuelve la lectura, con la misma regla de falsos positivos. No se usan sobre texto inédito sin permiso de Luis.
+**Calibración con controles humanos.** Las medidas de tipo M se contrastan con un banco de textos humanos conocidos; la regla se aplica según el tipo de medida.
+1. **Tipos de medida.** **Numérica con umbral** (frases con artículo inicial, sujeto «artículo + sustantivo», esqueleto repetido, aperturas por preposición, dos puntos, punto y coma, desviación de frase, cifras…): se calibra con esta regla. **Prohibición de estilo** (normas 1, 3, 5, «alguien», «a veces», 42, 59…): una ALARMA por un solo caso es una decisión de estilo de UR y no un detector de IA; no se calibra al 1 % y solo se anota en cuántos textos humanos salta. **Lista de revisión** (gerundio tras coma, tres «y», tres «que»): señala casos para leer, no lleva umbral y no se calibra.
+2. **Banco.** Grupo A: texto humano anterior a la IA (textos de Luis fechados antes de 2023, textos con fecha pública comprobable y trozos del canon): fija y comprueba umbrales. Grupo B: texto humano posterior, declarado sin IA por su autor: solo comprueba, nunca fija. Cada texto con autor, año y origen, medido tal como se escribió, sin corregir. **Los textos no se guardan en el repositorio** (los de Luis son privados y los de terceros son de sus autores): solo se anotan los resultados, sin citas. Una parte del grupo A queda reservada: sirve para comprobar umbrales ya fijados, nunca para fijarlos.
+3. **Umbral de ALARMA de las medidas numéricas:** se fija donde salta como máximo el 1 % de los trozos humanos del grupo A; el rango p10–p90 del canon es AVISO. Una alarma que salta en más del 5 % de los textos humanos se lee como pista, no como hallazgo. Los umbrales vigentes de esta tabla no cambian mientras Luis no los revise con los datos del banco.
+4. **Anotación:** junto a cada umbral numérico se anota «salta en X % de textos humanos (n = …)». Con menos de 100 trozos el X % se anota como «n insuficiente».
+5. **Falso positivo conocido:** una ALARMA o AVISO que salta en un control humano se anota como falso positivo de esa medida; en una pieza, la lectura decide como siempre.
+6. **Detectores externos de IA:** ningún detector externo es criterio único ni veredicto; su resultado abre una pregunta que resuelve la lectura, con la misma regla de falsos positivos. No se usan sobre texto inédito sin permiso de Luis.
 
 ### VI.3 · Los 18 análisis de la sección XXVII, fila a fila
 
