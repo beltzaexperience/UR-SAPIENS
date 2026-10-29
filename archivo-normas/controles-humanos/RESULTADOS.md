@@ -66,3 +66,19 @@ Texto breve (170 palabras, 3 párrafos, 6 frases), presentación de un taller; e
 674 palabras de cuerpo, 9 párrafos, 25 frases. **0 ALARMAS y 4 AVISOS:** gerundio tras coma (10), frase con tres o más «que» (41.1), frase con tres o más «y» (4) y años y cifras (3 años y 5 cifras: «1984», «1994», «41 años», nombres de discos: **falso positivo** en una crónica musical). Por su propia fecha (2025) no puede ser control anterior a la IA; ver `LEEME.md`.
 
 Pista (no resultado): con las dos crónicas, las medidas de «aquí» (3) y «alguien» (adenda) vuelven a dar falsos positivos en prosa humana oral, y las de cifras y años (50/56) en textos de crónica y de anuncio.
+
+## Medidas sobre textos de terceros (el texto no se guarda en el repositorio)
+### «RAMM: ΣLL: ZΣΣ / Futurismo gótico / Destructor de iconos / Los nombres / Los caminos / Los edificios», de Carlos G. De Marcos (Beltza, 2024) (29/10/26)
+Texto de un amigo de Luis, publicado en 2024: **posterior a la IA y de otro autor**, por tanto no es control del banco ni se guarda. Se midieron las primeras 3.597 palabras (hasta «…como un acto político»; el resto no se midió), 12 párrafos largos, 103 frases. **3 ALARMAS y 7 AVISOS** sobre texto humano:
+
+| Norma | Medida | Valor | Estado | Lectura |
+|---|---|---|---|---|
+| 1 | no X, sino Y | 5 | ALARMA | 2 son la antítesis real («No es paranoia, es una construcción mágica»; «no es un nombre, es una fórmula»); las otras 3 son coincidencias del patrón |
+| 3 | «aquí» / «aparece» | 4 | ALARMA | el verbo «aparece» en su uso normal y «He aquí» en una cita bíblica: **falsos positivos** |
+| 5 | andamios de entrada | 4 | ALARMA | «se trata de», «hay que», «no deberíamos olvidar»: aparecen en prosa ensayística humana |
+| 26 | media de palabras por párrafo | 300 | AVISO | párrafos muy largos de ensayo en web |
+| 10, 32/32 bis, 41.1, 4, «a veces», 50/56 | gerundio tras coma (6), coberturas (11), frases con tres «que» (13) y tres «y» (10), «a veces» (2), años y cifras (3 y 7) | | AVISO | prosa ensayística larga con citas y paréntesis |
+
+No saltaron: artículo inicial (16 % frente a 35 %), desviación de frase (31,0 frente a 9,8) ni punto y coma (4,4 por mil).
+
+Pista (no resultado): las tres ALARMAS de tics (1, 3, 5) saltan en un ensayo humano de 2024; la norma 3 («aparece»: cero tolerancia) y la 5 (andamios) tienen falsos positivos reales en prosa de ensayo. Esto es lo que la calibración tiene que cuantificar con más textos.
