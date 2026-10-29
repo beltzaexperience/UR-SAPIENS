@@ -27,4 +27,6 @@ Los textos de Luis son privados (los escribe para sus amigos, sin presión, y no
 | T11 | Carlos G. De Marcos, artículo publicado en Beltza (07/05/2010) | 2010 (fecha pública, comprobable) | 1.546 | A | fijación |
 | T8 | Carlos G. De Marcos (publicado en Beltza) | 2024 | 3.597 medidas | B | comprobación |
 
+**Canon (grupo A):** 170 trozos de 2.000 palabras de Baroja (3 novelas, 55), Orwell (3 obras, en traducción, 87) y Martín Santos (28), solo narración; sus textos no se guardan en el repositorio y los resultados están en `RESULTADOS.md`. Con ellos el banco supera los 100 trozos de la regla 4.
+
 Banco del grupo A: T1 a T4 y T9 a T11 (5.575 palabras). T9, T10 y T11 son los primeros con fecha **pública y comprobable** (Beltza, 2010). T2 pasa al grupo B si Luis no confirma una fecha anterior a 2023. T8 es de un tercero y se midió sin copiarlo.

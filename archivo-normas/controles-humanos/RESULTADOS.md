@@ -75,6 +75,37 @@ Tras los resultados anteriores se afinaron en `ultra-medidas.py` cuatro contador
 | 59 | molde de la anterioridad | 1 de 7 | coincidencia del patrón |
 | 50/56 | años y cifras | 0 de 7 | — |
 
+## Canon: 170 trozos de 2.000 palabras (29/10/26)
+Baroja (Aurora roja, El árbol de la ciencia, Zalacaín: 55 trozos), Orwell (1984, Homenaje a Cataluña, Rebelión en la granja, en traducción al español: 87) y Martín Santos (Tiempo de silencio: 28), solo narración (sin diálogo), troceados con las mismas funciones de `perfil-corpus.py` y medidos uno a uno con `ultra-medidas.py --texto` ya afinado. Los textos no están en el repositorio. **n = 170 supera los 100 trozos de la regla 4**: los porcentajes ya valen. Porcentaje de trozos en que la medida salta (ALARMA o AVISO):
+
+| Medida | Todo (170) | Baroja (55) | Orwell (87) | Martín Santos (28) | Cuándo salta |
+|---|---|---|---|---|---|
+| 10 · gerundio tras coma o final de frase | 97 % | 96 % | 98 % | 96 % | AVISO por un solo caso: lista de revisión |
+| 4 · frases con 3 o más «y» | 96 % | 98 % | 94 % | 100 % | AVISO por un solo caso: lista de revisión |
+| 41.1 · frases con 3 o más «que» | 90 % | 80 % | 93 % | 100 % | AVISO por un solo caso: lista de revisión |
+| 26 · media de palabras por párrafo | 82 % | 89 % | 77 % | 82 % | AVISO fuera de 55-125 |
+| 3 · aquí / aparece | 70 % | 75 % | 63 % | 82 % | ALARMA por un solo caso: prohibición de estilo |
+| 1 · no X, sino Y | 68 % | 47 % | 72 % | 96 % | ALARMA por un solo caso: prohibición de estilo |
+| 32/32 bis · coberturas (puede, podría, parece, quizá, al | 64 % | 24 % | 83 % | 86 % | AVISO por más de 2 |
+| 26 · párrafos cortos (≤ 25 palabras) | 58 % | 100 % | 34 % | 50 % | techo 10 %; ver nota |
+| 54 · «cuerpo»: usos, por 10.000 y sin excepción n | 48 % | 36 % | 43 % | 89 % | AVISO por un solo caso sin excepción natural |
+| Luis 22/10 · «a veces» | 45 % | 29 % | 51 % | 57 % | AVISO por un solo caso (tibieza) |
+| adenda 17/10 · «alguien» | 34 % | 16 % | 47 % | 25 % | ALARMA por un solo caso: prohibición de estilo |
+| 59 · molde de la anterioridad | 29 % | 18 % | 33 % | 36 % | ALARMA si hay más de uno |
+| 42 · antítesis «no…, sino/pero» | 28 % | 15 % | 37 % | 29 % | ALARMA con tres o más |
+| 50/56 · años y cifras en el cuerpo | 22 % | 4 % | 39 % | 4 % | AVISO por más de 3 cifras |
+| 36.8 · punto y coma por mil palabras | 17 % | 53 % | 0 % | 0 % | AVISO por encima de 11 por mil |
+| 5 · andamios de entrada | 16 % | 13 % | 13 % | 36 % | ALARMA por un solo caso: prohibición de estilo |
+| 36.8 · desviación típica de la longitud de frase | 8 % | 9 % | 9 % | 0 % | AVISO por debajo de 9,8 |
+| 38 · frases que abren con artículo | 1 % | 2 % | 0 % | 0 % | ALARMA por encima de 35 % |
+| 60 · molde «Quien X decide Y» | 1 % | 0 % | 1 % | 0 % | ALARMA si hay más de uno |
+
+**Lectura (no cambia ninguna norma):**
+- **Prohibiciones de estilo de tolerancia casi nula** (normas 1, 3, 5 y «alguien», que saltan por un solo caso; y 42 y 59, con tolerancia mínima): saltan en el **16 al 70 % de los trozos del canon**. Baroja, Orwell y Martín Santos usan «no X, sino Y», «aquí» y «aparece» con naturalidad. No son detectores de IA: son decisiones de estilo de UR, y un umbral al 1 % de falsos positivos las dejaría sin sentido.
+- **Listas de revisión disfrazadas de aviso** (gerundio tras coma, tres «y» y tres «que»: del 90 al 97 %): el aviso salta por **un solo caso**, así que en 2.000 palabras casi siempre. No son medidas con umbral.
+- **Medidas numéricas con umbral de corredor** (artículo inicial 35 %: 0,6 %; molde «Quien X decide Y»: 0,6 %; desviación de frase 9,8: 8 %; punto y coma 11 por mil: 17 %, y 53 % en Baroja, que lo usa más que UR; cifras: 22 %): son las únicas a las que la regla del 1 % se puede aplicar. **Artículo inicial y molde «Quien» ya quedan por debajo del 1 %**; el punto y coma y las cifras salen de lo esperado.
+- **Párrafos cortos (norma 26):** 43 % alarma en el canon y 100 % en Baroja. Puede ser **artefacto de reconstruir los párrafos de un PDF** (el texto está en líneas) o que el techo del 10 % pida párrafos más largos que los de Baroja. No se concluye hasta mirar el texto fuente.
+
 ## Pista (no resultado)
 - **Un texto de 2010, con fecha pública, de un autor que no usó IA, salta en 6 alarmas** (3 reales: antítesis «no X, sino Y», «aquí», andamios; 3 de estructura o de patrón). Los tics de las normas 1, 3, 5 y 59 son decisiones de estilo de UR, no marcas de la IA: **estas medidas sirven para corregir el estilo, no para probar autoría** (VI.4).
 - Las medidas de **párrafo** (26) y de **«y»** (4) saltan en tres de cuatro textos del grupo A y las de **gerundio** (10) en dos: son las más sensibles al género (blog, lista, texto breve).
