@@ -9,5 +9,5 @@ Material sacado de `NORMA-METODO.md` el 29/10/26 (poda total de la versión exte
 - `CASOS-DE-NORMAS.md`: índice de dónde está cada norma con todos sus casos en el extenso.
 - `PROMPTS-Y-CADENA-DE-REVISION-EXTERNA.md`: prompts para Claude y Perplexity, adaptados al Relojero Ultra, y cadena de trabajo.
 - `NORMA-METODO-CON-ORIGENES-29-10-26.md`: la versión corta con orígenes, citas de Luis y fechas, anterior a las normas puras. Sin valor normativo.
-- `controles-humanos/`: banco de textos humanos conocidos (anteriores a la IA) para calibrar las medidas del Ultra: reglas en su `LEEME.md`, resultados en `RESULTADOS.md`. Sin valor normativo propio: la regla está en `NORMA-METODO.md`, VI.2.
+- `controles-humanos/`: reglas y resultados del banco de textos humanos conocidos con el que se calibran las medidas del Ultra (reglas en su `LEEME.md`, resultados en `RESULTADOS.md`). Los textos del banco no están en el repositorio. Sin valor normativo propio: la regla está en `NORMA-METODO.md`, VI.2.
 - `PIEZA-HOMO-RELOJERO.md` y `.html`: copia de la versión del 15/10/26 de la pestaña «El Homo Relojero y su tipógrafo sintético» (contaba la versión extensa). La pestaña **sigue en `urtz.html`**, en su sitio del Marcador Fonomático, y desde el 29/10/26 refleja el método actual.
