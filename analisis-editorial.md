@@ -2932,3 +2932,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 **«La rosa y el hormigón»: F12 (29/10/2026).** Imagen física del Mar Menor (peces y crustáceos muertos por falta de oxígeno); glosa 4 ampliada. Cuerpo 576 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.491.544 / 250.258 / ≈1001; TOTAL DEL PROYECTO 1.592.039 / 266.842 / ≈1067. HTML guardado, sin publicar (Regla 38).
 
 **«La rosa y el hormigón»: Murcia sale de la B y va a URIM · Mediterráneo (29/10/2026).** Sección «El agua como sujeto» y glosa 4 pasan al bloque EN BRUTO · MAR MENOR · LEY 19/2022. B: 436 palabras. **Marcador (Regla 14):** URS 1.074.153 caracteres / 178.001 palabras / ≈712 págs.; libro puro 764.536 / 121.546 / ≈486; URS+URIM 1.492.236 / 250.377 / ≈1002; TOTAL DEL PROYECTO 1.592.731 / 266.961 / ≈1068. HTML guardado, sin publicar (Regla 38).
+
+**«La rosa y el hormigón»: cierre de la jornada (29/10/2026).** Decisión de Luis: lo que queda de la B pasará a la A; análisis mañana. Sin cambio de texto ni de cifras. HTML guardado, sin publicar (Regla 38).
