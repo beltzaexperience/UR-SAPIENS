@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Relojero-Plus Ultra · recorrido 5: los 18 análisis medidos de una pieza (Norma 62, punto 3.5).
+"""Relojero Ultra · recorrido 5: los 18 análisis medidos de una pieza (Norma 62, punto 3.5).
 
 Uso (con el entorno de spaCy y el modelo es_core_news_md; ver la cabecera de analisis-texto.py):
     python3 herramientas/ultra-18-analisis.py --cache /ruta/datos_canon.pkl --pieza KURT

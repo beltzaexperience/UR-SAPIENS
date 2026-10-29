@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Relojero-Plus Ultra · recorrido 3, palabra por palabra (Norma 62, punto 3).
+"""Relojero Ultra · recorrido 3, palabra por palabra (Norma 62, punto 3).
 
 Uso:
     python3 herramientas/relojero-ultra-palabras.py "kurt shakur ultima frontera analogica"
     python3 herramientas/relojero-ultra-palabras.py "<fragmento de data-s>" --lexico ruta1.txt ruta2.txt
 
 El primer argumento es un fragmento (sin importar mayúsculas) del atributo data-s de la
-pieza en urtz.html, igual que en `relojero-plus-medidas.py`. Imprime markdown con cinco bloques:
+pieza en urtz.html, igual que en `ultra-medidas.py`. Imprime markdown con cinco bloques:
 
   (i)   «ur» en rojo en todas sus variantes y la 'T' entre comillas rectas simples;
   (ii)  concordancia de palabras de contenido repetidas (Norma 27) y palabras vigiladas
@@ -26,7 +26,7 @@ RAIZ = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 HTML = os.path.join(RAIZ, 'urtz.html')
 GLOSARIO = os.path.join(RAIZ, 'GLOSARIO-UR-SAPIENS.md')
 
-spec = importlib.util.spec_from_file_location('plus', os.path.join(os.path.dirname(__file__), 'relojero-plus-medidas.py'))
+spec = importlib.util.spec_from_file_location('plus', os.path.join(os.path.dirname(__file__), 'ultra-medidas.py'))
 plus = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(plus)
 
@@ -343,7 +343,7 @@ def main():
     for p in ps:
         frases += plus.frases(p)
     W = sum(len(p.split()) for p in ps)
-    print('# Relojero-Plus Ultra · palabra por palabra · %s\n' % ds[:70])
+    print('# Relojero Ultra · recorrido 3 · palabra por palabra · %s\n' % ds[:70])
     print('Cuerpo: %d palabras, %d frases, %d párrafos. Glosa: %d entradas.\n' % (W, len(frases), len(ps), len(entradas_glosa(glosa))))
     cuerpo_solo = solo_texto(cuerpo)
     bloque_ur(cuerpo_solo, glosa)

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Relojero-Plus: batería de medidas (tipo M de la «Matriz del Relojero-Plus» de NORMA-METODO.md).
+"""Relojero Ultra, recorrido 4: batería de medidas (filas de tipo M de la «Matriz del Relojero Ultra», Parte VI de NORMA-METODO.md).
 
 Uso:
-    python3 herramientas/relojero-plus-medidas.py "cultura: continente ibérico umbral"
-    python3 herramientas/relojero-plus-medidas.py "cultura: continente ibérico umbral" --frases
+    python3 herramientas/ultra-medidas.py "cultura: continente ibérico umbral"
+    python3 herramientas/ultra-medidas.py "cultura: continente ibérico umbral" --frases
 
 El argumento es un fragmento (sin importar mayúsculas) del atributo data-s de la
 pieza en urtz.html. Imprime una tabla en markdown: una fila por norma medible, con
@@ -179,7 +179,7 @@ def main():
     cierres = [frases(p)[-1] for p in P]
     fila('31', 'última frase de cada párrafo (leer)', len(cierres), 'sin consigna que recapitule', 'INFO', [c[:110] for c in cierres])
 
-    print('# Relojero-Plus · batería de medidas · %s' % ds[:70])
+    print('# Relojero Ultra · recorrido 4 · batería de medidas · %s' % ds[:70])
     print()
     print('Cuerpo: %d palabras, %d frases, %d párrafos, %d subtítulos. Glosa: %d entradas, %d palabras.' % (W, len(SF), len(P), nh, len(li), gw))
     print()
