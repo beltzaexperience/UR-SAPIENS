@@ -824,7 +824,7 @@ La Norma 62 es la **Parte II** de este archivo, entera: aplicación estricta y a
 | 5 | I.5 | Disciplina del informe | X | los ocho puntos: comprobación previa, norma+cita+gravedad+alcance, frases cruzadas, cuatro categorías, TEXTO/GLOSA, sin % ni oferta, intervención local, Tabla Margarita | Claude | informe |
 | 6 | I.6 | Ciclo de trabajo de una pieza | X | escritura limpia en origen (nunca primera versión sucia); Ultra en el lugar del Plus; decisión de Luis; intervención local | Claude, Luis | siempre |
 | 7 | I.7 | Textos y materiales de Luis: su redacción se aplica tal cual; lo que pega o comenta es material de trabajo; paréntesis con «o»; sin refinamientos no pedidos | X | la redacción de Luis no se altera salvo erratas y errores de dato informados; ningún comentario se aplica como texto; se elige una alternativa entre paréntesis y se dice cuál | Claude | siempre |
-| 8 | II.1; II.2; II.3; II.4; II.5; II.6; II.7; II.8; II.9 | El Relojero Ultra: alcance, lanzamiento, recorridos, reglas, informe y revisión externa | X | el informe declara fecha, tamaño del archivo, rango de normas, lectura completa del archivo, los cinco recorridos y la matriz entera | Claude | cada lanzamiento |
+| 8 | II.1; II.2; II.3; II.4; II.5; II.6; II.7; II.8; II.9 | El Relojero Ultra: alcance, lanzamiento, recorridos, reglas, informe y revisión externa | X | el informe declara fecha, tamaño del archivo, rango de normas, lectura completa del archivo, los cinco recorridos y la matriz entera; en el recorrido 4, los falsos positivos conocidos del banco de controles (VI.2) se anotan y no se tratan como hallazgo | Claude | cada lanzamiento |
 | 9 | I–IV | Definición del género; tesis, narrativa y crónica material | L, O | tesis deducible desde la primera página; microhistoria documentada; la materia es argumentativa | Luis | previa |
 | 10 | V y VII | Doble fondo (material, simbólica, política) e ilusionismo hídrico | L, O | las tres capas presentes; el símbolo ancla en lo verificable | Luis | línea |
 | 11 | VI | Núcleo filosófico; mostrar no es afirmar | L | cada frase se sabe en gesto de mostrar o de afirmar; afirmar lleva fuente (caso Dagau) | Claude (O dato); Luis | línea |
@@ -963,6 +963,13 @@ La Norma 62 es la **Parte II** de este archivo, entera: aplicación estricta y a
 | Gerundios (10) | gerundios por 10.000 palabras (chequeo de revisión final) | revisar si pasa de 25 |
 | Delta de Burrows (XXVII, 3.5) | distancia de la pieza al perfil medio de UR, 150 palabras más frecuentes | aviso por encima de 0,7 (registro y tiempo verbal pesan; no es veredicto) |
 
+**Calibración con controles humanos.** Toda medida de tipo M se contrasta con un banco de textos humanos conocidos.
+1. **Banco:** solo texto humano anterior a la IA (textos de Luis fechados antes de 2023 y trozos del canon); cada texto con autor, fecha y origen, guardado tal como se escribió, sin corregir. Una parte queda reservada: sirve para comprobar umbrales ya fijados, nunca para fijarlos.
+2. **Umbral de ALARMA:** se fija donde salta como máximo el 1 % de los trozos humanos del banco; el rango p10–p90 del canon es AVISO. Una alarma que salta en más del 5 % de los textos humanos se lee como pista, no como hallazgo.
+3. **Anotación:** junto a cada umbral se anota «salta en X % de textos humanos (n = …)». Con menos de 100 trozos el X % se anota como «n insuficiente» y los umbrales vigentes de esta tabla no cambian.
+4. **Falso positivo conocido:** una ALARMA o AVISO que salta en un control humano se anota como falso positivo de esa medida; en una pieza, la lectura decide como siempre.
+5. **Detectores externos de IA:** ningún detector externo es criterio único ni veredicto; su resultado abre una pregunta que resuelve la lectura, con la misma regla de falsos positivos. No se usan sobre texto inédito sin permiso de Luis.
+
 ### VI.3 · Los 18 análisis de la sección XXVII, fila a fila
 
 *Cada lanzamiento del Ultra trae esta tabla completa (recorrido 5). La lectura guiada la prepara Claude con el guion de XXVII, paso 4. «Fuera del corredor» = fuera de p10–p90 del canon en la dirección que marca la herramienta.*
@@ -990,10 +997,10 @@ La Norma 62 es la **Parte II** de este archivo, entera: aplicación estricta y a
 
 ### VI.4 · Lo que la medición no hace
 
-Mide formas. No juzga sentido (S), ni la carga mitopoética (48), ni las excepciones de las Normas 28, 59 y 60; por eso marca ALARMA o AVISO al cruzar un umbral y la lectura decide. **Si cambia una medida, se cambia en VI.2.**
+Mide formas. No juzga sentido (S), ni la carga mitopoética (48), ni las excepciones de las Normas 28, 59 y 60; por eso marca ALARMA o AVISO al cruzar un umbral y la lectura decide. Tampoco demuestra autoría ni su ausencia: la autoría se prueba con el proceso fechado (asientos, versiones y antes/después), no con una medida ni con un detector. **Si cambia una medida, se cambia en VI.2.**
 
 ---
 
 ## PARTE VII · ARCHIVO
 
-Todo lo que no es norma de corrección (orígenes y citas, casos, ejemplos largos, registro de aplicaciones, procedimientos de construcción del libro, marco extenso, prompts, herramientas e historial) está en `archivo-normas/` y en `NOTAS-URTZ.md`, `analisis-editorial.md`, `FUENTES.md`, `GLOSARIO-UR-SAPIENS.md` y `herramientas/LEEME.md`. Versión extensa íntegra anterior: `archivo-normas/NORMA-METODO-EXTENSO-29-10-26.md`. El Ultra no lee el archivo para corregir; lo consulta solo para el porqué histórico o para rescatar un caso.
+Todo lo que no es norma de corrección (orígenes y citas, casos, ejemplos largos, registro de aplicaciones, procedimientos de construcción del libro, marco extenso, prompts, herramientas e historial) está en `archivo-normas/` y en `NOTAS-URTZ.md`, `analisis-editorial.md`, `FUENTES.md`, `GLOSARIO-UR-SAPIENS.md` y `herramientas/LEEME.md`. Versión extensa íntegra anterior: `archivo-normas/NORMA-METODO-EXTENSO-29-10-26.md`. Banco de controles humanos de la calibración de VI.2: `archivo-normas/controles-humanos/` (reglas en su `LEEME.md`, resultados en `RESULTADOS.md`). El Ultra no lee el archivo para corregir; lo consulta solo para el porqué histórico o para rescatar un caso.

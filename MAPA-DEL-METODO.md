@@ -17,7 +17,7 @@
 | Archivo | Qué guarda |
 |---|---|
 | `NORMA-METODO.md` | Las reglas vigentes: qué hacer y por qué (versión corta desde el 29/10/26) |
-| `archivo-normas/` | Lo que se retiró de `NORMA-METODO.md`: versión extensa íntegra, registro de aplicaciones, procedimientos de construcción, marco extenso, índice de casos y prompts de revisión externa |
+| `archivo-normas/` | Lo que se retiró de `NORMA-METODO.md`: versión extensa íntegra, registro de aplicaciones, procedimientos de construcción, marco extenso, índice de casos, prompts de revisión externa y el banco de controles humanos de la calibración (VI.2) |
 | `analisis-editorial.md` | El historial fechado: decisiones, informes y el inventario de lo descartado (oro y estaño, Norma 40) |
 | `NOTAS-URTZ.md` | La mecánica de `urtz.html`: Marcador, procedimientos, plan de piezas |
 | `LINEA-EDITORIAL-REFERENTES.md` | Los referentes: el corredor del canon, los referentes de voz de Luis y el contraste con autores y manuales |
