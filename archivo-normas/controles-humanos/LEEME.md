@@ -22,6 +22,8 @@ Los textos de Luis son privados (los escribe para sus amigos, sin presión, y no
 | T5 | Luis Beltza | sin fecha | 171 | B | comprobación (texto breve) |
 | T6 | Luis Beltza | sin fecha | 669 | B | comprobación |
 | T7 | Luis Beltza | 2025 (lo dice el propio texto) | 676 | B | comprobación |
+| T9 | Carlos G. De Marcos, artículo publicado en Beltza (18/06/2010) | 2010 (fecha pública, comprobable) | 1.648 | A | reservado (comprobación) |
+| T10 | Luis Beltza, sus comentarios públicos en esa página (18/06 a 05/07/2010) | 2010 (fecha pública, comprobable) | 819 | A | fijación (formato de comentarios: solo medidas léxicas) |
 | T8 | Carlos G. De Marcos (publicado en Beltza) | 2024 | 3.597 medidas | B | comprobación |
 
-Banco del grupo A: T1 a T4 (1.562 palabras). T2 pasa al grupo B si Luis no confirma una fecha anterior a 2023. T8 es de un tercero y se midió sin copiarlo.
+Banco del grupo A: T1 a T4, T9 y T10 (4.029 palabras). T9 y T10 son los primeros con fecha **pública y comprobable** (Beltza, 2010). T2 pasa al grupo B si Luis no confirma una fecha anterior a 2023. T8 es de un tercero y se midió sin copiarlo.
