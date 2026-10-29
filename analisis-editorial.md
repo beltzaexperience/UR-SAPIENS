@@ -2948,3 +2948,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 **«Kurt · Shakur y la frontera analógica»: F2 (29/10/2026).** Andamio «hay que» fuera; andamios 0. Cuerpo 1.808 palabras. **Marcador (Regla 14):** URS 1.078.066 caracteres / 178.641 palabras / ≈715 págs.; libro puro 768.449 / 122.186 / ≈489; URS+URIM 1.489.512 / 249.891 / ≈1000; TOTAL DEL PROYECTO 1.590.007 / 266.475 / ≈1066. HTML guardado, sin publicar (Regla 38).
 
 **«Kurt · Shakur y la frontera analógica»: F3 (29/10/2026).** «alguien» 0; «un chico pierde el ritmo». Cuerpo 1.811 palabras. **Marcador (Regla 14):** URS 1.078.073 caracteres / 178.644 palabras / ≈715 págs.; libro puro 768.456 / 122.189 / ≈489; URS+URIM 1.489.519 / 249.894 / ≈1000; TOTAL DEL PROYECTO 1.590.014 / 266.478 / ≈1066. HTML guardado, sin publicar (Regla 38).
+
+**«Kurt · Shakur y la frontera analógica»: F4 (29/10/2026).** «cuerpos» → «personas»; matriz sin alarmas. **Marcador (Regla 14):** URS 1.078.074 caracteres / 178.644 palabras / ≈715 págs.; libro puro 768.457 / 122.189 / ≈489; URS+URIM 1.489.520 / 249.894 / ≈1000; TOTAL DEL PROYECTO 1.590.015 / 266.478 / ≈1066. HTML guardado, sin publicar (Regla 38).
