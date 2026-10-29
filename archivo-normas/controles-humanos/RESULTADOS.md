@@ -51,3 +51,18 @@ Pista (no resultado): las medidas de **párrafo** (26) y de **«y»** (4) saltan
 ## Pendientes de fecha (no cuentan en el recuento)
 ### pendientes-de-fecha/sin-fecha-talleres-heriotza.txt (29/10/26)
 Texto breve (170 palabras, 3 párrafos, 6 frases), presentación de un taller; el original termina cortado en «gráfic». **0 ALARMAS y 1 AVISO:** años y cifras en el cuerpo (6 cifras: «1 hora y 1/4», «10 €», «3/4 de hora»). Son datos de precio y horario, no cifras de prosa: **falso positivo de la medida** en textos de anuncio. Sin fecha, no cuenta hasta confirmarla.
+
+### pendientes-de-fecha/sin-fecha-no-future-peter-test-tube-babies.txt (29/10/26)
+667 palabras de cuerpo, 12 párrafos, 31 frases. **2 ALARMAS y 3 AVISOS** (sin fecha: no cuenta):
+| Norma | Medida | Valor | Estado | Lectura |
+|---|---|---|---|---|
+| 3 | «aquí» / «aparece» | 1 | ALARMA | **falso positivo**: «Aquí se acaba la crónica» es una frase humana, no el tic de la norma |
+| adenda 17/10 | «alguien» | 1 («Si alguien puede confirmarlo o desmentirlo…») | ALARMA | **falso positivo**: «alguien» en pregunta directa al lector, no voz anónima |
+| 26 | párrafos cortos | 2 de 12 (17 %) | AVISO | uno es el título del concierto (línea 2) |
+| 10 | gerundio tras coma | 1 | AVISO | |
+| 4 | frases con tres o más «y» | 3 | AVISO | |
+
+### pendientes-de-fecha/sin-fecha-rich-kids-on-lsd-jimmy-jazz.txt (29/10/26)
+674 palabras de cuerpo, 9 párrafos, 25 frases. **0 ALARMAS y 4 AVISOS:** gerundio tras coma (10), frase con tres o más «que» (41.1), frase con tres o más «y» (4) y años y cifras (3 años y 5 cifras: «1984», «1994», «41 años», nombres de discos: **falso positivo** en una crónica musical). Por su propia fecha (2025) no puede ser control anterior a la IA; ver `LEEME.md`.
+
+Pista (no resultado): con las dos crónicas, las medidas de «aquí» (3) y «alguien» (adenda) vuelven a dar falsos positivos en prosa humana oral, y las de cifras y años (50/56) en textos de crónica y de anuncio.
