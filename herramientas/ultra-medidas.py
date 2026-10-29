@@ -4,6 +4,11 @@
 Uso:
     python3 herramientas/ultra-medidas.py "cultura: continente ibérico umbral"
     python3 herramientas/ultra-medidas.py "cultura: continente ibérico umbral" --frases
+    python3 herramientas/ultra-medidas.py archivo-normas/controles-humanos/texto.txt --texto
+
+Con --texto el argumento es un texto plano (un párrafo por línea; la primera línea es el título y no se mide):
+mide solo las filas que dependen del texto (no las del marcado HTML, la glosa ni la estructura de la pieza), para
+anotar en qué controles humanos salta cada umbral (VI.2, calibración con controles humanos).
 
 El argumento es un fragmento (sin importar mayúsculas) del atributo data-s de la
 pieza en urtz.html. Imprime una tabla en markdown: una fila por norma medible, con
@@ -47,8 +52,14 @@ def main():
     if len(sys.argv) < 2:
         sys.exit(__doc__)
     frag = sys.argv[1]
-    s = open(HTML, encoding='utf-8').read()
-    ds, seg = pieza(s, frag)
+    modo_texto = '--texto' in sys.argv
+    if modo_texto:
+        ls = [x.strip() for x in open(frag, encoding='utf-8').read().split('\n') if x.strip()][1:]
+        ds = os.path.basename(frag)
+        seg = ''.join('<p style="font-size:1rem">%s</p>' % html.escape(x, quote=False) for x in ls)
+    else:
+        s = open(HTML, encoding='utf-8').read()
+        ds, seg = pieza(s, frag)
     corte = seg.find('GLOSA &middot;')
     cuerpo_html = seg[:corte] if corte > 0 else seg
     glosa_html = seg[corte:] if corte > 0 else ''
@@ -179,6 +190,10 @@ def main():
     cierres = [frases(p)[-1] for p in P]
     fila('31', 'última frase de cada párrafo (leer)', len(cierres), 'sin consigna que recapitule', 'INFO', [c[:110] for c in cierres])
 
+    if modo_texto:
+        # filas que dependen del marcado, la glosa o la estructura de la pieza: no se miden en un texto plano
+        filas = [f for f in filas if f[0] not in ('24', '23', '25', '43', '39', '15', 'HTML', '18/55')
+                 and not (f[0] == '26' and 'media' not in f[1] and False)]
     print('# Relojero Ultra · recorrido 4 · batería de medidas · %s' % ds[:70])
     print()
     print('Cuerpo: %d palabras, %d frases, %d párrafos, %d subtítulos. Glosa: %d entradas, %d palabras.' % (W, len(SF), len(P), nh, len(li), gw))
