@@ -16,6 +16,7 @@ el valor, el umbral de la norma y el estado (OK / AVISO / ALARMA / INFO) y, cuan
 hay hallazgos, las frases citadas. Con --frases imprime además todas las frases
 numeradas, para la pasada de sentido (S) y la lectura línea por línea (L).
 
+Afinado el 29/10/26 (normas 1, 3, 26 y 50/56) contra textos humanos conocidos: ver archivo-normas/controles-humanos/RESULTADOS.md. Los umbrales no se tocaron.
 Límites (v1, 22/10/26): mide formas, no sentido. Un OK aquí no sustituye la lectura
 de las normas de tipo L, S y O; solo evita que las medibles se omitan.
 Los umbrales salen de las propias normas (se citan en cada fila).
@@ -96,9 +97,12 @@ def main():
     tramos = [t for t in tramos if t]
     fila('25', 'subtítulos internos', '%d en %d palabras' % (nh, W), 'referencia: 2-3 tramos por cada 1.000 palabras', 'OK' if nh <= max(3, round(W / 400)) else 'ALARMA')
     fila('43', 'subtítulos en la forma <h4> negra', '%d h4, %d div rojos' % (len(heads), len(heads_div)), 'solo h4 (Norma 43)', 'OK' if not heads_div else 'ALARMA')
-    corto = [p for p in P if len(p.split()) <= 25]
-    fila('26', 'párrafos cortos (≤ 25 palabras)', '%d de %d (%d %%)' % (len(corto), len(P), round(len(corto) / max(1, len(P)) * 100)), 'techo 10 % (20 % no pasa)', 'OK' if len(corto) / max(1, len(P)) <= .10 else ('AVISO' if len(corto) / len(P) < .20 else 'ALARMA'), [c[:100] for c in corto])
-    fila('26', 'media de palabras por párrafo', round(W / max(1, len(P))), '4-8 líneas ≈ 60-120', 'OK' if 55 <= W / max(1, len(P)) <= 125 else 'AVISO')
+    # Norma 26 mide párrafos de prosa: no cuentan las llamadas de nota «(1) …», las viñetas «.- …» ni los títulos en mayúsculas
+    PP = [p for p in P if not re.match(r'^(?:\(\d{1,2}\)|\.-)', p) and not (p.upper() == p and len(p.split()) <= 12)] or P
+    corto = [p for p in PP if len(p.split()) <= 25]
+    fila('26', 'párrafos cortos (≤ 25 palabras)', '%d de %d (%d %%)' % (len(corto), len(PP), round(len(corto) / max(1, len(PP)) * 100)), 'techo 10 % (20 % no pasa)', 'OK' if len(corto) / max(1, len(PP)) <= .10 else ('AVISO' if len(corto) / len(PP) < .20 else 'ALARMA'), [c[:100] for c in corto])
+    WP = sum(len(p.split()) for p in PP)
+    fila('26', 'media de palabras por párrafo', round(WP / max(1, len(PP))), '4-8 líneas ≈ 60-120', 'OK' if 55 <= WP / max(1, len(PP)) <= 125 else 'AVISO')
     if len(tramos) > 1:
         r = max(tramos) / min(tramos)
         fila('39', 'razón entre tramos', '%s (%s)' % (round(r, 2), ', '.join(map(str, tramos))), 'referencia 3,1; alarma < 2,5 (informativa)', 'OK' if r >= 2.5 else 'AVISO')
@@ -111,9 +115,13 @@ def main():
     fila('38', 'frases que abren con artículo', '%d de %d (%d %%)' % (len(art), len(SF), round(len(art) / len(SF) * 100)), 'alarma 35 %', 'OK' if len(art) / len(SF) <= .35 else 'ALARMA')
     fila('38', 'frases que abren con «En»', '%d (%d %%)' % (len(en), round(len(en) / len(SF) * 100)), 'molde «En + lugar» (informativo)', 'INFO')
     # --- tics léxicos y de forma ---
-    c = cita(r'\bno (?:es|son|fue|fueron|solo|solamente)\b[^.;]*\b(?:sino|es|son)\b|\bsino\b')
+    # Norma 1: niega primero para afirmar después («no es X, es Y», «no es X: es Y», «no solo X, es Y», «no X, sino Y»).
+    # No cuentan «no solo… sino también» (suma) ni «no es X, que es Y» (oración de relativo)
+    c = [x for x in cita(r'\bno (?:es|son|fue|fueron|solo|sólo|solamente|únicamente)\b[^.;]{0,100}?[,:—–]\s*(?!(?:que|quien|quienes|donde|cuyo|cuya)\b)(?:\w+\s+){0,3}?(?:es|son|fue|fueron)\b|\bsino\b')
+         if not re.search(r'\bno (?:solo|sólo|solamente|únicamente)\b[^.;]*\bsino (?:que )?también\b', x, re.I)]
     fila('1', 'no X, sino Y', len(c), '0', 'OK' if not c else 'ALARMA', c)
-    c = cita(r'\baquí\b|\bapare[cz]\w+')
+    # Norma 3: «aquí entra», «aparece (como, vinculado a…)»; no cuentan las locuciones «de/hasta/por/desde aquí», «he aquí», «a partir de aquí»
+    c = cita(r'(?<!\bde )(?<!\bhasta )(?<!\bpor )(?<!\bdesde )(?<!\bhe )(?<!\bpartir de )\baquí\b|\bapare[cz]\w+')
     fila('3', 'aquí / aparece', len(c), '0', 'OK' if not c else 'ALARMA', c)
     c = cita(r'\b(?:es importante|cabe señalar|conviene|hay que|se trata de|no hay que olvidar)\b')
     fila('5', 'andamios de entrada', len(c), '0', 'OK' if not c else 'ALARMA', c)
@@ -174,7 +182,10 @@ def main():
     fila('18/55', 'llamadas en orden y una entrada por llamada', '%d llamadas, %d entradas, orden %s' % (len(sup), len(gl), 'correcto' if ok else 'ROTO'), 'iguales y consecutivas', 'OK' if ok and len(sup) == len(gl) else 'ALARMA')
     # --- años, cifras, nombres (50/56) ---
     anos = re.findall(r'\b(?:1[0-9]{3}|20[0-9]{2}|[2-9][0-9]{3}|[1-9]\.?[0-9]{3}\s?a\. ?C\.)\b', txt)
-    cif = re.findall(r'\b\d[\d.,]*\b', txt)
+    # Norma 50: cifras del cuerpo; no cuentan las llamadas de nota «(1)» ni el número que forma parte de un nombre propio («Felipe 6», «Fab 5 Freddy»)
+    txt_c = re.sub(r'\(\d{1,2}\)', ' ', txt)
+    txt_c = re.sub(r'(?<![.¿¡:] )(?<!^)\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+) \d{1,2}\b', r'\1', txt_c)
+    cif = re.findall(r'\b\d[\d.,]*\b', txt_c)
     fila('50/56', 'años y cifras en el cuerpo', '%d años, %d cifras' % (len(anos), len(cif)), 'generalizar; exacto en la glosa', 'OK' if len(cif) <= 3 else 'AVISO', [a for a in cif][:8])
     nombres = re.findall(r'(?<![.¿¡:] )(?<!^)\b[A-ZÁÉÍÓÚÑ][a-záéíóúñü]{3,}\b', txt)
     top = collections.Counter(nombres)
