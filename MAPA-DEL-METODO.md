@@ -10,13 +10,14 @@
 4. Cada pieza se corrige con el **Pase de análisis final** (sección XXVII), al final de su capítulo, enseñándote casos de muestra con su antes y después.
 5. **Desde el 14/10/26:** las cifras en el cuerpo se generalizan y las exactas, con año y fuente de consulta, van a la glosa; volumen, páginas y día del mes quedan fuera (Norma 50). Los informes dicen siempre «texto» o «glosa» y no traen refinamientos que nadie ha pedido (51). La glosa carga los datos que dan rigor y no explica el arte; si una norma ya decide, no es fricción (52). La narración se adecúa a la estantería, con ejecución diferida a la revisión final (53), y párrafos y secciones se construyen por contenido con seis preguntas de «cambio de tema» (25). Autores o documento como sujeto: depende del verbo, de la continuidad y del eco, caso por caso y con consulta (47, 38.1 bis).
 
-6. **Desde el 22/10/26:** el Relojero-Plus comprueba **todas** las normas con una matriz (la «Matriz del Relojero-Plus» de `NORMA-METODO.md`), un script de medidas (`herramientas/relojero-plus-medidas.py`) y una pasada de sentido; el informe trae la matriz entera y una fila que falta lo invalida. Solo se difiere una norma con una frase de Luis.
+6. **Desde el 29/10/26:** el único relojero es el **Relojero Ultra** (Norma 62, absoluta; el Relojero-Plus desaparece salvo que Luis lo pida). Comprueba **todo** `NORMA-METODO.md` con la matriz de la Parte VI (110 filas), cinco recorridos (Baroja-Orwell, línea por línea con pasada de sentido, palabra por palabra, norma por norma, los 18 análisis) y los scripts `herramientas/ultra-medidas.py`, `relojero-ultra-palabras.py`, `ultra-18-analisis.py` y `verificar-matriz.py`; el informe trae la matriz entera y una fila que falta lo invalida. Solo se difiere una norma con una frase de Luis. `NORMA-METODO.md` quedó en una versión corta (≈265 KB, antes ≈1 MB); lo retirado está en `archivo-normas/`.
 
 ## 1 bis. Dónde vive cada cosa
 
 | Archivo | Qué guarda |
 |---|---|
-| `NORMA-METODO.md` | Las reglas vigentes: qué hacer y por qué |
+| `NORMA-METODO.md` | Las reglas vigentes: qué hacer y por qué (versión corta desde el 29/10/26) |
+| `archivo-normas/` | Lo que se retiró de `NORMA-METODO.md`: versión extensa íntegra, registro de aplicaciones, procedimientos de construcción, marco extenso, índice de casos y prompts de revisión externa |
 | `analisis-editorial.md` | El historial fechado: decisiones, informes y el inventario de lo descartado (oro y estaño, Norma 40) |
 | `NOTAS-URTZ.md` | La mecánica de `urtz.html`: Marcador, procedimientos, plan de piezas |
 | `LINEA-EDITORIAL-REFERENTES.md` | Los referentes: el corredor del canon, los referentes de voz de Luis y el contraste con autores y manuales |

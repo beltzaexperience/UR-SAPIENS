@@ -5,8 +5,9 @@ Todo lo que no es texto del libro pero hace falta para trabajarlo. Los textos de
 | Archivo | Para qué sirve |
 |---|---|
 | `guardar-y-publicar.sh` | Guarda el trabajo en la rama y publica en `main` todo menos los HTML (los HTML, solo con el OK de Luis y la opción `--html`). Con `traer`, recoge lo que Luis sube desde la web. Los borrados no se publican solos. |
-| `relojero-plus-medidas.py` | Mide una pieza con la batería de la Matriz del Relojero-Plus (Normas 38, 55 y otras): tabla con valor, umbral y estado. |
-| `relojero-ultra-palabras.py` | Recorrido 3 del Relojero-Plus Ultra (Norma 62): «ur» en rojo y la 'T', concordancia de palabras, términos propios, tipografía y léxico desconocido, y nombres, cifras y fechas contra la glosa. |
+| `ultra-medidas.py` | Recorrido 4 del Relojero Ultra (antes `relojero-plus-medidas.py`): mide una pieza con la batería de las filas de tipo M de la matriz (Normas 38, 55 y otras): tabla con valor, umbral y estado. |
+| `verificar-matriz.py` | Comprueba que cada encabezado de `NORMA-METODO.md` tiene fila en la matriz del Ultra y que ninguna fila queda huérfana. Se ejecuta con cada cambio del archivo de normas. |
+| `relojero-ultra-palabras.py` | Recorrido 3 del Relojero Ultra (Norma 62): «ur» en rojo y la 'T', concordancia de palabras, términos propios, tipografía y léxico desconocido, y nombres, cifras y fechas contra la glosa. |
 | `ultra-18-analisis.py` | Recorrido 5 del Ultra: los 18 análisis medidos de una pieza frente al corredor del canon y a las piezas de URS (necesita spaCy y el caché de `analisis-texto.py`). |
 | `perfil-frase.py` | Perfil de frase de cada pieza (Norma 36.8): longitud, comienzos, subordinación. |
 | `perfil-corpus.py` | Compara las piezas con el corredor del canon (rango de los trozos de 2.000 palabras de las obras de referencia). |

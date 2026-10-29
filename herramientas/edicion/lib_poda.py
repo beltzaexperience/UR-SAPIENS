@@ -150,25 +150,15 @@ def marcador(nombre,filas):
     return d,est,rng
 
 def registrar(norma_txt,ledger_txt,est_out):
-    """norma_txt: párrafo de aplicación para la Norma 55; ledger_txt: entrada de analisis-editorial.md; est_out: salida del estimador"""
-    n=open(R+'/NORMA-METODO.md',encoding='utf-8').read()
-    i=n.index('\n---\n\n## 56.') if '\n---\n\n## 56.' in n else n.index('\n## 56.')
-    n=n[:i].rstrip('\n')+'\n\n'+norma_txt.strip()+'\n'+n[i:]
-    # frase «Hoy (…)» del punto 9
-    g=lambda p:re.search(p,est_out).group(1)
-    tr=re.search(r'piezas tratadas: (\d+); con glosa de partida de 150 palabras o más: (\d+)',est_out)
-    ahorros=g(r'ahorro por pieza: (.*)').split(', ')
-    ah=', '.join(ahorros[:-1])+' y '+ahorros[-1]
-    ah=ah.replace(' %',' %').replace('.',',')
-    med=g(r'r mediana ([\d.]+) %').replace('.',','); est=g(r'r mediana [\d.]+ % -> ≈(\d+)'); sin=g(r'sin tratar: (\d+)')
-    rg=re.search(r'rango entre los tres estimadores: ≈(\d+) a ≈(\d+)',est_out)
-    nuevo='Hoy (%s piezas, %s con glosa de partida de 150 palabras o más): ahorros de %s; mediana %s %%; glosa sin tratar %s palabras; **≈%s páginas** (rango ≈%s-%s).'%(tr.group(1),tr.group(2),ah,med,format(int(sin),',').replace(',','.'),est,rg.group(1),rg.group(2))
-    a=n.index('Hoy ('); b=n.index(' La glosa de las piezas ya tratadas crece',a)
-    n=n[:a]+nuevo+n[b:]
-    open(R+'/NORMA-METODO.md','w',encoding='utf-8').write(n)
+    """norma_txt: párrafo de aplicación (Norma 55); ledger_txt: entrada de analisis-editorial.md; est_out: salida del estimador.
+    Desde el 29/10/26 el registro vive en archivo-normas/REGISTRO-DE-APLICACIONES.md (NORMA-METODO.md ya no lo lleva)."""
+    RG=R+'/archivo-normas/REGISTRO-DE-APLICACIONES.md'
+    n=open(RG,encoding='utf-8').read()
+    n=n.rstrip('\n')+'\n\n'+norma_txt.strip()+'\n'
+    open(RG,'w',encoding='utf-8').write(n)
     l=open(R+'/analisis-editorial.md',encoding='utf-8').read()
     open(R+'/analisis-editorial.md','w',encoding='utf-8').write(l.rstrip('\n')+'\n\n'+ledger_txt.strip()+'\n')
-    print('registrado:',nuevo)
+    print('registrado en el registro de aplicaciones')
 
 def est_out():
     return subprocess.run(['python3',R+'/herramientas/estimar-paginas-glosa.py'],capture_output=True,text=True,cwd=R).stdout
@@ -220,7 +210,7 @@ def ubicar(clave):
 _n=[20]
 def hacer(clave,E_,informe,corto,body_edits=(),tratada_key=None,tag=None,reanudar=False):
     """informe: texto (markdown) que va a la Norma 55 y sirve de informe a Luis; corto: título para NOTAS/MAPA"""
-    _nt=open(R+'/NORMA-METODO.md',encoding='utf-8').read()
+    _nt=open(R+'/archivo-normas/REGISTRO-DE-APLICACIONES.md',encoding='utf-8').read()
     _n[0]=20+len(re.findall(r'\*\*Aplicación n\.º \d+:',_nt))+1
     verificar_edits(clave,body_edits)
     seccion,filas=ubicar(clave)
@@ -242,7 +232,7 @@ def hacer(clave,E_,informe,corto,body_edits=(),tratada_key=None,tag=None,reanuda
 
 def terminar(clave,tit,wa,wd,informe,corto,nombre):
     """Reanuda hacer() cuando la poda ya se aplicó (Marcador, registro, NOTAS, MAPA, guardado)."""
-    _nt=open(R+'/NORMA-METODO.md',encoding='utf-8').read()
+    _nt=open(R+'/archivo-normas/REGISTRO-DE-APLICACIONES.md',encoding='utf-8').read()
     _n[0]=20+len(re.findall(r'\*\*Aplicación n\.º \d+:',_nt))+1
     seccion,filas=ubicar(clave)
     d,est,rng=marcador(nombre,list(filas))
@@ -270,7 +260,7 @@ def verificar_edits(clave,body_edits):
 
 def hacer_manual(clave,edits,informe,corto,tratada_key=None):
     """Piezas cuya glosa es una lista de referencias en <p> (sin <li>): edita cadenas crudas en la pieza, retira (*-glo) y cierra como hacer()."""
-    _nt=open(R+'/NORMA-METODO.md',encoding='utf-8').read()
+    _nt=open(R+'/archivo-normas/REGISTRO-DE-APLICACIONES.md',encoding='utf-8').read()
     _n[0]=20+len(re.findall(r'\*\*Aplicación n\.º \d+:',_nt))+1
     seccion,filas=ubicar(clave)
     nombre='p%d'%_n[0]
