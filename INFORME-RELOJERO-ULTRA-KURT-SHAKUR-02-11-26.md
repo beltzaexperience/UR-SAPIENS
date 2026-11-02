@@ -6,7 +6,7 @@
 
 **Herramientas de este lanzamiento.** `ultra-medidas.py` (recorrido 4; con los retoques de hoy, apartado 7), `relojero-ultra-palabras.py` (recorrido 3), `analisis-texto.py` con spaCy 3.8.18 y el modelo `es_core_news_md` 3.8.0 (reinstalados hoy; recorrido 5) y `verificar-matriz.py` (110 encabezados, 111 filas, OK).
 
-**Límites de esta lectura, dichos sin adorno (II.9, punto 2).** (1) **El caché del canon no está disponible hoy:** el entorno de trabajo se reinició y los textos de Baroja, Orwell y Martín Santos no se guardan en el repositorio. El corredor del canon del recorrido 5 sale del Anexo B del informe del 29/10/26 (valores a un decimal, sobre las mismas 66 piezas y las mismas seis obras) y las piezas se midieron hoy de nuevo con spaCy; **el Delta de Burrows no se ha recalculado hoy** (fila «no medida hoy»; último valor, 29/10/26 sobre el mismo texto: 0,46 y 0,47 tras los automatismos). (2) **Wikipedia no se pudo abrir** (el servidor no está en la lista permitida): los datos de las cuatro bandas de la glosa (1) están en estado RESUMEN en `FUENTES.md`, y la glosa lo dice. (3) La fila «Registro de la pieza» sigue sin confirmar.
+**Límites de esta lectura, dichos sin adorno (II.9, punto 2).** (1) **El caché del canon no está disponible hoy:** el entorno de trabajo se reinició y los textos de Baroja, Orwell y Martín Santos no se guardan en el repositorio. El corredor del canon del recorrido 5 sale del Anexo B del informe del 29/10/26 (valores a un decimal, sobre las mismas 66 piezas y las mismas seis obras) y las piezas se midieron hoy de nuevo con spaCy; **el Delta de Burrows no se ha recalculado hoy** (fila «no medida hoy»; último valor, 29/10/26 sobre el mismo texto: 0,46 y 0,47 tras los automatismos). (2) **Wikipedia no se pudo abrir** (el servidor no está en la lista permitida): los datos de las cuatro bandas de la glosa (1) están en estado RESUMEN en `FUENTES.md`, y la glosa lo dice. (3) El registro de la pieza lo fijó Luis el 02/11/26, después de la primera redacción de este informe: **ensayo con crónica material** («Me vale así»). Las lecturas de U2 y U11 se hicieron con la versión más estricta y siguen valiendo con ese registro (apartado 6).
 
 ## 0. Hoja para Luis (solo lo que decide él)
 
@@ -36,7 +36,7 @@ Siguen abiertos los del 29/10 (U1 a U6 y U10) y se suman tres, de las normas que
 - **U11 · Norma 42 bis (nuevo): 11 dos puntos, 6,1 por mil** (revisión completa: más de 5 en crónica, más de 6 en teórica) y 7 de cláusula + cláusula (3,9 por mil; más de 1,6 y más de 3). Se quedan diez; el molde «Es un X: Y» está dos veces (77 y 94) y una de las dos debería cambiar (propongo la 94).
 - **U12 · Normas 38.1 bis, 33 y 26 (nuevo): esqueleto repetido 8,6 % (alarma desde 8 %) y ninguna frase de más de 40 palabras** (la norma pide buscar dónde cabe una). Una fusión (102-104) y una opcional (73-75).
 - **U13 · Norma 36, punto 3 (nuevo): pasiva refleja repetida tres veces en la frase 9** («se acerca…, se levanta…, se acepta…»).
-- **Registro de la pieza (fila «Narrativa/ensayo»):** sin confirmar. Es la pregunta única de la 4: ¿ensayo, crónica o narrativa?
+- **Registro de la pieza (fila 4):** fijado por Luis el 02/11/26: **ensayo con crónica material**. Ya no hay pregunta pendiente.
 
 ### 0.3 Lo que Claude ya resolvió (automatismos y orgánicas aplicados; apartado 10)
 
@@ -205,14 +205,14 @@ Salida de `relojero-ultra-palabras.py` en el Anexo A. Lectura de Claude:
 
 ## 4. Recorrido 4 · Norma por norma (matriz entera, 111 filas)
 
-Estados: cumple · hallazgo (con su U) · no aplica (con motivo) · diferida (con cita) · de Luis. **Resumen: 74 cumple, 18 hallazgo, 12 no aplica, 1 diferida, 6 de Luis** (111 filas). Los porcentajes de texto afectado son sobre 108 frases.
+Estados: cumple · hallazgo (con su U) · no aplica (con motivo) · diferida (con cita) · de Luis. **Resumen: 75 cumple, 18 hallazgo, 12 no aplica, 1 diferida, 5 de Luis** (111 filas). Los porcentajes de texto afectado son sobre 108 frases.
 
 | Fila | Cubre | Norma o sección | Tipo | Estado | Nota |
 |---|---|---|---|---|---|
 | 1 | I.1 | Aplicación total, sin excepción silenciosa (Fundacional) | X | **cumple** | Esta matriz trae las 111 filas; las que no aplican llevan motivo. |
 | 2 | I.2 | Quién corrige qué: las cuatro vías y las concesiones | X, S | **cumple** | Cada hallazgo lleva su vía (A, orgánica, fricción, tipo O); los A se muestran con antes y después (apartado 10). |
 | 3 | I.3 | Norma Cero Absoluta: UR no mendiga legitimidad | L, S | **cumple** | Ninguna frase pide permiso ni explica qué es UR; las cautelas (76, 82) son del dato. |
-| 4 | I.4 | Narrativa y ensayo | L, O | **de Luis** | Registro de la pieza ampliada (ensayo, crónica o narrativa): sin confirmar; pregunta única de Luis. Los umbrales de 42 bis dan el mismo resultado en los dos registros (6,1 por mil: más de 5 y más de 6). |
+| 4 | I.4 | Narrativa y ensayo | L, O | **cumple** | Registro de la pieza fijado por Luis el 02/11/26: **ensayo con crónica material** («Me vale así»; en Biopsia del Sistema Mundo solo hay dos piezas, Test y esta). Los umbrales de 42 bis dan el mismo resultado en crónica y en teórica (6,1 por mil: más de 5 y más de 6); la Norma 42 cuenta como patrón las antítesis del ensayo igual que las de otro registro. |
 | 5 | I.5 | Disciplina del informe | X | **cumple** | Los ocho puntos: VIII ter primero, norma + cita + gravedad + alcance, frases cruzadas, cuatro categorías, TEXTO/GLOSA, sin % ni oferta, intervención local, Tabla Margarita (apartado 7). |
 | 6 | I.6 | Ciclo de trabajo de una pieza | X | **cumple** | Fase 2 (diagnóstico) de una pieza reabierta por Luis. |
 | 7 | I.7 | Textos y materiales de Luis: su redacción se aplica tal cual; lo que pega o comenta es material de trabajo; paréntesis con «o»; sin refinamientos no pedidos | X | **cumple** | Su redacción se aplica tal cual; lo decidido el 29/10 (F1-F12, años, cierre, frase de la herida) no se reabre; ninguna alternativa entre paréntesis. |
@@ -439,7 +439,7 @@ Los auriculares con cancelación de ruido; la última frontera analógica; la sa
 
 **Incumplimientos que requieren decisión:** U1 (Norma 60: 58 y 63), U2 (Normas 1/20/42: 31, 83 y 105-106), U3 (Normas 27/46/47), U4 (Normas 11/50/56: frases 14 y 99), U11 (Norma 42 bis: la 94 con la 77), U12 (Norma 38.1 bis: esqueleto 8,6 %, y 33: cola larga) y U13 (Norma 36, punto 3: la 9).
 
-**Fricciones editoriales, no incumplimientos:** U5 («colapso», «otra respuesta», «UR y sus hijos»), el título frente a los dos últimos movimientos (fila 7 de los análisis), «anarco-punk» frente a «anarquismo punk» (U6), «Es un hecho incómodo:» (U10), el único «tú» (fila 10 de los análisis), los ecos de verbos (U3, aviso) y el registro de la pieza.
+**Fricciones editoriales, no incumplimientos:** U5 («colapso», «otra respuesta», «UR y sus hijos»), el título frente a los dos últimos movimientos (fila 7 de los análisis), «anarco-punk» frente a «anarquismo punk» (U6), «Es un hecho incómodo:» (U10), el único «tú» (fila 10 de los análisis), y los ecos de verbos (U3, aviso).
 
 **Observaciones de alto nivel, sin intervención recomendada:** el ritmo (desviación 8,0 es la del libro); la densidad de enumeraciones, que pasa las dos pruebas; el perfil de los 18 análisis, que es el de UR (cinco alarmas del marco dentro del rango del libro).
 
