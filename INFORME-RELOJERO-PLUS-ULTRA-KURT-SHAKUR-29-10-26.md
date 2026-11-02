@@ -1,5 +1,7 @@
 # Relojero-Plus Ultra · KURT · SHAKUR Y LA FRONTERA ANALÓGICA (pieza A, con «La rosa y el hormigón» incorporada) · 29/10/26
 
+> **Sustituido el 02/11/26 por `INFORME-RELOJERO-ULTRA-KURT-SHAKUR-02-11-26.md`** (segundo Relojero Ultra de esta pieza, con la matriz de 111 filas). Se conserva como historial.
+
 **Primer Relojero-Plus Ultra del libro** (Norma 62). Pieza: URS · Biopsia del Sistema Mundo, ☠ NO TOCAR!!! reabierta con autorización expresa de Luis el 29/10/26, con las marcas β (anterior a la ampliación), (*-tit), (*-red) y (*-nor). Texto cerrado por Luis y glosa podada por Claude el 29/10/26 (Norma 62, punto 8). **Cuerpo: 1.803 palabras, 31 párrafos, 5 subtítulos, 108 frases. Glosa: 13 entradas, 573 palabras (24 % del total).** Este informe diagnostica el texto tal como estaba al lanzar; los automatismos (tipo A) se aplican después y constan en el apartado 10.
 
 **Versión de las normas (punto 2).** `NORMA-METODO.md` del 29/10/26: secciones I-XXVII y normas 0-62 (con 32 bis y 42 bis); la matriz es la de 89 filas del Relojero-Plus v2 y la de la Norma 62. **Límite de esta lectura, dicho sin adorno:** el archivo pesa 1 MB y 2.873 líneas; he leído completas las normas que más pesan en esta pieza (1, 15, 16, 27, 36, 37, 45, 46, 49, 60, 62, XXVII y el procedimiento del Relojero-Plus v2). Para las demás he aplicado su fila de la matriz y los umbrales del script, sin releer la norma entera; el apéndice de aplicaciones de la Norma 55 lo he consultado por búsqueda, no línea a línea.
