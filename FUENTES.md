@@ -1,6 +1,6 @@
 # FUENTES — estado de lo que Claude ha abierto (Norma 61)
 
-**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 29/10/26.
+**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 02/11/26.
 
 ## CULTURA: CONTINENTE IBÉRICO
 
@@ -40,6 +40,7 @@
 | Science Media Centre España; MIMS; Focus on Reproduction (ESHRE 2025, Gómez Sánchez y Viñas) | **RESUMEN** (extractos de búsqueda, 29/10/26) | — | Glosa 9: microplásticos en el 55 % del plasma seminal (22 hombres) y el 69 % del líquido folicular (29 mujeres); PTFE el polímero más frecuente (41 % y 31 %); resumen sin revisión por pares. Una fuente periodística da 18 y 25 |
 | Wikipedia, «The Rose That Grew from Concrete (poetry collection)» | **RESUMEN** (extracto de búsqueda, 29/10/26) | — | Glosa 11: 1 de noviembre de 1999, Pocket Books (MTV Books); poemas escritos entre 1989 y 1991; 72 o más de cien |
 | Wikipedia, «In Defence of Our Earth» (cita Discogs); EuroNatur, «The other Balkan route»; Patagonia, «Save the Blue Heart of Europe» | **RESUMEN** (extractos de búsqueda, 28/10/26) | — | Glosas 13 y 14: Oi Polloi y Balkan Rivers Tour |
+| Wikipedia, «Minor Threat», «RIP (band)», «Discharge (band)», «Carcass (band)» | **RESUMEN** (extractos de búsqueda, 02/11/26; la página no se pudo abrir: el servidor no está en la lista permitida) | — | Glosa 1: Minor Threat (Washington D. C., 1980-1983); R.I.P. (Arrasate/Mondragón, Rock Radical Vasco, años ochenta); Discharge (Stoke-on-Trent, 1977); Carcass (Liverpool, 1985) |
 | Vevo, *Then is Now* (2026); Highsnobiety y Stereogum (Saint Laurent, 2023); Jakue Pascual, *Movimiento de resistencia* (2015); ECHA (2023) y EFSA (2020); OMS y BOE (amianto); Penn State (Freedman, 2024) | **SIN REGISTRAR** (consultadas en sesiones anteriores; estado no recuperable) | — | Glosas 1, 4, 5, 7, 8 y 10 |
 
 Para el bloque «EN BRUTO · MAR MENOR · LEY 19/2022» de URIM (texto sacado de la B el 29/10/26):

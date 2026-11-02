@@ -16,6 +16,7 @@ el valor, el umbral de la norma y el estado (OK / AVISO / ALARMA / INFO) y, cuan
 hay hallazgos, las frases citadas. Con --frases imprime además todas las frases
 numeradas, para la pasada de sentido (S) y la lectura línea por línea (L).
 
+Retoques del 02/11/26 (INFORME-RELOJERO-ULTRA-KURT-SHAKUR-02-11-26.md, apartado 7): norma 1 (verbos copulativos «era», «ha sido»; punto y coma; pareja «No es X. Es Y.» entre frases), 10 («cuando» no es gerundio), 25 (tope de subtítulos), 42 bis (aviso desde 5 por mil), 54 («el cuerpo que recibe el golpe») y 60 (hasta tres palabras entre «decide» y el interrogativo; «quién decide»).
 Afinado el 29/10/26 (normas 1, 3, 26 y 50/56) contra textos humanos conocidos: ver archivo-normas/controles-humanos/RESULTADOS.md. Los umbrales no se tocaron.
 Límites (v1, 22/10/26): mide formas, no sentido. Un OK aquí no sustituye la lectura
 de las normas de tipo L, S y O; solo evita que las medibles se omitan.
@@ -95,7 +96,7 @@ def main():
     partes = re.split(r'<h4[^>]*>.*?</h4>|<div style="font-family:\'Bebas Neue\',sans-serif; font-size:1\.1rem[^>]*>.*?</div>', cuerpo_html, flags=re.S)
     tramos = [sum(len(limpia(p).split()) for p in re.findall(r'<p style="[^"]*">(.*?)</p>', x, re.S)) for x in partes]
     tramos = [t for t in tramos if t]
-    fila('25', 'subtítulos internos', '%d en %d palabras' % (nh, W), 'referencia: 2-3 tramos por cada 1.000 palabras', 'OK' if nh <= max(3, round(W / 400)) else 'ALARMA')
+    fila('25', 'subtítulos internos', '%d en %d palabras' % (nh, W), 'referencia: 2-3 tramos por cada 1.000 palabras', 'OK' if nh <= max(3, -(-3 * W // 1000)) else 'ALARMA')
     fila('43', 'subtítulos en la forma <h4> negra', '%d h4, %d div rojos' % (len(heads), len(heads_div)), 'solo h4 (Norma 43)', 'OK' if not heads_div else 'ALARMA')
     # Norma 26 mide párrafos de prosa: no cuentan las llamadas de nota «(1) …», las viñetas «.- …» ni los títulos en mayúsculas
     PP = [p for p in P if not re.match(r'^(?:\(\d{1,2}\)|\.-)', p) and not (p.upper() == p and len(p.split()) <= 12)] or P
@@ -117,15 +118,21 @@ def main():
     # --- tics léxicos y de forma ---
     # Norma 1: niega primero para afirmar después («no es X, es Y», «no es X: es Y», «no solo X, es Y», «no X, sino Y»).
     # No cuentan «no solo… sino también» (suma) ni «no es X, que es Y» (oración de relativo)
-    c = [x for x in cita(r'\bno (?:es|son|fue|fueron|solo|sólo|solamente|únicamente)\b[^.;]{0,100}?[,:—–]\s*(?!(?:que|quien|quienes|donde|cuyo|cuya)\b)(?:\w+\s+){0,3}?(?:es|son|fue|fueron)\b|\bsino\b')
+    c = [x for x in cita(r'\bno (?:es|son|fue|fueron|era|eran|ha sido|han sido|solo|sólo|solamente|únicamente)\b[^.]{0,100}?[,:;—–]\s*(?!(?:que|quien|quienes|donde|cuyo|cuya)\b)(?:\w+\s+){0,3}?(?:es|son|fue|fueron|era|eran)\b|\bsino\b')
          if not re.search(r'\bno (?:solo|sólo|solamente|únicamente)\b[^.;]*\bsino (?:que )?también\b', x, re.I)]
+    # y la pareja entre dos frases seguidas: «No es X. Es Y.»
+    for i in range(len(SF) - 1):
+        mn = re.search(r'\bno (?:es|son|fue|fueron|era|eran)\b[^.]*\.?$', SF[i], re.I)
+        if mn and not re.search(r'\b(?:cuando|que|si|aunque|porque|como)\b', SF[i][:mn.start()], re.I):
+            if re.match(r'(?:Es|Son|Fue|Fueron|Era|Eran)\b', SF[i + 1]):
+                c.append(SF[i][:110] + ' ‖ ' + SF[i + 1][:70])
     fila('1', 'no X, sino Y', len(c), '0', 'OK' if not c else 'ALARMA', c)
     # Norma 3: «aquí entra», «aparece (como, vinculado a…)»; no cuentan las locuciones «de/hasta/por/desde aquí», «he aquí», «a partir de aquí»
     c = cita(r'(?<!\bde )(?<!\bhasta )(?<!\bpor )(?<!\bdesde )(?<!\bhe )(?<!\bpartir de )\baquí\b|\bapare[cz]\w+')
     fila('3', 'aquí / aparece', len(c), '0', 'OK' if not c else 'ALARMA', c)
     c = cita(r'\b(?:es importante|cabe señalar|conviene|hay que|se trata de|no hay que olvidar)\b')
     fila('5', 'andamios de entrada', len(c), '0', 'OK' if not c else 'ALARMA', c)
-    c = cita(r'(?:ando|iendo|yendo)[.;]\s*$|,\s*\w*(?:ando|iendo|yendo)\b')
+    c = cita(r'(?<!cu)(?:ando|iendo|yendo)[.;]\s*$|,\s*(?!cuando\b)\w*(?:ando|iendo|yendo)\b')
     fila('10', 'gerundio tras coma o final de frase', len(c), 'revisar cada uno (posterioridad)', 'OK' if not c else 'AVISO', c)
     c = cita(r'\b(?:puede\w*|podr\w+|parece\w*|quizá|al parecer|sugiere\w*|tal vez|probablemente|pertenece al terreno)\b')
     fila('32/32 bis', 'coberturas (puede, podría, parece, quizá, al parecer, sugiere…)', '%d en %d frases' % (len(c), len(SF)), 'cada una con argumento; repetidas = tic', 'OK' if len(c) <= 2 else 'AVISO', c)
@@ -136,14 +143,14 @@ def main():
     c = cita(r'\bno\b[^.;]{0,60}[,;]\s*(?:sino|pero)\b')
     fila('42', 'antítesis «no…, sino/pero»', len(c), '3 o más en una pieza = patrón', 'OK' if len(c) < 3 else 'ALARMA', c)
     dp = txt.count(':'); pc = txt.count(';')
-    fila('42 bis', 'dos puntos por mil palabras', '%d (%.1f)' % (dp, dp / W * 1000), 'mediana del libro 10,5; p90 20,7', 'OK' if dp / W * 1000 <= 20.7 else 'ALARMA')
+    fila('42 bis', 'dos puntos por mil palabras', '%d (%.1f)' % (dp, dp / W * 1000), 'revisión completa si > 5 (crónica) o > 6 (teórica); alarma gruesa > 20,7; meta 4', 'OK' if dp / W * 1000 <= 5 else ('AVISO' if dp / W * 1000 <= 20.7 else 'ALARMA'))
     fila('36.8', 'punto y coma por mil palabras', '%d (%.1f)' % (pc, pc / W * 1000), 'aviso > 11', 'OK' if pc / W * 1000 <= 11 else 'AVISO')
     c = [x for x in SF if len(re.findall(r'\by\b', x)) >= 3]
     fila('4', 'frases con 3 o más «y»', len(c), 'saturación', 'OK' if not c else 'AVISO', [x[:150] for x in c])
     c = cita(r'\b[\wáéíóúñ]+,\s+[\wáéíóúñ ]{1,30},\s+[\wáéíóúñ ]{1,30}\s+y\s+[\wáéíóúñ ]+')
     fila('36.7', 'enumeraciones de 4 o más elementos (revisar si son cadena)', len(c), 'cada elemento un dato o un verbo propio', 'INFO', c)
     # Norma 54 (alarma y excepciones naturales, Luis 28/10/26): «cuerpo» no vale para todo
-    EXC_CUERPO = (r'cuerpos? del delito|cuerpos? de agua|cuerpos? celestes?|tom\w+ cuerpo|(?:dar|da|dan|dio) cuerpo|cuerpo a cuerpo|de cuerpo presente|cuerpo humano'
+    EXC_CUERPO = (r'cuerpos? que recibe\w* el golpe|cuerpos? del delito|cuerpos? de agua|cuerpos? celestes?|tom\w+ cuerpo|(?:dar|da|dan|dio) cuerpo|cuerpo a cuerpo|de cuerpo presente|cuerpo humano'
                   r'|cuerpos? (?:legal\w*|normativ\w+|de seguridad|de bomberos|diplom\w+|docente|de (?:Cristo|ejército|policía))'
                   r'|(?:bell\w+|hermos\w+|desnud\w+|muert\w+|inerte\w*|animal\w*|devorad\w+)\W+(?:\w+\W+){0,3}cuerpos?'
                   r'|cuerpos?\W+(?:\w+\W+){0,3}(?:bell\w+|hermos\w+|desnud\w+|muert\w+|inerte\w*|animal\w*|devorad\w+)')
@@ -161,7 +168,7 @@ def main():
     # --- moldes 59 y 60 ---
     c = cita(r'\bantes de (?:ser|que)\b|\bya (?:estaba|era|había|existía)\b|\bhasta que\b|\bsin nombre\b|\bmucho antes\b|\bdesde antes\b')
     fila('59', 'molde de la anterioridad', len(c), 'como máximo 1 por pieza (la tesis); 0 en apertura/cierre/título', 'OK' if len(c) <= 1 else 'ALARMA', c)
-    c = cita(r'\bQuien(?:es)?\b[^.;:]{0,90}\b(?:decid\w+|mand\w+|orden\w+|control\w+|defin\w+|fij\w+|eleg\w+|dict\w+)\b|\b(?:decid\w+|determin\w+)\s+(?:qui[eé]n(?:es)?|qu[eé]|c[oó]mo|cu[aá]ndo|d[oó]nde)\b|qui[eé]n[^.;]{1,40},\s*qui[eé]n[^.;]{1,40}\s+y\s+qui[eé]n')
+    c = cita(r'\bQuien(?:es)?\b[^.;:]{0,90}\b(?:decid\w+|mand\w+|orden\w+|control\w+|defin\w+|fij\w+|eleg\w+|dict\w+)\b|\b(?:decid\w+|determin\w+)\s+(?:\w+\s+){0,3}?(?:qui[eé]n(?:es)?|qu[eé]|c[oó]mo|cu[aá]ndo|d[oó]nde)\b|\bqui[eé]n(?:es)?\s+(?:decid\w+|determin\w+)\b|qui[eé]n[^.;]{1,40},\s*qui[eé]n[^.;]{1,40}\s+y\s+qui[eé]n')
     fila('60', 'molde «Quien X decide Y»', len(c), 'como máximo 1 por pieza; nunca en serie ni triple', 'OK' if len(c) <= 1 else 'ALARMA', c)
     c = cita(r'\balguien\b')
     fila('adenda 17/10', '«alguien»', len(c), '0 (tic de voz anónima)', 'OK' if not c else 'ALARMA', c)
