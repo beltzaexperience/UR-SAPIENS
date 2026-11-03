@@ -492,7 +492,9 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 - **Frase 105-106, nota de Luis:** «del pogo perdido en el ayer» se queda: la «nostalgia del ayer» es poesía y sitúa el pogo en la juventud de los autores, cuando «nos creíamos lo más y no nos enterábamos de nada». El doble pasado es intencionado.
 - **Frase 47 (U3), norma 27:** Luis la elige (antes: «Quien la busca puede estar buscando compañía, descanso o una forma de nombrar su propio miedo.» · después: «Quien la busca puede querer compañía, descanso o una forma de nombrar su propio miedo.»). U3 cerrado. Aplicado el 03/11/26.
 
-**Pendiente, una por una:** U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
+- **Frase 95 (U5), sentido:** Luis la elige y añade una palabra (antes: «La rosa representa otra respuesta: la esperanza que se organiza…» · después: «Frente al ciclo del odio inducido, la rosa representa otra respuesta: la esperanza que se organiza…»). «Inducido» liga con la idea de T.H.U.G. L.I.F.E.: el odio que una sociedad siembra. Aplicado el 03/11/26.
+
+**Pendiente, una por una:** U5 (92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
 
 ## Anexo A · Salida de las herramientas al lanzar
 
