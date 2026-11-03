@@ -484,7 +484,12 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 - **«ese oyente» → «quien escucha» (consecuencia de la 35):** Luis lo elige. Antes: «Al ponerse los auriculares, ese oyente puede buscar un respiro…» · después: «Al ponerse los auriculares, quien escucha puede buscar un respiro…». Aplicado el 03/11/26.
 
-**Pendiente, una por una:** U3 (44 y 47), U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
+- **Frase 99 (Carcass), revisión de Luis tras los pros y contras del corrector:** sin cambio de texto. Luis explica que la música, como la escritura, deja de ser del autor y pasa a la interpretación de quien la oye: su Carcass es la repulsión juvenil y la atracción atávica por el desorden (no el veganismo posterior), y la ambigüedad de «esta manera de entender la música de combate» es deliberada: Carcass no tiene la exclusiva, la manera viene del blues del siglo XX y del R&R de los 50 y 60. La ambigüedad es «marca de la casa»: se asume con sus consecuencias. Decidido el 03/11/26.
+- **Frase 63, nota de Luis:** «a conciencia» (esmero o a fondo) sirve para describir el esmero de las tecnológicas al dirigir la atención. Se queda.
+- **Frases 105-106, ajuste:** «…aunque haya nostalgia del pogo perdido en el ayer.» (recupera la imagen del pogo). Aplicado el 03/11/26.
+- **Frase 44 (U3), norma 27:** Luis la reescribe y se aplica tal como la escribe (antes: «A esa edad se puede imaginar que se nada en un gran lago; con la juventud se imagina con nitidez un futuro aterrador.» · después: «A esa edad se imagina nadar en un gran lago; con la juventud se ve con nitidez un futuro aterrador.»). Cae el eco de «imaginar» y la cobertura «se puede». Aplicado el 03/11/26.
+
+**Pendiente, una por una:** U3 (47), U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
 
 ## Anexo A · Salida de las herramientas al lanzar
 
