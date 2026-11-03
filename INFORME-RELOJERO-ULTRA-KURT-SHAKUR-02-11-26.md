@@ -494,7 +494,9 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 - **Frase 95 (U5), sentido:** Luis la elige y añade una palabra (antes: «La rosa representa otra respuesta: la esperanza que se organiza…» · después: «Frente al ciclo del odio inducido, la rosa representa otra respuesta: la esperanza que se organiza…»). «Inducido» liga con la idea de T.H.U.G. L.I.F.E.: el odio que una sociedad siembra. Aplicado el 03/11/26.
 
-**Pendiente, una por una:** U5 (92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
+- **Frase 92 (U5), «UR y sus hijos» y la 'T':** Luis mantiene «UR y sus hijos» (el título del libro, UR: ANOMALÍA RUPESTRE, es el ancla) y cambia el final para que el lector no se quede con la 'T' sin definir (antes: «…pueden agrietar la 'T' para seguir perdiendo con esperanza.» · después: «…pueden romper la trigonometría del sistema para seguir perdiendo con esperanza.»). «Trigonometría» le sale de las entrañas («forma parte del no pensar»), semánticamente le cuadra con la 'T' que mide y tasa, y la mezcla con el verbo es 100 % humana; elige «romper» (encaja con el hormigón y con las cuentas del sistema) y descarta «reducir». **Nota del corrector:** Luis escribió «de sistema»; se aplica «del sistema». «Trigonometría» es palabra nueva en el libro (0 apariciones antes). Con este cambio la pieza ya no usa la 'T'. U5 cerrado. Aplicado el 03/11/26.
+
+**Pendiente, una por una:** U10 y U11 (77 y 94, el molde «Es un X: Y»), U12 (102-104), U13 (9) y las cinco filas de los análisis.
 
 ## Anexo A · Salida de las herramientas al lanzar
 
