@@ -482,7 +482,9 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 - **Frase 35 (U3), norma 27:** Luis la reescribe y se aplica tal como la escribe (antes: «La transmisión empieza en ese encuentro incierto entre una voz conservada y un oyente que todavía tiene que decidir la actitud al escuchar su dolor profundo.» · después: «La transmisión cultural consiste en escuchar el dolor de una voz que perdura con la actitud que se merece.»). Aclaración previa de Luis: «transmisión» es la **cultural**, no la de la plataforma. Cae un «empieza» (de cinco) y «profundo». **Nota del corrector:** el párrafo siguiente abre «Al ponerse los auriculares, **ese oyente** puede…»; la palabra «oyente» ya no está en la frase anterior (queda «Cada oyente» y «quien recibe una canción» antes). Se consulta a Luis. Aplicado el 03/11/26.
 
-**Pendiente, una por una:** U3 (44 y 47) y el «ese oyente» de después de la 35, U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
+- **«ese oyente» → «quien escucha» (consecuencia de la 35):** Luis lo elige. Antes: «Al ponerse los auriculares, ese oyente puede buscar un respiro…» · después: «Al ponerse los auriculares, quien escucha puede buscar un respiro…». Aplicado el 03/11/26.
+
+**Pendiente, una por una:** U3 (44 y 47), U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
 
 ## Anexo A · Salida de las herramientas al lanzar
 
