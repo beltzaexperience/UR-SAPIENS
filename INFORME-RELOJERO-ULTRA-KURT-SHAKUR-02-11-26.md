@@ -476,7 +476,9 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 - **Frase 83 (U2), normas 1/20/42:** Luis la reescribe y se aplica tal como la escribe (antes: «El «no future» del punk dejó de ser una consigna para convertirse en una pregunta material.» · después: «El «no future» del punk nunca fue una consigna vacía, siempre interpeló sobre un futuro material, no había ingenuidad en el vaticinio.»). **Nota del corrector:** la frase conserva la forma «nunca fue X, siempre Y» y añade «no había ingenuidad», así que sigue contando como par negado en el recuento de la 42 (31, 83 y 105-106). Decisión de Luis, no se reabre; el recuento se resuelve con la 105-106 y la 31. Aplicado el 03/11/26.
 
-**Pendiente, una por una:** U2 (105-106 y 31), U3 (31, 35, 44 y 47), U4 sin cambios, U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
+- **Frases 105-106 (U2), normas 1/20/42:** Luis las funde y se aplica tal como lo escribe (antes: «El ruido compartido no es nostalgia por un pogo perdido. Es la posibilidad de que la rabia encuentre sentido ante la tortura sistemática de la vida.» · después: «El ruido compartido es la posibilidad de que la rabia encuentre sentido ante la tortura sistemática de la vida aunque haya nostalgia del ayer.»). La mitad negada desaparece: **quedan dos pares «no X / Y» (31 y 83), y el patrón de la 42 (tres o más) deja de cumplirse.** Sobre la 83, Luis explica su criterio: el «nunca» es piedad con la norma (evitó tres «no»), «nunca fue una consigna vacía» tiene fuerza, «siempre interpeló… el futuro que nos prometieron» y «no había ingenuidad» sitúa la emoción de la época. Aplicado el 03/11/26.
+
+**Pendiente, una por una:** U2 (31, solo si quiere), U3 (31, 35, 44 y 47), U4 sin cambios, U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
 
 ## Anexo A · Salida de las herramientas al lanzar
 
