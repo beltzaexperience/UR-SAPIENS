@@ -478,7 +478,9 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 - **Frases 105-106 (U2), normas 1/20/42:** Luis las funde y se aplica tal como lo escribe (antes: «El ruido compartido no es nostalgia por un pogo perdido. Es la posibilidad de que la rabia encuentre sentido ante la tortura sistemática de la vida.» · después: «El ruido compartido es la posibilidad de que la rabia encuentre sentido ante la tortura sistemática de la vida aunque haya nostalgia del ayer.»). La mitad negada desaparece: **quedan dos pares «no X / Y» (31 y 83), y el patrón de la 42 (tres o más) deja de cumplirse.** Sobre la 83, Luis explica su criterio: el «nunca» es piedad con la norma (evitó tres «no»), «nunca fue una consigna vacía» tiene fuerza, «siempre interpeló… el futuro que nos prometieron» y «no había ingenuidad» sitúa la emoción de la época. Aplicado el 03/11/26.
 
-**Pendiente, una por una:** U2 (31, solo si quiere), U3 (31, 35, 44 y 47), U4 sin cambios, U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
+- **Frase 31 (U2 y U3), normas 1/20/42 y 27:** Luis la deja con sus tres «violencia» («3 violencia»). Sin cambio. La repetición es martilleo deliberado del autor; la negación «no era una apología» se queda porque pasa el espantapájaros (muchos leen T.H.U.G. L.I.F.E. como apología). U2 cerrado; la 31 sale de U3. Decidido el 03/11/26.
+
+**Pendiente, una por una:** U3 (35, 44 y 47), U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
 
 ## Anexo A · Salida de las herramientas al lanzar
 
