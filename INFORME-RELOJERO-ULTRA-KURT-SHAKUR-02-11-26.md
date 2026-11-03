@@ -489,7 +489,10 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 - **Frases 105-106, ajuste:** «…aunque haya nostalgia del pogo perdido en el ayer.» (recupera la imagen del pogo). Aplicado el 03/11/26.
 - **Frase 44 (U3), norma 27:** Luis la reescribe y se aplica tal como la escribe (antes: «A esa edad se puede imaginar que se nada en un gran lago; con la juventud se imagina con nitidez un futuro aterrador.» · después: «A esa edad se imagina nadar en un gran lago; con la juventud se ve con nitidez un futuro aterrador.»). Cae el eco de «imaginar» y la cobertura «se puede». Aplicado el 03/11/26.
 
-**Pendiente, una por una:** U3 (47), U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
+- **Frase 105-106, nota de Luis:** «del pogo perdido en el ayer» se queda: la «nostalgia del ayer» es poesía y sitúa el pogo en la juventud de los autores, cuando «nos creíamos lo más y no nos enterábamos de nada». El doble pasado es intencionado.
+- **Frase 47 (U3), norma 27:** Luis la elige (antes: «Quien la busca puede estar buscando compañía, descanso o una forma de nombrar su propio miedo.» · después: «Quien la busca puede querer compañía, descanso o una forma de nombrar su propio miedo.»). U3 cerrado. Aplicado el 03/11/26.
+
+**Pendiente, una por una:** U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
 
 ## Anexo A · Salida de las herramientas al lanzar
 
