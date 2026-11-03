@@ -474,7 +474,9 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 - **Frase 58 (U1), norma 60:** Luis la reescribe y se aplica tal como la escribe (antes: «…su rostro pasó a licencias y colaboraciones que no siempre dejan claro quién decide sobre su significado.» · después: «…su rostro pasó a licencias comerciales que no siempre dejan claro a quién pertenece su significado.»). Se conserva la minúscula tras el punto y coma. U1 cerrado. Aplicado el 03/11/26.
 
-**Pendiente, una por una:** U2 (83, 105-106 y 31), U3 (31, 35, 44 y 47), U4 sin cambios, U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
+- **Frase 83 (U2), normas 1/20/42:** Luis la reescribe y se aplica tal como la escribe (antes: «El «no future» del punk dejó de ser una consigna para convertirse en una pregunta material.» · después: «El «no future» del punk nunca fue una consigna vacía, siempre interpeló sobre un futuro material, no había ingenuidad en el vaticinio.»). **Nota del corrector:** la frase conserva la forma «nunca fue X, siempre Y» y añade «no había ingenuidad», así que sigue contando como par negado en el recuento de la 42 (31, 83 y 105-106). Decisión de Luis, no se reabre; el recuento se resuelve con la 105-106 y la 31. Aplicado el 03/11/26.
+
+**Pendiente, una por una:** U2 (105-106 y 31), U3 (31, 35, 44 y 47), U4 sin cambios, U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
 
 ## Anexo A · Salida de las herramientas al lanzar
 
