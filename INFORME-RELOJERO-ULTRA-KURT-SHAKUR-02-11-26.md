@@ -460,6 +460,18 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 **Herramienta (no es cambio de la pieza):** `ultra-medidas.py` retocada en seis puntos (apartado 7), sin tocar ningún umbral de la norma, y `RESULTADOS.md` de los controles humanos sigue siendo la referencia de los falsos positivos.
 
+## 11. Decisiones de Luis sobre este informe
+
+*Se van anotando de una en una, tal como las decide. Lo decidido no se reabre (I.7, punto 4).*
+
+**03/11/26.**
+- **Frase 14, «Cirujanos de la autopsia global»:** es expresión de Luis. **Se queda tal cual**; las comillas nombran, no citan. U4 (14) cerrado.
+- **Frase 99, «Era una práctica con décadas de continuidad»:** se queda. Luis aporta lo que quiere decir (las bandas como Carcass «operaban al sistema sin anestesia y dejaban a sus oyentes ante las vísceras diseccionadas del poder»; esa manera de entender la música de combate es una práctica con décadas de continuidad) y fija un criterio: **su pensamiento abstracto lo respalda él y el que quiera entenderlo; no hace falta que lo diga Platón.** U4 (99) cerrado sin cambio. Lo que Luis pega es material de trabajo (I.7, punto 2): no se escribe en el libro sin que lo pida. Si lo convierte en norma general (57, punto 3), se hablará aparte (I.1).
+- **Frase 89, «colapso»:** no se cambia. U5 (89) cerrado.
+- **Glosa 12, «anarco-punk» frente a «anarquismo punk»:** es lo mismo («el Centro Ibérico así lo vivió»). Sin cambio. U6 cerrado.
+
+**Pendiente, una por una:** U1 (63 y 58), U2 (83, 105-106 y 31), U3 (31, 35, 44 y 47), U4 sin cambios, U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
+
 ## Anexo A · Salida de las herramientas al lanzar
 
 ### A.1 `ultra-medidas.py` (recorrido 4)
