@@ -496,6 +496,8 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 - **Frase 92 (U5), «UR y sus hijos» y la 'T':** Luis mantiene «UR y sus hijos» (el título del libro, UR: ANOMALÍA RUPESTRE, es el ancla) y cambia el final para que el lector no se quede con la 'T' sin definir (antes: «…pueden agrietar la 'T' para seguir perdiendo con esperanza.» · después: «…pueden romper la trigonometría del sistema para seguir perdiendo con esperanza.»). «Trigonometría» le sale de las entrañas («forma parte del no pensar»), semánticamente le cuadra con la 'T' que mide y tasa, y la mezcla con el verbo es 100 % humana; elige «romper» (encaja con el hormigón y con las cuentas del sistema) y descarta «reducir». **Nota del corrector:** Luis escribió «de sistema»; se aplica «del sistema». «Trigonometría» es palabra nueva en el libro (0 apariciones antes). Con este cambio la pieza ya no usa la 'T'. U5 cerrado. Aplicado el 03/11/26.
 
+- **Frase 92, ajuste de verbo:** Luis vuelve a «agrietar»: «Dejamos agrietar, es la mejor opción.» Texto definitivo: «Es la certeza de que UR y sus hijos pueden agrietar la trigonometría del sistema para seguir perdiendo con esperanza.» (conserva la imagen de la rosa que encuentra la grieta). Aplicado el 03/11/26.
+
 **Pendiente, una por una:** U10 y U11 (77 y 94, el molde «Es un X: Y»), U12 (102-104), U13 (9) y las cinco filas de los análisis.
 
 ## Anexo A · Salida de las herramientas al lanzar
