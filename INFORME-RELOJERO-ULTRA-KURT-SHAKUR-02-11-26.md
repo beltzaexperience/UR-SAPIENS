@@ -465,8 +465,8 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 *Se van anotando de una en una, tal como las decide. Lo decidido no se reabre (I.7, punto 4).*
 
 **03/11/26.**
-- **Frase 14, «Cirujanos de la autopsia global»:** es expresión de Luis. **Se queda tal cual**; las comillas nombran, no citan. U4 (14) cerrado.
-- **Frase 99, «Era una práctica con décadas de continuidad»:** se queda. Luis aporta lo que quiere decir (las bandas como Carcass «operaban al sistema sin anestesia y dejaban a sus oyentes ante las vísceras diseccionadas del poder»; esa manera de entender la música de combate es una práctica con décadas de continuidad) y fija un criterio: **su pensamiento abstracto lo respalda él y el que quiera entenderlo; no hace falta que lo diga Platón.** U4 (99) cerrado sin cambio. Lo que Luis pega es material de trabajo (I.7, punto 2): no se escribe en el libro sin que lo pida. Si lo convierte en norma general (57, punto 3), se hablará aparte (I.1).
+- **Frase 14, «Cirujanos de la autopsia global»:** es expresión de Luis, sin fuente que buscar. **Se queda tal cual** (con sus comillas, como él las escribe). U4 (14) cerrado.
+- **Frase 99, «Era una práctica con décadas de continuidad»:** **Luis la reescribe y se aplica tal como la escribe** (antes: «Era una práctica con décadas de continuidad.» · después: «Las bandas como Carcass operaban al sistema sin anestesia y dejaban a sus oyentes ante las vísceras diseccionadas del poder. Esta manera de entender la música de combate es una práctica con décadas de continuidad.»). Criterio que fija: **su pensamiento abstracto lo respalda él y el que quiera entenderlo; no hace falta que lo diga Platón.** U4 (99) cerrado. Aplicado el 03/11/26; la pieza pasa a 110 frases y 1.826 palabras. Si lo convierte en norma general (57, punto 3), se hablará aparte (I.1).
 - **Frase 89, «colapso»:** no se cambia. U5 (89) cerrado.
 - **Glosa 12, «anarco-punk» frente a «anarquismo punk»:** es lo mismo («el Centro Ibérico así lo vivió»). Sin cambio. U6 cerrado.
 
