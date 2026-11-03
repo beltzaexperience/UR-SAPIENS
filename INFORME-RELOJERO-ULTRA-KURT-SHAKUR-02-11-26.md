@@ -470,7 +470,9 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 - **Frase 89, «colapso»:** no se cambia. U5 (89) cerrado.
 - **Glosa 12, «anarco-punk» frente a «anarquismo punk»:** es lo mismo («el Centro Ibérico así lo vivió»). Sin cambio. U6 cerrado.
 
-**Pendiente, una por una:** U1 (63 y 58), U2 (83, 105-106 y 31), U3 (31, 35, 44 y 47), U4 sin cambios, U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
+- **Frase 63 (U1), norma 60:** Luis rechaza la alternativa y mantiene el molde a propósito (antes: «El algoritmo decide con facilidad qué fragmento de una canción llega primero.» · después, **con su palabra**: «El algoritmo decide a conciencia qué fragmento de una canción llega primero.»). Motivo suyo: lo pensó y lo escribió él, y poner al algoritmo como sujeto con conciencia es el dato objetivo de la programación humana. **Excepción deliberada a la norma 60, decidida por el autor**; no se reabre. Aplicado el 03/11/26.
+
+**Pendiente, una por una:** U1 (58), U2 (83, 105-106 y 31), U3 (31, 35, 44 y 47), U4 sin cambios, U5 (95 y 92), U10 (77), U11 (94), U12 (102-104), U13 (9) y las cinco filas de los análisis.
 
 ## Anexo A · Salida de las herramientas al lanzar
 
