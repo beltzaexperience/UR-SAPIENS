@@ -504,6 +504,8 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 - **Frases 102-104 (U12), normas 38.1 bis y 33:** Luis las reescribe y se aplica tal como lo escribe (antes: «Fue una forma de estar presentes donde el río estaba en disputa. Formó parte de una campaña europea de defensa de los ríos. Su valor consistió en hacer visible la amenaza y tejer una red entre quienes la resistían.» · después: «Fue una manera de estar presentes dentro de una campaña europea de defensa de los ríos. Su valor consistió en hacer visible la amenaza y tejer una red de resistencia hídrica.»). Tres frases pasan a dos y se deshace el metrónomo «Fue / Formó / Su valor». **Nota del corrector:** «consistió en» (104) repite «consiste en» de la 35; Luis lo mantiene. Aplicado el 04/11/26.
 
+- **Frases 102-104, versión definitiva de Luis (04/11/26):** «Fue una manera de estar presentes donde el agua entra en disputa, dentro de una campaña europea de defensa de los ríos. Su valor consistió en hacer visible la amenaza y tejer una red humana de resistencia hídrica.» (recupera la escena concreta y las personas respecto de la versión anterior del mismo día). Sustituye a la nota anterior de estas frases. Aplicado el 04/11/26.
+
 **Pendiente, una por una:** U12 (73-75, opcional), U13 (9) y las cinco filas de los análisis.
 
 ## Anexo A · Salida de las herramientas al lanzar
