@@ -508,7 +508,9 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 - **Frases 102-104, ajuste final (04/11/26):** Luis quita «humana» y deja a criterio del corrector «entra» o «entró». Se elige **«entró»**, porque todo el relato va en pasado («recorrió», «Fue», «consistió») y el pasado ata la frase a la gira. Texto definitivo: «Fue una manera de estar presentes donde el agua entró en disputa, dentro de una campaña europea de defensa de los ríos. Su valor consistió en hacer visible la amenaza y tejer una red de resistencia hídrica.» U12 cerrado en lo que afecta a estas frases.
 
-**Pendiente, una por una:** U12 (73-75, opcional), U13 (9) y las cinco filas de los análisis.
+- **Frases 8-10 (U13, norma 36 punto 3 y 11 dos puntos de la 42 bis):** Luis las sustituye por una sola frase y se aplica tal como la escribe (antes: «En el gaztetxe, la música ocupa el aire que respiran todos. Cuesta hablar: se acerca el oído, se levanta la voz, se acepta el roce de un desconocido. Cuando empieza el pogo, cada movimiento depende del cuerpo que recibe el golpe y del espacio que deja quien retrocede.» · después: «En el gaztetxe, la música es el aire que se respira por todos y el golpeteo entre los asistentes es un código común.»). Desaparecen la triple pasiva refleja y un dos puntos (la pieza baja a 9 dos puntos). **Pérdida señalada al autor:** «el espacio que deja quien retrocede» preparaba «una distancia que se mide con el brazo» (la frase siguiente). **Nota del corrector:** «se respira por todos» lleva complemento agente con pasiva refleja, que la norma culta no admite («que respiran todos» o «respirado por todos»); se aplica tal como Luis lo escribe y se le señala. Se retira además un `</sup>` suelto que quedaba tras «gaztetxe» (resto de una llamada de glosa antigua). U13 cerrado. Aplicado el 04/11/26.
+
+**Pendiente, una por una:** 73-75 (opcional) y las cinco filas de los análisis.
 
 ## Anexo A · Salida de las herramientas al lanzar
 
