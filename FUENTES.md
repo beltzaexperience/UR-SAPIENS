@@ -1,6 +1,6 @@
 # FUENTES — estado de lo que Claude ha abierto (Norma 61)
 
-**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 02/11/26.
+**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 04/11/26.
 
 ## CULTURA: CONTINENTE IBÉRICO
 
@@ -38,6 +38,7 @@
 |---|---|---|---|
 | Archbridge Institute, Human Flourishing Lab (Clay Routledge), «Why Gen Z is nostalgic for a world it never knew» y páginas del instituto | **RESUMEN** (extractos de búsqueda, 29/10/26) | — | Glosa 3: 68 % y 73 % de la Generación Z; encuesta nacional representativa de algo más de 2.000 adultos de EE. UU. Tablas completas sin abrir |
 | Science Media Centre España; MIMS; Focus on Reproduction (ESHRE 2025, Gómez Sánchez y Viñas) | **RESUMEN** (extractos de búsqueda, 29/10/26) | — | Glosa 9: microplásticos en el 55 % del plasma seminal (22 hombres) y el 69 % del líquido folicular (29 mujeres); PTFE el polímero más frecuente (41 % y 31 %); resumen sin revisión por pares. Una fuente periodística da 18 y 25 |
+| WWF / Universidad de Newcastle (2019), «No Plastic in Nature: Assessing Plastic Ingestion from Nature to People»; Senathirajah et al. (2021); Pletz (2022), «Ingested microplastics: Do humans eat one credit card per week?», *Journal of Hazardous Materials Letters*. Prensa: Irish Times, SBS, Euronews (2019); ficha del DOAJ (Pletz) | **RESUMEN** (extractos de búsqueda, 04/11/26) | — | Glosa 10: informe encargado por WWF, junio de 2019, sin revisión por pares; hasta unos 5 g por semana (peso de una tarjeta de crédito), sobre todo por el agua; rango del cálculo revisado, 0,1 a 5 g semanales; crítica de Pletz: sobrestimado en varios órdenes de magnitud. La sal no se pudo confirmar en las fuentes consultadas |
 | Wikipedia, «The Rose That Grew from Concrete (poetry collection)» | **RESUMEN** (extracto de búsqueda, 29/10/26) | — | Glosa 11: 1 de noviembre de 1999, Pocket Books (MTV Books); poemas escritos entre 1989 y 1991; 72 o más de cien |
 | Wikipedia, «In Defence of Our Earth» (cita Discogs); EuroNatur, «The other Balkan route»; Patagonia, «Save the Blue Heart of Europe» | **RESUMEN** (extractos de búsqueda, 28/10/26) | — | Glosas 13 y 14: Oi Polloi y Balkan Rivers Tour |
 | Wikipedia, «Minor Threat», «RIP (band)», «Discharge (band)», «Carcass (band)» | **RESUMEN** (extractos de búsqueda, 02/11/26; la página no se pudo abrir: el servidor no está en la lista permitida) | — | Glosa 1: Minor Threat (Washington D. C., 1980-1983); R.I.P. (Arrasate/Mondragón, Rock Radical Vasco, años ochenta); Discharge (Stoke-on-Trent, 1977); Carcass (Liverpool, 1985) |
