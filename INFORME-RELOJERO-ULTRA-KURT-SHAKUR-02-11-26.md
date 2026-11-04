@@ -506,6 +506,8 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 - **Frases 102-104, versión definitiva de Luis (04/11/26):** «Fue una manera de estar presentes donde el agua entra en disputa, dentro de una campaña europea de defensa de los ríos. Su valor consistió en hacer visible la amenaza y tejer una red humana de resistencia hídrica.» (recupera la escena concreta y las personas respecto de la versión anterior del mismo día). Sustituye a la nota anterior de estas frases. Aplicado el 04/11/26.
 
+- **Frases 102-104, ajuste final (04/11/26):** Luis quita «humana» y deja a criterio del corrector «entra» o «entró». Se elige **«entró»**, porque todo el relato va en pasado («recorrió», «Fue», «consistió») y el pasado ata la frase a la gira. Texto definitivo: «Fue una manera de estar presentes donde el agua entró en disputa, dentro de una campaña europea de defensa de los ríos. Su valor consistió en hacer visible la amenaza y tejer una red de resistencia hídrica.» U12 cerrado en lo que afecta a estas frases.
+
 **Pendiente, una por una:** U12 (73-75, opcional), U13 (9) y las cinco filas de los análisis.
 
 ## Anexo A · Salida de las herramientas al lanzar
