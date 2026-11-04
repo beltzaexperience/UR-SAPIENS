@@ -62,6 +62,7 @@ Fase 0, encuadre antes de escribir: Luis fija tipo de texto, función, fuentes, 
 2. **Lo que Luis pega, selecciona o comenta en la conversación es material de trabajo, no redacción**: no se escribe en el libro ni se convierte en norma sin que lo pida. Claude responde con propuestas en antes y después y no aplica un comentario como si fuera texto. Cuando Luis dice «te lo digo a ti», es material para el criterio de Claude.
 3. **Paréntesis con «o» en los textos de Luis** son alternativas para que Claude elija: se elige una, se dice cuál y por qué en una línea, y nunca se copian las dos ni el paréntesis.
 4. **El tiempo de Luis:** el informe solo lleva hallazgos con norma y motivo; ni «por si acaso», ni cautelas, ni refinamientos que nadie pidió. Cuando una norma ya decide, no es fricción: se aplica y se muestra. Una vez que Luis decide, se aplica y se sigue; no se reabre.
+5. **Antes de quitar texto de Luis, se le comenta y se espera su consentimiento** (Luis, 04/11/26). Rige también cuando la corrección de un error de dato supone quitar una frase o parte de ella: primero se le dice qué se quitaría y por qué, y se aplica solo cuando lo autoriza. Las erratas de letra o de puntuación siguen el punto 1.
 
 ---
 
