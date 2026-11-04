@@ -498,6 +498,8 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 - **Frase 92, ajuste de verbo:** Luis vuelve a «agrietar»: «Dejamos agrietar, es la mejor opción.» Texto definitivo: «Es la certeza de que UR y sus hijos pueden agrietar la trigonometría del sistema para seguir perdiendo con esperanza.» (conserva la imagen de la rosa que encuentra la grieta). Aplicado el 03/11/26.
 
+- **Frase 94 (U11), norma 42 bis:** Luis elige el punto y coma (antes: «Es una imagen sencilla y brutal: una rosa encuentra una grieta en el hormigón y crece.» · después: «Es una imagen sencilla y brutal; una rosa encuentra una grieta en el hormigón y crece.»). Los dos puntos de la pieza bajan de 11 a 10, y el molde «Es un X: Y» queda una vez (la 77). Aplicado el 04/11/26. Para la 77 pide ver más contexto antes de decidir.
+
 **Pendiente, una por una:** U10 y U11 (77 y 94, el molde «Es un X: Y»), U12 (102-104), U13 (9) y las cinco filas de los análisis.
 
 ## Anexo A · Salida de las herramientas al lanzar
