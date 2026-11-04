@@ -520,7 +520,11 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 - **Fila 7 · Temático (04/11/26):** Luis firma **cumple**, con detalles a corregir. Pide ver las cuatro frases originales de Murcia para compararlas con la versión actual, más cauta («no me convence mucho»); se le dieron. Pregunta si el salto brusco de «In Bloom» al teflón tiene una solución sencilla que arregle también el título; propone como posible título **«KURT Y SHAKUR: TAXONOMÍA DE BLOOD»** (no aplicado: los títulos los fija él al final). Claude propone una frase puente al comienzo del párrafo del teflón; pendiente de su respuesta.
 
-**Pendiente, una por una:** las tres filas que quedan de los análisis (11 Discurso, 6 Semántico, 10 Pragmático) y los detalles de la fila 7.
+- **Murcia, segunda redacción de Luis (04/11/26):** aplicada tal como la escribe: «…con el teflón como polímero más frecuente. Los propios autores advierten que el hallazgo, por sí solo, no demuestra un daño sobre la fertilidad. Queda documentada su presencia en los resultados sin aventurar el diagnóstico de sus efectos.» Se pierde «la muestra es pequeña» en el cuerpo (queda en la glosa 9). Claude señala que la tercera frase repite la idea de la segunda.
+- **Título propuesto por Luis (no aplicado; los títulos los fija él al final):** «KURT Y SHAKUR: IN BLOOM, IN BLOOD».
+- **Bloque DuPont/C8, propuesto por Luis (no aplicado, pendiente de su decisión):** tres párrafos sobre DuPont, el C8 y el juicio; verificado el 04/11/26 con búsquedas (estado RESUMEN en `FUENTES.md`); Claude le devuelve la lista de correcciones de exactitud y su opinión sobre colocación y peso (cuerpo actual 1.880 palabras; con el bloque, ≈2.200, sobre la referencia 1.100-2.000). El texto de Luis no se copia aquí.
+
+**Pendiente, una por una:** las tres filas que quedan de los análisis (11 Discurso, 6 Semántico, 10 Pragmático), el bloque DuPont, la frase puente y los detalles de la fila 7.
 
 ## Anexo A · Salida de las herramientas al lanzar
 
