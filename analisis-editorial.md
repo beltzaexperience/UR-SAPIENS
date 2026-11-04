@@ -3017,3 +3017,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 **«Kurt · Shakur y la frontera analógica»: frase 92, verbo (03/11/2026).** Luis vuelve de «romper» a «agrietar» (*«Dejamos agrietar, es la mejor opción»*): texto definitivo «…pueden agrietar la trigonometría del sistema para seguir perdiendo con esperanza». **Marcador (Regla 14):** ver la línea siguiente. HTML sin publicar (Regla 38).
 
 **«Kurt · Shakur y la frontera analógica»: frase 94 (04/11/2026).** Luis elige el punto y coma: *«Es una imagen sencilla y brutal; una rosa encuentra una grieta en el hormigón y crece»* (antes, dos puntos). Los dos puntos de la pieza bajan de 11 a 10 y el molde «Es un X: Y» queda solo en la 77, sobre la que Luis pide más contexto antes de decidir. **Marcador (Regla 14):** sin cambio. HTML sin publicar (Regla 38).
+
+**«Kurt · Shakur y la frontera analógica»: frase 77 (04/11/2026).** Luis deja la frase como está tras ver el contexto (*«Se queda»*). U10 y U11 cerrados. **Marcador (Regla 14):** sin cambio. HTML sin publicar (Regla 38).
