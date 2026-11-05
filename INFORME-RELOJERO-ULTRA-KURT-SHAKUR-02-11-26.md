@@ -540,6 +540,8 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 - **Título y subtítulo, segunda versión (05/11/26):** Luis cambia el título a **«KURT Y SHAKUR: FLORECER EN EL HORMIGÓN»** (sustituye a «…LA ROSA · FLORECER PARA MORIR», que dura unas horas) y el subtítulo de portada a **«Ruido compartido, nostalgia prestada, resistencia material y químicos eternos corporativos»** (ya sin «resistencia urbana»). Cambiado en todos los sitios del cambio anterior (la pieza, el depósito de GLOSAS EXTENDIDAS, tres filas de registro, la semilla y la clave de `glosas-tratadas.json`); ningún resto del título anterior. Dicho por Claude: el título repite casi el subtítulo de la última sección («La rosa y el hormigón») y adelanta su imagen final; «florecer» recupera el «Bloom» de «In Bloom».
 
+- **Título confirmado (05/11/26):** Luis lo deja **«KURT Y SHAKUR: FLORECER EN EL HORMIGÓN»**, sin «para morir» (Claude explicó que contradice el cierre y la rosa del poema). El título deja de estar pendiente.
+
 **Pendiente, una por una:** Luis decide si las filas 7 (Temático) y 11 (Discurso) pasan a «cumple» (los detalles de la 7 y el punto con peso de la 11 están resueltos); la poda de las glosas 10 y 12.
 
 ## Anexo A · Salida de las herramientas al lanzar
