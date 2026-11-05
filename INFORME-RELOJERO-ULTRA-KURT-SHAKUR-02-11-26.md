@@ -532,7 +532,9 @@ Aplicados el 02/11/26 sin consulta, con antes y después y con lo que cambia en 
 
 - **Fila 6, segunda reescritura (05/11/26):** Luis escribe «la resistencia debería (o debe) proteger lo que todavía puede vivir» y «las próximas generaciones de UR pueden agrietar la trigonometría del sistema». Por I.7, punto 3 (paréntesis con «o»), Claude eligió «debe» (forma directa); **Luis lo rechaza y mantiene «debería»** (05/11/26): no es un condicional de cautela sino una apelación moral («¿vas a hacer lo que debes? si no lo haces, deberías»); el deber ha de ser intrínseco a la resistencia, sin la imposición de «debe». Aplicado «debería». «Comienzan… empieza» deja de ser un eco. UR vuelve a estar presente en el cuerpo (la nota de la fila 17 se corrige).
 
-**Pendiente, una por una:** la fila 10 (Pragmático); en la fila 11 (fricción de Luis) queda por ver si, resueltas las frases, la pasa a «cumple»; la frase puente y el resto de detalles de la fila 7; la poda de las glosas 10 y 12; el título.
+- **Frase puente (05/11/26):** Claude propone una frase («Hay otra herencia que no suena en ningún auricular»); Luis la descarta («otra herencia» pone la música y los químicos eternos en el mismo nivel) y escribe la suya, que se aplica como párrafo propio justo antes del subtítulo «¿Qué llevan los fluidos vitales?»: «Kurt y Shakur recuerdan mucho más que dos vidas truncadas; abren un camino cultural de esperanza compartida. La antiadherencia del teflón y el aislamiento térmico del amianto prometieron durabilidad sin la lista de contraindicaciones.» El ajuste de Claude con sujeto pospuesto se leía como si Kurt y Shakur hubieran prometido; Luis lo corrige. Dicho por Claude: «prometieron durabilidad» adelanta el «Ambos prometieron durar» del párrafo siguiente.
+
+**Pendiente, una por una:** la fila 10 (Pragmático); en la fila 11 (fricción de Luis) queda por ver si, resueltas las frases, la pasa a «cumple»; el resto de detalles de la fila 7 (la frase puente queda aplicada); la poda de las glosas 10 y 12; el título.
 
 ## Anexo A · Salida de las herramientas al lanzar
 
