@@ -58,11 +58,11 @@ Fase 0, encuadre antes de escribir: Luis fija tipo de texto, función, fuentes, 
 
 ### I.7 · Textos y materiales de Luis
 
-1. **Lo que Luis entrega como redacción se aplica tal cual**; las erratas y los errores de dato se corrigen y se informan.
+1. **Lo que Luis entrega como redacción se aplica tal cual.** Las erratas de letra o de puntuación se corrigen y se informan. **Los errores de dato no se corrigen sin su consentimiento** (Luis, 06/11/26: «No corrijas sin mi consentimiento»): Claude los señala una sola vez, con la fuente, y la redacción de Luis se queda hasta que él decida.
 2. **Lo que Luis pega, selecciona o comenta en la conversación es material de trabajo, no redacción**: no se escribe en el libro ni se convierte en norma sin que lo pida. Claude responde con propuestas en antes y después y no aplica un comentario como si fuera texto. Cuando Luis dice «te lo digo a ti», es material para el criterio de Claude.
 3. **Paréntesis con «o» en los textos de Luis** son alternativas para que Claude elija: se elige una, se dice cuál y por qué en una línea, y nunca se copian las dos ni el paréntesis.
 4. **El tiempo de Luis:** el informe solo lleva hallazgos con norma y motivo; ni «por si acaso», ni cautelas, ni refinamientos que nadie pidió. Cuando una norma ya decide, no es fricción: se aplica y se muestra. Una vez que Luis decide, se aplica y se sigue; no se reabre.
-5. **Antes de quitar texto de Luis, se le comenta y se espera su consentimiento** (Luis, 04/11/26). Rige también cuando la corrección de un error de dato supone quitar una frase o parte de ella: primero se le dice qué se quitaría y por qué, y se aplica solo cuando lo autoriza. Las erratas de letra o de puntuación siguen el punto 1.
+5. **Antes de quitar texto de Luis, se le comenta y se espera su consentimiento** (Luis, 04/11/26). Rige también cuando la corrección de un error de dato supone quitar una frase o parte de ella: primero se le dice qué se quitaría y por qué, y se aplica solo cuando lo autoriza. Las erratas de letra o de puntuación siguen el punto 1; los errores de dato, la regla del punto 1 (Luis, 06/11/26).
 
 ---
 
@@ -824,7 +824,7 @@ La Norma 62 es la **Parte II** de este archivo, entera: aplicación estricta y a
 | 4 | I.4 | Narrativa y ensayo | L, O | el registro de la pieza lo decide Luis (pregunta única al empezar, `(*-red)`) | Luis | previa |
 | 5 | I.5 | Disciplina del informe | X | los ocho puntos: comprobación previa, norma+cita+gravedad+alcance, frases cruzadas, cuatro categorías, TEXTO/GLOSA, sin % ni oferta, intervención local, Tabla Margarita | Claude | informe |
 | 6 | I.6 | Ciclo de trabajo de una pieza | X | escritura limpia en origen (nunca primera versión sucia); Ultra en el lugar del Plus; decisión de Luis; intervención local | Claude, Luis | siempre |
-| 7 | I.7 | Textos y materiales de Luis: su redacción se aplica tal cual; lo que pega o comenta es material de trabajo; paréntesis con «o»; sin refinamientos no pedidos | X | la redacción de Luis no se altera salvo erratas y errores de dato informados; ningún comentario se aplica como texto; se elige una alternativa entre paréntesis y se dice cuál | Claude | siempre |
+| 7 | I.7 | Textos y materiales de Luis: su redacción se aplica tal cual; lo que pega o comenta es material de trabajo; paréntesis con «o»; sin refinamientos no pedidos | X | la redacción de Luis no se altera salvo erratas de letra o puntuación informadas; los errores de dato se señalan una vez y no se corrigen sin su consentimiento (06/11/26); ningún comentario se aplica como texto; se elige una alternativa entre paréntesis y se dice cuál | Claude | siempre |
 | 8 | II.1; II.2; II.3; II.4; II.5; II.6; II.7; II.8; II.9 | El Relojero Ultra: alcance, lanzamiento, recorridos, reglas, informe y revisión externa | X | el informe declara fecha, tamaño del archivo, rango de normas, lectura completa del archivo, los cinco recorridos y la matriz entera; en el recorrido 4, los falsos positivos conocidos del banco de controles (VI.2) se anotan y no se tratan como hallazgo | Claude | cada lanzamiento |
 | 9 | I–IV | Definición del género; tesis, narrativa y crónica material | L, O | tesis deducible desde la primera página; microhistoria documentada; la materia es argumentativa | Luis | previa |
 | 10 | V y VII | Doble fondo (material, simbólica, política) e ilusionismo hídrico | L, O | las tres capas presentes; el símbolo ancla en lo verificable | Luis | línea |
