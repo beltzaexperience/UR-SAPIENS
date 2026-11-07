@@ -18,6 +18,7 @@ Todo lo que no es texto del libro pero hace falta para trabajarlo. Los textos de
 | `edicion/herr.py` | Búsqueda tolerante a etiquetas y entidades dentro del texto y aplicación de lotes antes/después. |
 | `edicion/medir-piezas.js` | Palabras y caracteres de cada pieza de `urtz.html` (node y playwright). |
 | `edicion/lectura-rubrica.md` | Protocolo de la lectura de ocho lectores independientes (nueve criterios, calibración). |
+| `edicion/panel-lectura.py` | Método único de lectura (07/11/26): prepara el panel de piezas con las anclas y las ocho carpetas de lectura rotadas (`preparar`) y resume los resultados con nota bruta, ajustada, criterios y reparos (`resumir`). |
 | `edicion/lectura-resumen.py` | Nota, medias por criterio, ajuste de calibración y dispersión de una ronda de lectura. |
 | `edicion/calibracion/` | Las dos piezas de calibración (Angostura e Islandia I) en la versión usada en las lecturas. |
 
