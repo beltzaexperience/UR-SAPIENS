@@ -1,4 +1,49 @@
-# Lectura de ocho lectores independientes: protocolo
+
+# Lectura de ocho lectores independientes: método único
+
+## Método único (vigente desde el 07/11/26)
+
+**Decisión de Luis (07/11/26):** unificar los métodos de calificación y comparar los capítulos más trabajados (Cultura y K&S) en la misma escala. Sustituye a las variantes de abajo (calibrada de octubre, sin referencia del 27/10, comparada del 05/11), que quedan como historial y **no se suman ni se comparan** con las nuevas.
+
+**Panel.** En cada ronda, **todas las piezas que se comparan más las dos anclas** (Angostura e Islandia I, con sus notas oficiales de calibración, 3,50 y 3,16), leídas por **ocho lectores nuevos**; cada lector lee **todos** los textos, en órdenes rotados (rotación cíclica y su inversa), con el mismo encargo y la misma rúbrica, **sin aviso de terminología UR/'T'** y sin historia de la pieza. Cada lector compara así los textos entre sí, que es el control más fuerte contra su dureza.
+
+**Herramienta.** `panel-lectura.py`:
+- `python3 herramientas/edicion/panel-lectura.py preparar CARPETA ks="kurt shakur florecer" cultura="cultura: continente ibérico umbral"` extrae cuerpo y glosa en limpio de cada pieza (clave = comienzo del `data-s`), copia las anclas, crea las ocho carpetas de lectura con la rotación y escribe `encargo_1.txt` a `encargo_8.txt`. La carpeta va fuera del repositorio (por ejemplo en `$UR_TRABAJO`).
+- Se lanzan ocho subagentes nuevos con el contenido de cada `encargo_k.txt` (cada uno escribe su `resultados/lector_k.txt`).
+- `python3 herramientas/edicion/panel-lectura.py resumir CARPETA` traduce los resultados con `mapa.json` y muestra las notas.
+
+**Puntuación (igual que antes).** De 1 a 5, con medios puntos, en nueve criterios: *aporte*, *prosa*, *evidencia*, *público*, *editores*, *entrada*, *emoción*, *no especialista*, *memorabilidad*. **Nota = 60 % calidad (aporte, prosa, evidencia) + 40 % impacto (público, editores).** El resultado es un solo cuadro:
+1. nota **bruta** de cada pieza (media de ocho) con calidad, impacto, desviación y rango por lector;
+2. nota **ajustada**: a la nota bruta de cada lector se le suma la media de las diferencias entre la nota oficial de las dos anclas y la que ese lector les dio;
+3. **diferencia entre piezas** (media, desviación y cuántos lectores dan ventaja a cada una);
+4. media por **criterio**;
+5. **reparos** agrupados con su recuento (X de 8).
+**Letra** sobre la nota ajustada: **α** desde 3,34; **β** de 2,74 a 3,33; **γ** por debajo.
+
+**Cómo se lee.**
+- Diferencias menores de ≈0,2 de nota son **ruido**; entre dos piezas, empate técnico.
+- Un reparo repetido por **4 o más de 8** lectores es un **deber** de la pieza; un deber se cierra al corregirlo o al anotarlo como **decisión de autor** (Luis); lo decidido no se reabre (I.7).
+- *Evidencia* sube con el tamaño de la glosa; las dos anclas se ajustan distinto (±0,2 de incertidumbre en la ajustada); los lectores son del mismo modelo: sirven para ordenar piezas y sacar reparos, no para decir si una pieza es buena en absoluto. La validación real es de lectores humanos.
+
+**Línea base (07/11/26).** Panel de cuatro textos, ocho lectores:
+
+| Pieza | Bruta | Ajustada | Rango por lector |
+|---|---|---|---|
+| Cultura: Continente Ibérico | 3,90 | **4,42** | 4,28 a 4,58 |
+| Kurt y Shakur: Florecer en el hormigón | 3,77 | **4,29** | 3,93 a 4,58 |
+| Angostura | 3,29 | (3,50 oficial) | |
+| Islandia I | 2,34 | (3,16 oficial) | |
+
+Diferencia K&S menos Cultura: −0,12 (desviación 0,20; 1 lector a favor de K&S, 3 empates, 4 a favor de Cultura): empate técnico. K&S gana en público, entrada, emoción y no especialista; Cultura, en evidencia, editores y aporte. **Fiabilidad:** K&S sacó 3,74 bruta y 4,29 ajustada en una ronda de tres textos el mismo día, y 3,77 y 4,29 en esta.
+
+**Ciclo por pieza.** (1) Ronda **diagnóstica por roles** (propuesta, aún sin estrenar; sin nota): ocho lectores con una misión cada uno (frase a frase, no especialista, editor de ensayo, verificador de hechos, riesgo legal y reputacional, hostil, empático, lector del libro con la terminología UR); (2) Luis decide los reparos de 4 o más de 8; (3) control del Relojero Ultra sobre lo tocado (II.6, punto 6); (4) cuando Luis cierra el texto: poda de la glosa, Relojero Ultra completo y **ronda de calificación con el panel fijo**; (5) cada pieza nueva con nota se añade a la línea base solo si se vuelve a leer en el mismo panel que las demás.
+
+**Qué queda abierto.** Si Cultura y K&S pasan a ser las anclas de calibración de los demás capítulos (lo que Luis dijo el 27/10), hay que fijar sus notas de referencia con esta línea base y recalcular las letras.
+
+---
+
+## Historial (protocolos hasta el 06/11/26)
+
 
 Reconstrucción del protocolo con el que se leyeron las piezas (el texto exacto de las instrucciones a los lectores no se conservó; la Norma 55, en su registro, ya lo describe como «rúbrica reconstruida»). Resumen de las notas con `lectura-resumen.py`.
 
