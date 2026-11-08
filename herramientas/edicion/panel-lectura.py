@@ -15,6 +15,7 @@ Uso:
       Lee resultados/lector_k.txt, los traduce con mapa.json y muestra notas brutas y ajustadas por calibración,
       criterios, diferencias por lector y las líneas cualitativas de cada pieza.
 
+Cada encargo lleva el aviso de terminología UR / 'T' del protocolo del 27/10/26 (restituido el 08/11/26: la primera versión del panel único lo había omitido).
 Los lectores son subagentes del mismo modelo: sirven para ordenar piezas y sacar reparos, no para decir si una pieza
 es buena en absoluto. Diferencias menores de ≈0,2 puntos de nota son ruido.
 """
@@ -30,6 +31,7 @@ LECTORES = 8
 
 ENCARGO = """Eres un lector independiente y exigente de ensayo en español. No conoces al autor, ni la historia de los textos, ni otras lecturas. Tu tarea: leer {n} textos de un mismo libro de ensayo, que están en estos archivos y debes leer en este orden:
 {lista}
+AVISO DE TERMINOLOGÍA (es lo único que se te da por adelantado): En este libro «UR» es el símbolo del agua y del origen (en euskera, ur significa «agua»); es el protagonista y no se explica en cada pieza. La «'T'» es el signo del poder que ordena, cobra y obliga: el Estado, la tablilla, el impuesto. No se te pide compartir esa lectura, solo saber a qué se refieren los dos signos.
 Cada texto es una pieza con su cuerpo y, al final, su glosa (notas numeradas). Léelos enteros, uno tras otro, y puntúa cada uno por separado, sin dejarte arrastrar por el anterior. Las piezas tienen longitudes distintas; no puntúes por tamaño.
 
 PUNTUACIÓN: de 1 a 5, con medios puntos (1 muy flojo, 3 correcto, 5 excepcional; usa toda la escala, sin inflar ni castigar por defecto, y sé coherente al comparar los {n} textos entre sí), en nueve criterios:
