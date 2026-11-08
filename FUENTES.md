@@ -1,6 +1,6 @@
 # FUENTES — estado de lo que Claude ha abierto (Norma 61)
 
-**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 06/11/26.
+**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 08/11/26.
 
 ## CULTURA: CONTINENTE IBÉRICO
 
@@ -63,4 +63,7 @@ Para el bloque «EN BRUTO · MAR MENOR · LEY 19/2022» de URIM (texto sacado de
 | PIVISTEA, Programa Integral de Vigilancia de la Salud de los Trabajadores Expuestos al Amianto (Ministerio de Sanidad; informe de seguimiento de la Comunidad de Madrid, 2025) | **RESUMEN** (extracto de búsqueda, 06/11/26); `sanidad.gob.es` no resuelve desde la sesión | — | Glosa 7: programa aprobado en 2003 y aplicado desde 2004. **Pendiente de verificar:** la lista de pruebas del cuerpo (anamnesis clínico-laboral, espirometrías, radiografías de tórax, tomografía computarizada de alta resolución) no se ha leído en el texto oficial |
 | Britannica, «DuPont Company»; Wikipedia, «DuPont» (extractos de búsqueda, 06/11/26); Riverwatch, EcoAlbania y NRS sobre la Balkan Rivers Tour y Rok Rozman | **RESUMEN** (extractos de búsqueda; ninguno abierto en texto completo) | — | Glosas 10 y 19: DuPont fundada en 1802 como fábrica de pólvora; teflón, 1938 (Plunkett); Nylon, Neopreno y Lycra como desarrollos de DuPont, **sin fechas** (las fuentes difieren: neopreno 1930 o 1931; nailon 1935 inventado y 1938 presentado; Lycra sin año hallado); Rok Rozman, kayakista y biólogo esloveno que fundó Balkan River Defence; «remero olímpico» del cuerpo no confirmado hoy (las fuentes dicen «atleta olímpico») |
 | Wikipedia, «Rok Rozman» (texto pegado por Luis el 06/11/26): deportista esloveno de remo (Kranj, 1988); bronce en el Mundial de remo de 2009 (cuatro sin timonel); cuarto en la misma prueba en los Juegos Olímpicos de Pekín 2008 | **LEÍDO** (el extracto pegado; artículo completo sin abrir) | — | Glosa 19 y cuerpo: «remero olímpico esloveno» queda **confirmado**. Corrige la nota anterior de FUENTES (no confirmado) |
+| Harmand et al. (2015), «3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya», *Nature* 521 | RESUMEN (resultados de búsqueda y notas de prensa; artículo sin abrir) | — | Glosa 1: Lomekwi 3, unos 3,3 millones de años, anteriores a los fósiles de *Homo* conocidos; especie autora sin determinar; datación discutida por algunos autores |
+| Plummer et al. (2023), «Expanded geographic distribution and behavioral strategies of the earliest Oldowan tools and cut-marked bones», *Science* 379 | RESUMEN (resultados de búsqueda; artículo sin abrir) | — | Glosa 1: Nyayanga (Kenia), unos 2,9 millones de años (rango 3,03 a 2,58), con restos de *Paranthropus* |
+| Semaw y colaboradores, Gona Project (Awash, Etiopía) | RESUMEN (Leakey Foundation y resultados de búsqueda; artículos sin abrir) | — | Glosa 1: Gona, unos 2,6 millones de años, industria olduvayense; se cita sin año ni revista hasta abrir el original |
 
