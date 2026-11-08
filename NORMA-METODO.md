@@ -4,7 +4,7 @@
 
 **El único corrector es el Relojero Ultra (Norma 62, Parte II).** El Relojero-Plus no existe salvo que Luis lo pida. **El Ultra comprueba todo lo que figura en este archivo, sin excepción:** cada sección, cada norma, cada subnorma y derivada, cada fila de la matriz (Parte VI) y cada uno de los 18 análisis. Nada de este archivo queda fuera de su control.
 
-**Estructura.** I principios · II el Relojero Ultra · III marco del libro y secciones I–XXVII · IV decisiones fijas · V normas 0–62 · VI matriz del Ultra (umbrales y 18 análisis) · VII archivo.
+**Estructura.** I principios · II el Relojero Ultra · III marco del libro y secciones I–XXVII · IV decisiones fijas · V normas 0–63 · VI matriz del Ultra (umbrales y 18 análisis) · VII archivo.
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### I.1 · Aplicación total (Norma Fundacional)
 
-Toda corrección recorre el listado completo: secciones I a XXVII, normas 0 a 62 (con la 32 bis y la 42 bis), los 18 análisis y la matriz de la Parte VI, contra el cuerpo **y** la glosa. Una norma que no aplica se descarta con motivo escrito; nunca se salta en silencio. Silencio no es excepción.
+Toda corrección recorre el listado completo: secciones I a XXVII, normas 0 a 63 (con la 32 bis y la 42 bis), los 18 análisis y la matriz de la Parte VI, contra el cuerpo **y** la glosa. Una norma que no aplica se descarta con motivo escrito; nunca se salta en silencio. Silencio no es excepción.
 
 Una norma solo se rompe por decisión explícita de Luis, caso por caso: (1) Claude detecta la posible excepción; (2) escribe por qué la norma roza de verdad con ese texto; (3) solo Luis autoriza la excepción; (4) solo Luis cambia la norma general, en conversación aparte, nunca dentro de una corrección. «El razonamiento es más fuerte» es condición para proponer una excepción, no para ejecutarla.
 
@@ -74,7 +74,7 @@ El Relojero Ultra (el «plus-ultra») es **el único relojero**. Sustituye al Re
 
 ### II.2 · Alcance absoluto
 
-El Ultra comprueba, sin selección ni discreción, **todo lo que figura en este archivo**: cada sección de las Partes I a VII; cada norma 0 a 62 (con 32 bis y 42 bis); cada subnorma y derivada (36.7, 36.8, 36.9, 38.1 bis, 38.1 ter, 38.2 bis, 50.7, 50.8, 55.12, las adendas de la 33, el automatismo y las cinco excepciones de la 28, los moldes de la 59 y la 60…); las secciones I a XXVII y sus reglas operativas; los 18 análisis; las decisiones fijas de la Parte IV; y las Reglas 14, 38, 39, 42 y 43 de `NOTAS-URTZ.md`. Todo figura, fila a fila, en la matriz de la Parte VI. **Una regla sin fila no existe para el procedimiento:** al escribir una norma nueva se añade su fila (y su medida, si es medible) en el mismo paso.
+El Ultra comprueba, sin selección ni discreción, **todo lo que figura en este archivo**: cada sección de las Partes I a VII; cada norma 0 a 63 (con 32 bis y 42 bis); cada subnorma y derivada (36.7, 36.8, 36.9, 38.1 bis, 38.1 ter, 38.2 bis, 50.7, 50.8, 55.12, las adendas de la 33, el automatismo y las cinco excepciones de la 28, los moldes de la 59 y la 60…); las secciones I a XXVII y sus reglas operativas; los 18 análisis; las decisiones fijas de la Parte IV; y las Reglas 14, 38, 39, 42 y 43 de `NOTAS-URTZ.md`. Todo figura, fila a fila, en la matriz de la Parte VI. **Una regla sin fila no existe para el procedimiento:** al escribir una norma nueva se añade su fila (y su medida, si es medible) en el mismo paso.
 
 **El revisor nunca decide qué normas «tocan» una línea.** Cada fila se contrasta con la pieza completa; las que no aplican se descartan con motivo escrito.
 
@@ -263,7 +263,7 @@ La lectura editorial de ocho lectores independientes (nueve criterios: aporte, p
 
 ---
 
-## PARTE V · LAS NORMAS NUMERADAS (0–62)
+## PARTE V · LAS NORMAS NUMERADAS (0–63)
 
 *Cada norma: regla, prueba, umbral, excepción y quién corrige (**A** automatismo, **O** orgánica, **F** fricción, **L** lectura, **Tipo O** decide Luis; ver I.2).*
 
@@ -806,6 +806,20 @@ La segunda expresión de la tesis como molde de frase (la 59 era la primera). Di
 
 La Norma 62 es la **Parte II** de este archivo, entera: aplicación estricta y absoluta; sustituye al Relojero-Plus; no deja fuera de su control ninguna norma, derivada, análisis ni regla de este archivo. **Corrige:** Claude diagnostica y aplica los automatismos; Luis firma las cinco filas de los análisis y decide lo demás.
 
+### 63 · Ortografía estricta: la norma académica y solo las excepciones registradas
+
+1. **Referencia única.** *Ortografía de la lengua española* (RAE-ASALE, 2010), *Diccionario de la lengua española* (DLE) vigente y *Diccionario panhispánico de dudas*; para el euskera, Euskaltzaindia (*Hiztegi Batua*); para cualquier otra lengua, su ortografía oficial. Ni criterios propios ni «a mí me suena».
+2. **Qué se comprueba, palabra por palabra, en el cuerpo y en la glosa:** letras y grafías (b/v, g/j, h, ll/y, c/z/s); tildes, incluidas las de hiato y diptongo y la ausencia de la tilde diacrítica en *solo*, *este*, *ese*, *aquel*, y de la tilde en *guion*, *truhan*, *fie*, *dio*, *vio*; mayúsculas y minúsculas; signos dobles de apertura y cierre; comillas (angulares, y dentro de ellas las inglesas; la 'T' en comillas rectas simples, Norma 15); números, unidades, abreviaturas y siglas; extranjerismos (en cursiva) y nombres propios con su grafía oficial.
+3. **Las excepciones son solo tres, y todas constan en el Registro del punto 5.** (a) El **nombre propio o título tal como lo escribe su autor**: el «Geroglífico UR» de J. M. Sansinenea (1969) conserva la *g* antigua porque es el nombre de la obra. (b) La **cita literal** de un texto con ortografía antigua, con su fuente. (c) Un **recurso ortográfico deliberado de Luis**, autorizado por escrito caso por caso y con su motivo. Luis (08/11/26) pidió una norma muy estricta que solo admita recursos como el «Geroglífico» de Sansinenea o parecidos por ortografía antigua. **Todo lo demás es errata, aunque parezca intencionado:** no hay grafías de época por estilo, ni variantes que la RAE no recoja, ni licencias de dictado.
+4. **Cuándo y quién.** Se comprueba en todo texto nuevo o modificado y en la pasada final del Ultra (recorrido 3, punto iv). **La corrección es de Claude, sin consulta, y se informa con antes y después** (I.7, punto 1). Un cambio que añada o quite palabras no es ortografía: se propone. En una pieza ☠ NO TOCAR, la corrección ortográfica se propone y espera la autorización explícita de Luis. Las citas literales, los títulos y los textos ajenos no se tocan.
+5. **Registro de excepciones ortográficas.** Una grafía que no esté aquí es una errata.
+
+| Grafía | Dónde | Motivo | Autorizada |
+|---|---|---|---|
+| *Geroglífico* (en «Geroglífico UR») | siete apariciones del nombre en el libro | Nombre de la obra de J. M. Sansinenea (1969); grafía antigua de *jeroglífico* propia del título. El nombre común sigue siendo *jeroglífico* | Luis, 08/11/26 |
+
+6. **Estado de la herramienta.** No hay corrector ortográfico automático: la comprobación es lectura palabra por palabra y, en la duda, consulta del DLE. El Ultra se apoya en `relojero-ultra-palabras.py` para la lista de palabras de la pieza. Un corrector automático queda como mejora pendiente. **Corrige:** Claude (A: ortografía y puntuación, sin consulta y con informe); Luis autoriza las excepciones y toda corrección dentro de una pieza ☠.
+
 ---
 
 ## PARTE VI · MATRIZ DEL RELOJERO ULTRA
@@ -929,6 +943,7 @@ La Norma 62 es la **Parte II** de este archivo, entera: aplicación estricta y a
 | 109 | Regla 42 | Antes y después con lo que cambia en negrita | X | todo informe y toda propuesta | Claude | informe |
 | 110 | Regla 43 | Procedimiento de mejora final | X | el Ultra, completo, en cada punto del ciclo | Claude | siempre |
 | 111 | XXVII (los 18 análisis) | Los 18 análisis de la sección XXVII (véase VI.3) | M, L, O | tabla de 18 filas; cinco filas las firma Luis | Claude; Luis firma | cada lanzamiento |
+| 112 | 63 | Ortografía estricta: la norma académica y solo las excepciones registradas | L, A, X | lectura palabra por palabra del cuerpo y de la glosa contra la RAE (Ortografía 2010, DLE, DPD); toda grafía fuera de la norma es errata salvo las del Registro de excepciones (Norma 63, punto 5); las correcciones se informan con antes y después | Claude (A); Luis autoriza excepciones y correcciones dentro de piezas ☠ | siempre |
 
 ### VI.2 · Medidas y umbrales de las filas de tipo M
 
