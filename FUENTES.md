@@ -1,6 +1,6 @@
 # FUENTES — estado de lo que Claude ha abierto (Norma 61)
 
-**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 08/11/26.
+**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 09/11/26.
 
 ## CULTURA: CONTINENTE IBÉRICO
 
@@ -66,4 +66,8 @@ Para el bloque «EN BRUTO · MAR MENOR · LEY 19/2022» de URIM (texto sacado de
 | Harmand et al. (2015), «3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya», *Nature* 521 | RESUMEN (resultados de búsqueda y notas de prensa; artículo sin abrir) | — | Glosa 1: Lomekwi 3, unos 3,3 millones de años, anteriores a los fósiles de *Homo* conocidos; especie autora sin determinar; datación discutida por algunos autores |
 | Plummer et al. (2023), «Expanded geographic distribution and behavioral strategies of the earliest Oldowan tools and cut-marked bones», *Science* 379 | RESUMEN (resultados de búsqueda; artículo sin abrir) | — | Glosa 1: Nyayanga (Kenia), unos 2,9 millones de años (rango 3,03 a 2,58), con restos de *Paranthropus* |
 | Semaw y colaboradores, Gona Project (Awash, Etiopía) | RESUMEN (Leakey Foundation y resultados de búsqueda; artículos sin abrir) | — | Glosa 1: Gona, unos 2,6 millones de años, industria olduvayense; se cita sin año ni revista hasta abrir el original |
+| The Fader (2016), «Afeni Shakur, revolutionary»; Jacobin (2021), «Afeni Shakur Took on the State and Won» | RESUMEN (resultados de búsqueda, 09/11/26; artículos sin abrir) | — | Glosa 18: Afeni embarazada, acusada en el caso Panther 21, se defendió sola; absolución en mayo de 1971 |
+| TIME (archivo), «Justice: Panthers Acquitted» | RESUMEN (extracto de búsqueda, 09/11/26) | — | Glosa 18: absolución de los 21 en los 156 cargos (13 de mayo de 1971, según TIME; otras fuentes, el 12); la duración de la detención varía (diez meses a dos años) |
+| Britannica, «Túpac Amaru II» | RESUMEN (extracto de búsqueda, 09/11/26) | — | Glosa 19: levantamiento de 1780 a 1783, ejecución en Cuzco el 18 de mayo de 1781; «mayor levantamiento indígena de la colonia» (varias fuentes) |
+| Wikipedia, «Afeni Shakur», «Panther 21» y «Tupac Shakur» (espejos y resultados de búsqueda) | RESUMEN (segunda mano declarada, 09/11/26) | — | Glosas 18 y 19: nacimiento el 16 de junio de 1971 como Lesane Parish Crooks; nombre Tupac Amaru Shakur hacia 1972 (fecha de fuentes secundarias); la cárcel de Greenwich Village, solo como «Women's House of Detention (Manhattan)» |
 
