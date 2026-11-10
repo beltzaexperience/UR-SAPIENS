@@ -89,5 +89,7 @@ Para el bloque «EN BRUTO · MAR MENOR · LEY 19/2022» de URIM (texto sacado de
 | Olga Weijers, «Contribution à l'histoire des termes *natura naturans* et *natura naturata* jusqu'à Spinoza», *Vivarium* 16 (1978), 70-80 (ficha en el Cambridge Spinoza Lexicon y en la *Bibliografia lul·liana*) | SIN ABRIR | — | Glosa 8: referencia histórica |
 | Fechas de Spinoza (1632-1677) y publicación póstuma de la *Ética* en 1677 | de memoria (pendiente de cotejo) | — | Glosa 9 |
 | `A- NATURE` (archivo del autor: diálogo con un asistente de inteligencia artificial, 30-31/10/26) | ABIERTA | `A- NATURE` | Glosa 6 y fuente de las preguntas; no es fuente de datos (Norma 61.9) |
+| Cicerón, *De finibus bonorum et malorum* V, texto latino (The Latin Library, descargado el 10/11/26) | ABIERTA (texto completo descargado y buscado por las formas de *alere*) | — | V, 26: *natura* como sujeto de *alit, auget, tuetur* (frase del chat, comprobada literal) |
+| Cicerón, *De natura deorum* II, texto latino (The Latin Library, descargado el 10/11/26) | ABIERTA (ídem) | — | II, 41: *alit, auget* con el fuego vital (no *natura*) como sujeto; II, 57: definición estoica de Zenón (*naturam… ignem esse artificiosum ad gignendum progredientem via*); II, 81-83: la naturaleza y la tierra que *alat et augeat* |
 
 Pendiente de abrir: la entrada *natura* de Lewis y Short (alatius.com bloqueado en la sesión), el capítulo 2 de Lewis, Pellicer, Weijers; el DLE de «naturaleza» y «escritura»; *Deus sive Natura* (*Ética* IV, prefacio) para sostener «Dios y naturaleza coinciden» del cuerpo.
