@@ -1,6 +1,6 @@
 # FUENTES — estado de lo que Claude ha abierto (Norma 61)
 
-**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 09/11/26.
+**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 10/11/26.
 
 ## CULTURA: CONTINENTE IBÉRICO
 
@@ -72,3 +72,22 @@ Para el bloque «EN BRUTO · MAR MENOR · LEY 19/2022» de URIM (texto sacado de
 | Wikipedia, «Afeni Shakur», «Panther 21» y «Tupac Shakur» (espejos y resultados de búsqueda) | RESUMEN (segunda mano declarada, 09/11/26) | — | Glosas 18 y 19: nacimiento el 16 de junio de 1971 como Lesane Parish Crooks; nombre Tupac Amaru Shakur hacia 1972 (fecha de fuentes secundarias); la cárcel de Greenwich Village, solo como «Women's House of Detention (Manhattan)» |
 | Dischord (página de Ian MacKaye), Britannica «Fugazi» y resultados de búsqueda sobre Bad Brains | RESUMEN (resultados de búsqueda, 09/11/26; artículos sin abrir) | — | Glosa 2: Bad Brains, Washington D. C. (1977); Fugazi, Washington D. C. (1986 o 1987, según la fuente; en pausa indefinida desde 2003). Discharge, Stoke-on-Trent (1977), sigue en el resumen de Wikipedia de la fila anterior |
 
+## NATURA (Prólogo, URIM)
+
+| Fuente | Estado | Archivo | Para qué se usa |
+|---|---|---|---|
+| C. S. Lewis, *Studies in Words*, cap. 2 «Nature» (pasaje reproducido en el blog Sententiae Antiquae, «Nature, Naturally», 21/07/2022; texto pegado por Luis el 10/11/26) | ABIERTA (segunda mano: el pasaje, no el libro); año de edición (CUP, 1960) de memoria | — | Glosa 3: sentido más común de *natura* («clase, cualidad, carácter»); base común con *nasci*, *natus*, *natio* |
+| Lewis y Short, *A Latin Dictionary* (1879), entrada *naturalis* (texto pegado por Luis el 10/11/26) | ABIERTA (solo *naturalis*); la entrada *natura* SIN ABRIR (alatius.com no resuelve desde la sesión) | — | Glosa 3: «por nacimiento, propio»; «propio de la naturaleza de las cosas» |
+| Wiktionary, «nascor» (resultados de búsqueda, 10/11/26) | RESUMEN | — | Glosa 1: raíz indoeuropea *ǵenh₁-*, forma antigua *gnatus*, parentesco con *gignō* y γεννάω |
+| Wikcionario, «-ura»; Wiktionary, «-tura» (con cita de D. G. Miller, *Latin Suffixal Derivatives in English*, 2006, §3.9) | RESUMEN (Miller, citado en Wiktionary; SIN ABRIR) | — | Glosa 2: origen incierto de *-ura*; relación con *-turus* discutida |
+| Peter Smith, *Greek and Latin Roots I: Latin*, §72 (eCampusOntario; extracto de búsqueda) | RESUMEN | — | Glosas 2 y 4: *-ura* sobre la base del participio; *scribere → scriptura*, «un escrito» |
+| DLE, «lectura»; Etymonline, «lecture»; Wiktionary, «lecturus» (extractos de búsqueda) | RESUMEN | — | Glosa 4: «Acción de leer» / «Obra o cosa leída», del bajo latín; base discutida (*lectus* o *lecturus*) |
+| Wiktionary, «-trix» (extracto de búsqueda) | RESUMEN | — | Glosa 5: femeninos de agente en *-trix*, correlato de *-tor* |
+| Wiktionary, «φύσις» (extracto de búsqueda); Homero, *Odisea* X, 303 | RESUMEN | — | Glosa 7: *phýsis*, de *phýō*; primer uso conocido en la *Odisea* |
+| André Pellicer, *Natura. Étude sémantique et historique du mot latin* (PUF, París, 1966; ficha bibliográfica, 525 pp.) | SIN ABRIR | — | Glosa 7: obra de referencia sobre el término latino (no se le atribuye nada concreto) |
+| Cambridge Spinoza Lexicon, «Natura naturans and natura naturata»; Spektrum Lexikon der Philosophie; lex.dk, «natura naturans» (extractos de búsqueda) | RESUMEN | — | Glosas 8 y 9: terminología escolástica desde al menos el siglo XIII; Averroes y Michael Scot (con reservas); Spinoza, *Ética* I, 29, escolio |
+| Olga Weijers, «Contribution à l'histoire des termes *natura naturans* et *natura naturata* jusqu'à Spinoza», *Vivarium* 16 (1978), 70-80 (ficha en el Cambridge Spinoza Lexicon y en la *Bibliografia lul·liana*) | SIN ABRIR | — | Glosa 8: referencia histórica |
+| Fechas de Spinoza (1632-1677) y publicación póstuma de la *Ética* en 1677 | de memoria (pendiente de cotejo) | — | Glosa 9 |
+| `A- NATURE` (archivo del autor: diálogo con un asistente de inteligencia artificial, 30-31/10/26) | ABIERTA | `A- NATURE` | Glosa 6 y fuente de las preguntas; no es fuente de datos (Norma 61.9) |
+
+Pendiente de abrir: la entrada *natura* de Lewis y Short (alatius.com bloqueado en la sesión), el capítulo 2 de Lewis, Pellicer, Weijers; el DLE de «naturaleza» y «escritura»; *Deus sive Natura* (*Ética* IV, prefacio) para sostener «Dios y naturaleza coinciden» del cuerpo.
