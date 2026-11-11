@@ -1,6 +1,6 @@
 # FUENTES — estado de lo que Claude ha abierto (Norma 61)
 
-**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 10/11/26.
+**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 11/11/26.
 
 ## CULTURA: CONTINENTE IBÉRICO
 
@@ -89,7 +89,7 @@ Para el bloque «EN BRUTO · MAR MENOR · LEY 19/2022» de URIM (texto sacado de
 | Olga Weijers, «Contribution à l'histoire des termes *natura naturans* et *natura naturata* jusqu'à Spinoza», *Vivarium* 16 (1978), 70-80 (ficha en el Cambridge Spinoza Lexicon y en la *Bibliografia lul·liana*) | SIN ABRIR | — | Glosa 8: referencia histórica |
 | Fechas de Spinoza (1632-1677) y publicación póstuma de la *Ética* en 1677 | de memoria (pendiente de cotejo) | — | Glosa 9 |
 | `A- NATURE` (archivo del autor: diálogo con un asistente de inteligencia artificial, 30-31/10/26) | ABIERTA | `A- NATURE` | Glosa 6 y fuente de las preguntas; no es fuente de datos (Norma 61.9) |
-| Cicerón, *De finibus bonorum et malorum* V, texto latino (The Latin Library, descargado el 10/11/26) | ABIERTA (texto completo descargado y buscado por las formas de *alere*) | — | V, 26: *natura* como sujeto de *alit, auget, tuetur* (frase del chat, comprobada literal) |
+| Cicerón, *De finibus bonorum et malorum* V, texto latino (The Latin Library, descargado el 10/11/26) | ABIERTA (texto completo descargado y buscado por las formas de *alere*) | — | V, 26: *natura* como sujeto de *alit, auget, tuetur* (frase del chat, comprobada literal); V, 24 («Omne animal se ipsum diligit… se ut conservet… ad omnem vitam tuendam»); V, 38 («omnium rerum, quas et creat natura et tuetur»); V, 39 (la vid: «quod eam tuetur… est id extrinsecus»); orador del libro V: Pisón (el texto abierto lo nombra: «Tum Piso…»). |
 | Cicerón, *De natura deorum* II, texto latino (The Latin Library, descargado el 10/11/26) | ABIERTA (ídem) | — | II, 41: *alit, auget* con el fuego vital (no *natura*) como sujeto; II, 57: definición estoica de Zenón (*naturam… ignem esse artificiosum ad gignendum progredientem via*); II, 81-83: la naturaleza y la tierra que *alat et augeat* |
 | Fechas de las obras de Cicerón (*De finibus*, *De natura deorum*, hacia 45 a. C.), de Zenón de Citio (hacia 334-262 a. C.) y verso «Aeneadum genetrix» (*De rerum natura* I, 1); «el estoico Balbo» como orador del libro II (el texto latino abierto nombra a *Balbus*, no lo identifica como estoico) | de memoria (pendiente de cotejo) | — | Glosas 6, 7, 8 y 9 |
 | *Phoenix* (2018), doi 10.1353/phx.2018.0028 (artículo sobre la Natura rerum personificada en Lucrecio III; extracto de búsqueda) | RESUMEN | — | Glosa 9 |
