@@ -142,3 +142,29 @@ Luis: la diferencia entre «el nacer» y «cómo se es por haber nacido» es «l
 
 **Propuesta pendiente de orden de Luis:** reescribir las tres frases para que digan «el nacer y lo que de él resulta», sin identificar la palabra con los seres nacidos.
 
+## 7. Tercera réplica de Luis y retirada del «problema de redacción» (12/11/2026)
+
+Luis: el significado etimológico de *natura* está claro y ya redactado; presentarlo como «problema de redacción» se parece a lo que se critica en otras IA (inflar, confundir y retroceder). Preguntó si el resultado de nacer *es* lo nacido o *puede serlo*, qué textos respaldan lo que se dijo del uso, si la etimología coincide con los textos, cómo se llama la situación, si es normal, qué cambia entre *naturus* y *nasciturus*, y propuso sustituir *natura* por su significado etimológico en frases corrientes.
+
+**Retirado.**
+- El «problema de redacción» de la sección 6 queda **retirado**. Las frases «Natura era, pues, “lo nacido” y el proceso de nacer», «el nacer y lo nacido comparten nombre» y «Natura nombra el nacer y lo nacido» son **correctas como etimología**: «lo que resulta de haber nacido» es, en sentido literal, «lo nacido». El sufijo da «acción» o «resultado concreto» (Wiktionary, *-tura*; Smith §72: *nasci, natus* → *natura*, «a being born»; *scribere, scriptus* → *scriptura*, «a writing»; *struere, structus* → *structura*, «a building»).
+- La frase «No hay ningún texto latino donde *natura* signifique “los seres nacidos”» era **demasiado fuerte**. Lo que se sabe es que **los dos inventarios que se han leído** (Lewis y Short y Buisel) **no registran ese sentido**. No se han rastreado los textos.
+
+**Lo que se mantiene.** Etimología y uso son dos cosas. La etimología dice «acción de nacer / resultado de haber nacido» y no se discute. El uso documentado, en cambio, se aleja pronto: constitución innata (Plauto, Terencio), caracteres propios de cosas, naturaleza universal y causa (siglo I a. C., por calco de *phýsis*). Esa divergencia entre el sentido de la formación y el sentido de uso es normal y tiene nombre: **cambio semántico** (y **lexicalización**: cada palabra fija uno de los sentidos que su formación permite). El error que se evita es la **falacia etimológica**: tomar el sentido de la formación por el de uso.
+
+**Único punto de redacción que queda.** En el primer párrafo del capítulo, «Natura era, pues, “lo nacido” y el proceso de nacer, y también “el carácter natural de las cosas”» mezcla dos planos: la etimología («lo nacido», «el proceso de nacer») y el uso («el carácter natural»). Propuesta, pendiente de orden de Luis: «*Natura* significa, por su formación, “la acción de nacer” y “lo que resulta de haber nacido”; y en el uso latino pasó pronto a “el carácter natural de las cosas”».
+
+**Participios.** *Naturus* (no atestiguado como participio de *nascor*) y *nasciturus* (el real) se traducen igual: «el que va a nacer». Solo cambia la forma. Afecta únicamente a la hipótesis de que *natura* sea un femenino del participio de futuro, y a la idea de «lo que está por nacer» que apareció en la charla con la IA: sin *naturus*, esa idea de futuro no tiene apoyo en la formación.
+
+**Prueba de sustitución** (Luis): poner el significado etimológico, «el nacer / lo nacido / lo que resulta de haber nacido», donde diría *naturaleza*.
+- «La naturaleza inspira a los poetas» → «lo nacido inspira a los poetas»: funciona.
+- «Los artistas admiran la naturaleza» → «admiran lo nacido»: funciona.
+- «La naturaleza humana» → «lo que resulta de haber nacido humano»: funciona exactamente.
+- «Por naturaleza es generoso» → «por haber nacido así»: funciona.
+- «Contra natura» → «contra lo que dio el nacimiento»: funciona.
+- «La naturaleza de la piedra» → «lo que resulta de haber nacido piedra»: falla (las piedras no nacen): extensión posterior a las cosas.
+- «Las leyes de la naturaleza» → «las leyes de lo nacido»: forzado: sentido universal, por *phýsis*.
+- «La naturaleza creó…» → «lo nacido creó…»: falla: sentido de causa, por *phýsis*.
+- «Naturaleza cultural»: falla: lo cultural no nace; metáfora.
+La etimología explica bien los sentidos que hablan de seres que nacen (humano, vivo, innato) y deja de explicar los que no (cosas, universo, causa).
+
