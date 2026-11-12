@@ -80,3 +80,26 @@ La forma dice «actividad o resultado de nacer». El uso dice, primero, «consti
 3. **Sin comprobar** (fuera del texto): origen de *natura* en euskera (EHHE, Azkue), bretón, occitano, alto alemán antiguo.
 4. **Archivo `A- NATURE`:** procesado salvo el turno 15, que Luis dejó aparte.
 5. **Material disponible sin usar:** Garcilaso, Égloga II, «que volvió el alma a su naturaleza» (versos 1142-1143 según Wikisource); los listados de Stanford «nature» (otras acepciones); Bogdan sobre Varrón (repite a Pellicer y Buisel).
+
+## 4. Preguntas de Luis y respuestas (12/11/2026)
+
+Luis pidió que no se le dé la razón por darla (*«no busco tener razón, busco entender qué está pasando aquí»*) y preguntó qué significan los términos de la derivación y cuál es el sentido más antiguo.
+
+**Los términos.**
+- *Nascor*: verbo latino «nacer, originarse»; es deponente (forma pasiva, sentido activo). Viene de la raíz indoeuropea *ǵenh₁-* («engendrar»).
+- *Natus*: su participio de pasado, «nacido»; también «hijo». De la misma familia: *nativus*, *natalis*, *cognatus*, *agnatus*; en castellano, *nacer*, *natal*, *nación*, *nativo*.
+- *-ura*: sufijo que forma nombres de acción o de resultado a partir de una base participial: *scriptus* → *scriptura* (lo escrito), *pictus* → *pictura*. *Natura* sería, por esta vía, «lo que resulta de haber nacido» o «la acción de nacer».
+- *-turus*, *-urus*: terminación del participio de futuro activo, «el que va a…»: *amaturus* («el que va a amar»), *nasciturus* («el que va a nacer»). Se parece a *-ura* pero es otro sufijo. La hipótesis «*natura* sería el femenino de un *naturus*, “la que va a nacer”» tropieza con que el participio de futuro de *nascor* es *nasciturus*.
+
+**«Significación virtual».** Término de Buisel: un sentido que la palabra tendría *en potencia* por su formación, pero que no está documentado en ningún texto de esa época.
+
+**«Natura es anterior a qué textos?»** A los primeros que conservamos. La literatura latina empieza hacia el 240 a. C. (Livio Andronico), Plauto escribe hacia el 200 a. C. y Terencio hacia el 160 a. C. (fechas de memoria). La palabra pudo existir antes en la lengua hablada, y de eso no hay textos.
+
+**Las dos hipótesis sobre el sentido más antiguo.**
+- *H1, «acción de nacer»*: el nacimiento fue primero y de él salió la «constitución innata». A favor: la formación desde *nascor*; el infijo *-t-* con sentido activo (Ernout y Meillet, según Buisel); el verso de Terencio (*natura tu illi pater*); la etimología de Isidoro (*dicta ab eo quod aliquid nasci faciat*); el paralelo del griego *phýsis*, que significó primero «crecimiento» (Pellicer, según Buisel).
+- *H2, «estado resultante de haber nacido»*: *natura* se formó como nombre de resultado (como *scriptura*, «lo escrito») y significó desde el principio «cómo se es por haber nacido», es decir, constitución. A favor: el tipo de formación en *-ura*; el primer sentido atestiguado, «manera de ser innata» (Plauto), anterior al ejemplo de nacimiento de Terencio.
+
+**Respuesta a «¿cuál es el sentido más antiguo?»** No se puede afirmar con lo que tenemos. Lo atestiguado más antiguo es «manera de ser innata» (Plauto). Lo que predice la etimología es «nacimiento» (H1), pero H2 es igual de compatible con los textos. Los diccionarios que ponen «nacimiento» como sentido I (Lewis y Short) lo ordenan por la lógica de la derivación, no por fechas.
+
+**Corrección aplicada al capítulo (por orden de Luis: «Corrige»).** En «Cuántos sentidos tiene *natura*», «El de nacimiento es el más antiguo, pero casi no tiene testimonios» pasa a «El de nacimiento es el que la etimología deja esperar como primero, pero casi no tiene testimonios». Marcador: la pestaña pasa de 6.897 a 6.902 palabras.
+
