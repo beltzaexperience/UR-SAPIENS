@@ -103,3 +103,21 @@ Luis pidió que no se le dé la razón por darla (*«no busco tener razón, busc
 
 **Corrección aplicada al capítulo (por orden de Luis: «Corrige»).** En «Cuántos sentidos tiene *natura*», «El de nacimiento es el más antiguo, pero casi no tiene testimonios» pasa a «El de nacimiento es el que la etimología deja esperar como primero, pero casi no tiene testimonios». Marcador: la pestaña pasa de 6.897 a 6.902 palabras.
 
+## 5. Réplica de Luis y matices (12/11/2026)
+
+Luis: el significado etimológico de *natura* es «la acción de nacer» o «lo que resulta de haber nacido», y no hay nada que discutir; el sufijo está claro; la palabra pudo existir antes de los textos y eso «no es su problema». Preguntó dónde está la diferencia entre H1 y H2, qué significa «manera de ser innata», y si la escritura romana empieza en el 240 a. C.
+
+**Lo que se concede.**
+- El significado etimológico es el que dice Luis, y no se discute. Las dos lecturas (la acción y el resultado) son las dos que da el propio sufijo *-ura*. Llamar «a medias» a la etimología, o presentar H1 y H2 como dos hipótesis rivales, exageraba.
+- Lo que sí queda abierto no es la etimología sino la **historia del uso**: cuál de los dos sentidos se documenta antes y cómo se pasa de ahí al universo y a la causa que obra (por calco del griego, según Buisel).
+
+**Diferencia entre H1 y H2.** Ninguna en la etimología, ambas salen del sufijo; la única diferencia es cuál se usó primero: *el nacer* (un suceso) o *cómo se es por haber nacido* (un estado). Es la misma ambigüedad de *escritura*, que puede ser el acto de escribir o lo escrito.
+
+**Precisión que no sale de la etimología.** El sufijo también permite un tercer sentido, el de resultado como cosa (*scriptura*, «lo escrito»; por analogía, *natura*, «lo nacido»). Ese sentido concreto no está atestiguado en latín (ni en Lewis y Short ni en Buisel). La formación lo admite; el uso no lo muestra.
+
+**«Manera de ser innata».** Cómo es alguien o algo por haber nacido así, sin haberlo aprendido: carácter, temperamento, complexión. Ejemplo en el capítulo: Cicerón, *Ad familiares* 4, 6, 8, *mitis clemensque natura*, «en César existen la afabilidad y la clemencia por naturaleza».
+
+**Escritura y literatura.** Los romanos escriben desde mucho antes de que haya literatura. Las inscripciones latinas más antiguas son de los siglos VII a VI a. C.: la fíbula de Preneste (siglo VII a. C., fechación discutida y su autenticidad puesta en duda por Guarducci), el Lapis Niger del Foro (hacia 550 a. C.) y la inscripción de Duenos (hacia 500 a. C., con fechas entre los siglos VII y V). Las Doce Tablas se datan en el 449 a. C. por la tradición y se conocen por citas posteriores. Lo que empieza hacia el 240 a. C. es la **literatura** en sentido estricto, con Livio Andronico (fecha de memoria; la búsqueda no la confirmó) y, después, Plauto y Terencio. Los textos más antiguos son breves: nombres, dedicatorias, leyes. En ninguno de los citados consta *natura* (no comprobado: no se ha leído ninguno).
+
+**El paralelo con los iberos** (pregunta retórica de Luis): lo que hay de común es que existe escritura temprana y los textos conservados son cortos. Los iberos tienen su escritura propia y una lengua que no se lee bien; los romanos, una lengua que se lee muy bien pero cuyas primeras centurias han dejado casi solo inscripciones. No es una laguna del mismo tipo.
+
