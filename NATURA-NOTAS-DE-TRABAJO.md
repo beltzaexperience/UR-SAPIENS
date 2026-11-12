@@ -21,7 +21,7 @@ La pestaña «BORRADOR · NATURA» (URIM → Prólogo) tiene 10 secciones, 44 p�
 
 ## 2. Valoración entre etimología y semántica
 
-**Veredicto.** La semántica está bien sostenida; la etimología, a medias; la historia de *naturaleza* en castellano, por hacer. Entre forma y uso hay una distancia que las fuentes explican.
+**Veredicto.** La semántica está bien sostenida; la etimología es sólida en la derivación y reconstruida en lo más antiguo (no «a medias» sin más: ver la corrección del 12/11/2026 al final de esta sección); la historia de *naturaleza* en castellano, por hacer. Entre forma y uso hay una distancia que las fuentes explican.
 
 ### Etimología
 
@@ -40,8 +40,8 @@ La pestaña «BORRADOR · NATURA» (URIM → Prólogo) tiene 10 secciones, 44 p�
 ### Semántica
 
 La cronología de Buisel y Pellicer da una secuencia:
-1. El **nacimiento** es el sentido más antiguo, casi sin testimonios.
-2. La **manera de ser innata** aparece hacia el 200 a. C. (Plauto, Terencio).
+1. El **nacimiento** es el sentido que la etimología predice como primero, pero casi no tiene testimonios: unas expresiones arcaicas (*natura pater*, *natura filius*) y el verso de Terencio (*Adelphoe*, hacia 160 a. C.), después Séneca e Isidoro. **No es un hecho fechado como «el más antiguo»**: es una reconstrucción (ver la corrección al final de esta sección).
+2. La **manera de ser innata** aparece hacia el 200 a. C.: primero en Plauto, para los rasgos morales, y luego en Terencio, para la constitución física. Es, en lo atestiguado, el primer sentido documentado.
 3. Los **caracteres propios** de cosas y lugares, desde el siglo II a. C.
 4. La **naturaleza universal** y la **causa que obra**, en el siglo I a. C., por influencia del griego *phýsis*.
 
@@ -52,6 +52,12 @@ Refuerzos: el sentido sexual (genitales, semen, potencia, vulva) aparece en lat�
 La forma dice «actividad o resultado de nacer». El uso dice, primero, «constitución innata» y, después, «poder que crea y gobierna» (*creatrix*, *genetrix*, *gubernans*). La discordancia entre gramática y semántica tiene una respuesta documentada: el sentido se amplió por calco del griego *phýsis* en el siglo I a. C. No hay un secreto escondido en la etimología.
 
 **Corrección que se desprende:** «*natura* = lo nacido» no es un sentido atestiguado (ni en Lewis y Short ni en Buisel). Las tres frases del capítulo que lo dicen deberían suavizarse en las correcciones.
+
+### Corrección del 12/11/2026 (pregunta de Luis: «la etimología, a medias; cómo puede ser?», y «el nacimiento es el más antiguo pero casi no tiene testimonios?»)
+
+- **«A medias» estaba mal dicho.** La derivación (*natura* ← *natus* ← *nascor*, con *-ura*) es sólida y de manual. Lo que no está atestiguado es la capa más antigua: el sentido original, el origen del sufijo *-ura* y su relación con *-turus*, y el salto entre «nacimiento» y «constitución innata», que ocurre antes de los primeros textos. Además, parte de las fuentes son de segunda mano (Pellicer, Ernout, Benveniste, Volpini): sin cotejar, no sin valor.
+- **«El nacimiento es el más antiguo, pero casi sin testimonios» parece contradictorio y lo es.** Lo correcto es: la etimología *predice* que el primer sentido fue el de nacimiento o generación; los testimonios son pocos y tardíos. La literatura latina empieza hacia el 240 a. C. y Plauto escribe hacia el 200 a. C.; si la palabra se formó antes, la capa más antigua cae por definición fuera de los textos, de modo que la falta de testimonios es lo esperable. Pero también es compatible con que *natura* se formara desde el principio como «estado resultante de haber nacido», es decir, con el sentido de constitución. **En lo atestiguado, el primer sentido documentado es «manera de ser innata» (Plauto), antes que el ejemplo de nacimiento de Terencio.** Buisel lo llama una «significación virtual», y lo que ella dice que se recoge en Terencio es el ejemplo *más antiguo* de nacimiento, no el sentido más antiguo.
+- **La frase del capítulo** («El de nacimiento es el más antiguo, pero casi no tiene testimonios», en «Cuántos sentidos tiene *natura*») traslada ese error: confunde el ejemplo más antiguo con el sentido más antiguo. Queda **pendiente de corregir en el HTML**, a la espera de una orden de Luis.
 
 ### Abstracción
 
