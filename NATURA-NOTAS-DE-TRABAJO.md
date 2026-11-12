@@ -168,3 +168,4 @@ Luis: el significado etimológico de *natura* está claro y ya redactado; presen
 - «Naturaleza cultural»: falla: lo cultural no nace; metáfora.
 La etimología explica bien los sentidos que hablan de seres que nacen (humano, vivo, innato) y deja de explicar los que no (cosas, universo, causa).
 
+**Aplicado el 12/11/2026 (orden de Luis: «si»).** Primer párrafo del capítulo reescrito para separar la etimología («Natura significa, por su formación, “la acción de nacer” y “lo que resulta de haber nacido”») del uso latino («pasó pronto a “el carácter natural de las cosas”»). Pestaña: 6.913 palabras, 45 glosas.
