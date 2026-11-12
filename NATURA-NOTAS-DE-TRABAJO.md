@@ -121,3 +121,24 @@ Luis: el significado etimológico de *natura* es «la acción de nacer» o «lo 
 
 **El paralelo con los iberos** (pregunta retórica de Luis): lo que hay de común es que existe escritura temprana y los textos conservados son cortos. Los iberos tienen su escritura propia y una lengua que no se lee bien; los romanos, una lengua que se lee muy bien pero cuyas primeras centurias han dejado casi solo inscripciones. No es una laguna del mismo tipo.
 
+## 6. Segunda réplica de Luis (12/11/2026)
+
+Luis: la diferencia entre «el nacer» y «cómo se es por haber nacido» es «la misma discusión absurda y cómica de qué fue primero, el huevo o la gallina»; pidió explicar «lo nacido», el uso de «tu propio material», la categoría gramatical de *natura*, qué es «innata», carácter y complexión, qué dice la lingüística comparada, si *natura* es un concepto literario y desde cuándo manejan filosofía los romanos.
+
+**Resolución.**
+- **No hay dos hipótesis.** La diferencia entre H1 y H2 no decide nada y no hace falta para el capítulo. Se retira la presentación de la sección 4 como «dos hipótesis».
+- **El único problema es de redacción:** frases del capítulo que afirman que *natura* «era» o «nombra» lo nacido (los seres nacidos): «Natura era, pues, “lo nacido”»; «Natura sigue la misma lógica: el nacer y lo nacido comparten nombre»; «Natura nombra el nacer y lo nacido». El sufijo permite «lo nacido» como cosa (como *scriptura*, «lo escrito»); ningún texto latino de los leídos lo usa así. Lo etimológico es «podría»; lo que dicen las frases es «era».
+- **«Tu propio material» = Wiktionary («future participle suffix -urus») frente a Buisel («el part. fut. act. de nascor no es naturus-a-um, sino nasciturus-a-um»).** Dos fuentes que Luis aportó y que, tal como están escritas, no coinciden.
+
+**Gramática.** *Natura* es un sustantivo femenino de la primera declinación; no es adjetivo, ni participio, ni infinitivo. Participio: *natus*; infinitivo: *nasci*; adjetivo: *naturalis*.
+
+**«Manera de ser innata».** Lo que se trae al nacer frente a lo adquirido (Epicarmo, citado por Buisel: «Tener dones innatos es lo mejor, lo segundo aprender»). Carácter = lo moral y psíquico; complexión = lo corporal. Plauto: lo moral; Terencio: el aspecto exterior; Cicerón: ambos.
+
+**Lingüística comparada.** Explica la raíz *ǵenh₁-* («engendrar»; *nasci*, *natus*, *gens*, *genus*; en inglés *kin*, *kind*), no la palabra entera. Ernout y Meillet, De Vaan y Pellicer no se han abierto: solo se conocen por Buisel y Wiktionary.
+
+**¿Concepto literario?** No en origen: palabra corriente en la comedia (Plauto, Terencio) para el carácter y el aspecto; Lucrecio y Cicerón la cargan con la semántica de *phýsis* (naturaleza universal, causa). Rara en la lírica (Buisel).
+
+**Roma y la filosofía.** Roma es república cuando la adopta: la embajada de Carnéades (Academia), Critolao (Perípato) y Diógenes de Babilonia (Estoa) en el 155 a. C. (búsqueda en la red; Catón la quiere fuera cuanto antes). Buisel sitúa el calco *phýsis* → *natura* entre fines del siglo II a. C. y Lucrecio y Cicerón; la *Rhetorica ad Herennium* (90-85 a. C.) ya la usa. El Imperio (Augusto, 27 a. C.) es de memoria. Fuentes: https://en.wikipedia.org/wiki/Carneades y https://encyclopedia.com/history/news-wires-white-papers-and-books/renewing-greek-philosophy-rome.
+
+**Propuesta pendiente de orden de Luis:** reescribir las tres frases para que digan «el nacer y lo que de él resulta», sin identificar la palabra con los seres nacidos.
+
