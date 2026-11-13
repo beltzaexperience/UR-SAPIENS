@@ -269,3 +269,51 @@ Orden de Luis: «un listado completo y sin ninguna excepción de todos los temas
 - **Pendientes con material real:** Ulpiano y el *ius naturale* (texto latino y tres fuentes del panel); Heidegger, Whitehead, Nietzsche, Foucault, Said, Nebrija (sin fuentes); el artículo egipcio de Dialnet (solo fragmento); Herder y eScholarship; Weiss y Sihler; Kroonen; la referencia de octubre de 2026 en *Science* (solo fragmento); Posth (2023).
 - **Sin relación con *natura* pero de interés para el libro:** Cajal y Lorente de Nó; Yamna, Gimbutas, *Urheimat*; el límite de los 6.000–8.000 años; el arte rupestre y el intercambio simbólico; el azufre; la frase de Luis sobre el lenguaje y el arte.
 
+
+## 9. Mapa de disciplinas de `A- NATURE` (13/11/2026)
+
+Orden de Luis: (1) en Prehistoria va el hilo del tránsito aquitano-pirenaico, los cazadores de mamuts de Centroeuropa y la península Itálica, con la red de comunicación «antiendogámica»; (2) la política tiene muchas derivadas: se crea un apartado de **Política** propio solo para asuntos concretos que no entren en el esquema de materias, y el resto de la política se reparte en los apartados que le corresponden; (3) revisar si falta alguna materia, en particular la más transversal. Los números son los bloques de la sección 8.
+
+### Apartados
+
+**A. Lengua y textos.** Etimología y lingüística histórica (1–7, 24, 26, 36, 44–45, 48). Morfología latina (4–6, 15, 24, 36, 44). Fonética histórica (16). Lingüística comparada indoeuropea (5, 26, 44–45, 48–49). Lenguas itálicas y etruscología (28–29, 43–44). Tipología (15). **Origen del lenguaje (31, 52)** y su límite: la IA admite que el método comparado no rastrea más allá de 6.000–8.000 años (52); es el tema de la Société de Linguistique de Paris (1866) que Luis preguntó el 13/11. Lexicografía (transversal). Filología latina (8–14). *Política del lenguaje (aquí):* filología y poder (40), Nebrija, Foucault, Said; la «usurpación» del sufijo *-urus* y Varrón como propaganda (43), retirada por la IA en 1180–1181 y 1212.
+
+**B. Pensamiento.** Filosofía antigua: *phýsis*, estoicismo, Platón (14, 26, 33–34). Filosofía moderna y contemporánea: Heidegger, Whitehead, Nietzsche (39–40). Epistemología: ciencia frente a paraciencia (27, 29, 30, 36, 44, 52). **Estética y teoría de la metáfora**: el lenguaje como metáforas olvidadas (Nietzsche, 39–40); «el lenguaje y el arte son las mejores mentiras» (53). *Política (aquí):* Roma «domestica» la *phýsis* (32); el platonismo como orden jerárquico y control social (33).
+
+**C. Roma.** Derecho (41–42). Historia e imperio (32, 40, 42–43). Religión romana y etrusca; mitología comparada (27–30). Ingeniería hidráulica (31, 40, 42). *Política (aquí):* propiedad y *fructus*, impuestos, *ager publicus*, *aquae haustus*, Ulpiano usado para «blindar» las leyes (41–42).
+
+**D. Ciencias de la vida y de la materia.** Biología general y biodiversidad (16, 19, 37). **Reproducción, embriología y anatomía** (útero, parto, líquido amniótico, neonato: 30–31, 37). Astrofísica y cosmoquímica (21). Geoquímica y origen de la vida (21–22). Química (22, 37, 46). **Física y termodinámica** (ciclo hidrológico, ósmosis y turgencia, entropía y «universo helado»: 26, 37). Neurociencia y cibernética (34–35). Matemática, lógica y estadística: la fórmula Materia + Vis + Ratio y las «frecuencias» que la IA no puede calcular (8); el «álgebra de la gramática» como metáfora recurrente (31, 40).
+
+**E. Prehistoria y humanidad antigua.**
+- *Hilo del tránsito aquitano-pirenaico – Centroeuropa – península Itálica (orden de Luis):*
+  - Último máximo glaciar y refugios ibérico, itálico y balcánico; nivel del mar −120 m; Adriático seco; Canal de la Mancha como tundra; norte de Francia con permafrost (28, 46–48).
+  - Cazadores de mamuts de Centroeuropa (gravetienses) que bajan por los valles hacia los refugios del sur (46–47).
+  - ADN antiguo: Malalmuerzo, Riparo Tagliente, Chufín–Isturitz–Ostuni1b, clústeres Fournol y Věstonice, flujo este-oeste hace ≈32.000 años (47–49); Posth *et al.* (2023), GoyetQ2, Villabruna (51).
+  - Intercambio a larga distancia: conchas marinas lejos de la costa, sílex, puntas solutrenses, «discos perforados» de 1.200 km, Cosquer y Romanelli (47, 50–51).
+  - **Red «antiendogámica»**: bandas pequeñas que, para no colapsar por endogamia, tejen alianzas matrimoniales a cientos de kilómetros; las cuevas con arte como puntos de agregación estacional (Conkey); símbolos geométricos compartidos (Petzinger) (50, 52). *Estado:* la cifra de «bandas de 30 personas» y la frase «el ADN demuestra que se cruzaban los Alpes para buscar pareja» (52) son de la IA y sin fuente concreta; lo que el ADN muestra es flujo génico, no el motivo.
+- Arte rupestre y semiótica paleolítica (50–51). Tecnología lítica: bifaz, puntas solutrenses (22, 47). Antropología e indoeuropeo: Yamna, Gimbutas, ritos funerarios, embalsamamiento (46). Egiptología (10, solo fragmento).
+- *Política (aquí):* cultivar es sedentarizarse y enterrar es reclamar territorio; patriarcado y jerarquía Yamna (46); arte como marcador de recursos y de quién controla el agua de un valle (52).
+
+**F. El agua (eje transversal, sin disciplina propia).** Aparece en 16, 19, 21–23, 26–31, 34, 36–38, 41–42, 46 y 53. Atraviesa biología (disolvente, turgencia, líquido amniótico), cosmoquímica (origen de la vida), química, neurociencia (cerebro ≈73 % agua), derecho (*res communis*, *aqua profluens*, *aquae haustus*), ingeniería (acueductos), mitología (Fontus, ríos crecidos), prehistoria (agua líquida en los refugios) y la tesis de Luis («la vida es sencilla si hay agua»). La IA retira cada versión «hidráulica» de la etimología (26–30), pero el agua sigue siendo el hilo de la conversación.
+
+**G. IA y método de trabajo (transversal).** La complacencia del modelo y su corrección («paraciencia de la complacencia», «detector de mentiras», 29, 38, 52); el recuento de errores (20); lo que un modelo estadístico puede y no puede hacer (8); el coste de agua de la propia IA (23); las retiradas en cadena (26–30, 35, 43). Es el único apartado donde la charla se ocupa de sí misma.
+
+**H. Política (apartado propio, solo asuntos concretos que no entran arriba).** Propuesta:
+1. La tesis de la «usurpación sistémica» y del lenguaje como «territorio ocupado militarmente por la gramática del Imperio» (53, 27, 1607).
+2. La pregunta de Luis «¿motivos filológicos o políticos?» (743) y la respuesta de la IA, sin fuentes: la discordancia entre gramática y semántica de *natura* como «cicatriz de una operación política» (32).
+3. *Natura* como «palabra jurídica disfrazada de biología»: la propiedad de lo vivo y del futuro, el «útero fiscal» como tesis general (41).
+4. Filología y poder como teoría general (40) y como hipótesis de que Roma «oculta sus préstamos» (43).
+*Dudas de reparto:* 2 y 3 podrían ir a B y C; 4 a A. Quedan aquí porque son tesis políticas completas y no un dato de cada materia.
+
+**I. Anecdóticas.** El grupo Cluster y el krautrock (52); cultura popular. Dejan de ser apartado si Luis lo prefiere.
+
+### Lo que faltaba (revisión del 13/11/2026)
+- **El agua** como eje transversal (apartado F).
+- **Reproducción, embriología y anatomía** (D).
+- **Física y termodinámica** (D).
+- **Origen del lenguaje** (A), con la Société de Linguistique de Paris.
+- **Estética y teoría de la metáfora** (B).
+- **IA y método** (G).
+- **Matemática, lógica y estadística** (D).
+- **Tecnología lítica** (E).
+- Menores: cronología («poner año a la palabra», 40), geografía física (19, 28, 47), historia de la ciencia (35), estudios de género y mitología de la Diosa (Uni, Astarté, Inanna, Juno, *Terra Mater*, patriarcado Yamna: 9, 28–30, 46).
