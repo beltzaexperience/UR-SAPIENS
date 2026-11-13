@@ -276,11 +276,11 @@ Orden de Luis: (1) en Prehistoria va el hilo del tránsito aquitano-pirenaico, l
 
 ### Apartados
 
-**A. Lengua y textos.** Etimología y lingüística histórica (1–7, 24, 26, 36, 44–45, 48). Morfología latina (4–6, 15, 24, 36, 44). Fonética histórica (16). Lingüística comparada indoeuropea (5, 26, 44–45, 48–49). Lenguas itálicas y etruscología (28–29, 43–44). Tipología (15). **Origen del lenguaje (31, 52)** y su límite: la IA admite que el método comparado no rastrea más allá de 6.000–8.000 años (52); es el tema de la Société de Linguistique de Paris (1866) que Luis preguntó el 13/11. Lexicografía (transversal). Filología latina (8–14). *Política del lenguaje (aquí):* filología y poder (40), Nebrija, Foucault, Said; la «usurpación» del sufijo *-urus* y Varrón como propaganda (43), retirada por la IA en 1180–1181 y 1212.
+**A. Lengua y textos.** Etimología y lingüística histórica (1–7, 24, 26, 36, 44–45, 48). Morfología latina (4–6, 15, 24, 36, 44). Fonética histórica (16). Lingüística comparada indoeuropea (5, 26, 44–45, 48–49). Lenguas itálicas y etruscología (28–29, 43–44). Tipología (15). **Origen del lenguaje (31, 52)** y su límite: la IA admite que el método comparado no rastrea más allá de 6.000–8.000 años (52); es el tema de la Société de Linguistique de Paris (1866) que Luis preguntó el 13/11. Lexicografía (transversal). Filología latina (8–14). *Política del lenguaje (aquí):* filología y poder (40), Nebrija, Foucault, Said; la «usurpación» del sufijo *-urus* y Varrón como propaganda (43), retirada por la IA en 1180–1181 y 1212. Se suma aquí la teoría general de «filología y poder» (40) y la hipótesis de que Roma ocultaba sus préstamos (43).
 
 **B. Pensamiento.** Filosofía antigua: *phýsis*, estoicismo, Platón (14, 26, 33–34). Filosofía moderna y contemporánea: Heidegger, Whitehead, Nietzsche (39–40). Epistemología: ciencia frente a paraciencia (27, 29, 30, 36, 44, 52). **Estética y teoría de la metáfora**: el lenguaje como metáforas olvidadas (Nietzsche, 39–40); «el lenguaje y el arte son las mejores mentiras» (53). *Política (aquí):* Roma «domestica» la *phýsis* (32); el platonismo como orden jerárquico y control social (33).
 
-**C. Roma.** Derecho (41–42). Historia e imperio (32, 40, 42–43). Religión romana y etrusca; mitología comparada (27–30). Ingeniería hidráulica (31, 40, 42). *Política (aquí):* propiedad y *fructus*, impuestos, *ager publicus*, *aquae haustus*, Ulpiano usado para «blindar» las leyes (41–42).
+**C. Roma.** Derecho (41–42). Historia e imperio (32, 40, 42–43). Religión romana y etrusca; mitología comparada (27–30). Ingeniería hidráulica (31, 40, 42). *Política (aquí):* propiedad y *fructus*, impuestos, *ager publicus*, *aquae haustus*, Ulpiano usado para «blindar» las leyes (41–42). Se suma aquí la tesis de *natura* como «palabra jurídica disfrazada de biología», con la propiedad de lo vivo y del futuro y el «útero fiscal» (41): SIN FUENTE como tesis; lo comprobable es Ulpiano (*Digesto* 1, 1, 1, 3, de memoria) y *res communis omnium*.
 
 **D. Ciencias de la vida y de la materia.** Biología general y biodiversidad (16, 19, 37). **Reproducción, embriología y anatomía** (útero, parto, líquido amniótico, neonato: 30–31, 37). Astrofísica y cosmoquímica (21). Geoquímica y origen de la vida (21–22). Química (22, 37, 46). **Física y termodinámica** (ciclo hidrológico, ósmosis y turgencia, entropía y «universo helado»: 26, 37). Neurociencia y cibernética (34–35). Matemática, lógica y estadística: la fórmula Materia + Vis + Ratio y las «frecuencias» que la IA no puede calcular (8); el «álgebra de la gramática» como metáfora recurrente (31, 40).
 
@@ -298,12 +298,10 @@ Orden de Luis: (1) en Prehistoria va el hilo del tránsito aquitano-pirenaico, l
 
 **G. IA y método de trabajo (transversal).** La complacencia del modelo y su corrección («paraciencia de la complacencia», «detector de mentiras», 29, 38, 52); el recuento de errores (20); lo que un modelo estadístico puede y no puede hacer (8); el coste de agua de la propia IA (23); las retiradas en cadena (26–30, 35, 43). Es el único apartado donde la charla se ocupa de sí misma.
 
-**H. Política (apartado propio, solo asuntos concretos que no entran arriba).** Propuesta:
-1. La tesis de la «usurpación sistémica» y del lenguaje como «territorio ocupado militarmente por la gramática del Imperio» (53, 27, 1607).
-2. La pregunta de Luis «¿motivos filológicos o políticos?» (743) y la respuesta de la IA, sin fuentes: la discordancia entre gramática y semántica de *natura* como «cicatriz de una operación política» (32).
-3. *Natura* como «palabra jurídica disfrazada de biología»: la propiedad de lo vivo y del futuro, el «útero fiscal» como tesis general (41).
-4. Filología y poder como teoría general (40) y como hipótesis de que Roma «oculta sus préstamos» (43).
-*Dudas de reparto:* 2 y 3 podrían ir a B y C; 4 a A. Quedan aquí porque son tesis políticas completas y no un dato de cada materia.
+**H. Política (apartado propio, solo asuntos concretos que no entran arriba).** Decisión del 13/11/2026 («lo que consideres»): quedan **dos** asuntos.
+1. La tesis de la «usurpación sistémica» y del lenguaje como «territorio ocupado militarmente por la gramática del Imperio» (53, 27, 1607). Es la tesis del libro entero: aquí solo se registra; no se defiende en este capítulo.
+2. La pregunta de Luis «¿motivos filológicos o políticos?» (743) y la respuesta de la IA, sin fuentes: la discordancia entre gramática y semántica de *natura* como «cicatriz de una operación política» (32). Es el único punto que une dos apartados (lengua y poder) sin pertenecer a ninguno.
+*Repartido desde la propuesta anterior:* «*natura* como palabra jurídica disfrazada de biología», con la propiedad de lo vivo y el «útero fiscal» (41), pasa a **C. Roma / Derecho**; «filología y poder como teoría general» (40) y la supuesta ocultación de préstamos por Roma (43) pasan a **A. Lengua y textos**.
 
 **I. Anecdóticas.** El grupo Cluster y el krautrock (52); cultura popular. Dejan de ser apartado si Luis lo prefiere.
 
