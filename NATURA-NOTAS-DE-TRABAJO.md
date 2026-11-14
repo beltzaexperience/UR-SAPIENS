@@ -531,3 +531,25 @@ Se elige por lo que pida cada párrafo. Aplicado hoy: la frase sobre *-al* y *-e
 
 **Ubicación.** El razonamiento de esta sección es la explicación del título y encaja en A.3 (Tipología: flexiva y aglutinante), que hoy es una casilla pendiente; A.5 abre el capítulo y A.3 lo explica. Pendiente de orden de Luis para llevarlo al HTML.
 
+## 15. El agua en el diccionario: nacer, brotar, germinar, florecer, vivir (14/11/2026)
+
+**Fuente:** DLE, entradas pegadas por Luis el 14/11/26 (*nacer*, *brotar*, *germinar*, *florecer*, *vivir*, *vida*, *agua*, *vital*). ABIERTA, entradas completas. Con esto, la parte 2 de la sección 14 pasa de «razonable» a **contrastada en dos de las cinco palabras** y confirma, como Luis pedía, la distinción entre el agua de la definición y el agua del proceso.
+
+| Palabra | ¿Agua en la definición del DLE? | Cita |
+|---|---|---|
+| *nacer* | **Sí** (6.ª acepción) | «intr. Manar o brotar. *Nacer las fuentes, los ríos. El Amazonas nace en los Andes.* Sinónimos: aflorar, emerger, manar, brotar» |
+| *brotar* | **Sí** (6.ª acepción) | «intr. Dicho del agua: Manar, salir de los manantiales. *El agua brota sin cesar de la tubería rota.*» |
+| *germinar* | No | «Dicho de una semilla…: Comenzar a desarrollarse para formar un nuevo vegetal.» El agua está en el proceso, no en la definición. |
+| *florecer* | Solo de pasada | 2.ª acepción: «Dicho del queso o del pan: Ponerse mohoso. *Con la humedad el pan se ha florecido.*» La 1.ª, «echar flor», no nombra el agua. |
+| *vivir* | No | «intr. Tener vida.» |
+| *vida* | **Sí, en un ejemplo** | 1.ª de «Cosa que contribuye o sirve al ser o conservación de otra»: «*El agua es vida.*» La 1.ª acepción general (metabolismo, ADN) no nombra el agua y añade «*Las piedras no tienen vida.*» |
+| *agua* | **Sí, y de los vivos** | «…el componente más abundante de la superficie terrestre y **el mayoritario de todos los organismos vivos** (Form. H2O)» |
+
+**Más agua y nacimiento en el DLE.** *Romper aguas una parturienta*: «Sufrir la rotura de la bolsa que envuelve al feto y derramarse por la vagina y la vulva el líquido amniótico»; *aguas de dominio privado*: «aguas que nacen dentro de un predio mientras discurren por él»; *aguas de dominio público*: «aguas que brotan con ocasión de obras públicas»; *agua de pie*: «agua que fluye, como la que brota de las fuentes y manantiales»; *agua termal*: «que en todo tiempo brota del manantial»; *agua viva*: «agua que mana y corre naturalmente»; *echar el agua*: «bautizar». *Nacer* 1.ª: «Salir del útero, del huevo o de la semilla» (tres envolturas hídricas que la definición no nombra). *Vital*: «Perteneciente o relativo a la vida» y «De suma importancia o trascendencia».
+
+**Lectura.** (1) El diccionario castellano da a *nacer* el sentido de *manar* (los ríos y las fuentes nacen), de modo que en castellano el agua entra en el verbo del nacer por la propia definición, no solo por el referente. (2) Para *germinar*, *florecer* y *vivir* el agua está en lo que nombran y no en lo que el diccionario dice: la distinción de Luis entre el agua del proceso (verdad del mundo) y el agua de la definición (hecho del diccionario) se ve con ejemplos. (3) El ejemplo «El agua es vida» y la definición de *agua* como mayoritaria en los organismos vivos son del propio diccionario: documentación, no lectura. (4) Esto es documentación del **castellano**: para el latín, los ocho sentidos de Lewis y Short y la cronología de Buisel no nombran el agua; esa diferencia entre las dos lenguas queda como pregunta para el lector.
+
+**Borrador de párrafo para A.3 (pendiente de orden con verbo; escala de formulaciones, niveles 1, 2 y 5).** «El diccionario castellano pone el agua en dos de esas cinco palabras. *Nacer* significa también «manar o brotar»: «nacer las fuentes, los ríos», «el Amazonas nace en los Andes»; y *brotar*, dicho del agua, es «manar, salir de los manantiales». En *germinar*, *florecer* y *vivir* el agua no figura en la definición: está en lo que nombran, porque ninguna semilla germina, ninguna planta florece ni ningún ser vive sin ella. El diccionario lo dice con un ejemplo, «el agua es vida», y define el agua como «el componente mayoritario de todos los organismos vivos». La semántica del nacer se apoya en el agua; la gramática de *natura*, en cambio, ata el morfema *ur* por los dos lados con un tema participial y una desinencia flexiva. ¿Por qué ninguno de los ocho sentidos latinos nombra el agua?»
+
+**Estado del mapa.** A.3: *contrastada* = lo anterior (DLE), *razonable* = semántica enciclopédica o de marcos, *legítima* = «semántica aglutinante · gramática flexiva» como metáfora declarada. Pendiente de llevarlo a `urtz.html` con un «sí» de Luis.
+
