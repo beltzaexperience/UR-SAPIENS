@@ -481,3 +481,32 @@ El mapa es temático y no repite las fuentes. Las del capítulo (autores, obras,
 5. *Estructura.* Como la lectura de UR es la tesis, A.5 podría abrir el capítulo; hoy queda en quinto lugar de la sección A.
 6. *Método.* Las tres lecturas hacen innecesaria la pelea: lo legítimo se declara como legítimo y no se discute dentro del capítulo; Claude sigue anotando con exactitud lo documental en la nota.
 
+## 12. Respuesta de Luis a las objeciones y primera aplicación (14/11/2026)
+
+**Luis aclara y decide.**
+- «Ningún sentido de *natura* contiene agua» lo decía del libro, no de la documentación; **la documentación no se quita**: las fuentes documentadas, la etimología oficial, la morfología, la sintaxis y la gramática son «de una utilidad asombrosa» y también «un pozo de contradicciones» que el lector puede no entender, igual que no las entendió Luis (ni Claude, que se lió con la base de todo, la etimología oficial).
+- Lo que hoy está escrito como refutación pasa a **pregunta del lector, afirmación retórica o lectura del libro**, con redacciones distintas a lo largo del capítulo para no repetir fórmula; «haremos una escala de estas necesidades».
+- **Título:** «NATURA: SEMÁNTICA AGLUTINANTE · GRAMÁTICA FLEXIVA» (corrige *flexible* por *flexiva*).
+- **Estructura:** A.5 abre el capítulo. La estructura se adapta al capítulo, no al revés: si una subsección de C encaja mejor en B o D, se mueve; primero con la lógica de Claude y luego con lectores; una vez construido el capítulo se retira el andamio y aparecen los subtítulos oportunos.
+- **Puntos débiles:** se hacen fuertes para el capítulo; se quita lo que no aporta o se deja como pregunta o afirmación retórica.
+
+**Sobre los microorganismos de las zonas más áridas** (pregunta de Luis): necesitan agua para vivir y para reproducirse. En el núcleo hiperárido de Atacama viven (de memoria) en costras de sal que absorben humedad del aire y se activan tras niebla o lluvia. Lo que se afirma del agua y la vida se sostiene: «todos los seres vivos conocidos necesitan agua».
+
+**Escala de formulaciones (propuesta de Claude, a confirmar por Luis).** Para un mismo dato documental, por ejemplo «ninguno de los ocho sentidos latinos de *natura* nombra el agua» (Lewis y Short, Buisel):
+1. *Dato seco:* «Los ocho sentidos latinos de *natura* son nacimiento, constitución, carácter, …» (con su fuente, sin comentar).
+2. *Pregunta explícita:* «¿Por qué ninguno de los ocho sentidos latinos nombra el agua, si todo lo nacido la necesita?»
+3. *Hipótesis del libro:* «Ninguno de los ocho sentidos nombra el agua si lo natural de lo nacido o brotado es un entorno hídrico.»
+4. *Afirmación retórica:* «Ocho sentidos y ninguno nombra el agua; todo lo nacido la necesitó para nacer y la necesita para seguir vivo.»
+5. *Lectura del libro, en su voz:* «Para el libro, *natura* se vertebra por el agua.»
+Se elige por lo que pida cada párrafo. Aplicado hoy: la frase sobre *-al* y *-eza* (nivel 2), los cuatro «puntos débiles» (nivel 2, cuatro preguntas), el indicio de Cicerón (nivel 5 con pregunta) y D.2 (nivel 5).
+
+**Aplicado a `urtz.html` el 14/11/2026:**
+- Título nuevo en el resumen y en el encabezado de la pestaña.
+- **A.5 pasa a abrir la sección A** (conserva su código; el orden de lectura es A.5, A.1, A.2, A.3, A.4, A.6 …).
+- Párrafo de *natural*/*naturaleza*: «Ni *-al* ni *-eza* aportan agua…» → «Los sufijos *-al* y *-eza* son gramática castellana corriente, y en *natural* y *naturaleza* desaparece la *-a* final de *natura* y el *-ur-* queda en medio de la palabra: ¿qué hace una sílaba de agua en el centro de una palabra que la gramática ha ido cubriendo por los dos lados?»
+- «Es una lectura declarada, no una etimología, y tiene cuatro puntos débiles…» → «La lectura del libro deja cuatro preguntas abiertas al lector.» y cada punto como pregunta (quién pone el «de»; por qué dos gramáticas para el mismo final; qué guarda una sílaba al cambiar de cantidad; por qué *natura* no lo dice con *aquā*). Se conserva la frase del sustrato.
+- Cicerón: se quitan «no la demuestra ni la contradice» y «un indicio no es una prueba»; Balbo pasa a «el estoico Balbo»; cierra con la pregunta de qué se acuerdan los nacidos fuera del agua cuando la persiguen.
+- D.2: se quita «La lectura de UR no demuestra nada de esto, porque es una lectura declarada y no filología»; queda «La lectura de UR se sitúa donde la ciencia también mira: lo nacido sale de materia de estrellas y de agua.»
+- Línea de estado de A.5: la documentación («ningún sentido latino nombra el agua», *ū* larga frente a *ur* breve) queda como **contrastada**; la lectura *nat-ur-a* como **legítima** que se abre como pregunta; se quita «Falta: una prueba independiente…». Panel: se añade el principio del capítulo.
+- Pestaña: 9.368 → 9.482 palabras (+114). URIM 81.259 palabras (≈325 pág.); total 279.986 palabras (≈1.120 pág.).
+
