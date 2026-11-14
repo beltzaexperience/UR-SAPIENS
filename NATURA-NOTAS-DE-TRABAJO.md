@@ -626,3 +626,22 @@ Se elige por lo que pida cada párrafo. Aplicado hoy: la frase sobre *-al* y *-e
 
 **Marcador (Regla 14):** pestaña de 10.552 a 10.774 palabras (+222); URIM 82.551 palabras (≈330 pág.); total 281.278 (≈1.125 pág.). Glosa: 55 entradas, llamadas y entradas alineadas (comprobado); las de Lewis y del DLE (*-eza*) viajan a A.9.
 
+## 20. Respuestas sencillas a las preguntas del capítulo (para Luis, no para el capítulo) (14/11/2026)
+
+Luis pregunta, antes de A.2, si hay respuestas sencillas a las diez preguntas de A.1. **Estas respuestas son de Claude, fuera del capítulo**: el capítulo no las da (regla del 14/11: en lo disputado, documentación y pregunta). Se marcan con las tres lecturas.
+
+| Pregunta | Respuesta sencilla | Lectura |
+|---|---|---|
+| 1. ¿*Natura* es sustantivo o participio? | **Sustantivo** (femenino, de la primera declinación). El participio es *natus*. La única vía para que fuera participio es leerla como el femenino de un *naturus* de futuro, hipótesis que contradice a Ernout (el futuro de *nascor* es *nasciturus*). | Contrastada en lo gramatical (Smith §72, Lewis y Short, DLE); la hipótesis del futuro, discutida |
+| 2. ¿Fue sustantivo y acabó siendo participio? | **No en el latín clásico**: el camino atestiguado va al revés (participio *natus* → sustantivo *natura*). Un sustantivo solo llega a participio pasando por un verbo. Hay un caso en la escolástica: *natura* → *naturare* → *naturans/naturata* (de memoria, sin abrir). | Razonable |
+| 3. ¿Se usa la gramática clásica para pasar de sustantivo a participio? | Hay **dos caminos**: de participio a nombre (con un artículo en castellano, con un sufijo en latín) y de nombre a participio (solo a través de un verbo derivado: *sombra* → *ensombrecer* → *ensombrecido*). | Contrastada (gramática básica; anexo 57) |
+| 4. ¿Es sustantivo y participio a la vez? | **Por la forma, sustantivo; por el contenido, participial**: el sufijo *-ura* da un nombre cuyo sentido es el del participio («lo que resulta de haber nacido»). | Razonable |
+| 5. ¿Qué le viene mejor a su etimología? | **Los dos, en orden**: el participio es el origen (*natus*) y el sustantivo el resultado (*-ura*). | Contrastada |
+| 6. ¿Qué le viene mejor a la biología de la natura? | **Juicio, no dato.** Un participio dice «ya nacido»; la biología ve a los nacidos seguir necesitando agua mientras viven; un nombre puede sostener «lo nacido y lo que sigue naciendo». El verbo *nacer* es el del proceso y el participio, el del estado terminado. | Legítima (lectura del libro) |
+| 7. ¿Se contestan de manera sencilla? | **A medias**: 1, 2, 3 y 5 sí; 4 con matiz; 6, 8, 9 y 10 no del todo. | — |
+| 8. ¿Deberían contestarse de manera sencilla? | En gramática y etimología, **sí**: el lector debe poder irse con «sustantivo formado sobre un participio». En lo demás, no: el libro las deja abiertas. | Decisión editorial de Luis |
+| 9. Si no son sencillas, ¿a qué se debe? | A que se mezclan **tres planos**: morfología (qué categoría tiene), sintaxis (qué función cumple) y etimología (de dónde viene) (anexo 64); a que la frontera entre participio, adjetivo y nombre es **graduada** (*el nacido*); a que *natura* tiene muchos sentidos repartidos en siglos (calco de *phýsis*, siglo I a. C.); y a que **la capa más antigua no está atestiguada**. | Razonable |
+| 10. ¿Es *natura* una palabra aislada en el tiempo? | **No.** Tiene paralelos (*scriptura*, *structura*, *pictura*, *sepultura*, *lectura*), familia (*nascor*, *natus*, *natalis*, *nativus*, *cognatus*) y unos 2.200 años de uso documentado (desde hacia el 200 a. C.). Lo que no tiene es testimonio de antes de los textos. | Contrastada |
+
+**Resumen de una línea.** *Natura* es un sustantivo cuyo sentido es el de un participio: la palabra de un resultado que lleva dentro la acción de nacer. Lo difícil no es la respuesta gramatical, sino que el capítulo no quiere quedarse en ella.
+
