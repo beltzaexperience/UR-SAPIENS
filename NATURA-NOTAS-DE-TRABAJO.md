@@ -577,3 +577,15 @@ Se elige por lo que pida cada párrafo. Aplicado hoy: la frase sobre *-al* y *-e
 
 **Estado.** El umbral **no está en la pestaña**. Pendiente de orden con verbo de Luis y de decidir dónde entra (propuesta: antes de A.5, como pórtico del capítulo) y cómo se citan las cifras (nombrar la fuente en el cuerpo, Regla 45).
 
+## 17. El umbral «El agua es vida» entra en la pestaña (14/11/2026)
+
+**Orden de Luis:** pega el texto definitivo del umbral (seis párrafos), con las cifras ya corregidas tras el contraste de la sección 16 (savia bruta «casi toda agua»; clara «casi un 88 %»; líquido amniótico 98 %; placenta «más de un 80 %»; lágrimas «cerca de un 98 %»; leche «casi un 88 %»; «Andes peruanos»; «reabsorbe»; «cuando aumenta la secreción lagrimal»; el semen sale; «llevan el agua dentro»).
+
+**Aplicado en `urtz.html`:** sección nueva **U · Umbral**, subsección **U.1 · El agua es vida**, al principio de la pestaña (antes de A · Lengua y textos), con el texto tal como lo pegó Luis, **sin cambiar una palabra**. Nueve entradas de glosa nuevas (1 a 9) con las fuentes de cada dato: Amazonas (DLE «nacer»; Mismi; Mantaro), savia bruta (Lumen Learning), clara (Virginia Tech; Incredible Egg), líquido amniótico (StatPearls; icliniq; UWorld), pulmones fetales (PMC7067749), placenta (AJOG; Barker 1994), líquido pulmonar (JCI; PMC508648; PMC4669342), lágrimas (*Am J Ophthalmol* 2002; *Biochemistry, Tear Film*), leche materna (National Academies; Encyclopedia.com). Las 46 entradas anteriores pasan a 10–55; llamadas y entradas alineadas (comprobado).
+
+**Estado honesto de U.1 (con la definición de las tres lecturas del panel):** *contrastada* solo lo que figura en el DLE («El agua es vida»; «El Amazonas nace en los Andes»); *razonable* todas las cifras, porque se han contrastado por **resúmenes de búsqueda sin abrir las páginas** (en la sección 16 las llamé «contrastada» en sentido de «las fuentes coinciden»; con la regla del panel pasan a «razonable» hasta que se abran); *legítima* la voz del libro («otro cauce», «primer llanto todavía seco», «primer lenguaje», «las aguas se rompen para abrir el paso a la vida»). Falta: abrir las primarias o las páginas; decidir si «%» va con espacio como en el resto del capítulo (Luis escribe «88%»; el resto de la pestaña, «97 %»).
+
+**Dos observaciones sobre el texto, para la pasada de correcciones:** (a) «gestan sus crías en la clara hidratada del huevo» es imagen: el embrión de aves y reptiles crece dentro de su propio saco amniótico, rodeado de la clara (de memoria); (b) «casi un 88 %» del agua de la clara y de la leche: las fuentes dan 87 a 90 % y 87 a 88 %; «alrededor del 88 %» sería más exacto.
+
+**Marcador (Regla 14):** pestaña de 9.727 a 10.534 palabras (+807); URIM 82.311 palabras (≈329 pág.); total 281.038 palabras (≈1.124 pág.). Panel: 3 terminados, 12 en redacción, 29 pendientes, 1 sin texto propio.
+
