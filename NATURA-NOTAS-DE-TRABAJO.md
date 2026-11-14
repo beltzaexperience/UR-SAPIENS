@@ -444,3 +444,28 @@ El mapa es temático y no repite las fuentes. Las del capítulo (autores, obras,
 - **Del anexo:** gramática básica (A.2), lingüística cognitiva (A.4), historia de la gramática (los gramáticos alejandrinos, 67), aspecto verbal (60, 66), *Crátilo* (B).
 - **De las notas (14/11):** semántica e historia del uso (A.9), otras lenguas (A.10), historia de *naturaleza* en castellano (A.11), literatura y poesía (J), teología (B).
 - Menores: cronología (40), geografía física (19, 28, 47), historia de la ciencia (35), género y mitología de la Diosa (9, 28–30, 46).
+
+## 10. El mapa temático incrustado en el capítulo (14/11/2026)
+
+**Orden de Luis:** «incrustar el MT al capítulo y que el texto que tenemos ocupe su lugar en ese MT»; secciones A, B, C, D, E, J y H, con todas las subsecciones; saber por dónde vamos, qué está terminado y qué queda pendiente de investigación más profunda, «con sus tres lecturas: contrastada, razonable y legítima».
+
+**Aplicado en `urtz.html` (pestaña «BORRADOR · NATURA»):** 7 secciones y 44 subsecciones; panel «Mapa temático · Por dónde vamos» al principio; cada subsección con su estado y sus tres lecturas; los 44 párrafos del texto actual, sin cambiar una palabra, en su casilla; la glosa (45 entradas, un solo bloque al final) renumerada según el nuevo orden de lectura, con cada llamada alineada con su entrada. Pestaña: de 6.913 a 9.368 palabras (+2.455, casi todas de andamiaje; se retira al publicar). Sin publicar.
+
+**Las tres lecturas (definición de trabajo, pendiente de que Luis la confirme):** *contrastada* = la sostienen fuentes abiertas y citadas en la glosa; *razonable* = se sostiene por razonamiento, por fuentes de segunda mano, resúmenes o de memoria, y nada de lo leído la contradice; *legítima* = lectura que se puede sostener y declarar como lectura, sin pretender demostración (la documentación ni la prueba ni la refuta).
+
+**Estados (3 terminados, 10 en redacción, 30 pendientes, 1 sin texto propio):**
+- *Terminado:* A.9 Semántica e historia del uso (reserva: un solo estudio, dos párrafos de concreción seguidos); B.1 La fuerza que nutre (reserva: sin texto Platón, estoicismo general ni la embajada del 155 a. C.); J.1 Poesía latina (reserva: peso de «La poesía», repetición de Lucrecio).
+- *En redacción:* A.1, A.2, A.5, A.10, B.2, B.3, D.2, J.2, J.3, J.4.
+- *Pendiente de investigación:* A.3, A.4, A.6, A.8, A.11, B.4 a B.7, C.1 a C.6, D.1, D.3 a D.6, E.1 a E.7, J.5, H.1, H.2.
+- *Sin texto propio:* A.7 (transversal).
+
+**Dónde está cada párrafo (números del orden anterior):** A.1 = 1–4; A.2 = 12–13; A.5 = 39–42 y 44; A.9 = 5–11; A.10 = 24–27; B.1 = 15–19; B.2 = 20–23; B.3 = 14; D.2 = 43; J.1 = 28–32; J.2 = 33–34; J.3 = 35, 36 y 38; J.4 = 37. Las demás subsecciones no tienen texto todavía.
+
+**Cosas a decidir en la pasada de correcciones por el nuevo orden:**
+- El párrafo «El texto de Cicerón no la demuestra…» (A.5) nombra a Balbo y a *De natura deorum* antes de que el lector llegue a B.1, que es donde se presentan.
+- El párrafo «En la investigación, el modelo cambió tres veces la definición…» (A.9) es donde aparece por primera vez «la investigación» y su glosa; en B.1 y B.2 se vuelve a hablar de «el modelo» y de «la investigación» sin presentarlos.
+- «La lectura de UR» (A.5) queda antes de la semántica (A.9): el texto de A.5 dice que ninguno de los sentidos de *natura* contiene el agua, algo que A.9 aún no ha contado.
+- Los números de glosa citados en `FUENTES.md` («Glosa 7», «Glosa 28»…) ya eran de versiones anteriores y siguen sin corresponder; la referencia viva es la glosa del capítulo.
+
+**Marcador (Regla 14):** URIM 81.145 palabras (≈325 pág.); total del proyecto 279.872 palabras (≈1.119 pág.); fila «Prólogo» 9.368 palabras (37 pág.).
+
