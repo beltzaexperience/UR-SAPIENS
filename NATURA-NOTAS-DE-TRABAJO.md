@@ -518,3 +518,16 @@ Se elige por lo que pida cada párrafo. Aplicado hoy: la frase sobre *-al* y *-e
 
 **Aplicado a `urtz.html` el 14/11/2026 (A.5):** en el párrafo de *natural*/*naturaleza*, «una sílaba de agua» → «UR, un “morfema libre” y símbolo rupestre»; en el párrafo de las cuatro preguntas, «una sílaba» → «un morfema» (¿qué guarda un morfema cuando cambia de cantidad…?; «deja en su lugar el morfema *ur*»; «un morfema que el latín vació de agua y que el euskera conserva mojado»). No quedan «sílabas» en la pestaña. Marcador: 9.482 palabras en la pestaña, sin cambio de palabras (+12 caracteres); URIM 81.259 palabras (≈325 pág.); total 279.986 palabras (≈1.120 pág.).
 
+## 14. Razón del título: semántica aglutinante · gramática flexiva (14/11/2026)
+
+**Planteamiento de Luis.** La semántica de *nacer*, *brotar*, *germinar*, *florecer* y *vivir* habla de agua en todos los niveles; a simple vista la naturaleza ligada al agua parece **aglutinante** (el significado va pegado en bloque), mientras que la gramática se enreda en una lectura **flexiva**. Pregunta: «¿Estamos de acuerdo en esta opción razonada y legítima?»
+
+**Valoración de Claude: sí, como lectura razonable y legítima, con tres partes de distinto peso.**
+1. *El agua en el nacer y el vivir* — **contrastable**: todos los seres vivos conocidos necesitan agua para nacer, brotar, germinar, florecer y vivir (biología general; sin fuente abierta en esta sesión). Es una verdad del mundo, no del diccionario.
+2. *Que la semántica de esos verbos lleve el agua* — **razonable**: el agua está en el referente (el proceso), no necesariamente en la definición. Hay un marco lingüístico que lo respalda: la **semántica enciclopédica** o de marcos (Langacker; Fillmore), según la cual el significado de una palabra incluye el conocimiento del mundo asociado (de memoria; sin abrir). Hay además un hecho del diccionario por comprobar: el DLE da para *brotar* el sentido de «manar el agua» y para *nacer* el de un río o un manantial que comienza a fluir (de memoria; sin comprobar, a la espera de que Luis pegue las entradas).
+3. *Semántica «aglutinante» y gramática «flexiva»* — **legítima**: «aglutinante» es un término tipológico de la morfología; aplicado al significado es una **metáfora declarada**. La propia IA de la investigación retiró *natura* como palabra aglutinante en sentido morfológico (bloque 72), y eso no afecta a esta lectura si el capítulo la declara como lectura sobre el significado. La parte flexiva es literal: *natura* se declina (*natura, naturae, naturam…*) y su *-ur-* queda entre el tema *nat-* y la desinencia *-a*, es decir, atado por los dos lados (A.5).
+
+**Matices para el capítulo.** (a) Decir «la semántica habla de agua» es más exacto como «la semántica del nacer se apoya en el agua»; (b) conviene distinguir en el texto el agua del referente (verdad del mundo) del agua de la definición (hecho del diccionario); (c) la lectura se sostiene sin exigir que *natura* sea aglutinante en sentido morfológico.
+
+**Ubicación.** El razonamiento de esta sección es la explicación del título y encaja en A.3 (Tipología: flexiva y aglutinante), que hoy es una casilla pendiente; A.5 abre el capítulo y A.3 lo explica. Pendiente de orden de Luis para llevarlo al HTML.
+
