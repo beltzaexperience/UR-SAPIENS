@@ -510,3 +510,11 @@ Se elige por lo que pida cada párrafo. Aplicado hoy: la frase sobre *-al* y *-e
 - Línea de estado de A.5: la documentación («ningún sentido latino nombra el agua», *ū* larga frente a *ur* breve) queda como **contrastada**; la lectura *nat-ur-a* como **legítima** que se abre como pregunta; se quita «Falta: una prueba independiente…». Panel: se añade el principio del capítulo.
 - Pestaña: 9.368 → 9.482 palabras (+114). URIM 81.259 palabras (≈325 pág.); total 279.986 palabras (≈1.120 pág.).
 
+## 13. Terminología: morfema y morfema libre (14/11/2026)
+
+**Orden de Luis.** «A la sílaba la declararemos morfema; para el libro, UR, el símbolo, es un “morfema libre”.» La pregunta del párrafo de *natural* y *naturaleza* pasa a: **«¿qué hace UR, un “morfema libre” y símbolo rupestre, en el centro de una palabra que la gramática ha ido cubriendo por los dos lados?»** Los puntos 2, 3 y 4 (cuatro preguntas, indicio de Cicerón, cierre de D.2) quedan aprobados. La escala de formulaciones queda aprobada; el ejemplo del nivel 3 pasa a: **«Ninguno de los ocho sentidos nombra el agua si lo natural de nacer o brotar es hacerlo en un entorno hídrico.»** De la redacción final se ocupará «el relojero ultra» en última instancia.
+
+**Nota técnica (Claude).** En lingüística, un *morfema libre* es el que puede aparecer como palabra por sí solo (en euskera, *ur*, «agua»); uno *ligado* solo aparece unido a otro. El término es exacto para el *ur* vasco, y la pregunta del libro es justamente cómo un morfema libre queda ligado dentro de una palabra flexiva como *natura*. La definición vale para la lectura del libro: en latín, *-ur-* no sería un morfema libre, y esa diferencia es la que la pregunta pone en el centro.
+
+**Aplicado a `urtz.html` el 14/11/2026 (A.5):** en el párrafo de *natural*/*naturaleza*, «una sílaba de agua» → «UR, un “morfema libre” y símbolo rupestre»; en el párrafo de las cuatro preguntas, «una sílaba» → «un morfema» (¿qué guarda un morfema cuando cambia de cantidad…?; «deja en su lugar el morfema *ur*»; «un morfema que el latín vació de agua y que el euskera conserva mojado»). No quedan «sílabas» en la pestaña. Marcador: 9.482 palabras en la pestaña, sin cambio de palabras (+12 caracteres); URIM 81.259 palabras (≈325 pág.); total 279.986 palabras (≈1.120 pág.).
+
