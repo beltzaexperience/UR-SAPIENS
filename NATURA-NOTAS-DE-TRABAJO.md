@@ -665,3 +665,34 @@ Luis pregunta, antes de A.2, si hay respuestas sencillas a las diez preguntas de
 
 **Atestiguación.** «Atestiguada» = documentada en un texto conservado. La escritura latina empieza en los siglos VII–VI a. C. con inscripciones breves (nombres, dedicatorias, leyes: Preneste, Lapis Niger, Duenos; Doce Tablas, 449 a. C., conocidas por citas posteriores); la literatura, hacia el 240 a. C. con Livio Andronico (fecha de memoria), y hacia el 200 a. C. Plauto y luego Terencio (comedia, vida cotidiana), junto a Ennio (épica, solo fragmentos) y Catón (prosa agrícola) (de memoria). La primera aparición documentada de *natura* es en Plauto (hacia el 200 a. C.), con el sentido de manera de ser innata (Buisel). Que la capa más antigua no esté atestiguada **no es raro**: toda palabra se forma antes de que se escriba, y de las más antiguas solo se reconstruye la formación (aquí *natus* + *-ura*) y el sentido que esa formación deja esperar (la «significación virtual» de Buisel). No hay texto latino anterior al 200 a. C. conservado donde conste *natura*.
 
+## 22. Tres maneras de nombrar el nacer; qué cuadra y qué no en *natura* (14/11/2026)
+
+**Aplicado en `urtz.html` (orden de Luis: «SI»).** En el párrafo de la polisemia (A.1): «…el de *nascor* es *nasciturus*, “el que va a nacer”, y no *naturus*, que significaría lo mismo y no está atestiguado como participio de *nascor*: los verbos de nacer y de morir forman el futuro sobre el tema de presente, como *oriturus*, “el que va a surgir”, y *moriturus*, “el que va a morir”». La glosa 16 no cambia. Marcador: pestaña 10.774 → 10.803 palabras (+29); URIM 82.580 (≈330 pág.); total 281.307 (≈1.125 pág.).
+
+**Tres maneras de nombrar el nacer (la aclaración que ordena todo).** A partir del verbo *nacer* hay tres palabras, cada una con un camino distinto:
+- ***nacido* / *el nacido*:** el participio mismo (con artículo si es nombre). Nombra **a quien nació** (el individuo, «el ya nacido»).
+- ***natura*:** palabra nueva, hecha con la base del participio (*natus*) más el sufijo *-ura*. Nombra **el resultado o la condición de haber nacido** (no al individuo).
+- ***nacimiento*:** palabra nueva, hecha sobre el verbo con el sufijo *-miento* (latín *-mentum*, «acción, efecto, medio»; de memoria, DLE sin abrir). Nombra **la acción de nacer** (el suceso).
+Paralelo en castellano: *escribir* → *escrito* (el participio) → *escritura* (nombre sobre el participio: la acción y lo escrito) y no existe *escribimiento*. *Hacer* → *hecho* → *hechura* (de *factura*; de memoria). *Nacer* → *nacido* (popular; el participio regular) y *nato* (culto, directo de *natus*; de memoria) → *natura* (nombre sobre el participio latino) y *nacimiento* (nombre sobre el verbo). Matiz: *natura* se hizo en latín sobre *natus*, no sobre el castellano *nacido*; el castellano heredó la palabra ya hecha, y a su vez dio *naturaleza* sobre *natural*.
+
+**¿Qué cuadra y qué no en *natura*?**
+
+| Plano | Cuadra | No cuadra (o no se sabe) |
+|---|---|---|
+| Gramática (categoría) | Sustantivo femenino de la primera declinación | — |
+| Morfología (formación) | *natus* + *-ura*, como *scriptura* | Origen de *-ura* y su relación con *-turus*; *-t-* «activo» (Ernout, según Buisel) |
+| Sintaxis | Funciona como sujeto y complemento directo | Nada: no rige como verbo ni concuerda como participio |
+| Etimología | *nasci*, *natus*, raíz *\*ǵenh₁-* | La capa anterior a los textos |
+| Semántica | «Manera de ser innata»; humano, vivo, innato | Piedras, universo, causa, «naturaleza cultural»: sentidos que vienen del calco de *phýsis* (siglo I a. C.); y el agua, que no figura en los sentidos latinos |
+La forma es regular; lo que se aparta es **el sentido**, que se extiende.
+
+**«Un sustantivo cuyo sentido es el de un participio» en otras palabras:** *natura* es el «haber nacido» hecho nombre. Pasa con todos los nombres en *-ura* sobre participio: *scriptura* («lo escrito»), *pictura* («lo pintado»), *structura* («lo construido»), *sepultura* («lo sepultado»), *factura* («lo hecho»), *apertura* («lo abierto»), *lectura* («lo leído»). En castellano, además, el patrón *-dura* sobre participios en *-ado*: *quemadura*, *armadura* (de memoria).
+
+**Tres cosas que no son lo mismo.** (i) Un participio que se comporta como sustantivo: muy común (*el nacido*). (ii) Un sustantivo derivado de un participio, con sentido participial: común (*escritura*, *natura*). (iii) Un sustantivo que se comporta como participio: **raro**, y no es el caso de *natura*.
+
+**¿Hasta la escolástica fue siempre sustantivo?** En lo documentado, sí: los ocho sentidos de Lewis y Short son de sustantivo (femenino de la primera declinación). La conversión en participio (*naturare*, *naturans*, *naturata*) es medieval (de memoria, Weijers sin abrir) y se queda como **apunte** en B.2: es interesante pero secundario para la línea latín → castellano. En castellano, nombre → participio no es imposible en general (*natural* → *naturalizar* → *naturalizado*), pero **para *natura* no hay verbo en uso**.
+
+**¿Cuándo entra en castellano?** No tenemos la primera documentación (la consulta a la RAE sigue sin respuesta). Ya la usa Alfonso X en el siglo XIII (Primera Partida; cantiga 179) y el *Libro de Alexandre* (copla 2325), con la datación de memoria.
+
+**«*Natus* + *-ura*»: precisiones.** (a) La base es el **tema** del participio (*nat-*), no «la nacida» (*nata*): el *-a* de *natura* es la desinencia del nombre, no el femenino de *natus*. (b) «Resultado de haber nacido»: correcto. (c) **«El conjunto de los que han nacido»**: no es un sentido atestiguado ni lo da la etimología; es una **extensión** que la formación permite (como *scriptura*, «un escrito») y que el libro lee («todos los que hemos nacido somos la natura»): lectura legítima, no documentación. En latín, el sentido de conjunto aparece como «naturaleza universal» (siglo I a. C.), y en castellano el DLE lo da como «conjunto de todo lo que existe», no solo de lo nacido.
+
