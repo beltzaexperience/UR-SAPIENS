@@ -811,3 +811,9 @@ La forma es regular; lo que se aparta es **el sentido**, que se extiende.
 
 **Pendiente.** Abrir Ernout y Meillet, *urbs*, y el pasaje de Varrón (texto latino y aparato crítico; la edición de Heidelberg y el artículo de Piras salieron como enlaces, sin abrir); abrir «-ura» del DLE; abrir la fuente de Lewis y Short sobre *urvo*.
 
+## 30. *Neonato* entra en A.1 (15/11/2026)
+
+**Aplicado en `urtz.html` (A.1; orden de Luis: «Si»).** En el párrafo de *nato*, tras «*un deportista nato*», se añade: «De *natus* sale también *neonato*, “recién nacido”(17), que el diccionario forma con el prefijo griego *neo-* y *natus*: *niños neonatos*.» Glosa nueva n.º 17 («neonato»; DLE: «Del lat. cient. *neonatus*, y este del gr. νεο- *neo-* ‘neo-’ y el lat. *natus* ‘nacido’»; «recién nacido»); *naturar* pasa a n.º 18 y *urbe, ciudad* a n.º 19. 63 glosas alineadas (comprobado). Línea de estado de A.1: *contrastada* suma *neonato*. Marcador: pestaña 11.658 → 11.727 palabras (+69); URIM ≈83.504 (≈334 pág.); total ≈282.231 (≈1.129 pág.). Sin publicar.
+
+**Observación.** *Natus* sale ahora en A.1 en cuatro palabras del diccionario: *nato*, *neonato*, *natura* (con *-ura*) y *naturar/naturado* (de *natura*). *Neonato* es un cultismo: la forma latina científica *neonatus* se construye con el prefijo griego *neo-*, lo que el DLE marca como «lat. cient.».
+
