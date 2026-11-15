@@ -860,3 +860,11 @@ Luis aporta cuatro textos (ABIERTOS, los he leído enteros): (1) Parker, *The ar
 
 **Para el libro (no pasa al capítulo; reflexión de Luis).** La secuencia «mito rupestre → rito neolítico → poema sumerio» sitúa el rito del surco como segundo paso; en el capítulo solo se registra en la línea *legítima* de C.7 (lectura declarada del libro) y no se defiende.
 
+## 33. La secuencia «mito rupestre, rito neolítico, poema sumerio» va a la Contraportada (15/11/2026)
+
+**Frase de Luis:** «tu secuencia “mito rupestre, rito neolítico, poema sumerio” en contraportada.» (La secuencia es la que Luis dio al decir que el rito es «segundo paso en el libro».)
+
+**Aplicado en `urtz.html`:** la secuencia sale de la línea *legítima* de **C.7 Etruscos** (que queda en «—»); no vive en el capítulo, ni siquiera como lectura declarada. Marcador: pestaña 12.469 → 12.455 palabras (−14); URIM 84.232 (≈337 pág.); total 282.959 (≈1.132 pág.). 66 glosas alineadas, sin cambios. Sin publicar.
+
+**Contraportada (no tocada).** La Contraportada es una pieza de URS sellada (☠ NO TOCAR); no se escribe en ella sin una orden suya sobre esa pieza. Queda anotado aquí como **material para la Contraportada**: «mito rupestre · rito neolítico · poema sumerio» (la secuencia de pasos del libro); el rito del surco de fundación (Varrón, «según el rito etrusco», secciones 31 y 32) sería el paso intermedio. Pendiente de Luis: si quiere que se lleve a la Contraportada y cuándo.
+
