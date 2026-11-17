@@ -1078,3 +1078,26 @@ Luis aporta cuatro textos (ABIERTOS, los he leído enteros): (1) Parker, *The ar
 
 **Pendiente.** *Escriturar* (DLE sin pegar); explicación de los «grados» de *-ura* (pregunta abierta en el texto); gramática latina elemental y De Vaan para los ocho pares; *facturar* (etimología); contraste del aspecto (*nascens* / *nātus* / *nasciturus*) con una gramática latina; A.4 Lingüística cognitiva y A.6 siguen pendientes.
 
+## 43. A.3 Tipología: flexiva y aglutinante: estado y propuesta (17/11/2026)
+
+**Orden de Luis:** «ok» (a «¿Pasamos a A.3?»).
+
+**Estado de A.3 en `urtz.html`.** Dos párrafos, ambos sobre el **agua en la familia de *nacer*** (DLE: *nacer*, *brotar*, *nacimiento*, *origen*, *naciente*; ninguna acepción de *natura*, *natural* y *naturaleza*), con la pregunta «¿Es casualidad que el agua figure en el verbo y en los nombres hechos sobre el verbo, y no en el nombre hecho sobre el participio?». **No tiene todavía nada de tipología** (qué es una lengua flexiva y una aglutinante), pese al título. Línea de estado: *razonable* «la derivación con sufijos es normal en las lenguas flexivas y *natura* no es una palabra aglutinante en sentido morfológico» (de memoria); *legítima* «“semántica aglutinante · gramática flexiva”: metáfora declarada sobre el significado»; *falta* «una fuente de tipología lingüística y otra de semántica de marcos».
+
+**Qué hay ya abierto para A.3 (y no se ha escrito).**
+- DLE «caso»: «Categoría gramatical que expresa… relaciones sintácticas **a través de marcas flexivas**» (la palabra «flexivas» ya está en el diccionario).
+- A.2: el latín dice caso y número con una terminación (*-ae*); el euskera suma sufijos (*ur-a-ren*, *ur-a-ri*, *ur-a-rekin*; formas construidas con el cuadro de Omaechevarría).
+- Omaechevarría (1962): el artículo vasco es el demostrativo *har* atenuado; los temas en consonante intercalan *-e-* (*ibarr-e-tik*); el indefinido *-ta-* sale del plural *-eta-*; es decir, **las «piezas» vascas se ajustan y se funden entre sí**.
+- Villasante (1978, pp. 47 y 49): el vasco usa sufijos declinativos y posposiciones donde las lenguas neolatinas usan preposiciones; los sufijos «no son palabras, sino partículas que sólo tienen existencia cuando se aplican a las palabras, a las cuales terminan y con las que se fusionan».
+- DLE «participio», «caso oblicuo» («marcado por una preposición»), «cultura»… (A.2).
+- **Del anexo etrusco de `A- NATURE`, SIN FUENTE (IA, 13 alertas, nota 34):** etrusco aglutinante, sin prefijos, genitivo en *-s*/*-l*; tabla de los Balcanes (rumano, griego, albanés, búlgaro, macedonio: flexivas, con simplificación analítica y el turco como catalizador); evidencialidad (turco *-di*/*-miş*; búlgaro; albanés; español: condicional de rumor, imperfecto citativo, futuro de conjetura, *dizque*; español andino); estonio: de aglutinante a flexivo por contacto con el alemán. **Todo pendiente de abrir (Friedman y Joseph; Tomić; WALS 20A; Thomason 2001; Aikhenvald 2004; Laakso 2001).**
+
+**Falta para escribir A.3 con fuentes.** Las **definiciones**: DLE «aglutinante» (y «aglutinación»), «flexión», «flexivo» (y, si existe, «lengua aglutinante»/«lengua flexiva»); una fuente de tipología lingüística (Comrie, *Language Universals and Linguistic Typology*; Sapir, *Language*; WALS, rasgo 20A «Fusion of Selected Inflectional Formatives»: de memoria, **sin abrir**); una de semántica de marcos o enciclopédica (Langacker, Fillmore: de memoria).
+
+**Borrador propuesto (sin aplicar; dos párrafos al principio de A.3, antes de los del agua).** Con lo que ya está abierto y **sin las definiciones, que quedan en la línea *falta***:
+1. «Las lenguas colocan los significados de dos maneras. En latín, una sola terminación dice a la vez el caso y el número: *nātūrae* es “de la naturaleza”, “a la naturaleza” y también “las naturalezas”. En euskera, cada caso es un sufijo propio que se añade al nombre, uno detrás de otro: *ur-a*, “el agua”; *ur-a-ren*, “del agua”; *ur-a-rekin*, “con el agua”. La primera manera se llama flexiva y la segunda, aglutinante.»
+2. «Ni la una ni la otra son puras. El diccionario, al definir el caso, habla de “marcas flexivas”; y el euskera, en cambio, ajusta y funde sus piezas: los temas en consonante intercalan una *-e-* (*ur-e-tik*), el artículo es un demostrativo atenuado al fundirse con el nombre, y los sufijos, dice Villasante, “con los que se fusionan” los nombres. El título del capítulo usa los dos términos como imagen: una semántica en la que el significado se acumula en capas visibles, como los sufijos, y una gramática en la que las terminaciones se funden, como en el latín.»
+**Límites del borrador.** (a) «La primera manera se llama flexiva… aglutinante» es terminología de la tipología morfológica (de memoria; falta el DLE); (b) *ur-e-tik* está construida con el paradigma de Omaechevarría (glosa de A.2); (c) la frase del título es la **razón declarada del título** (sección 14 de las notas): lectura del libro, no definición. Se escribiría con la glosa «razón del título».
+
+**Pedido a Luis (una sola cosa, opcional):** pegar el DLE «aglutinante», «aglutinación», «flexión» y «flexivo».
+
