@@ -948,3 +948,24 @@ Luis aporta cuatro textos (ABIERTOS, los he leído enteros): (1) Parker, *The ar
 
 **Pendiente (línea *falta* de A.2).** Gramática latina elemental (Smith; Allen y Greenough); *NGLE* «caso»; Penny (2002) o Lapesa (pérdida de casos); Euskaltzaindia, *EGLU* (número de casos); resto de Villasante (concordancia, el artículo); redactar el participio, las cadenas (*escritura*, *factura*, *cultura*, *mensura*, *natura*) y el aspecto.
 
+## 37. A.2: lo que queda del participio y las cadenas, sin repetir A.1 (17/11/2026)
+
+**Orden de Luis:** «Ok.» (a «¿Pasamos ya al participio y a las cadenas en A.2?»).
+
+**Comprobación de duplicados.** Gran parte de lo que la línea *falta* de A.2 pedía **ya está en A.1**: la cadena verbo → participio → nombre (*nasci*, *natus*, *natura*; *nacer*, *nacido*, *el nacido*), los tres caminos de *nacer* (*nacido*, *natura*, *nacimiento*), el reparto de *escribir* (*escrito*, *escritura*), *nato*, *neonato*, el camino nombre → verbo → participio (*natura*, *naturar*, *naturado*), la sustantivación, la pregunta clave y *nasciturus/naturus*. **No** hay en el capítulo: (1) los **tres participios de *nasci*** con *nascens* (presente) y el **aspecto** (*el que nace* / *el nacido* / *el que va a nacer*); (2) la **serie de nombres en *-ura*** sobre participios más allá de *scriptura* y *lectura* (*cultura*, *mensura*, *sepultura*, *structura*, *pictura*, *ūsūra*, *factura*, *agricultura*). Esos dos puntos son lo que A.2 puede añadir sin repetir. «Sintaxis (sujeto y complemento directo)» quedó cubierta por las declinaciones (nominativo y acusativo, sección 36).
+
+**Borrador propuesto (sin aplicar; dos párrafos en A.2, después de los de declinación y antes del adjetivo *natural*).**
+1. *Participios y aspecto.* «De *nasci* salen tres participios, y cada uno mira el nacer desde un punto distinto: *nascens*, “el que nace”, el nacer en curso; *nātus*, “el que ha nacido”, el nacer acabado; y *nasciturus*, “el que va a nacer”, el nacer por venir. El castellano conserva los tres caminos: *naciente*, *nacido* y, en el lenguaje jurídico, *nasciturus*, el concebido que todavía no ha nacido. *Natura* se hace sobre el segundo: sobre el nacer acabado.»
+2. *La serie en *-ura*.* «*Natura* no está sola. El mismo sufijo se añade a la base de otros participios: *scrībere*, *scrīptus*, *scrīptūra*; *colere*, *cultus*, *cultūra*; *mētīrī*, *mēnsus*, *mēnsūra*; *sepelīre*, *sepultus*, *sepultūra*; *struere*, *structus*, *structūra*; *pingere*, *pictus*, *pictūra*; *facere*, *factus*, *factūra*. En todas, el nombre dice la acción o el resultado de lo que el participio ya da por cumplido: lo escrito, lo cultivado, lo medido, lo enterrado, lo construido, lo pintado, lo hecho. Y el castellano suma compuestos sobre ellas: *agricultura*, de *ager*, “campo”, y *cultura*; *agrimensura*, de *ager* y *mensura*.»
+
+**Lo que sostiene cada frase.**
+- *Contrastada (abierta):* *scriptura* y *lectura* (A.1: Wiktionary, Smith §72, DLE, Lewis y Short); el arranque del DLE «-ura» (resumen pegado en el anexo etrusco, 16/11/26): «sufijo del lat. *-ūra* que forma sustantivos derivados de verbos o participios pasivos…».
+- *Razonable (de memoria o del anexo de IA, sin abrir):* los tres participios de *nascor* y sus sentidos (A.1 ya dice *nasciturus*; *nascens* no está abierto); *naciente* y *nasciturus* en castellano (el segundo como término jurídico; **no he visto el DLE**); los pares participio–nombre *cultus/cultūra*, *mēnsus/mēnsūra*, *sepultus/sepultūra*, *structus/structūra*, *pictus/pictūra*, *factus/factūra* (gramática latina elemental; el anexo de IA da *ūsus/ūsūra*, *nātus/nātūra*, *mēnsus/mēnsūra* con apoyo de De Vaan, **sin abrir**); *agricultura* = *ager* + *cultura* y *agrimensura* = *ager* + *mensura* (el anexo de IA).
+- *Legítima:* —
+- *Falta:* abrir DLE «-ura» entero, «participio», «naciente», «nasciturus», «cultura» y «mensura/agrimensura»; Smith §72; De Vaan 2008 (*-ūra*).
+- **No se afirma** en el texto: que *-ūra* venga de un grupo indoeuropeo *-tu-* + *-ro-* (formación que da la IA del anexo, sin fuente); ni que *factura* sea latín clásico (atestiguada, pero tardía: de memoria; sin cotejar).
+
+**Pedido a Luis (opcional, mejora el texto):** pegar las entradas del DLE «-ura», «participio», «cultura» y «nasciturus» (si existe). Con ellas, las frases de la columna *razonable* pasan a *contrastada*.
+
+**Qué queda de la línea *falta* de A.2 tras esto:** el cotejo de fuentes de la serie y las gramáticas citadas en la sección 36; la definición de «participio» con el DLE; nada más por redactar.
+
