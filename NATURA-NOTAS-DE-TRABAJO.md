@@ -1040,3 +1040,5 @@ Luis aporta cuatro textos (ABIERTOS, los he leído enteros): (1) Parker, *The ar
 
 
 **Añadido (17/11/2026).** Luis: «La palabra *envolturar* no está en el Diccionario.» Confirma, por su búsqueda en el DLE, la ausencia de *envolturar* (ya recogida en esta sección). **Consecuencia:** *envoltura* es el caso que no cumple mi hipótesis del radical (*envolver*, *envolt-*), así que la hipótesis sigue solo como hipótesis de trabajo, fuera del capítulo. El paquete propuesto no cambia.
+
+**Prueba pegada (17/11/2026).** Luis pegó la respuesta del DLE (24.ª edición, en línea): «La palabra *envolturar* no está en el Diccionario. La entrada que se muestra a continuación podría estar relacionada: *envoltura* (*envolturas*)». **Ausencia de *envolturar*: contrastada con la propia respuesta del DLE (ABIERTA).** Las otras cuatro ausencias (*monturar*, *blancurar*, *pinturar*, *sepulturar*) siguen apoyadas en la afirmación de Luis («contrastado en DLE») sin la respuesta pegada; en la glosa se escribirá «búsqueda en el DLE, 17/11/26» y, para *envolturar*, la respuesta del diccionario.
