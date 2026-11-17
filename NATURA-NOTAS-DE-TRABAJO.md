@@ -1418,3 +1418,7 @@ Luis aporta cuatro textos (ABIERTOS, los he leído enteros): (1) Parker, *The ar
 4. **«Un libro dentro de otro»:** queda abierto si NATURA acaba como categoría de URS, como anexo o como volumen aparte («ya lo iremos viendo»). Sin decidir.
 
 **No se ha cambiado `urtz.html`.** Pasos de la mudanza, por si Luis la ordena: (a) crear en URIM una cabecera menor «○ N: SM · GF» con el nombre completo, (b) mover la pestaña entera a ella, (c) dejar «Prólogo» vacío en URIM (0 piezas) y retirar la nota «ENCAJE: Prólogo», (d) añadir la fila de N: SM · GF al Marcador (Regla 14) y quitar las cifras de la fila Prólogo, (e) extraer más adelante el núcleo a URIM → Introducción cuando esté redactado como texto de lectura (el mapa y el andamiaje no se mudan).
+
+## §61 · La pestaña se queda en URIM → Prólogo (17/11/2026)
+
+**Palabras de Luis:** «No hace falta. En la mesa de mezcla puede estar en prólogo.» **Decisión:** no se hace la mudanza de §60 (pasos a-d). La pestaña «BORRADOR · NATURA» sigue en URIM → Prólogo, la fila «Prólogo» del Marcador conserva sus cifras y la nota «ENCAJE: Prólogo» se queda; URIM es la mesa de mezcla y la ubicación definitiva (núcleo a Introducción; nivel N: SM · GF) se resolverá al pasar a URS. Lo demás de §60 (opción C, nombre y sigla, Prólogo de un amigo, «un libro dentro de otro» abierto) sigue en pie. Sin cambios en `urtz.html`.
