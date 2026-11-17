@@ -989,3 +989,18 @@ Luis aporta cuatro textos (ABIERTOS, los he leído enteros): (1) Parker, *The ar
 
 **Cambios que acompañan (si Luis da la orden).** (a) A.1: *contrastada* suma «*nasciturus*, “part. fut. act. de *nasci*” (DLE)»; (b) A.3: una frase con *naciente* (Costa Rica: «sitio donde nace o brota agua») junto a *nacer*, *brotar* y *nacimiento*; (c) A.2: tras esto, la línea *falta* queda solo en el cotejo de fuentes.
 
+## 39. DLE «cultura», «culturar» y «connatural»: *culturar* repite el camino de *naturar* (17/11/2026)
+
+**Pegado por Luis el 17/11/26 (ABIERTO; el pegado termina cortado en un «+»; sin orden de aplicar).**
+
+**Cultura** («Del lat. *cultūra*»): 1. «Conjunto de conocimientos adquiridos por una persona» (sinónimos: *educación*, *erudición*, *sabiduría*, *instrucción*, *ilustración*, *formación*; antónimos: *incultura*, *ignorancia*, *anticultura*); 2. «Conjunto de modos de vida, costumbres, conocimientos, creencias y grado de desarrollo que caracterizan una época o a un grupo social» (*Las culturas griega y latina constituyen la cultura clásica*; sinónimo: ***civilización***); 3. «**cultivo**»; 4. desusado «Culto religioso». Compuestos: *cultura física*, *general*, *popular*.
+**Culturar** («De *cultura*»): tr. «**cultivar**»; el cuadro de conjugación da el participio ***culturado***. **Connatural** («Del lat. *connaturālis*»): «Propio de la naturaleza de alguien o algo» (sinónimos: *innato*, *natural*, *nato*, *congénito*, *propio*…).
+
+**Hallazgos.**
+1. ***Cultura* → *culturar* → *culturado* repite el camino de *natura* → *naturar* → *naturado*** (sección 27): el DLE registra, para dos nombres en *-ura*, el verbo derivado y su participio. En los dos casos el verbo es de *uso restringido* (*culturar* = «cultivar»; *naturar*, urbanístico). **Candidata a frase en A.1** (en el párrafo de *naturar*): «Lo mismo ocurre con *cultura*: el diccionario registra *culturar*, “de *cultura*”, “cultivar”, y su participio *culturado*.»
+2. **La deriva de sentido de *cultura* en el propio DLE:** de «cultivo» (3.ª, la conservada del latín *cultūra*, «cultivo, labranza», ver agricultura) a «conocimientos» (1.ª) y a «modos de vida… de una época o grupo» (2.ª, = *civilización*). **Paralelo con *natura*** (A.9: del nacer a la naturaleza de las cosas); **documentado dentro del diccionario**: *cultura* = *cultivo* = *civilización*, tres sentidos de una misma palabra. Para la cadena de Luis (*agricultura* → *civilización* → «T» → UR): lo documentado es que el DLE da *civilización* como sinónimo de la 2.ª acepción de *cultura* y *cultivo* como la 3.ª; que de ahí se llegue a «T» y a UR es **lectura del libro**.
+3. **Para la serie en *-ura* (borrador de A.2, nota 38):** *cultūra* deja de ser «de memoria»: el DLE la da «Del lat. *cultūra*» con la acepción «cultivo». El resto de pares (*colere* / *cultus*) sigue de memoria.
+4. **Connatural** («Del lat. *connaturālis*») = «propio de la naturaleza de alguien o algo»; sinónimos *nato* y *natural*: confirma la familia que A.9 y la sección 26 ya recogen. Sin aplicar.
+
+**Cambios que acompañan al borrador de A.2 (si Luis da la orden).** (a) A.2, segundo párrafo: tras *agricultūra* y *agrimensūra*, una frase con *cultūra*: «*Cultura*, “del lat. *cultūra*”, el diccionario la define como “conjunto de conocimientos adquiridos”, como “conjunto de modos de vida… que caracterizan una época o a un grupo social” —su sinónimo es *civilización*— y todavía como “cultivo”.» (b) A.1, párrafo de *naturar*: la frase de *culturar*. Glosa nueva: «cultura, culturar».
+
