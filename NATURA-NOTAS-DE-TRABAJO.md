@@ -1038,3 +1038,5 @@ Luis aporta cuatro textos (ABIERTOS, los he leído enteros): (1) Parker, *The ar
 
 **Paquete completo propuesto (a la espera del «sí»).** (1) A.2: los dos párrafos (cuatro glosas ya descritas en la nota 38 + «cultura» + «verbos en *-ura*»: seis glosas nuevas); (2) A.1: en el párrafo de *naturar*, la frase «Lo mismo ocurre con *cultura*: el diccionario registra *culturar*, “de *cultura*”, “cultivar”, y su participio *culturado*» (una glosa nueva) y *nasciturus* sumado a lo contrastado de la línea de estado; (3) A.3: una frase con *naciente* (Costa Rica: «sitio donde nace o brota agua») junto a *nacer*, *brotar* y *nacimiento* (una glosa nueva). Total: ocho glosas nuevas (71 → 79). Líneas de estado de A.1, A.2 y A.3 actualizadas.
 
+
+**Añadido (17/11/2026).** Luis: «La palabra *envolturar* no está en el Diccionario.» Confirma, por su búsqueda en el DLE, la ausencia de *envolturar* (ya recogida en esta sección). **Consecuencia:** *envoltura* es el caso que no cumple mi hipótesis del radical (*envolver*, *envolt-*), así que la hipótesis sigue solo como hipótesis de trabajo, fuera del capítulo. El paquete propuesto no cambia.
