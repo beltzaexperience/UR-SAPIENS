@@ -1473,3 +1473,12 @@ Los cinco PDF se borran de la línea de trabajo y de la versión pública (orden
 **Relación con el capítulo (mía, fuera del texto):** la frase sobre el papel de los «elementos básicos» frente a la visión estructural afecta a la pregunta de si un morfema suelto como *ur* tiene sentido propio o solo dentro de la palabra (A.3 y A.4); no dice nada de *ur*. Si Luis quiere, una frase atribuida en A.6 o A.3: «Quintili sostiene que…».
 
 **Estado:** las propuestas A, B, C y D de §63 siguen sin aplicar, esperando el «aplica» de Luis. Sin cambios en `urtz.html`.
+
+## §65 · A.6 y J.2 aplicados (18/11/2026)
+
+**Orden de Luis:** «aplica» a «¿Aplico las propuestas de A.6 y J.2 como estaban?». **Hecho en `urtz.html` (pestaña NATURA):**
+- **A.6, párrafo 1:** frase añadida con las otras dos lecturas del veto de 1866 (Hauser y otros: las especulaciones superaban a las pruebas; Quintili: decisión política e ideológica) y glosas 58 y 59.
+- **A.6, párrafo 6 (nuevo):** Hauser y otros (2014) y los «algo menos de 200.000 años» de los primeros *Homo sapiens*, con la proporción del 3-4 % (cuenta mía, dicho en la glosa 68); glosas 67 y 68. A.6 pasa a 6 párrafos y 14 glosas (55-68).
+- **J.2, párrafo nuevo** sobre Natura personificada (Bernardo Silvestre, Alain de Lille, *Roman de la Rose*, *Roman de Silence*), colocado **tras la frase de Curtius**; para ello el primer párrafo de J.2 se partió en dos (Alfonso X y Curtius; *Libro de Alexandre*); glosas 104 y 105. Un solo ajuste respecto de la propuesta: el párrafo empieza con «Según Gómez-Chacón,», para dejar clara la atribución.
+- **No aplicada** la propuesta D (frase opcional de A.9 sobre *proprietates sive naturas*): Luis aprobó A.6 y J.2.
+**Panel:** A.6 (*contrastada* y *falta* reescritas: ya no falta Hauser) y J.2 (*razonable* añade a Gómez-Chacón). **Comprobado:** 111 llamadas `(n)` y 111 glosas, alineadas de 1 a 111; 46 subapartados. **Marcador (Regla 14):** URIM 541.012 caracteres · 92.213 palabras · ≈369 pág. · 95 piezas; TOTAL 1.740.944 caracteres · 290.940 palabras · ≈1164 pág.; fila Prólogo, 20.436 palabras (≈82 pág.). **Sin publicar** (el último HTML público es el del 17/11/26, con A.4 y A.6 antiguos). **Pendiente, sin orden:** A.11 (primera documentación de *naturaleza*); sección F «El agua» (Díez de Velasco); A.9, frase opcional; una frase atribuida a Quintili sobre los «elementos básicos» (nota 64).
