@@ -1754,3 +1754,20 @@ Tras «…y el diccionario alemán registra naturaleza, disposición o esencia, 
 
 ### Pendiente de comprobar
 Que el artículo «Natur» de Adelung dé *burte* y *anaburt* tal como los copié (los transcribí de lo que Luis pegó el 18/11/26; si hay duda, se vuelve a leer el pegado en la sesión).
+
+## §80 · Aplicado: A.5, A.10 y B.2 (Adelung, DWDS, Grimm y Kluge por Willer) (18/11/2026)
+
+**Orden de Luis:** *«Aplica todo.»* (A.5 y A.10 y la glosa de B.2 de las notas §78 y §79). Pegó además, de Adelung, el tramo «Urältermutter – Urgroßvater» (Bd. 4, Sp. 961) con la «Vorrede» otra vez.
+
+### Aplicado en `urtz.html`
+- **A.5, párrafo 4 nuevo** (entre el del *ur-* alemán y el de las cuatro preguntas): DWDS (cuatro usos); Grimm (1936) y Kluge por Willer; Adelung (seis sentidos y conjetura imitativa; el prólogo de 1793). Glosas 15-17 (DWDS; Willer con Grimm y Kluge; Adelung con la Sp. 961, la «Vorrede» y Meyers 1909). Se quitó el año «1801» del texto de Adelung (el año del volumen es de memoria; la glosa da «2.ª ed., 1793-1801»).
+- **A.10, párrafo del nórdico y el alemán:** dos frases nuevas con Adelung: *Natur* aparece con Otfrid; antes Kero *chnuat*, Notker *burte*, *anaburt*, *anauuiste*; *Burt* como forma de Notker de *Geburt*, que Adelung registra como «comienzo, formación de una cosa»; mismo sentido anatómico en *Natur* y *Geburt*. Glosas 102-103 (la fecha de Otfrid **no** está en el texto; se omitió el gimach de Cristo).
+- **B.2, párrafo 2:** glosa 116 (DWDS: *natura naturans* = «gebärende Natur»). No se copió la cita sobre «naturaleza mitológica / Madre universal» porque no sé de cuál de los tres ejemplos del DWDS es.
+- **Paneles:** A.5 *contrastada* (DWDS, Adelung y Meyers de primera mano; Grimm y Kluge por Willer; Wikcionario y Wikipedia de segunda mano) y *falta* (etimología de *ur-* en el DWDS; entrada de Kluge en sí); A.10 *contrastada* con el alemán por Adelung y *falta* sin el primer testimonio de *Natur* (queda: los textos de Kero, Notker y Otfrid de primera mano); B.2 *contrastada* con el DWDS.
+- **Resultado:** 140 glosas alineadas (140 sups = 140 lis), 46 `<h5>`; TERMINADO 3, EN REDACCIÓN 17, PENDIENTE 25. Marcador: URIM 569.891 car. · 96.773 pal. (≈387 pág., 95 piezas); TOTAL 1.769.823 car. · 295.500 pal. (≈1182 pág.); fila Prólogo 24.996 pal. (≈100 pág.). **No publicado.**
+
+### Adelung, Sp. 961 (nuevo; primera mano)
+Compuestos de *ur-* en los que Adelung da valores distintos: *Urältern* («los padres en quinto grado»; en alto alemán, *Uraltvater*); *Urbeginn* y *Urerbe* («ur, el primero de su clase»); *Urbild* («el original», criticado por impropio); *urbar* y *Urbar* (*ur* = *er-*, *bar* de *bären*, «llevar»: «Ertrag»); *Urbede* (*ur* = *er-*, «pedido»); *Urbühr* (*ur* = *er-*; *irpuren*, «recoger»); *Urenkel* (*ur* «no puede tener aquí el sentido de *eher* o *erst*»; «parece tomado solo para imitar» los ascendientes, o «está por *ober*»); *uretzig* (*ur* por *über*, «hartarse»); *Urfahr* (*ur* contraído de *über*); ***Urfehde* (*ur* = *un-*: «Unterlassung aller Fehde»)**; *Urfriede* (*ur* distinto; Frisch: *Verfriede*); *Urgeist* y *Urgrund* («solo en místicos y alquimistas»: «Gott»); *Urgicht* (*ur* = *vor*; Frisch). **Uso posible, sin aplicar:** una frase en A.5 con *Urfehde* («*ur* = *un-*») como ejemplo de que *ur-* no significa siempre «primero» en Adelung. La «Vorrede» no cambia (ya citada).
+
+### Pendiente sin cambios
+Etimología del DWDS de *ur-*; entrada de Kluge en sí; textos de Kero, Notker y Otfrid de primera mano; fecha de Otfrid; si el *Isidor* alemán es el *Althochdeutscher Isidor* (memoria).
