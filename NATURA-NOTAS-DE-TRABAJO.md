@@ -1792,3 +1792,27 @@ Etimología del DWDS de *ur-*; entrada de Kluge en sí; textos de Kero, Notker y
 - **A.5, párrafo 4, primera frase:** añadir, tras los cuatro usos: «; su diccionario etimológico (Pfeifer) recoge la preposición del alto alemán antiguo *ur* solo en los siglos VIII y IX, y la remite, con el nórdico antiguo *ōr* y el gótico *us*, al indoeuropeo ‡*ūds*, «fuera»(15)».
 - **Glosa 13 (A.5):** cambiar «DWDS, Pfeifer, Duden y Adelung no se han abierto: segunda mano» por «el DWDS (con Pfeifer) y Adelung se citan de primera mano en las glosas 15 y 17; Duden no se ha abierto».
 - **Panel de A.5:** *falta*: «el final de la frase de Pfeifer y la entrada de Kluge en sí».
+
+## §82 · Pfeifer completo, «ur-» y «urig» (Luis, 18/11/2026); propuesta de A.5 revisada
+
+**Pegó Luis** el resto de la etimología de Pfeifer en el DWDS (la parte cortada en §81) y el artículo «urig». Sin cambios en `urtz.html`. **Sustituye la propuesta de §81.**
+
+### Lo que dice Pfeifer (primera mano, por el DWDS; traducciones mías)
+- **Origen:** los testimonios (alto alemán antiguo *ur*, solo en los siglos VIII-IX; nórdico antiguo *ōr*; gótico *us*, «de, fuera de»; prefijos germánicos; gótico *us-*/*uz-*, «de, fuera, hacia arriba») «llevan a indoeuropeo ‡*ū̌ds*, **una ampliación de ‡*ū̌d-*** (véase *aus*)».
+- **Acento y *er-*:** el prefijo, que es átono en los verbos compuestos, «se debilita a *er-*»; los compuestos nominales, «**presumiblemente las formaciones más antiguas**», quedan bajo el acento inicial germánico y conservan la forma plena *ur-*. De ahí *Urlaub* frente a *erlauben* y *Urteil* frente a *erteilen* (*urteilen* es derivado reciente).
+- **Sentido antiguo, «de, fuera, hacia arriba»:** gótico *uzanan*, «exhalar»; alto alemán antiguo *urteil*, «reparto (del derecho)»; gótico *urreisan*, «levantarse».
+- **De ahí, sentido privativo o negativo:** alto alemán antiguo *urtriuwi*, «sin fe» (siglo VIII), resto en *Urfehde*. **Intensivo:** *uralt* (alto alemán antiguo, siglo VIII), *urplötzlich* (siglo XVI), *urkomisch* (siglo XIX).
+- **Parentesco:** la generación inmediatamente anterior o posterior: *Urahn*, *Urenkel*, y duplicado *Ururgroßvater*; después *urverwandt* y *Urgesellschaft* (siglo XIX).
+- **«Schließlich» (por último):** *ur-* marca «lo primero, lo muy lejano, lo sin falsear»: ***Urbild* (siglo XVII), *Urwald* (siglo XIX), *urtümlich* (siglo XIX)**.
+- ***urig*:** «rústico, raro, extraño, gracioso, original», formado al parecer directamente sobre el prefijo, entra en la lengua literaria en el siglo XIX desde los dialectos. **No emparentado** con el suizo *urchig* ni el suabo *ur(ch)ig*, «puro, limpio, auténtico».
+
+### Observaciones mías (fuera del texto de Pfeifer)
+1. **En Pfeifer el sentido de «origen» no es el de partida:** es el último de su lista, y sus ejemplos fechados son de los siglos XVII (*Urbild*) y XIX (*Urwald*, *urtümlich*, *urverwandt*, *Urgesellschaft*). Lo antiguo es «fuera, hacia arriba». Es un orden de exposición, no una cronología probada (las fechas son de primeros testimonios). Conviene para A.5: la connotación de «origen» que Luis quiere conservar existe en alemán, pero Pfeifer la sitúa tarde.
+2. **Contraste con Adelung:** Adelung ponía «lo primero» relacionado con *eher* y *erst*, una derivación distinta; Pfeifer y los Grimm lo derivan de «fuera, hacia arriba» y llaman *er-* al prefijo débil. Son dos explicaciones de épocas distintas, no hay que fundirlas.
+3. **Coincide con Willer y los Grimm:** ‡*uds* de los Grimm y ‡*ūds* de Pfeifer son lo mismo; *Ursprung* ← *erspringen* encaja con la alternancia *ur-*/*er-*.
+
+### Propuesta revisada (sin aplicar)
+- **A.5, párrafo 4, primera frase** (tras «…y la generación anterior o siguiente(15)»): añadir «; el diccionario etimológico de Pfeifer lleva el prefijo a un indoeuropeo ‡*ūds*, «fuera», y explica que se conservó entero en los compuestos nominales, por el acento inicial germánico, y se debilitó a *er-* en los verbales (*Urlaub*, *erlauben*; *Urteil*, *erteilen*); el sentido de «lo primero, lo muy lejano» lo pone en último lugar, con ejemplos del siglo XVII (*Urbild*) y del XIX (*Urwald*)». Con una sola glosa (15). El texto de A.5 se alarga unas 60 palabras.
+- **Glosa 15:** reescribir con la entrada completa (sentidos del eWDG con ejemplos; «siempre acentuado»; Pfeifer: preposición solo siglos VIII-IX; *ōr*, *us*; ‡*ūds* ← ‡*ūd-*; acento y *er-*; sentido antiguo y privativo; parentesco; «Schließlich»; *urig* sin relación con *urchig*).
+- **Glosa 13:** cambiar «DWDS, Pfeifer, Duden y Adelung no se han abierto: segunda mano» por «el DWDS (con Pfeifer) y Adelung se citan de primera mano en las glosas 15 y 17; Duden no se ha abierto».
+- **Panel de A.5:** *falta*: «la entrada de Kluge en sí; la edición de Pfeifer».
