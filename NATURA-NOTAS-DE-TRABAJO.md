@@ -1816,3 +1816,12 @@ Etimología del DWDS de *ur-*; entrada de Kluge en sí; textos de Kero, Notker y
 - **Glosa 15:** reescribir con la entrada completa (sentidos del eWDG con ejemplos; «siempre acentuado»; Pfeifer: preposición solo siglos VIII-IX; *ōr*, *us*; ‡*ūds* ← ‡*ūd-*; acento y *er-*; sentido antiguo y privativo; parentesco; «Schließlich»; *urig* sin relación con *urchig*).
 - **Glosa 13:** cambiar «DWDS, Pfeifer, Duden y Adelung no se han abierto: segunda mano» por «el DWDS (con Pfeifer) y Adelung se citan de primera mano en las glosas 15 y 17; Duden no se ha abierto».
 - **Panel de A.5:** *falta*: «la entrada de Kluge en sí; la edición de Pfeifer».
+
+## §83 · Aplicado: Pfeifer en A.5 (18/11/2026)
+
+**Orden de Luis:** *«aplica.»* (los cuatro cambios de §82).
+- **A.5, párrafo 4, primera frase:** tras los cuatro usos del DWDS, una cláusula con Pfeifer (indoeuropeo ‡*ūds*, «fuera»; forma plena en los compuestos nominales por el acento inicial; *er-* en los verbales: *Urlaub*/*erlauben*, *Urteil*/*erteilen*; «lo primero, lo muy lejano» en último lugar, con *Urbild* y *Urwald*). La llamada (15) pasa a cerrar toda la frase.
+- **Glosa 15:** reescrita con la entrada completa del DWDS (eWDG 1976 con ejemplos; «siempre acentuado»; etimología de Pfeifer entera; *urig*; nota sobre «uro-»).
+- **Glosa 13:** ahora dice que el DWDS (con Pfeifer) y Adelung se citan de primera mano en las glosas 15 y 17; Duden, no abierto. **Si la numeración cambia, hay que corregir esas dos remisiones.**
+- **Panel de A.5:** *contrastada* con «el DWDS con Pfeifer»; *falta*: «la entrada de Kluge en sí y la edición de Pfeifer».
+- **Resultado:** 140 glosas alineadas; 46 `<h5>`; TERMINADO 3, EN REDACCIÓN 17, PENDIENTE 25. Marcador: URIM 571.928 car. · 97.072 pal. (≈388 pág., 95 piezas); TOTAL 1.771.860 car. · 295.799 pal. (≈1183 pág.); Prólogo 25.295 pal. (≈101 pág.). **No publicado.**
