@@ -1726,3 +1726,31 @@ Cuatro sentidos: (1) «designa el comienzo, lo primero, algo muy lejano en el ti
 
 ### Borrado
 Se borra de la línea de trabajo y de la versión pública `250-253_Willer.pdf` (orden de Luis). Para releer hay que volver a subirlo.
+
+## §79 · Adelung, «Geburt» y «Vorrede» (Luis, 18/11/2026): lo que añaden a A.5 y A.10
+
+**Pegado por Luis:** Adelung, «Gebūrt», Bd. 2, Sp. 459 (con *Gebūrtig*, *Gebūrtsglied*, etc.), y de nuevo la «Vorrede» de 1793. Sin cambios en `urtz.html`.
+
+### «Geburt» (primera mano)
+- **Sentidos.** 1) El estado de dar a luz o de nacer. 2) Figurado: (a) la estirpe, «Edelmann von Geburt»; (b) **«der Anfang, die Entstehung einer Sache»** (ejemplo: ahogar los malos deseos *in der Geburt*, «en su comienzo»); (c) **«die weibliche Scham, in einigen Gegenden»**. 3) El fruto nacido (*Erstgeburt*, *Missgeburt*, *Nachgeburt*).
+- **Anm. (formas antiguas).** Isidor *Chiburdi*; Otfrid *Giburt*; Notker *Gepurt* y *Burt*; bajo alemán *Boord*; anglosajón *Gebyrte* y *Beorth*; inglés *birth*; neerlandés *Gheboorte*; sueco *Börd*. «Notker gebraucht dieses Wort auch für Geschlecht, Volk.» Adelung deriva *Geburt* de *gebären*.
+- **Entradas vecinas:** *Gebūrtsglied* («en lenguaje decente, el miembro necesario para la reproducción, en ambos sexos»); *Gebūrtsgeile* (testículos y ovarios).
+
+### Qué cambia
+1. **Respalda en parte mi glosa de memoria.** En «Natur» Adelung daba *burte*, *anaburt* y *anauuiste* como palabras de Notker para *natura*. En «Geburt» da **Notker *Burt*** como forma antigua de *Geburt* (por tanto, *burte* ~ *Geburt* ya no es solo mío). **Sigue siendo mío** que *anaburt* sea *ana-* + *burt*: Adelung no lo dice.
+2. **Paralelo exacto de los dos sentidos.** *Natur* («die weibliche Natur») y *Geburt* («die weibliche Scham, in einigen Gegenden») tienen en Adelung el mismo sentido anatómico. Es observación de Adelung por separado; el nexo entre las dos entradas es mío.
+3. **Geburt = «comienzo, formación de una cosa».** En alemán, nacimiento y origen se dicen con la misma palabra, igual que en latín *nasci* → *natura*. Sirve a A.5 (origen) y A.10, como hecho de Adelung; la comparación con el latín es mía.
+4. **Isidor.** «Isidor *Chiburdi*» es, **de memoria (sin comprobar)**, el *Althochdeutscher Isidor* (hacia 800), versión antigua del tratado de Isidoro de Sevilla *De fide catholica*. No es la obra de A.9 (*Etimologías*). Si se cita, hay que comprobarlo antes.
+
+### «Vorrede» (1793): sin novedad, tres detalles
+- Es el mismo texto ya citado (Dresde, 1 de mayo de 1793; 2.ª edición, t. 1).
+- Dice que «el concepto de una palabra debe sacarse de la etimología unida al uso» y que las definiciones de los filósofos le resultaron inservibles. Distingue la etimología próxima (la que puede guiar la ortografía) de la remota (la que no). Puede servir en A.7 como regla de método de un lexicógrafo de 1793; **opción, sin aplicar**.
+- Retira el escrito de Fulda de la 1.ª edición porque sus principios etimológicos «son totalmente distintos de los míos». Confirma que Adelung veía su propia etimología como una de varias.
+
+### Propuesta B revisada (A.10, alemán) — sin aplicar
+Tras «…y el diccionario alemán registra naturaleza, disposición o esencia, temperamento y paisaje(93).» **añadir:** «Según Adelung (1801), *Natur* aparece en alemán por primera vez en tiempos de Otfrid, que la usa en sentido teológico; antes se buscaba el concepto con otras palabras: Kero, *chnuat*; Notker, *burte*, *anaburt* y *anauuiste*. *Burt* es, según el mismo Adelung, la forma de Notker de lo que hoy es *Geburt*, «nacimiento», palabra que él registra también con el sentido de «comienzo, formación de una cosa»(e). *Natur* y *Geburt* tienen además en su diccionario un mismo sentido anatómico: *die weibliche Natur* y, en algunas regiones, *die weibliche Scham*(d).»
+**Glosas (A.10, dos):** (d) Adelung, «Natur», Bd. 3, Sp. 441-448 (primera mano; la fecha de Otfrid es de memoria); (e) Adelung, «Geburt», Bd. 2, Sp. 459 (primera mano; *anaburt* = *ana-* + *burt* queda fuera).
+**A y C:** igual que en §78 (A.5 párrafo 4 con tres glosas; B.2 opcional). **Total glosas si se aplica todo:** 134 → 134 + 3 + 2 (+1) = 139 (140).
+
+### Pendiente de comprobar
+Que el artículo «Natur» de Adelung dé *burte* y *anaburt* tal como los copié (los transcribí de lo que Luis pegó el 18/11/26; si hay duda, se vuelve a leer el pegado en la sesión).
