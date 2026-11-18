@@ -1461,3 +1461,15 @@ La primera documentación de *naturaleza* y su relevo de *natura* **siguen sin f
 
 ### Borrado
 Los cinco PDF se borran de la línea de trabajo y de la versión pública (orden de Luis): `Dialnet-GilDeZamoraYSuHistoriaNaturalis-104818.pdf`, `La_naturaleza_entre_la_concrecion_y_la_a.pdf`, `fpsyg-05-00401.pdf`, `greg,+3.pdf` y `irene,+02+María+de+las+Nieves+Sánchez+González+de+Herrero (2).pdf`. Para releer hay que volver a subirlos.
+
+## §64 · Quintili, pp. 51-53 pegadas por Luis (18/11/2026)
+
+**Pegó Luis** las páginas finales de Quintili (2016): la cita de Auroux (1979, p. 60) sobre el origen de las lenguas y la heterogeneidad de «el ser real, la idea, el sonido y la letra»; la conclusión; y la bibliografía (con un resto de exportación: «Exported 1 record and 1 file»). Sin instrucción. **Ya estaba leído** (§63, punto 2); no cambia nada de lo propuesto.
+
+**Lo que dice la conclusión (p. 51-52), para tenerlo a mano:** el materialismo del siglo XVIII (Meslier, La Mettrie, d'Holbach, Diderot y, el último, De Brosses) heredó «la independencia y la contingencia-necesidad de los elementos del lenguaje»; concibe el lenguaje como producto específico de la naturaleza humana; esa visión choca con la estructural de Saussure, según la cual las unidades significativas están «en el nivel de las estructuras y no en el de los elementos» (cita de Greimas 1966; Saussure 1997, p. 160: «dentro de una misma lengua, todas las palabras que expresan ideas vecinas se limitan recíprocamente»); y «el papel significativo de los elementos básicos del lenguaje, en sus orígenes naturales, se convierte en el punto de partida para evaluar bien el proceso de significación»; remite al fonosimbolismo (Nobile y Lombardi Vallauri 2016); por eso «el problema de los orígenes del lenguaje, es decir, los orígenes físicos e históricos, sigue siendo, en esta perspectiva, de importancia central». (Traducciones mías.) **Es la posición de Quintili,** que escribe desde la tradición materialista; no la del campo en general.
+
+**Piezas de la bibliografía que podrían servir** (todas SIN ABRIR): Nobile y Lombardi Vallauri (2016), *Onomatopea e fonosimbolismo* (Carocci); Nobile (2007b), «De Brosses e Cesarotti…» en *Studi linguistici per Luca Serianni*; Auroux (1979), *La sémiotique des encyclopédistes* (Payot); Masataka (2008), «The Gestural Theory and the Vocal Theory of Language Origins are not Incompatible with one another» (Springer); Vaneechoutte y Skoyles (1998), «The memetic origin of language: modern humans as musical primates» (*Journal of Memetics* 2); Ferretti (2010), *Alle origine del linguaggio umano*; De Brosses (1765).
+
+**Relación con el capítulo (mía, fuera del texto):** la frase sobre el papel de los «elementos básicos» frente a la visión estructural afecta a la pregunta de si un morfema suelto como *ur* tiene sentido propio o solo dentro de la palabra (A.3 y A.4); no dice nada de *ur*. Si Luis quiere, una frase atribuida en A.6 o A.3: «Quintili sostiene que…».
+
+**Estado:** las propuestas A, B, C y D de §63 siguen sin aplicar, esperando el «aplica» de Luis. Sin cambios en `urtz.html`.
