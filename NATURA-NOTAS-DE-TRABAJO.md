@@ -1771,3 +1771,24 @@ Compuestos de *ur-* en los que Adelung da valores distintos: *Urältern* («los 
 
 ### Pendiente sin cambios
 Etimología del DWDS de *ur-*; entrada de Kluge en sí; textos de Kero, Notker y Otfrid de primera mano; fecha de Otfrid; si el *Isidor* alemán es el *Althochdeutscher Isidor* (memoria).
+
+## §81 · DWDS, «ur-» completo: etimología de Pfeifer (Luis, 18/11/2026)
+
+**Pegó Luis** la entrada completa del DWDS «ur-» (con el apartado de etimología, cortado por el «Mehr»), más la entrada vecina «uro-». Sin cambios en `urtz.html`.
+
+### Lo que dice (primera mano; traducciones mías)
+- **Forma:** *ur-*, afijo nominal, «**siempre acentuado**» (*stets betont*). Compuestos: *Urabstimmung*, *Uradel*, *Urahn*; y como elemento interior, *beurgrunzen*.
+- **Sentidos (eWDG, 1976), con los ejemplos que faltaban:** (1) «designa el comienzo, lo primero, algo muy lejano en el tiempo»: *Urbeginn*, *Urbevölkerung*; (2) «designa autenticidad, no desgaste, el estado ideal tras el origen o la producción de algo»: *Urquell*, *Urtext*; (3) «designa un grado alto»: *uralt*, *urkomisch*; (4) «designa la generación anterior o siguiente», en compuestos con nombres de parentesco: *Urgroßvater*, *Urenkel*.
+- **Etimología (Wolfgang Pfeifer, *Etymologisches Wörterbuch*; la edición no consta en el pegado; Wikipedia DE cita su edición de 1989, p. 1878):** «*ur-*, prefijo en compuestos nominales. La preposición **solo atestiguada en época antigua**, alto alemán antiguo *ur* (**solo siglos VIII-IX**), nórdico antiguo *ōr*, gótico *us* «de, fuera de […]», y el prefijo común germánico basado en ella —alto alemán antiguo y medio *ur-*, sajón antiguo *ur-*, *or-*, bajo alemán medio *ōr-*, inglés antiguo *or-*, neerlandés medio y moderno *oor-*, nórdico antiguo *ōr-*, *ør-*, con alternancia gramatical gótico *us-*, *uz-* «de, fuera, hacia arriba»— remiten a indoeuropeo **\*ū̌ds**, una […]» (**cortado**; el resto está tras «Mehr»). El pegado dice también «*engl.*» y «*schwed.*» en la lista; se copia tal cual. El título de la entrada es «ur- · urig».
+- **Entrada vecina «uro-»** (afijo; formas *ure-* y, ante vocal, *ur-*): compuestos *Urämie*, *Urease*, *Urhidrose*. Sin significado ni origen en el pegado. **De memoria, sin comprobar:** es el elemento griego de «orina». El DWDS lo trata como entrada **aparte**, homónima, y no hay nada en estos textos que la una con *ur-* «origen»: **no se usa en el capítulo** (solo, si acaso, para avisar de que hay dos *ur-*).
+
+### Qué cambia
+1. **Cierra la etimología del DWDS** que figuraba como «falta» y confirma lo que la Wikipedia y el Wikcionario decían de segunda mano: la preposición alemana antigua solo se atestigua en los siglos VIII-IX; hermanos *ōr* (nórdico antiguo) y *us* (gótico); alternancia *us-*/*uz-*; indoeuropeo **\*ū̌ds** (los Grimm: *\*uds*; coinciden en la forma y en «de, fuera»).
+2. **El prefijo siempre lleva el acento** (frente a *er-*, átono), dato de Pfeifer-DWDS que los Grimm explican como la forma tónica.
+3. **Queda abierto:** el final de la frase de Pfeifer (tras «ie. \*ū̌ds, eine…»); la edición de Pfeifer; Kluge en sí.
+
+### Propuesta (sin aplicar)
+- **Glosa 15 (A.5):** sustituir el texto por el de la entrada completa: sentidos con ejemplos (eWDG 1976), «siempre acentuado» y la etimología de Pfeifer según el DWDS (preposición *ur* solo en los siglos VIII-IX; nórdico antiguo *ōr*; gótico *us*, «de, fuera de»; indoeuropeo ‡*ū̌ds*; la frase está cortada).
+- **A.5, párrafo 4, primera frase:** añadir, tras los cuatro usos: «; su diccionario etimológico (Pfeifer) recoge la preposición del alto alemán antiguo *ur* solo en los siglos VIII y IX, y la remite, con el nórdico antiguo *ōr* y el gótico *us*, al indoeuropeo ‡*ūds*, «fuera»(15)».
+- **Glosa 13 (A.5):** cambiar «DWDS, Pfeifer, Duden y Adelung no se han abierto: segunda mano» por «el DWDS (con Pfeifer) y Adelung se citan de primera mano en las glosas 15 y 17; Duden no se ha abierto».
+- **Panel de A.5:** *falta*: «el final de la frase de Pfeifer y la entrada de Kluge en sí».
