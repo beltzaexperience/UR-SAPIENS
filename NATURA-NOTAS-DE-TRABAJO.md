@@ -2083,3 +2083,13 @@ Tres subsecciones, 8 párrafos y 8 glosas, **solo con lo leído** (Fuentes y Am�
 
 ### 5. Ubicación final
 Luis: «después». Queda abierta (§85).
+
+## §99 · Repeticiones entre A.3 y F: quitadas de A.3 (19/11/2026)
+
+**Luis:** «Si algo se repite puedes eliminar de donde sea más natural.»
+- **Dónde es más natural:** el detalle del agua y la vida (las primeras células nacidas de reacciones en agua; la discrepancia entre «ninguno puede vivir sin agua» y «hay vida con agua escasa») **vive en F** (F.2 y F.1); A.3 solo necesita la premisa para su contraste.
+- **Quitado de A.3 (último párrafo):** la cláusula «según Fuentes y Amábile-Cuevas, las primeras células nacieron de reacciones en agua encerradas en vesículas de lípidos» y la frase «Unos dicen que ningún organismo vive sin agua, y otros recuerdan que hay vida donde el agua es extraordinariamente escasa». **Añadido** un matiz breve al cierre, con la misma glosa de las dos posturas: «La documentación no lo exige; la bioquímica de la vida conocida, sí, aunque las fuentes discrepan en si toda vida necesita agua.»
+- **Glosa de A.3 «Biología basada en agua»** (ahora 54): recortada a la cita sobre la biología basada en agua y a la tensión del «lugar común»; **se quita** de ella la cifra del ancestro común (3.500-3.800 millones de años; sigue en A.6, glosa 80, y en la Wikipedia allí citada) y la comparación con la Wikipedia.
+- **No se tocó:** A.6 (frase del origen de la vida, glosa 80): trata del ancestro común frente al veto de 1866, no del agua; F.1, párrafo 4 (la discrepancia), ni F.2, párrafo 2.
+- **Numeración tras la poda de A.2:** el párrafo de A.3 pasa a glosas **53-55** (antes 54-56) y la frase de A.6 a **80** (antes 81); F, **136-143**. Las notas §92, §93 y §98 que citan los números anteriores quedan como estaban en su fecha.
+- **Resultado:** 156 glosas alineadas; 50 subsecciones. Marcador: TOTAL 1.789.222 car. · 298.660 pal. (≈1195 pág.); Prólogo 28.156 pal. (≈113 pág.). **No publicado.**
