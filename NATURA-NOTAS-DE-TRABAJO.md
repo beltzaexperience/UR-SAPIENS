@@ -1915,3 +1915,11 @@ Antes del párrafo «El título del capítulo usa los dos términos como imagen�
 
 ### Lo que no se hace
 No se toca el resto de A. La reflexión sobre la biología (§86) no pasa al capítulo.
+
+## §88 · Aplicado: A.12 (semiótica) y párrafo de A.3 sobre *aglutinación* (19/11/2026)
+
+**Orden de Luis:** *«Aplica.»* (los dos borradores de §87).
+- **A.12 «Semiótica: el signo arbitrario y el signo motivado»**, subsección nueva, tras A.11: tres párrafos (Saussure y Peirce; el *Crátilo*; la pregunta del libro) y cuatro glosas (110-113 tras renumerar): Saussure por resúmenes (con el aviso de que la Wikipedia da 1913 y es un error); Peirce por resúmenes y la Wikipedia; el *Crátilo* por el resumen de la introducción de Jowett (la atribución de la Wikipedia a Heráclito y Parménides no se usa); y la **observación de la investigación**, marcada como tal (no es de una fuente). Estado: EN REDACCIÓN; *contrastada*: —; *razonable* y *falta* según §87.
+- **A.3:** párrafo nuevo antes de «El título del capítulo usa los dos términos como imagen…», con los tres sentidos de *aglutinación* y la glosa 49 (Wikipedia; las acepciones del DLE, sin abrir). Panel de A.3: *razonable* y *falta* actualizados.
+- **Resultado:** 47 subsecciones (47 `<h5>`); 145 glosas alineadas (145 sups = 145 lis); TERMINADO 3, EN REDACCIÓN 18, PENDIENTE 25, SIN TEXTO PROPIO 1. Marcador: URIM 577.426 car. · 97.945 pal. (≈392 pág., 95 piezas); TOTAL 1.777.358 car. · 296.672 pal. (≈1187 pág.); Prólogo 26.168 pal. (≈105 pág.). **El aumento fue de 873 palabras** (no las ~340 que había estimado: las glosas largas cuentan). **En §87 dije «144»: son 145.** **No publicado.**
+- **Pendiente:** abrir el *Curso*, Peirce y el *Crátilo* de primera mano (hosts añadidos al entorno; sin resolverse en la sesión); las acepciones del DLE de *aglutinación* y *aglutinar*.
