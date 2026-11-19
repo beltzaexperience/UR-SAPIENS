@@ -2000,3 +2000,11 @@ Se pueden **sustituir los resúmenes de buscador de NASA, Pohorille y Ball por f
 
 ### Borrado
 Se borran de la línea de trabajo y de la versión pública `423640341010.pdf`, `458-2013-07-24-Carbajal-Gonzalez-2012-ISBN-978-84-00-09572-7.pdf`, `biología y agua 1.pdf` y `tema-2-agua-y-sales-minerales.pdf` (regla de Luis). Para releerlos hay que volver a subirlos.
+
+## §92 · Aplicado: párrafo de A.3 sobre la biología y el agua (19/11/2026)
+
+**Orden de Luis:** *«aplica»* (borrador v3 de §91).
+- **A.3, último párrafo (nuevo):** «La lingüística comparada trabaja con formas documentadas, y en la documentación ningún caso conecta *natura* con el agua…», con el DLE «biología» (glosa 54), Fuentes y Amábile-Cuevas (55) y Carbajal y González con Fuentes y Amábile-Cuevas (56). Cierra con la pregunta «¿Debe la palabra para lo que nace recoger lo que todo lo que nace necesita?» y «La documentación no lo exige; la bioquímica de la vida conocida, sí».
+- **Panel de A.3:** *contrastada* añade el DLE «biología» y las dos lecturas, y señala que difieren en la intensidad.
+- **Resultado:** 47 subsecciones; **148 glosas alineadas**; TERMINADO 3, EN REDACCIÓN 18, PENDIENTE 25, SIN TEXTO PROPIO 1. Marcador: URIM 580.761 car. · 98.469 pal. (≈394 pág., 95 piezas); TOTAL 1.780.693 car. · 297.196 pal. (≈1189 pág.); Prólogo 26.692 pal. (≈107 pág.). **No publicado.** Las remisiones de la glosa 13 (glosas 15 y 17) siguen valiendo: A.5 va antes que A.3.
+- **Pendiente de lo anterior:** NASA, Pohorille y Ball quedan solo como opcionales (no se citan); las acepciones del DLE de *aglutinación* y *aglutinar*; frase en A.6 sobre el origen de la vida frente al veto de 1866; Treviranus para B.4; *hidr-* con el DLE; Henderson, Bernard, Paracelso y Sancho para F.
