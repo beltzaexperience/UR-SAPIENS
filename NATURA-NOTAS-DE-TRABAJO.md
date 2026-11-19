@@ -2050,3 +2050,14 @@ Las dos decisiones de A.9 (los dos párrafos de concreción, seguidos, y las fra
 - **«Suavizar las tres frases de "lo nacido"»:** cerrado el 12/11: Luis señaló que la etimología está clara y las frases «quedaron correctas como etimología» (`analisis-editorial.md`, «retirada del problema de redacción»). **No quedan pendientes en A.9.**
 - **Opciones:** (a) **dejar los dos párrafos como están** (recomendada: tratan sentidos distintos; fundirlos daría un bloque de 454 palabras); (b) recortar del 6 el inciso de la imaginabilidad (37 palabras: «y miden aparte la imaginabilidad… tuberculosis, concreta y difícil»), que no sirve a *natura* (ninguna de las tres palabras está en la lista); (c) fundir los dos en uno.
 - **Peso real:** A.9 tiene 1.264 palabras; los dos párrafos son el 36 %. El peso del capítulo no está aquí sino en el número de glosas (149) y de subsecciones (47), que se resuelve con la versión corta y el anexo (§85).
+
+## §97 · A.9 decidida y estado de las decisiones de A (19/11/2026)
+
+**Luis: «ok»** (dejar A.9 como está). **A.9 no cambia.** Las tres decisiones de A que había pedido resolver quedan cerradas: A.7 (índice transversal, §94), frases interpretativas de A.5 y A.10 (aplicadas, §95) y A.9 (sin cambios).
+
+### Lo que queda de mi lista de asuntos de A (§ de 19/11) y mi propuesta
+1. **Frases opcionales sin aplicar** (propuesta de Claude: **no** a todas; quedan como material en las notas): Gil de Zamora y *proprietates sive naturas* (A.9; marginal, el sentido «propiedad» ya está por Lewis y Short); *Urfehde* con *ur* = *un-* (A.5; la glosa 15 ya recoge el sentido privativo de Pfeifer); el *ur-* inglés desde el siglo XIX (A.5 o A.10; periférico); la lógica propia de la etimología antigua, Hexter sobre Isidoro (A.1 o A.7; A.9 ya dice «con su propio método»); la frase de Quintili sobre «elementos básicos» (A.3 o A.6; sin texto a la vista); De Brosses (1765) y la «langue primitive» (A.6 o A.8; sin fuente abierta).
+2. **Glosa 13 (A.5):** remite por número a «las glosas 15 y 17». Propuesta: quitar los números («en las glosas de este mismo apartado»), para que no se rompa si cambia la numeración.
+3. **A.2, explicación pendiente:** qué distingue los nombres en *-ura* con verbo de los que no lo tienen (el panel lo recoge como lectura de Luis, «los grados de *-ura*»). **Necesita su orientación**: no hay fuente que lo formule.
+4. **Sección F «El agua»:** estructural (pendiente desde el 13/11); material ya reunido (Díez de Velasco; Puertollano; Henderson, Bernard, Paracelso, Sancho; Fuentes y Amábile-Cuevas; Carbajal y González). **Decisión de Luis** (qué subsecciones y si U.1 pasa a F o se queda).
+5. **Ubicación final** (interludios o subcategoría; versión corta y anexo): abierta (§85).
