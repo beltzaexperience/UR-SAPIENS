@@ -2103,3 +2103,13 @@ Luis: «después». Queda abierta (§85).
 - **Para los scripts de reconstrucción del capítulo (`natura_mtN.py`):** la fila que parchean ya no es «Prólogo», sino la nueva; hay que cambiar el nombre en `fila_delta` y en el parche de la fila.
 - **No tocado:** la categoría «Prólogo» de la zona URIM sigue existiendo, ahora vacía (el prólogo es texto de un amigo); la lectura de URS (la parte del libro que se lee) no cambia, salvo el subtítulo.
 - **Reversible:** la copia previa está en la línea de trabajo.
+
+## §101 · Corrección de §100: categoría vacía en URS y NATURA a la posición de Prólogo en URIM (19/11/2026)
+
+**Luis:** «1- La categoría hay que crearla en URS detrás de los interludios (vacía). 2- No tenías que cambiar nada. De todas maneras sube la categoría y su contenido a la posición del prólogo en URIM.»
+- **URS (hecho):** categoría **vacía** «NATURA: SEMÁNTICA AGLUTINANTE · GRAMÁTICA FLEXIVA», con cabecera grande como las demás, **detrás de «Interludios» y antes de «Impugnación a UR»**, con ancla `go-natura` y **enlace «NAT»** en la barra de navegación (tras «INT»). Sin subtítulo y sin piezas.
+- **URIM (hecho):** la categoría «○ NATURA: SEMÁNTICA AGLUTINANTE · GRAMÁTICA FLEXIVA» con su contenido (la pestaña «BORRADOR · NATURA») **sube a la posición de «Prólogo»**: queda la primera de la zona URIM, y «○ Prólogo» sigue justo después, vacía. **Interpretación de Claude:** «la posición del prólogo» = el primer lugar de la zona URIM; el prólogo conserva su cabecera, sin piezas.
+- **Reconocimiento:** el §100 movió el capítulo a una categoría tras «Interludios» **sin que hiciera falta** («no tenías que cambiar nada»); la intención era crear la categoría en URS y dejar el capítulo en el lugar del prólogo. **Estado final:** el capítulo está en el lugar del prólogo de URIM, **bajo su propia cabecera**.
+- **Verificación (medición del DOM):** las 229 piezas, con los mismos títulos, palabras y zonas antes y después; «BORRADOR · NATURA» figura bajo la categoría «NATURA: …», zona URIM, 28.149 palabras. **El Marcador no cambia** respecto al §100 (fila «Prólogo» a 0, fila «NATURA: …» con URS 0 y URIM 1; TOTAL 1.789.282 car. · 298.666 pal. · ≈1195 pág.).
+- **Scripts de reconstrucción:** siguen valiendo con el cambio de §100 (parchear la fila «NATURA: …», no «Prólogo»); el bloque se localiza tras `FRONTERA REAL` y sigue allí.
+- **Reversible:** copias previas en la línea de trabajo.
