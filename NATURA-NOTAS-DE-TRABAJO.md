@@ -2061,3 +2061,25 @@ Las dos decisiones de A.9 (los dos párrafos de concreción, seguidos, y las fra
 3. **A.2, explicación pendiente:** qué distingue los nombres en *-ura* con verbo de los que no lo tienen (el panel lo recoge como lectura de Luis, «los grados de *-ura*»). **Necesita su orientación**: no hay fuente que lo formule.
 4. **Sección F «El agua»:** estructural (pendiente desde el 13/11); material ya reunido (Díez de Velasco; Puertollano; Henderson, Bernard, Paracelso, Sancho; Fuentes y Amábile-Cuevas; Carbajal y González). **Decisión de Luis** (qué subsecciones y si U.1 pasa a F o se queda).
 5. **Ubicación final** (interludios o subcategoría; versión corta y anexo): abierta (§85).
+
+## §98 · A.2: se elimina el párrafo de *-ura* con y sin verbo; sección F «El agua» creada (19/11/2026)
+
+**Luis:** «3.- fue una lectura por si aportaba algo, en caso de que no aporte se puede eliminar. 4.- si hay material para biología y agua con lo que tenemos, crea la sección y los párrafos que correspondan. 5.- después.»
+
+### 3. A.2: eliminado
+**Juicio de Claude: no aporta.** El párrafo («Los nombres en *-ura* no se comportan todos igual…», con la pregunta final «¿Qué distingue a unos nombres de otros?») planteaba una pregunta que **ninguna fuente contesta** y no sirve ni a la documentación de *natura* ni a la lectura de A.5. Además A.1 ya trae el camino nombre → verbo → participio de *natura* y *cultura* (*naturar*, *culturar*, con su glosa). **Quitados:** el párrafo y su glosa 40 (los verbos en *-ura* y la ausencia de *monturar*, *envolturar*, *blancurar*, *pinturar* y *sepulturar*, respuestas del DLE pegadas el 15 y el 17/11/26), y del panel de A.2 las referencias a esos verbos, el «lectura de Luis» de los «grados» de *-ura* y los dos pendientes (*escriturar*; qué distingue los nombres con verbo). **Reversible:** la copia de seguridad de antes del cambio está en la línea de trabajo; el material sigue registrado en las notas (§ de 15-17/11) y en `FUENTES.md`.
+
+### 4. Sección F «El agua» (nueva; entre E y J)
+Tres subsecciones, 8 párrafos y 8 glosas, **solo con lo leído** (Fuentes y Amábile-Cuevas 2013; Carbajal y González 2012; Díez de Velasco 2010):
+- **F.1 El agua en la biología** (4 párrafos; glosas 136-140): lugares comunes y cifras (el 70 % frente al ≈60 % del adulto); la molécula, el disolvente, las proteínas y el ADN (con Sancho, citado); el agua en las reacciones (ATP, respiración); y los dos textos que **no dicen lo mismo** («ninguno puede vivir sin agua» frente a «hay vida con agua extraordinariamente escasa»).
+- **F.2 De dónde viene la idea** (2 párrafos; glosas 141-142): el dicho popular, Paracelso, Bernard, Henderson y Sancho (todo de segunda mano, por Carbajal y González); y la versión actual (Fuentes y Amábile-Cuevas: reacciones prebióticas en agua, vesículas de lípidos, biología basada en agua).
+- **F.3 El agua y lo sagrado** (2 párrafos; glosa 143): Díez de Velasco (de Bormanico a Juno Regina; «desconcretización»; la medicalización devuelve la concreción); el título del artículo, que nombra el eje por el que se ha seguido *natura*; no trata de la palabra.
+- **Panel:** la sección F se añade al texto del pie del mapa (y el agua sale de «las demás materias que quedan en la nota»). **Estado:** las tres, EN REDACCIÓN.
+- **Fuera de F, por falta de fuente:** el título de Puertollano (sin fecha ni texto); NASA, Pohorille y Ball (solo resúmenes); la «memoria del agua» (no sirve); las cifras de U.1.
+- **Observaciones:** (a) F.1 repite deliberadamente la discrepancia entre los dos textos que A.3 ya señalaba, aquí en su contexto; (b) F.2, párrafo 2, repite una idea de A.3 (glosa 55) en otro marco: si pesa, se puede quitar de A.3 o de F; (c) las citas de F.2, párrafo 1, quedan marcadas como segunda mano.
+
+### Resultado
+47 → **50 subsecciones**; glosas 149 → **156**, alineadas; TERMINADO 3, EN REDACCIÓN 21, PENDIENTE 25, SIN TEXTO PROPIO 1. Marcador: URIM ≈589.769 car. · 100.004 pal. (≈400 pág., 95 piezas); TOTAL 1.789.701 car. · 298.731 pal. (≈1195 pág.); Prólogo 28.227 pal. (≈113 pág.). **No publicado.** Las remisiones de la glosa 13 (glosas 15 y 17) siguen valiendo.
+
+### 5. Ubicación final
+Luis: «después». Queda abierta (§85).
