@@ -2016,3 +2016,21 @@ Se borran de la línea de trabajo y de la versión pública `423640341010.pdf`, 
 - **Precisión de redacción:** se habla del **último ancestro común universal**, no del «origen de la vida» como si fueran lo mismo; la frase dice que la biología *trata* el origen de la vida como pregunta propia, y da las dos fechas del ancestro común. No se usa Darwin (1871) ni Miller y Urey (1952): siguen de memoria y sin fuente.
 - **Panel de A.6:** *contrastada* añade la edad del ancestro común (Fuentes y Amábile-Cuevas); *razonable*, la cifra de la Wikipedia.
 - **Resultado:** 47 subsecciones; **149 glosas alineadas**; Marcador: URIM 581.983 car. · 98.667 pal. (≈395 pág., 95 piezas); TOTAL 1.781.915 car. · 297.394 pal. (≈1190 pág.); Prólogo 26.890 pal. (≈108 pág.). **No publicado.** Las remisiones de la glosa 13 (A.5) siguen valiendo.
+
+## §94 · Decisiones abiertas de A (19/11/2026): A.7 resuelta; frases interpretativas de A.5 y A.10 en propuesta
+
+**Orden de Luis:** «ok, por ese orden» (A.7, frases interpretativas de A.5, párrafos de concreción de A.9).
+
+### A.7: decidido
+**Luis: «ok, a».** A.7 («Lexicografía y filología latina») **se queda sin texto propio, como índice transversal de las fuentes**. La explicación de cómo leer las fuentes (qué da cada tipo de diccionario) **va en la nota inicial de «cómo leerlo»** del dosier completo (§85), no en A.7. **Sin cambios en `urtz.html`.**
+
+### A.5: las frases interpretativas (propuesta, sin aplicar)
+Revisadas las siete frases de A.5 una por una:
+- **Mantener como están (atribuidas al libro o planteadas como pregunta):** P1 («según la tesis de Os Garabatos que el propio libro recoge»); P2 (la derivación, con «si *natura* se lee así», y su pregunta final sobre UR en el centro de la palabra); P3 («¿Es casualidad que *ur* sea agua en euskera, origen en alemán y ciudad en sumerio?»: pregunta; los datos del alemán ya están documentados); P5 (las cuatro preguntas abiertas y la última frase, «El libro propone leer el *-ur-* como sustrato…»: atribuida); P6 (Cicerón: «el libro pregunta de qué se acuerdan…»: atribuida).
+- **Cambiar una:** la última frase de P7, «Lo que se hace pasar por nacido del agua es la 'T' que lo canaliza»: según el registro de 11/11 (`analisis-editorial.md`), **no es cita del libro**: la añadió el redactor, tras la cita «El sistema es B-UR-T-AL precisamente porque parece NAT-UR-AL». Habla en voz del capítulo, sin atribuir. **Antes:** «…Lo que se hace pasar por nacido del agua es la 'T' que lo canaliza.» **Después:** «…En esa lectura, lo que se hace pasar por nacido del agua es la 'T' que lo canaliza.» (alternativa: quitarla; opción de Claude, menos recomendable porque pierde la explicación del juego).
+
+### A.10: la frase final (propuesta, sin aplicar)
+La última frase del último párrafo, «La palabra que viajó por Europa conservó el poder de engendrar aunque perdió el nacer», es una **síntesis del redactor** (anotada en «frases interpretativas a mantener o quitar»). Se apoya en lo documentado (el sentido genital en latín, inglés, neerlandés medio, nórdico antiguo, euskera y, por Adelung, alemán; el nacimiento solo en «origen» en neerlandés medio y «bien nacido» en euskera). **Antes:** «La palabra que viajó por Europa conservó el poder de engendrar aunque perdió el nacer.» **Después:** «Según estas fuentes, la palabra que viajó por Europa conservó el sentido de engendrar, aunque el nacer dejó de ser el principal.»
+
+### Siguiente: A.9
+Las dos decisiones de A.9 (los dos párrafos de concreción, seguidos, y las frases de «lo nacido») se presentan después.
