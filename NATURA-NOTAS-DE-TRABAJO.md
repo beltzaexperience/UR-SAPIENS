@@ -2034,3 +2034,11 @@ La última frase del último párrafo, «La palabra que viajó por Europa conser
 
 ### Siguiente: A.9
 Las dos decisiones de A.9 (los dos párrafos de concreción, seguidos, y las frases de «lo nacido») se presentan después.
+
+## §95 · Aplicado: frases interpretativas de A.5 y A.10 (19/11/2026)
+
+**Orden de Luis:** *«Ok.»* (las dos propuestas de §94).
+- **A.5, último párrafo:** «…**En esa lectura, lo** que se hace pasar por nacido del agua es la 'T' que lo canaliza.» (antes: «Lo que se hace pasar…»).
+- **A.10, último párrafo:** «**Según estas fuentes, la palabra** que viajó por Europa conservó **el sentido de engendrar, aunque el nacer dejó de ser el principal.**» (antes: «La palabra que viajó por Europa conservó el poder de engendrar aunque perdió el nacer.»).
+- **Resultado:** sin glosas nuevas (**149, alineadas**); 47 subsecciones. Marcador: URIM +58 caracteres; TOTAL 1.781.973 car. · 297.404 pal. (≈1190 pág.); Prólogo 26.900 pal. (≈108 pág.). **No publicado.** El resto de A.5 queda como estaba.
+- **Quitar de la lista de pendientes de la pasada de correcciones (para A):** «conservó el poder de engendrar aunque perdió el nacer» (hecho). Quedan las de otras secciones: *paisaje* frente a *Naturaleza* en Lorca; «recuerda a *naturalis pater*»; «lo nacido sale de materia de estrellas y de agua»; suavizar las tres frases de «lo nacido».
