@@ -252,6 +252,7 @@ Pendiente de abrir: el capítulo 2 de Lewis, Pellicer, Weijers; el DLE de «escr
 | Castaño, J. (2003), «Bases neurobiológicas del lenguaje y sus alteraciones», *Revista de Neurología* 36(8), pp. 781-785 (PDF subido por Luis el 19/11/26) | ABIERTA (entero) | pp. 781-785 | Nota 102. Clínica de las disfasias; sin relación con *natura*. PDF borrado. |
 | Benítez Burraco y Marrero Aguiar (2024), *Fundamentos de biolingüística* (Síntesis) (PDF subido por Luis el 19/11/26) | ABIERTA (solo una muestra: índice y cap. 2, pp. 29-44) | — | Nota 102. El cap. 4 (evolución del lenguaje) no está en la muestra. PDF borrado. |
 | Lévi-Strauss: «La structure des mythes» (1955), *Introduction à l'œuvre de Marcel Mauss* (1950, p. xlvii), *Les structures élémentaires de la parenté* (1949), *La pensée sauvage* y *Le totémisme aujourd'hui* (1962) (enlaces de búsquedas: Wikipedia «Structuralist theory of mythology»; Derrida's Margins; Monoskop; Universalis; British Academy; PUCP) | SIN ABRIR (solo resúmenes de buscador) | — | Nota 105. Significado por relaciones (no por elementos); «el lenguaje no ha podido nacer más que de golpe»; naturaleza y cultura; signos del mito «no arbitrarios». Sin uso en el capítulo. |
+| Lévi-Strauss, Claude (1950; trad. inglesa de F. Baker, Routledge, 1987), *Introduction to the Work of Marcel Mauss* (PDF subido por Luis el 20/11/26) | ABIERTA (pasajes: pp. 56-66, notas 17-20; no entero) | pp. 59-64, nota 18 (p. 72) | Nota 106. «Language can only have arisen all at once»; «floating signifier» (mana); nota 18: la arbitrariedad, «baluarte inexpugnable» que hay que «dejar atrás». PDF borrado. |
 
 **Borrado de PDF (18/11/2026, por orden de Luis).** Se borra `250-253_Willer.pdf` de la línea de trabajo y de la versión pública.
 
@@ -259,3 +260,5 @@ Pendiente de abrir: el capítulo 2 de Lewis, Pellicer, Weijers; el DLE de «escr
 **Borrado de PDF (19/11/2026, por orden de Luis).** Se borran `423640341010.pdf`, `458-2013-07-24-Carbajal-Gonzalez-2012-ISBN-978-84-00-09572-7.pdf`, `biología y agua 1.pdf` y `tema-2-agua-y-sales-minerales.pdf` de la línea de trabajo y de la versión pública.
 
 **Borrado de PDF (19/11/2026, por orden de Luis).** Se borran los seis PDF sobre lenguaje, biología y genes (`art01.pdf`, `3cc6744d30cb18aef3c6cc48d0c8aab2.pdf`, `biolinguistica.pdf`, `dce5aaa1-87d9-4b2b-85c4-c9c89ab03164.pdf`, `89ES3_lenguaje_foxp2.pdf`, `Dialnet-LenguajeGenesYEvolucion-2198625.pdf`) de la línea de trabajo y de la versión pública.
+
+**Borrado de PDF (20/11/2026, por orden de Luis).** Se borra `Levi-Strauss_Claude_Introduction_to_the_Work_of_Marcel_Mauss.pdf` de la línea de trabajo y de la versión pública.
