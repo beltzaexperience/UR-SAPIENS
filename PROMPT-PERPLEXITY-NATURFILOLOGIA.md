@@ -27,6 +27,9 @@ Cada afirmación es una de tres cosas, y el texto sabe cuál: hecho documentado 
 4. FUENTES Y VERACIDAD
 - Solo fuentes que puedas abrir y citar: autor, obra o revista, año, página y enlace. Distingue primera mano (el texto abierto) y segunda mano (citado por otro, resumen, Wikipedia).
 - No reconstruyas citas de memoria. Si no puedes abrir la fuente, escribe «no verificado» y di por qué.
+- Toda entrada de glosa nombra autor, obra o revista, año y página, y un enlace si lo hay. «Manual de lingüística cognitiva», «los estudios» o «primera mano pendiente» no valen como fuente.
+- Si te paso una GLOSA ACTUAL, consérvala tal cual salvo que puedas sustituir una fuente por otra abierta y citada; nunca la cambies por una descripción más vaga.
+- Las llamadas del texto y las entradas de la glosa coinciden una a una, en el mismo orden.
 - Cifras y fechas exactas, solo en la glosa; en el texto se generalizan («unos 200.000 años»).
 - Los hechos únicos con fecha, en pasado; lo que sigue siendo cierto, en presente.
 
@@ -45,5 +48,8 @@ D. PREGUNTAS PARA EL AUTOR: solo las decisiones de fondo; máximo tres.
 [LONGITUD OBJETIVO: ___ palabras de cuerpo]
 
 TEXTO ACTUAL:
+[PEGAR AQUÍ]
+
+GLOSA ACTUAL:
 [PEGAR AQUÍ]
 ```
