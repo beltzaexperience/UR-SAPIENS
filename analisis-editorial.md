@@ -3731,3 +3731,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 **NATURA: Ultra sobre la pieza 1, diagnóstico parcial (22/11/2026).** Luis: «Adelante». **Registrado (nota 138):** informe `INFORME-RELOJERO-ULTRA-NATURFILOLOGIA-PIEZA-1-22-11-26.md`, que declara lo que no pudo ejecutar (recorrido 5, matriz completa, lectura íntegra de las normas). Dos correcciones A aplicadas; seis decisiones para Luis; INFLESZ 62,2. Sin publicar.
 
 **NATURA: pieza 1, decisiones de Luis sobre el Ultra (22/11/2026).** Luis: «1 B. 2 B. 3 OK. 4 OK. 5 OK. 6 B.» **Aplicado (nota 139):** dos cierres con pregunta a afirmación, frases 60-65 fundidas en dos, la frase de WALS en lenguaje llano con los términos técnicos en la glosa, la oposición sin pseudo-negación, 1993 generalizado, el párrafo del título como imagen al dossier. Sin publicar.
+
+**NATURA: Ultra sobre la pieza 2, diagnóstico parcial (22/11/2026).** Luis: «Adelante con la 2». **Registrado (nota 140):** informe de la pieza 2; dos negaciones de contraste y cinco punto y coma corregidos; dos decisiones para Luis. Sin publicar.
