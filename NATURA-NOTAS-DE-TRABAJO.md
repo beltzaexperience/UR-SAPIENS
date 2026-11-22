@@ -2825,3 +2825,7 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 5. **OK:** «bautizado **en 1993** por John Rogers» → «**en los años noventa**» (el año exacto sigue en la glosa).
 6. **B:** se corta el párrafo «El título del capítulo usa los dos términos como imagen…»; **pasa al final de la sección «Tipología» del dossier** (nada se pierde, Norma 40).
 **Comprobado:** 20 llamadas y 20 entradas alineadas; cuerpo ≈2.357 palabras; glosa ≈789 (≈25 %). Fila NATURA 18.553 palabras (≈74 págs.); libro puro ≈519 págs. (estimación ≈514). Dossier +45 palabras.
+
+## §140 · Relojero Ultra sobre la pieza 2: diagnóstico parcial (22/11/2026)
+
+**Orden de Luis:** «Adelante con la 2.» **Informe:** `INFORME-RELOJERO-ULTRA-NATURFILOLOGIA-PIEZA-2-22-11-26.md` (parcial por las mismas razones que el de la pieza 1). **Aplicado (A):** dos negaciones finales de contraste (frases 34 y 36) pasan a afirmación; cinco punto y coma pasan a punto (12,8 → 11,1 por mil); entrada de Lacan con «heteronomía». INFLESZ 58,2. **Hoja para Luis (dos):** el estatus de la lectura de UR frente a las Normas I.3/30 y el principio rector del 14/11 (frases 59-63 y 74-75), y la repetición de la frase 10. Pendiente de la pasada final: las referencias (J.2) y (A.9).
