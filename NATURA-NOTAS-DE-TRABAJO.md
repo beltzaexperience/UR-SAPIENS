@@ -2796,3 +2796,14 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 **Falsos positivos de la batería:** «UR sin marcar» (la 'T' de «B-UR-T-AL»; la UR está marcada) y «alguien» (cita del DLE).
 **Queda a la vista de Luis (fricción, no se toca):** 11 frases con tres o más «y» (casi todas enumeraciones de datos); 32 dos puntos; razón entre tramos 1,87 (informativa); A.3 sigue más técnica que el resto.
 **Marcador:** cuerpo 2.352 palabras (batería) y +26 palabras sobre la medida anterior; fila NATURA 18.592 (≈74 págs.).
+
+## §137 · Pieza 2: limpieza de tics y párrafos (22/11/2026)
+
+**Orden de Luis:** «Adelante.» Aplicado (`natura_mt55.py`; copia `urtz_antes_mt55.html`), tipo A, con antes y después:
+1. **«aparece» (4 → 0):** «la manera de ser innata **aparece** a fines…» → «**se documenta**»; «las partes genitales **aparecen** tarde» → «**llegan** tarde»; «**aparece** en la entrada de *naturaleza*» → «**figura**»; «no dice cuándo **apareció** *naturaleza*: **su primera documentación sigue sin abrirse**» → «no dice cuándo **se documentó por primera vez** *naturaleza*» (la nota de proceso sale del texto; queda en la lista de URIM).
+2. **Directo:** «El capítulo **no decide:** deja la pregunta al lector» → «El capítulo deja la pregunta al lector»; «Leer *nat-ur-a*… **no puede apoyarse**, pues, en una analogía… **Solo cabe presentarlo** como una hipótesis» → «**Una analogía entre el agua y la naturaleza no sostiene, pues, la lectura de *nat-ur-a*** como "nacidos del agua". **Cabe presentarla** como una hipótesis…»; «frases que el libro **puede hacer** suyas» → «**hace** suyas».
+3. **Frases con tres «que» (6 → 2):** biología (frase partida), «¿Debe la palabra para lo que nace recoger **lo que todo lo que nace necesita**?» → «**lo que necesita todo nacido**?», Lacan y la cadena simbólica (partida: «…cadena simbólica». De esa «heteronomía de lo simbólico», **dice**, ninguna prehistoria…), Jones («…a la muerte». **Su «carácter primo» los acerca, añade,** «a esos números…»).
+4. **Cifras (Norma 50):** «Hacia 627-630, Isidoro» → «**En el siglo VII**, Isidoro» (la fecha exacta queda en la glosa).
+5. **Párrafos:** media de 138 a **102 palabras** (de 17 a 23 párrafos): cortes en los sentidos latinos, la datación de Pellicer, el euskera, el corte de Lacan y Lacan frente a Jung («**Lacan tampoco aceptó** acercarse a Jung», antes «Y no aceptó»).
+**Batería:** «aparece» 0; coberturas 6 → 4; «que» 6 → 2; dos puntos 36 → 34 (14,6 por mil); párrafos OK; cuerpo 2.335; glosa 30 %. **Falsos positivos:** el «no… sino» restante es cita de Lacan («no es informar, sino evocar»); «alguien» es cita del DLE; «UR sin marcar» (las entradas de glosa con *nature* y *Natur* sí la llevan).
+**A la vista de Luis (no se toca):** 34 dos puntos (anuncian citas, definiciones o demostración); 12,8 puntos y coma por mil (enumeraciones de sentidos); 9 frases con tres o más «y». **Fila NATURA 18.584 palabras (≈74 págs.).**
