@@ -3737,3 +3737,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 **NATURA: pieza 2, decisiones de Luis sobre el Ultra (22/11/2026).** Luis: «1 B y 2 B.» **Aplicado (nota 141):** fuera la frase que explica la decisión del capítulo, el estatus de la lectura en afirmación directa, y la repetición de la frase 10 cortada. Sin publicar.
 
 **NATURA: códigos A.n fuera (22/11/2026).** Luis: «Adelante.» **Aplicado (nota 142):** subtítulos limpios en las dos piezas, tabla de equivalencias en las notas, dos referencias internas reescritas y una entrada de glosa nueva (Alfonso X y el *Libro de Alexandre*). Sin publicar.
+
+**NATURA: Lacan y Jung fuera de la pieza 2 (22/11/2026).** Luis: «Ok» a reducirlos a dos anclas, el resto al dossier y el germen del ensayo a URIM. **Aplicado (nota 143):** pieza 2 de 2.323 a 1.912 palabras de cuerpo (17 entradas), dossier con la sección de Lacan y Jung, germen del corte en URIM. Pendientes: Sansinenea, cautelas de proceso, ¿una pieza o dos? Sin publicar.
