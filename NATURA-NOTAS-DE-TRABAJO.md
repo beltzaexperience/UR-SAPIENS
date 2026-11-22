@@ -2814,3 +2814,14 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 **Aplicado (tipo A):** «Adelung distinguía/conjeturaba» → «distingue/conjetura» (Normas 2 y 28); «La lectura del libro deja» → «El libro deja» (Norma 47). Fila NATURA 18.582 palabras (≈74 págs.).
 **Legibilidad (INFLESZ, aproximada):** pieza 1, 62,2; pieza 2, 58,2; Babel 54,8; Ciclo hídrico 59,5. La respuesta a «accesible»: sí, en el rango de las mejores piezas del libro.
 **Hoja de decisiones para Luis (seis):** cadena de diez preguntas y cierres con pregunta; frases 60-65; frase 91 (WALS, accesible); frase 95; el año 1993; frases 94 y 97 (el título como imagen). Cinco filas de Luis con lectura propuesta (todas «cumple»).
+
+## §139 · Pieza 1: las seis decisiones de Luis aplicadas (22/11/2026)
+
+**Luis:** «1 B. 2 B. 3 OK. 4 OK. 5 OK. 6 B.» Aplicado (`natura_mt57.py`; copia `urtz_antes_mt57.html`):
+1. **B:** se queda la cadena de diez preguntas; dos cierres con pregunta pasan a afirmación. «y dentro de naturar está ur, la sílaba que en sumerio es ciudad y en euskera es agua. **¿Es casualidad que el verbo que lleva la naturaleza a la ciudad la contenga?**» → termina en «…es agua.»; «**¿Es natura, entonces, un participio de futuro convertido en nombre, o un nombre formado sobre el participio de pasado?**» → «**Queda abierto si natura es un participio de futuro convertido en nombre o un nombre formado sobre el participio de pasado.**»
+2. **B:** «La palabra guarda las preguntas que el resultado esconde**. De qué se nace. De dónde. Cómo. Por medio de quién.**» → «…esconde**: de qué se nace, de dónde, cómo, por medio de quién.**»
+3. **OK (WALS):** «el euskera y el turco tienen formantes **“exclusivamente concatenativos” y marcas de caso “monoexponenciales”**; el finés y el griego moderno, **también concatenativos, pero con caso “más número”**» → «**en el euskera y el turco cada marca de caso dice una sola cosa y se añade al nombre sin fundirse con él; en el finés y el griego moderno también, pero la marca dice a la vez caso y número**». Los términos de WALS pasan al nivel 2 de la entrada: rasgo 20A «Exclusively concatenative»; 21A «Monoexponential case» (euskera, turco) y «Case + number» (finés, griego moderno).
+4. **OK:** «**Lo que la oposición** entre aglutinante y flexivo no autoriza **es una explicación cultural.**» → «**La oposición** entre aglutinante y flexivo no autoriza **una explicación cultural.**»
+5. **OK:** «bautizado **en 1993** por John Rogers» → «**en los años noventa**» (el año exacto sigue en la glosa).
+6. **B:** se corta el párrafo «El título del capítulo usa los dos términos como imagen…»; **pasa al final de la sección «Tipología» del dossier** (nada se pierde, Norma 40).
+**Comprobado:** 20 llamadas y 20 entradas alineadas; cuerpo ≈2.357 palabras; glosa ≈789 (≈25 %). Fila NATURA 18.553 palabras (≈74 págs.); libro puro ≈519 págs. (estimación ≈514). Dossier +45 palabras.
