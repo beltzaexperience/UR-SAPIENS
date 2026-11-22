@@ -3727,3 +3727,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 **NATURA: pieza 1, limpieza de tics (22/11/2026).** Luis: «Adelante. Pieza 1.» **Aplicado (nota 136):** cuatro «no X, sino Y» y un «aparece» eliminados, cuatro frases de tres «que» partidas, seis dos puntos ante pregunta pasan a punto (41 a 32), una frase redundante fuera, dos entradas de glosa nuevas (20, 24,4 %). Alarmas de la batería: de 5 a 1 (falso positivo). Sin publicar.
 
 **NATURA: pieza 2, limpieza de tics (22/11/2026).** Luis: «Adelante.» **Aplicado (nota 137):** cuatro «aparece» fuera, una nota de proceso retirada del texto, frases de tres «que» partidas, una fecha generalizada, párrafos partidos (media de 138 a 102 palabras). Sin cambios en la glosa. Sin publicar.
+
+**NATURA: Ultra sobre la pieza 1, diagnóstico parcial (22/11/2026).** Luis: «Adelante». **Registrado (nota 138):** informe `INFORME-RELOJERO-ULTRA-NATURFILOLOGIA-PIEZA-1-22-11-26.md`, que declara lo que no pudo ejecutar (recorrido 5, matriz completa, lectura íntegra de las normas). Dos correcciones A aplicadas; seis decisiones para Luis; INFLESZ 62,2. Sin publicar.
