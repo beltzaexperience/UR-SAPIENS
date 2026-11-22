@@ -2807,3 +2807,10 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 5. **Párrafos:** media de 138 a **102 palabras** (de 17 a 23 párrafos): cortes en los sentidos latinos, la datación de Pellicer, el euskera, el corte de Lacan y Lacan frente a Jung («**Lacan tampoco aceptó** acercarse a Jung», antes «Y no aceptó»).
 **Batería:** «aparece» 0; coberturas 6 → 4; «que» 6 → 2; dos puntos 36 → 34 (14,6 por mil); párrafos OK; cuerpo 2.335; glosa 30 %. **Falsos positivos:** el «no… sino» restante es cita de Lacan («no es informar, sino evocar»); «alguien» es cita del DLE; «UR sin marcar» (las entradas de glosa con *nature* y *Natur* sí la llevan).
 **A la vista de Luis (no se toca):** 34 dos puntos (anuncian citas, definiciones o demostración); 12,8 puntos y coma por mil (enumeraciones de sentidos); 9 frases con tres o más «y». **Fila NATURA 18.584 palabras (≈74 págs.).**
+
+## §138 · Relojero Ultra sobre la pieza 1: diagnóstico parcial (22/11/2026)
+
+**Orden de Luis:** «Adelante» (el Ultra sobre las piezas, empezando por la 1). **Informe:** `INFORME-RELOJERO-ULTRA-NATURFILOLOGIA-PIEZA-1-22-11-26.md`. **No cumple II.7:** falta la tabla de las 130 filas, el recorrido 5 (los 18 análisis: sin caché del canon ni modelo `es_core_news_md`; `pip install spacy` sí funciona, el modelo no) y la lectura íntegra de `NORMA-METODO.md`; la pieza no se da por pasada.
+**Aplicado (tipo A):** «Adelung distinguía/conjeturaba» → «distingue/conjetura» (Normas 2 y 28); «La lectura del libro deja» → «El libro deja» (Norma 47). Fila NATURA 18.582 palabras (≈74 págs.).
+**Legibilidad (INFLESZ, aproximada):** pieza 1, 62,2; pieza 2, 58,2; Babel 54,8; Ciclo hídrico 59,5. La respuesta a «accesible»: sí, en el rango de las mejores piezas del libro.
+**Hoja de decisiones para Luis (seis):** cadena de diez preguntas y cierres con pregunta; frases 60-65; frase 91 (WALS, accesible); frase 95; el año 1993; frases 94 y 97 (el título como imagen). Cinco filas de Luis con lectura propuesta (todas «cumple»).
