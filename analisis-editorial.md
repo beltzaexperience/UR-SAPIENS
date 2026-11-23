@@ -3741,3 +3741,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 **NATURA: Lacan y Jung fuera de la pieza 2 (22/11/2026).** Luis: «Ok» a reducirlos a dos anclas, el resto al dossier y el germen del ensayo a URIM. **Aplicado (nota 143):** pieza 2 de 2.323 a 1.912 palabras de cuerpo (17 entradas), dossier con la sección de Lacan y Jung, germen del corte en URIM. Pendientes: Sansinenea, cautelas de proceso, ¿una pieza o dos? Sin publicar.
 
 **NATURA: entrada «ur» del OEH (22/11/2026).** Luis sube a GitHub el archivo `UR` (OEH, «ur»). **Aplicado (nota 144):** la glosa de «ur» cita el OEH y deja a Sansinenea como fuente de la tesis; `FUENTES.md` actualizado. Sin publicar.
+
+**NATURA: Ultra con la matriz completa sobre las piezas 1 y 2 (23/11/2026).** Luis: «¿No puedes pasar al relojero ultra?» **Registrado (nota 145):** informe con las 112 filas por pieza, los 18 análisis (parcial) y la Tabla Margarita; sigue sin cumplir II.7 por lo que no pudo ejecutarse; tres hallazgos nuevos y tres decisiones para Luis. Sin cambios en las piezas. Sin publicar.
