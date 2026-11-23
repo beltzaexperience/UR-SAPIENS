@@ -2919,3 +2919,9 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 **Norma 15:** 28 «ūr», «úr» y «ür» de la familia de *natura* marcados en rojo en las dos piezas, el dossier, GLOSAS EXTENDIDAS y la pieza de URIM. **Pendiente de Luis:** 22 casos en otras piezas (*Hürmüz*, *metalúrgica*, *Šaqūra*, *captūra*…), sin tocar.
 **Marcador (Regla 14):** el dossier es anexo: URS 1.251.441 caracteres / 206.097 palabras (≈824 págs.); libro puro sin cambio (811.402 / 129.153); URS+URIM 290.050; TOTAL 307.389 palabras (≈1230 págs.).
 
+## 153 · Norma 15 en el resto del libro (23/11/2026)
+
+**Luis:** «Sí» a marcar los casos con vocal con diacrítico + r que quedaban en otras piezas.
+**Aplicado (tipo A):** 56 marcados en rojo en todo el archivo (*Hürmüz*, *Altzürükü*, *Empúries*, *Ürményi*, *metalúrgica*, *Šaqūra*, *Ürümqi*, *túrgu*, *Zúrich*, *Dúrcal*, *captūra*, *ruptūra*, *Barad-dûr*, *Tür*, la pieza «El sufijo -dad / -úra», etc.), con las formas escritas en entidad HTML incluidas. Comprobado: el texto visible es idéntico al de antes, los `<span>` quedan equilibrados y las cifras del Marcador no cambian.
+**Errata señalada, sin tocar (63.4, pieza ☠ NO TOCAR):** «rec**ú**rsos» por «recursos», en la pieza de Cavanaugh; al corregirla, *ur* va en rojo. Pendiente de la autorización de Luis.
+

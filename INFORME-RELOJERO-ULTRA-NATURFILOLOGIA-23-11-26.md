@@ -269,7 +269,7 @@ Con B1 a B9, la cláusula + cláusula baja a 6 (2,6 por mil) en P1 y a 3 (1,6 po
 
 **Medido tras los cambios:** cuerpo 4.860 palabras (antes 5.007); glosa 42 entradas, 1.673 palabras (24 %); sin UR sin marcar; llamadas y entradas iguales y en orden. Alarmas de la batería que quedan, todas falsos positivos: «no X, sino Y» (2 citas literales de Grünthal y de Jung), andamios (2 definiciones de Fillmore y una referencia a Chomsky), anterioridad (3 casos de cronología documentada o cita literal de Lacan).
 
-**Pendiente para Luis, fuera de NATURA (Norma 15):** quedan 22 casos con vocal con diacrítico + r sin marcar en otras piezas, que no he tocado: *Altzürükü*, *Hürmüz*, *Yedi Kocalı Hürmüz*, *Empúries*, *metalúrgica*, *Ürményi*, *annapūrṇā*, *Fūr*, *Šaqūra*, *ürüm*, *Yürüng-chin*, *túrgu*, *captūra*, *ruptūra*. Dime si las marco.
+**Norma 15 en el resto del libro (Luis: «Sí», 23/11/26):** marcados en rojo los 56 «ur» con diacrítico que quedaban sin marcar en otras piezas (*Hürmüz*, *Altzürükü*, *Empúries*, *Ürményi*, *metalúrgica*, *Šaqūra*, *Ürümqi*, *túrgu*, *Zúrich*, *Dúrcal*, *captūra*, *ruptūra*, *Barad-dûr*, la pieza «El sufijo -dad / -úra», etc.). El texto no cambia (comprobado: texto idéntico y spans equilibrados) y el Marcador tampoco. **Una errata que no he tocado** (63.4: pieza ☠ NO TOCAR, se propone): «privatización de *recúrsos* como el agua» (pieza de Cavanaugh); debe ser *recursos*, con *ur* en rojo.
 
 **Cambios (antes y después, lo que cambia en negrita):**
 
