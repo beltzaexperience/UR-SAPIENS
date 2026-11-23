@@ -3750,3 +3750,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: lectura íntegra del archivo y cierre del Ultra (23/11/2026).** Luis: «OK» a leer `NORMA-METODO.md` entero. **Hecho (nota 148):** archivo leído completo (112 filas de matriz, no 130); informe del Ultra completo (II.7); aplicados los automatismos que la lectura hizo ver (marcado de «úr» en *náttúra*, «aparece», «aquí» y un «no X, sino Y» en el dossier, años de edición y loci de Cicerón a la glosa); muestra de 21 casos (aperturas con artículo y dos puntos) pendiente de Luis. Marcador al día. Sin publicar.
 
+**NATURA: muestra del Ultra aprobada y aplicada (23/11/2026).** Luis: «Ok». **Aplicado (nota 149):** 11 aperturas con artículo y 9 dos puntos entre cláusulas corregidos en las piezas 1 y 2; criterio extendido, sin más casos; apertura con artículo 28 % y 22 %. Marcador al día. Sin publicar.
+

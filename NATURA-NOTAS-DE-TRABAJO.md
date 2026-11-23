@@ -2890,3 +2890,11 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 **No aplicado, a Luis (A tras muestra, 38.1 bis, 38.1 ter y 42 bis):** muestra de 12 casos de apertura con artículo y sujeto repetido y de 9 casos de dos puntos entre cláusulas (informe, apartado 4 bis). Los dos puntos en crudo (13,0 y 14,6 por mil) engañan: la mayoría anuncia enumeración, cita o ejemplo y se queda siempre; la cláusula + cláusula es 4,3 por mil en las dos piezas (umbral 3) y baja a 2,6 y 1,6 con los 9 casos.
 **Falsos positivos de la batería (sin tocar):** «alguien» y «no X, sino Y» están dentro de citas literales (DLE, Lacan); «cuerpo» (P2) es excepción anatómica; «NAT-UR-AL» no es UR sin marcar; «antes de ser / todavía no» del dossier es cronología documentada.
 **Marcador (Regla 14):** URS 1.252.396 caracteres / 206.293 palabras; libro puro 811.497 / 129.180 (≈517 págs.; estimación ≈512); URS+URIM 290.246 palabras; TOTAL 307.585 palabras (≈1230 págs.). Fila NATURA: 18.042 palabras (≈72 págs.).
+
+## 149 · Muestra del Ultra aprobada y aplicada (23/11/2026)
+
+**Luis:** «Ok» a la muestra de 21 casos (apartado 4 bis del informe).
+**Aplicado (tipo A tras muestra, 38.1 bis, 38.1 ter y 42 bis):** A1 a A11 (aperturas con artículo y sujeto repetido) y B1 a B9 (dos puntos entre cláusulas), en las piezas 1 y 2; A12 se queda. Una variante: A2 queda «En los años noventa John Rogers bautizó un supercontinente con el nombre de *Ur*, que juega con el prefijo y con la ciudad». Extendido el criterio al resto de las dos piezas: no queda ningún caso más (las rachas de artículo que quedan tienen protagonista concreto o definen un concepto).
+**Medido:** apertura con artículo 28 % (P1) y 22 % (P2); cláusula + cláusula entre dos puntos, 6 y 3 casos; llamadas y entradas de glosa alineadas (20/20 y 17/17); sin UR sin marcar. Las alarmas que quedan en la batería son los falsos positivos de la nota 148.
+**Marcador (Regla 14):** URS 1.252.399 caracteres / 206.294 palabras; libro puro 811.500 / 129.181 (≈517 págs.; estimación ≈512); URS+URIM 290.247; TOTAL 307.586 palabras (≈1230 págs.). Fila NATURA: 18.043 palabras (≈72 págs.).
+
