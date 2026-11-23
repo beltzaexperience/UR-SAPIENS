@@ -3756,3 +3756,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: sujetos «artículo + sustantivo» evitados (23/11/2026).** Luis: «Todos los artículos + sustantivo que se puedan evitar, lo evitamos». **Aplicado (nota 151):** 36 frases reescritas en las piezas 1 y 2; sujeto «artículo + sustantivo» de 38,6 % a 15,6 % (P1) y de 33,5 % a 17,1 % (P2); glosa sin cambios. Marcador al día. Sin publicar.
 
+**NATURA: el dossier equiparado a las dos piezas (23/11/2026).** Luis: «Revisa el dossier… y déjalo equiparado a las dos pestañas de URS». **Aplicado (nota 152):** sujetos «artículo + sustantivo» 38,5 % → 22,0 %; dos puntos, «no X, pero Y», «a veces» y años de edición corregidos; seis frases o párrafos de justificación o repetición cortados (guardados en la nota); glosa sin notas de proceso; 28 «ūr/úr/ür» marcados. Marcador al día (anexo). Sin publicar.
+
