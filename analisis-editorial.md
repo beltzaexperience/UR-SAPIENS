@@ -3758,3 +3758,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: el dossier equiparado a las dos piezas (23/11/2026).** Luis: «Revisa el dossier… y déjalo equiparado a las dos pestañas de URS». **Aplicado (nota 152):** sujetos «artículo + sustantivo» 38,5 % → 22,0 %; dos puntos, «no X, pero Y», «a veces» y años de edición corregidos; seis frases o párrafos de justificación o repetición cortados (guardados en la nota); glosa sin notas de proceso; 28 «ūr/úr/ür» marcados. Marcador al día (anexo). Sin publicar.
 
+**Norma 15: «ur» con diacrítico en todo el libro (23/11/2026).** Luis: «Sí». **Aplicado (nota 153):** 56 casos marcados en rojo; texto y Marcador sin cambios. Señalada una errata («recúrsos») sin tocar. Sin publicar.
+
