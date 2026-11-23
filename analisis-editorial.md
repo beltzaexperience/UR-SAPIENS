@@ -3743,3 +3743,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 **NATURA: entrada «ur» del OEH (22/11/2026).** Luis sube a GitHub el archivo `UR` (OEH, «ur»). **Aplicado (nota 144):** la glosa de «ur» cita el OEH y deja a Sansinenea como fuente de la tesis; `FUENTES.md` actualizado. Sin publicar.
 
 **NATURA: Ultra con la matriz completa sobre las piezas 1 y 2 (23/11/2026).** Luis: «¿No puedes pasar al relojero ultra?» **Registrado (nota 145):** informe con las 112 filas por pieza, los 18 análisis (parcial) y la Tabla Margarita; sigue sin cumplir II.7 por lo que no pudo ejecutarse; tres hallazgos nuevos y tres decisiones para Luis. Sin cambios en las piezas. Sin publicar.
+
+**NATURA: decisiones del Ultra aplicadas (23/11/2026).** Luis: «1B – 2 A+B cursiva y rojo. 3 B». **Aplicado (nota 146):** 16 frases largas partidas, *ur* sin cambios (cursiva y rojo), cautelas de proceso retiradas de las glosas de las dos piezas y del dossier; dos observaciones propias del euskera salen del cuerpo. Sin publicar.
