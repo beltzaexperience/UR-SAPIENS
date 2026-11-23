@@ -2,12 +2,11 @@
 
 **Sustituye a los diagnósticos parciales del 22/11 sobre las piezas 1 y 2.** Pieza 1: «NATURFILOLOGÍA · EL ESTUDIO DE LA LENGUA DE LA VIDA». Pieza 2: «NATURFILOLOGÍA · EL SENTIDO Y EL SÍMBOLO» (título provisional).
 
-**Lo que este informe no puede dar por cumplido (declarado):**
-- `NORMA-METODO.md` (212.879 bytes; normas 0 a 63, secciones I a XXVII, 130 filas): se leyó entera la matriz VI.1 y los textos de las normas que aplican a estas piezas; **no se leyó íntegro el archivo**.
-- Recorrido 5: 18 análisis, de los que se ejecutaron en parte los medibles sin analizador (sílabas, léxico, textualidad, estructura, legibilidad, estilometría, entidades, ráfaga y plantillas). **Faltan el modelo de spaCy `es_core_news_md` (no instalable aquí) y el caché del canon (Baroja, Orwell, Martín Santos; no está en el repositorio):** el corredor del canon no se calculó; se usa el corredor de las 63 piezas de URS medidas. Los análisis 2, 3 y 13 y la fila 75 de la matriz **no se ejecutaron**.
-- Por la Norma 62 (II.7), una fila que falta invalida el informe: **estas piezas no se dan por pasadas por el Ultra** hasta ejecutar esas filas.
+**Qué falta para que este informe cumpla II.7 (declarado):** la **lectura íntegra de `NORMA-METODO.md`** (212.879 bytes; normas 0 a 63, secciones I a XXVII, 130 filas). Se leyó entera la matriz VI.1 y los textos de las normas que aplican a estas piezas. Todo lo demás está ejecutado: los cinco recorridos y las 130 filas.
 
-**Estados:** C cumple · H hallazgo · N no aplica (motivo) · O de Luis · D diferida (cita de la norma) · X no ejecutable.
+**Herramientas del recorrido 5 (23/11/26):** spaCy 3.8.18 con `es_core_news_md` 3.8.0 (el marco original usó el 3.7; puede haber diferencias pequeñas) y el canon rehecho a partir de las siete obras (Baroja: *Aurora roja*, *El árbol de la ciencia*, *Zalacaín el aventurero*; Orwell, en traducción: *1984*, *Homenaje a Cataluña*, *Rebelión en la granja*; Martín Santos: *Tiempo de silencio*, aparte), recuperadas de la historia del repositorio (commit del 08/10/26) y usadas solo en local; no se vuelven a subir.
+
+**Estados:** C cumple · H hallazgo · N no aplica (motivo) · O de Luis · D diferida (cita de la norma).
 
 ## 1 · La matriz (112 filas) para las dos piezas
 
@@ -20,7 +19,7 @@
 | 5 | I.5 | X | C | C | cuatro categorías; texto o glosa en cada cambio |
 | 6 | I.6 | X | C | C |  |
 | 7 | I.7 | X | C | C | los cambios al texto de Luis constan aprobados (decisiones del 22/11) |
-| 8 | II.1; II.2; II.3; II.4; II.5; II.6; II.7; II.8; II.9 | X | H | H | no se leyó el archivo entero; el recorrido 5 es parcial |
+| 8 | II.1; II.2; II.3; II.4; II.5; II.6; II.7; II.8; II.9 | X | H | H | no se leyó entero `NORMA-METODO.md` |
 | 9 | I–IV | L, O | C | C | tesis deducible desde la primera frase (O) |
 | 10 | V y VII | L, O | C | C | capas material y simbólica; la política vive en otras secciones |
 | 11 | VI | L | C | C | cada afirmación lleva su fuente o se presenta como lectura |
@@ -40,7 +39,7 @@
 | 25 | XXII | L, A | C | C | no queda negación sobrante tras las decisiones |
 | 26 | XXIII | M, L | C | C | enumeraciones de datos, no muletilla |
 | 27 | XXV | L, S | C | C | se cortó la frase que explicaba el título (P1) y «El capítulo deja la pregunta al lector» (P2) |
-| 28 | XXVII | M, L, O, D (parcial) | H | H | parte medible hecha; 3 de 18 análisis sin ejecutar y 9 en parte (apartado 3) |
+| 28 | XXVII | M, L, O, D (parcial) | C | C | pase final hecho: los 18 análisis (apartado 3) |
 | 29 | 0 | X | C | C |  |
 | 30 | 0 (los números son del taller) | X, S | C | C | los motivos dados a Luis son los de la norma |
 | 31 | 1 | M, A | C | C | 0; P2: una cita de Lacan (no es informar, sino evocar) |
@@ -82,12 +81,12 @@
 | 67 | 35 | L, S | N | N |  |
 | 68 | 36 | L | C | C | recorrido 1 |
 | 69 | 36.7 | M, A | C | C | 1 y 10 enumeraciones (alarma: 1 de cada 6 frases) |
-| 70 | 36.8 | M | H | H | desviación 19,7 y 18,4 (OK); frases > 40 palabras (fila 65); abstracción no medida (sin analizador) |
+| 70 | 36.8 | M | H | H | desviación 19,7 y 18,4 (OK); abstractos 2,8 y 3,3 por 100 (OK); frases > 40 palabras: fila 65 |
 | 71 | 36.9 | M, A | C | C | anterioridad 0 y 1; «Quien X decide Y» 0 |
 | 72 | 37 | X | C | C | crítica externa del 22/11 pasada por la Tabla Margarita (apartado 5) |
 | 73 | 38 | M, A | C | C | artículo 34 % y 23 %; «En» 11 % y 10 %; efecto Massiel 0 |
 | 74 | 38.1 bis | M, A | C | C | aperturas repetidas 6,6 % y 0 % |
-| 75 | 38.1 ter | M, A | X | X | necesita analizador sintáctico (sujeto artículo + sustantivo) |
+| 75 | 38.1 ter | M, A | H | C | sujeto principal «artículo + sustantivo»: 38,6 % en P1 (norma: > 35 %) y 33,5 % en P2 |
 | 76 | 38.2 bis | L, M | C | C | 0 aforismos dobles |
 | 77 | 39 | M | H | C | razón entre tramos 1,87 en P1 (informativa; sin corrección automática) |
 | 78 | 40 | L, X | C | C | lo descartado consta: dossier, URIM, GLOSAS EXTENDIDAS y notas |
@@ -114,7 +113,7 @@
 | 99 | 59 | M, A | C | C |  |
 | 100 | 60 | M, A | C | C |  |
 | 101 | 61 | A, L, X | C | C | `FUENTES.md` al día (OEH «ur», 22/11) |
-| 102 | 62 | L, S, M, O | H | H | este informe es parcial |
+| 102 | 62 | L, S, M, O | H | H | falta la lectura íntegra del archivo (II.3) |
 | 103 | IV.1 | M, L | C | C | UR es el personaje, no el libro |
 | 104 | IV.2 | L, X | H | H | notas de proceso en la glosa («de memoria», «sin abrir», «latín sin ver», «paginación del OCR incierta»): 3 en P1, 9 en P2; decisión 3 |
 | 105 | IV.3 | X, D | D | D | el Ultra no puntúa |
@@ -122,75 +121,49 @@
 | 107 | Regla 38 | X | C | C | sin publicar |
 | 108 | Regla 39 | X | C | C | `☠ NO TOCAR!!! (*-tit) (*-red) (*-nor)` |
 | 109 | Regla 42 | X | C | C |  |
-| 110 | Regla 43 | X | H | H | el Ultra no se pudo completar |
-| 111 | XXVII (los 18 análisis) | M, L, O | H | H | véase apartado 3 |
+| 110 | Regla 43 | X | H | H | falta la lectura íntegra del archivo (II.3) |
+| 111 | XXVII (los 18 análisis) | M, L, O | C | C | ejecutados con spaCy y el canon rehecho; apartado 3 |
 | 112 | 63 | L, A, X | C | C | lectura sin erratas detectadas |
 
 ## 2 · Recuento
 
 
-- **Pieza 1:** cumple 75, hallazgo 17, no aplica 14, de Luis 2, diferida 3, no ejecutable 1.
-- **Pieza 2:** cumple 76, hallazgo 16, no aplica 14, de Luis 2, diferida 3, no ejecutable 1.
+- **Pieza 1:** cumple 77, hallazgo 16, no aplica 14, de Luis 2, diferida 3.
+- **Pieza 2:** cumple 79, hallazgo 14, no aplica 14, de Luis 2, diferida 3.
 
 ## 3 · Los 18 análisis (VI.3)
 
 | N.º | Análisis | Tipo | P1 | P2 | Medida o nota |
 |---|---|---|---|---|---|
-| 1 | Fonético y fonológico | M parcial | H | H | parcial: sílabas por frase 51 y 53 (corredor URS p90: 51) |
-| 2 | Morfológico | M | X | X | necesita el analizador morfológico |
-| 3 | Sintáctico | M | X | X | necesita el analizador sintáctico; gerundios y «que» medidos por la batería |
-| 4 | Léxico (lexicometría) | M | H | H | parcial: MATTR 0,64 y 0,67 (p10: 0,69); hápax 65,7 y 67,0 % (p10: 67,0); léxico repetido por tema |
-| 5 | Textualidad (cohesión y coherencia) | M parcial | C | C | parcial: solape con la frase anterior 0,06 y 0,03; conectores causales y adversativos en corredor |
+| 1 | Fonético y fonológico | M parcial | H | C | P1: rima asonante entre frases 15 % (p90 canon: 12 %) y aliteración 7,8 (p90: 6,2); P2 dentro del corredor |
+| 2 | Morfológico | M | H | H | estilo nominal: más sustantivos y menos verbos que el canon (P1 24,9 y 12,3; P2 24,7 y 12,4); presente 89 %, como las piezas de URS |
+| 3 | Sintáctico | M | H | H | distancia de dependencia 3,0 (p90: 2,9); sujeto omitido 12 % y 15 % (p10: 17,5); gerundios por debajo del canon (bien) |
+| 4 | Léxico (lexicometría) | M | H | H | léxico repetido por el tema: palabras de contenido que repiten otra de las 50 anteriores, 26,5 % y 22,5 % (p90: 19,4); diversidad léxica por debajo del corredor |
+| 5 | Textualidad (cohesión y coherencia) | M parcial | H | H | cohesión por repetición léxica: solape con la frase anterior 6,1 % y 4,8 % (p90: 3,4); pocos marcadores temporales |
 | 6 | Semántico | L (O) | O | O | términos con dos sentidos declarados: *natural*, *participio*, *símbolo*; firma Luis |
 | 7 | Temático | L (O) | O | O | tema: la palabra *natura* leída como *nat-ur-a*; deriva: tipología (P1); firma Luis |
-| 8 | Estructural y estilístico | M parcial | H | H | parcial: preguntas 18,7 % y 5,6 % de las frases (p90: 1,6 %); cierres con pregunta 18 % y 17 % (p90: 2,5 %) |
-| 9 | Legibilidad y complejidad | M | C | C | INFLESZ 58,0 y 55,5 (corredor URS 46,9 · 55,5 · 63,5; con mi recuento de frases) |
-| 10 | Pragmático | L (O) | O | O | argumentar y preguntar; firma Luis |
+| 8 | Estructural y estilístico | M parcial | H | H | preguntas retóricas 76 y 25 por 10.000 (p90: 24); paréntesis 135 y 43 (p90 de URS: 35); rayas en P2; frases que abren como la anterior 9 % y 8 % (p90: 7) |
+| 9 | Legibilidad y complejidad | M | C | C | INFLESZ 63,2 en P1 (corredor 51,6 · 61,1 · 70,1); Fernández Huerta 84,4 |
+| 10 | Pragmático | L (O) | O | O | argumentar y preguntar; segunda persona 0,9 % y 1,4 %; imperativos 4 y 10 por 10.000; firma Luis |
 | 11 | Discurso y discurso crítico | L (O) | O | O | voces de diccionarios y filólogos; la sección de Lacan y Jung, reducida; firma Luis |
 | 12 | Intención | L (O) | O | O | informar y argumentar; firma Luis |
-| 13 | Narratológico | M parcial | X | X | necesita el analizador |
-| 14 | Estilometría | M | C | C | Delta de Burrows 0,79 y 0,80 frente al perfil medio de URS (p10-p90: 0,63-0,87) |
+| 13 | Narratológico | M parcial | C | C | tercera persona 98 %; presente 89 %; sujeto-actor en el análisis 3 |
+| 14 | Estilometría | M | C | C | Delta de Burrows al perfil medio de URS: 0,53 y 0,51 (mediana 0,51; p90 0,67; aviso en 0,7); obra más cercana: Martín Santos |
 | 15 | Sentimiento | — | N | N | no se aplica (Norma 45) |
-| 16 | Entidades (NER) | M | C | C | parcial: entidades aprox. 23,8 y 34,3 por mil (corredor 11-76) |
-| 17 | Sinteticidad | M parcial | H | H | parcial: variación de la longitud de frase 0,72 y 0,68 (p90: 0,63), por las frases largas |
-| 18 | Plantillas | M | H | C | P1: 33 cuatro-gramas repetidos (p90: 21); aperturas repetidas 6,6 % y 0 % |
+| 16 | Entidades (NER) | M | C | C | entidades por 100 palabras 5,1 en P1 (corredor 4,0 · 5,5 · 7,4); cifras 0,1 |
+| 17 | Sinteticidad | M parcial | C | C | ráfaga 0,6 (corredor 0,5-0,7); cuatro-gramas repetidos 1,9 % (p90: 1,9) |
+| 18 | Plantillas | M | C | C | esqueleto gramatical repetido 4,7 % de las frases (p90 canon: 7,4) |
 
-Tabla completa de indicadores (corredor de las piezas de URS):
+Las tablas completas de los 18 análisis (todas las filas, con corredor del canon y de URS) están en `INFORME-RELOJERO-ULTRA-NATURFILOLOGIA-23-11-26-ANEXO.md`. Alarmas del marco fuera del corredor: **P1, 8 de 17** (sujeto «artículo + sustantivo», sujeto omitido, sustantivos, verbos, anáfora, paréntesis, densidad léxica, gerundios); **P2, 7 de 17** (sujeto omitido, sustantivos, verbos, pronombres, anáfora, paréntesis, gerundios). Delta de Burrows al perfil medio de URS: 0,53 (P1) y 0,51 (P2); mediana de URS, 0,51; p90, 0,67.
 
-| Indicador | Pieza 1 | Pieza 2 | Corredor URS p10·p50·p90 |
-|---|---|---|---|
-| INFLESZ | 57.95 | 55.48 | 46.88 · 55.46 · 63.45 |
-| FernHuerta | 84.43 | 82.47 | 63.01 · 73.43 · 81.15 |
-| pal4+sil_% | 11.77 | 11.64 | 10.17 · 14.34 · 17.84 |
-| sil/frase | 51.08 | 52.69 | 29.51 · 36.29 · 50.91 |
-| sil/frase_sd | 39.06 | 36.88 | 14.71 · 18.72 · 25.48 |
-| palabras/frase | 25.34 | 26.20 | 13.35 · 17.27 · 24.31 |
-| CV_longitud | 0.72 | 0.68 | 0.45 · 0.50 · 0.63 |
-| frases>40_% | 19.78 | 15.49 | 0.00 · 1.52 · 10.71 |
-| MATTR100 | 0.64 | 0.67 | 0.69 · 0.72 · 0.74 |
-| hapax_% | 65.67 | 67.02 | 66.96 · 72.76 · 79.48 |
-| densidad_léxica_% | 54.33 | 53.17 | 53.17 · 57.30 · 59.73 |
-| solape_frase_previa | 0.06 | 0.03 | 0.01 · 0.01 · 0.03 |
-| conect_causal_x1000 | 1.27 | 2.68 | 0.00 · 0.54 · 2.17 |
-| conect_adversativo_x1000 | 1.70 | 4.83 | 0.00 · 2.26 · 7.15 |
-| conect_aditivo_x1000 | 2.12 | 1.61 | 0.00 · 1.11 · 3.66 |
-| conect_temporal_x1000 | 2.12 | 1.07 | 2.88 · 6.20 · 11.60 |
-| párr_palabras | 104.82 | 103.44 | 39.19 · 67.20 · 109.00 |
-| preguntas_%frases | 18.68 | 5.63 | 0.00 · 0.00 · 1.59 |
-| párr_cierra_pregunta_% | 18.18 | 16.67 | 0.00 · 0.00 · 2.50 |
-| entidades_aprox_x1000 | 23.79 | 34.33 | 11.17 · 42.89 · 75.53 |
-| frases_con_cifra_% | 2.20 | 7.04 | 0.00 · 3.49 · 11.69 |
-| aperturas_repetidas_% | 6.59 | 0.00 | 0.00 · 2.74 · 8.57 |
-| 4gramas_repetidos | 33.00 | 12.00 | 1.00 · 6.00 · 21.00 |
-| Delta de Burrows (150 palabras; perfil medio URS) | 0.79 | 0.80 | 0.63 · 0.73 · 0.87 |
+Cautela: el analizador es estadístico y se equivoca en prosa literaria y en los neologismos de UR; el canon son siete obras de tres autores y Orwell está en traducción; una pieza de 2.000 palabras son dos ventanas; las cifras orientan.
 
-Cautela: frases partidas por un separador sencillo (las abreviaturas «a. C.» y similares distorsionan algo los recuentos); sílabas por reglas, sin analizador.
+## 4 · Decisiones de Luis (23/11/26) y estado
 
-## 4 · Hoja de decisiones para Luis
-
-1. **Frases de más de 40 palabras (fila 65, Norma 33): 19,8 % en la pieza 1 y 19,1 % en la 2; la norma pide menos del 2,5 % y el p90 de URS es 10,7 %.** Casi todas son enumeraciones de definiciones del diccionario o de citas. **A:** se quedan (el registro expositivo cita mucho). **B:** se parten por la regla «un punto donde hoy hay punto y coma o dos puntos de enumeración»; antes → después, por ejemplo la frase de DWDS (98 palabras): «El DWDS da para ur- cuatro usos: …; y la generación anterior o siguiente; **el diccionario etimológico de Pfeifer lleva** el prefijo a un indoeuropeo *ūds*, «fuera», **y explica que** se conservó…» → «El DWDS da para ur- cuatro usos: …; y la generación anterior o siguiente. **El diccionario etimológico de Pfeifer lleva** el prefijo a un indoeuropeo *ūds*, «fuera». **Explica que** se conservó entero en los compuestos nominales… **Pone en último lugar** el sentido de «lo primero, lo muy lejano»…». Recomendación: B para las 16 frases de más de 50 palabras (10 en la pieza 1 y 6 en la 2); el resto, A.
-2. ***ur* en cursiva (fila 47, Norma 16: «UR como concepto o protagonista nunca va en cursiva»):** 22 casos en la pieza 1 y 4 en la 2, donde *ur* es la forma lingüística analizada. **A:** se queda en cursiva (como las demás formas de otras lenguas). **B:** *ur* pasa a rojo sin cursiva, como en el resto del libro; *ura*, *ur-* y las demás formas con cursiva se quedan. Recomendación: B.
-3. **Cautelas de proceso en la glosa (fila 104, IV.2): 3 en la pieza 1 y 9 en la 2** («de memoria», «sin abrir», «latín sin ver», «paginación del OCR incierta»). Son útiles ahora y no pueden quedar en la versión impresa. **A:** se mantienen hasta que subas las fuentes pendientes (el *Curso* de Saussure, Peirce, el *Crátilo*, el latín de Cicerón II, 124 y 142 y de Lucrecio V, y las dataciones de Alfonso X). **B:** se retiran ya y el dato queda sin cautela solo cuando es canónico; el resto, sin dato. Recomendación: A, con la lista de fuentes por abrir en `FUENTES.md`.
+1. **Frases de más de 40 palabras (fila 65):** 1 B, aplicado a las 16 frases de más de 50; quedan 15 y 11 de más de 40 (15 %).
+2. ***ur* en cursiva (fila 47):** se queda en cursiva y rojo (A+B). Sin cambios.
+3. **Cautelas de proceso en la glosa (fila 104):** retiradas (3 B). Las obras que no se pudieron abrir se citan sin cautela.
+4. **Nuevo con el recorrido 5:** nada que cambie el texto. El estilo es nominal (más sustantivos y menos verbos que el canon), con paréntesis y repetición léxica altos por el tema; lo notable es el sujeto «artículo + sustantivo» de la pieza 1 (38,6 %, sobre el 35 % de la Norma 38.1 ter): **fricción**, sin corrección automática.
 
 ## 5 · Tabla Margarita: la crítica externa del 22/11 (Norma 37)
 
@@ -203,6 +176,6 @@ Cautela: frases partidas por un separador sencillo (las abreviaturas «a. C.» y
 | Imprecisiones sobre el euskera | falso positivo: la observación es descriptiva («según estas fuentes») | se queda |
 | Las cautelas de proceso de la glosa | **real** (IV.2) | decisión 3 |
 
-## 6 · Aplicado en este lanzamiento
+## 6 · Aplicado
 
-Ninguna corrección nueva en las piezas: las decisiones 1 a 3 esperan a Luis. Las correcciones A anteriores (22/11) constan en las notas §136, §137, §139, §141 y §142.
+Las correcciones A y las decisiones de Luis constan en las notas §136, §137, §139, §141, §142, §143, §144 y §146.
