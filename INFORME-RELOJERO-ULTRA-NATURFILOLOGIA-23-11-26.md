@@ -84,15 +84,15 @@
 | 70 | 36.8 | M | H | H | desviación 19,7 y 18,4 (OK); abstractos 2,8 y 3,3 por 100 (OK); frases > 40 palabras: fila 65 |
 | 71 | 36.9 | M, A | C | C | anterioridad 0 y 1; «Quien X decide Y» 0 |
 | 72 | 37 | X | C | C | crítica externa del 22/11 pasada por la Tabla Margarita (apartado 5) |
-| 73 | 38 | M, A | H | C | artículo 35 % en P1 (en el umbral de alarma; 37 de 105) y 26 % en P2; «En» 11 % y 12 %; efecto Massiel 0. Muestra de 12 casos en el apartado 4 bis |
+| 73 | 38 | M, A | C | C | artículo 28 % en P1 y 22 % en P2 tras la muestra aprobada (antes 35 % y 26 %); «En» 11 % y 12 %; efecto Massiel 0 |
 | 74 | 38.1 bis | M, A | C | C | aperturas repetidas 6,6 % y 0 % |
-| 75 | 38.1 ter | M, A | H | C | sujeto principal «artículo + sustantivo»: 38,6 % en P1 (norma: > 35 %) y 33,5 % en P2. Entra en la misma muestra (apartado 4 bis) |
+| 75 | 38.1 ter | M, A | C | C | sujeto principal «artículo + sustantivo»: 38,6 % en P1 (norma: > 35 %) y 33,5 % en P2. Revisado con la misma muestra aprobada (apartado 4 bis); queda como estilo nominal del tema |
 | 76 | 38.2 bis | L, M | C | C | 0 aforismos dobles |
 | 77 | 39 | M | H | C | razón entre tramos 1,87 en P1 (informativa; sin corrección automática) |
 | 78 | 40 | L, X | C | C | lo descartado consta: dossier, URIM, GLOSAS EXTENDIDAS y notas |
 | 79 | 41 | M, L | H | H | preguntas como cierre de párrafo: 18 % y 17 %; decididas por Luis (1 B) y mantenidas |
 | 80 | 42 | M | C | C | antítesis 0 y 1 (cita) |
-| 81 | 42 bis | M, A | H | H | dos puntos: 13,0 y 14,6 por mil en crudo; en su mayoría anuncian enumeración, cita o ejemplo y se quedan siempre (42 bis). Cláusula + cláusula: 10 (4,3 por mil) y 8 (4,3), sobre el 3 de las teóricas. Muestra de 9 casos en el apartado 4 bis |
+| 81 | 42 bis | M, A | C | C | dos puntos: 11,3 y 11,9 por mil en crudo (antes 13,0 y 14,6); en su mayoría anuncian enumeración, cita o ejemplo y se quedan siempre (42 bis). Cláusula + cláusula: 10 y 8 antes de la muestra; 6 (2,6 por mil) y 3 (1,6) tras aplicar los 9 casos aprobados (apartado 4 bis) |
 | 82 | 43 | M | C | C | 4 y 5 `<h4>` negros, 0 `<div>` rojos |
 | 83 | 44 | N, M | N | N |  |
 | 84 | 45 | N, L, O | N | N |  |
@@ -128,8 +128,8 @@
 ## 2 · Recuento
 
 
-- **Pieza 1:** cumple 81, hallazgo 12, no aplica 14, de Luis 2, diferida 3.
-- **Pieza 2:** cumple 84, hallazgo 9, no aplica 14, de Luis 2, diferida 3.
+- **Pieza 1:** cumple 84, hallazgo 9, no aplica 14, de Luis 2, diferida 3.
+- **Pieza 2:** cumple 85, hallazgo 8, no aplica 14, de Luis 2, diferida 3.
 
 ## 3 · Los 18 análisis (VI.3)
 
@@ -165,9 +165,9 @@ Cautela: el analizador es estadístico y se equivoca en prosa literaria y en los
 3. **Cautelas de proceso en la glosa (fila 104):** retiradas (3 B). Las obras que no se pudieron abrir se citan sin cautela.
 4. **Nuevo con el recorrido 5:** nada que cambie el texto. El estilo es nominal (más sustantivos y menos verbos que el canon), con paréntesis y repetición léxica altos por el tema; lo notable es el sujeto «artículo + sustantivo» de la pieza 1 (38,6 %, sobre el 35 % de la Norma 38.1 ter): **fricción**, sin corrección automática.
 
-## 4 bis · Muestra para Luis (Normas 38.1 bis, 38.1 ter y 42 bis: «A tras muestra»)
+## 4 bis · Muestra aprobada y aplicada (Normas 38.1 bis, 38.1 ter y 42 bis: «A tras muestra»)
 
-Las tres normas piden entre diez y veinte casos de muestra con motivo y arreglo; si Luis los aprueba, el resto de la pieza se corrige con el mismo criterio sin consulta. **Nada de esto está aplicado.** Lo que no se toca: las frases que abren con artículo porque el sujeto es un protagonista concreto (el diccionario, el libro, una obra) o definen un concepto (38.1 bis, «el artículo se queda» a y b), y los dos puntos que anuncian una enumeración, una cita o un ejemplo (42 bis, «se quedan siempre»).
+Las tres normas piden entre diez y veinte casos de muestra con motivo y arreglo; si Luis los aprueba, el resto de la pieza se corrige con el mismo criterio sin consulta. **Luis aprobó la muestra el 23/11/26 («Ok») y está aplicada, con una variante en A2: «En los años noventa John Rogers bautizó un supercontinente con el nombre de *Ur*, que juega con el prefijo y con la ciudad» (suena mejor que «bautizó Ur un supercontinente»).** Extendido el mismo criterio al resto de las dos piezas, no queda ningún otro caso: las rachas de artículo que quedan tienen protagonista concreto (Cicerón y Balbo; el diccionario y los casos) o definen un concepto (38.1 bis, a y b). Lo que no se toca: las frases que abren con artículo porque el sujeto es un protagonista concreto (el diccionario, el libro, una obra) o definen un concepto (38.1 bis, «el artículo se queda» a y b), y los dos puntos que anuncian una enumeración, una cita o un ejemplo (42 bis, «se quedan siempre»).
 
 ### A · Apertura con artículo y sujeto repetido (12 casos)
 
@@ -204,7 +204,7 @@ Salvaguarda: las aperturas por preposición resultantes no pasan del 20 % ni se 
 
 Con B1 a B9, la cláusula + cláusula baja a 6 (2,6 por mil) en P1 y a 3 (1,6 por mil) en P2. B3, B4 y B5 usan el punto y coma (máximo una fusión por párrafo, 38.1 bis): ninguna comparte párrafo con otra.
 
-**Qué se pide a Luis:** un sí o un no por bloque (A y B), o los números que no. Lo aprobado se aplica a todas las frases de las dos piezas con el mismo criterio; lo que se quita no pierde carga (Norma 48): son cambios de molde.
+**Resultado medido:** apertura con artículo, 28 % (P1) y 22 % (P2), bajo la alarma del 35 %; cláusula + cláusula entre dos puntos, 6 casos en P1 (2,6 por mil) y 3 en P2 (1,6 por mil), todos con la demostración inmediata de la tesis (42 bis, «se queda», a). Los dos puntos en crudo, 11,3 y 11,9 por mil, son enumeraciones, citas y ejemplos, que se quedan siempre. Ningún cambio pierde carga (Norma 48): son cambios de molde.
 
 ## 5 · Tabla Margarita: la crítica externa del 22/11 (Norma 37)
 
