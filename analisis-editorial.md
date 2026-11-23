@@ -3754,3 +3754,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: títulos «ESTUDIO DE LA LENGUA DE LA VIDA I» y «II» (23/11/2026).** Luis titula las dos piezas. **Aplicado (nota 150):** cabeceras y títulos internos de las dos piezas y rótulo de la pestaña de GLOSAS EXTENDIDAS («I Y II»). Marcador sin cambios. Sin publicar.
 
+**NATURA: sujetos «artículo + sustantivo» evitados (23/11/2026).** Luis: «Todos los artículos + sustantivo que se puedan evitar, lo evitamos». **Aplicado (nota 151):** 36 frases reescritas en las piezas 1 y 2; sujeto «artículo + sustantivo» de 38,6 % a 15,6 % (P1) y de 33,5 % a 17,1 % (P2); glosa sin cambios. Marcador al día. Sin publicar.
+

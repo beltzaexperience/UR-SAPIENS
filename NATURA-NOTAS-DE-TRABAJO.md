@@ -2903,3 +2903,11 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 **Luis:** «Sí se pueden titular los dos NATURFILOLOGÍA · ESTUDIO DE LA LENGUA DE LA VIDA I y NATURFILOLOGÍA · ESTUDIO DE LA LENGUA DE LA VIDA II».
 **Aplicado (tipo A, título):** pieza 1, «NATURFILOLOGÍA · EL ESTUDIO DE LA LENGUA DE LA VIDA» → «NATURFILOLOGÍA · **ESTUDIO DE LA LENGUA DE LA VIDA I**»; pieza 2, «NATURFILOLOGÍA · EL SENTIDO Y EL SÍMBOLO» → «NATURFILOLOGÍA · **ESTUDIO DE LA LENGUA DE LA VIDA II**» (cabecera y título interno de cada una). La pestaña de GLOSAS EXTENDIDAS con las 134 entradas originales, que pertenecían a la pieza única anterior, pasa a «… ESTUDIO DE LA LENGUA DE LA VIDA **I Y II** (URS)». Sin cambios de recuento: el Marcador no se toca. Los subtítulos internos (h4) no cambian. La marca `(*-tit)` se mantiene hasta que Luis dé los títulos por definitivos.
 
+## 151 · Sujetos «artículo + sustantivo»: evitados todos los evitables (23/11/2026)
+
+**Luis:** «Todos los artículos + sustantivo que se puedan evitar, lo evitamos.»
+**Aplicado (38.1 ter y 38.1 bis, tipo A por orden expresa), en las piezas 1 y 2:** 36 frases reescritas (tabla con antes y después en el informe, apartado 4 ter). Técnicas: protagonista con nombre (Cicerón, Buisel, Lewis y Short, Warnow, Nebrija, Euskaltzaindia, Lucrecio), término como sujeto, verbo primero, demostrativo, elisión. Sin sinónimos del mismo sustantivo; aperturas por preposición 17 % y sin dos seguidas.
+**Medido:** sujeto principal «artículo + sustantivo»: P1, de 38,6 % a 15,6 %; P2, de 33,5 % a 17,1 %. Frases con artículo inicial: 8 % y 8 %. Llamadas y entradas de glosa alineadas (20/20 y 17/17); sin UR sin marcar; la glosa no cambia.
+**Se quedan** los casos en que el sujeto es el protagonista del libro, un concepto que la frase define, los autores en plural (*Los Grimm*) o un sujeto indefinido pospuesto. **No tocado:** el dossier (anexo) y URIM.
+**Marcador (Regla 14):** URS 1.252.301 caracteres / 206.266 palabras; libro puro 811.402 / 129.153 (≈517 págs.; estimación ≈512); URS+URIM 290.219; TOTAL 307.558 palabras (≈1230 págs.). Fila NATURA: 18.015 palabras (≈72 págs.).
+
