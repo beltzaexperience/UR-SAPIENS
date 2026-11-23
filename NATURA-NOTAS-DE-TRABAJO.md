@@ -2898,3 +2898,8 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 **Medido:** apertura con artículo 28 % (P1) y 22 % (P2); cláusula + cláusula entre dos puntos, 6 y 3 casos; llamadas y entradas de glosa alineadas (20/20 y 17/17); sin UR sin marcar. Las alarmas que quedan en la batería son los falsos positivos de la nota 148.
 **Marcador (Regla 14):** URS 1.252.399 caracteres / 206.294 palabras; libro puro 811.500 / 129.181 (≈517 págs.; estimación ≈512); URS+URIM 290.247; TOTAL 307.586 palabras (≈1230 págs.). Fila NATURA: 18.043 palabras (≈72 págs.).
 
+## 150 · Títulos de las dos piezas (23/11/2026)
+
+**Luis:** «Sí se pueden titular los dos NATURFILOLOGÍA · ESTUDIO DE LA LENGUA DE LA VIDA I y NATURFILOLOGÍA · ESTUDIO DE LA LENGUA DE LA VIDA II».
+**Aplicado (tipo A, título):** pieza 1, «NATURFILOLOGÍA · EL ESTUDIO DE LA LENGUA DE LA VIDA» → «NATURFILOLOGÍA · **ESTUDIO DE LA LENGUA DE LA VIDA I**»; pieza 2, «NATURFILOLOGÍA · EL SENTIDO Y EL SÍMBOLO» → «NATURFILOLOGÍA · **ESTUDIO DE LA LENGUA DE LA VIDA II**» (cabecera y título interno de cada una). La pestaña de GLOSAS EXTENDIDAS con las 134 entradas originales, que pertenecían a la pieza única anterior, pasa a «… ESTUDIO DE LA LENGUA DE LA VIDA **I Y II** (URS)». Sin cambios de recuento: el Marcador no se toca. Los subtítulos internos (h4) no cambian. La marca `(*-tit)` se mantiene hasta que Luis dé los títulos por definitivos.
+

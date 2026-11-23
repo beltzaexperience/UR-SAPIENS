@@ -3752,3 +3752,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: muestra del Ultra aprobada y aplicada (23/11/2026).** Luis: «Ok». **Aplicado (nota 149):** 11 aperturas con artículo y 9 dos puntos entre cláusulas corregidos en las piezas 1 y 2; criterio extendido, sin más casos; apertura con artículo 28 % y 22 %. Marcador al día. Sin publicar.
 
+**NATURA: títulos «ESTUDIO DE LA LENGUA DE LA VIDA I» y «II» (23/11/2026).** Luis titula las dos piezas. **Aplicado (nota 150):** cabeceras y títulos internos de las dos piezas y rótulo de la pestaña de GLOSAS EXTENDIDAS («I Y II»). Marcador sin cambios. Sin publicar.
+

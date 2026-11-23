@@ -1,6 +1,6 @@
 # Relojero Ultra · NATURFILOLOGÍA (piezas 1 y 2) · informe con la matriz de 112 filas · 23/11/2026
 
-**Sustituye a los diagnósticos parciales del 22/11 sobre las piezas 1 y 2.** Pieza 1: «NATURFILOLOGÍA · EL ESTUDIO DE LA LENGUA DE LA VIDA». Pieza 2: «NATURFILOLOGÍA · EL SENTIDO Y EL SÍMBOLO» (título provisional).
+**Sustituye a los diagnósticos parciales del 22/11 sobre las piezas 1 y 2.** Pieza 1: «NATURFILOLOGÍA · ESTUDIO DE LA LENGUA DE LA VIDA I». Pieza 2: «NATURFILOLOGÍA · ESTUDIO DE LA LENGUA DE LA VIDA II» (títulos dados por Luis el 23/11/26; antes «EL ESTUDIO DE LA LENGUA DE LA VIDA» y «EL SENTIDO Y EL SÍMBOLO»; la marca `(*-tit)` se queda hasta que Luis los dé por definitivos).
 
 **Lectura del archivo (II.3):** `NORMA-METODO.md` leído completo el 23/11/26, de la primera a la última línea: 207.838 caracteres (212.879 bytes), Partes I a VII, normas 0 a 63 (con 32 bis y 42 bis), matriz VI.1 de 112 filas, medidas VI.2 y los 18 análisis VI.3. Los cinco recorridos y las 112 filas están ejecutados. El informe cumple II.7.
 
