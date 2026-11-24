@@ -83,3 +83,35 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 ## 6 · Registro de lo abierto
 
 - 24/11/26: Saussure, *Curso*, cap. I § 2; Platón, *Crátilo*.
+
+## 7 · Enlaces para abrir (24/11/2026)
+
+✔ = comprobado desde la sesión (responde). ○ = dirección de forma estándar, que la red de la sesión no deja comprobar: si alguna falla, se busca por el título.
+
+**B.1 y B.3 (latín abierto)**
+- ✔ Cicerón, *De finibus* V: https://www.thelatinlibrary.com/cicero/fin5.shtml
+- ✔ Plinio, *Naturalis Historia* (prefacio y libros, para Doody): https://www.thelatinlibrary.com/pliny1.html
+- ○ DLE, «naturaleza»: https://dle.rae.es/naturaleza
+
+**B.2**
+- ○ Eriúgena, Stanford: https://plato.stanford.edu/entries/scottus-eriugena/
+- ○ Spinoza, Stanford: https://plato.stanford.edu/entries/spinoza/
+- ○ *Ética* en castellano (búsqueda en Wikisource): https://es.wikisource.org/w/index.php?search=Spinoza+%C3%89tica
+- ○ *Ethics*, Elwes (I, prop. 29, escolio; IV, prefacio): https://www.gutenberg.org/ebooks/3800
+- ○ *phýsis*, Wiktionary: https://en.wiktionary.org/wiki/φύσις
+- ○ *Odisea* X, 302-303 (Perseus): https://www.perseus.tufts.edu/hopper/text?doc=Hom.+Od.+10.302
+- ○ Weijers 1978 (búsqueda en JSTOR): https://www.jstor.org/action/doBasicSearch?Query=Weijers+natura+naturans+natura+naturata
+- ○ García Sierra, *Diccionario filosófico*: https://www.filosofia.org/filomat/
+- ○ Prieto 2025, *Runa*: https://doi.org/10.34096/runa.v46i1.14683
+- Periphyseon (latín): Patrologia Latina 122 de Migne; buscar «Periphyseon Patrologia Latina 122» (Documenta Catholica Omnia o Internet Archive).
+
+**B.3**
+- ○ Agustín, Stanford: https://plato.stanford.edu/entries/augustine/
+- ○ Dante, Stanford: https://plato.stanford.edu/entries/dante/
+- ○ *On Nature and Grace* (inglés, New Advent; número por confirmar): https://www.newadvent.org/fathers/1503.htm
+- ○ Lewis y Short, *naturalis* (Perseus): https://www.perseus.tufts.edu/hopper/morph?l=naturalis&la=la
+
+**B.4**
+- ○ Schelling, Stanford: https://plato.stanford.edu/entries/schelling/
+- ○ Kant, Stanford: https://plato.stanford.edu/entries/kant/ (para *Welt* y *Natur*, la *Crítica de la razón pura*, A418/B446)
+- ○ Whitehead, Stanford: https://plato.stanford.edu/entries/whitehead/

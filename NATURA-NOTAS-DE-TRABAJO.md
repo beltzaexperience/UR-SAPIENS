@@ -3076,3 +3076,12 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 **Aplicado (tipo A, regla de §146):** en la glosa de B.2 (entradas 6 a 13) quitadas las cautelas que yo había escrito: «sin abrir» (Pellicer, Weijers, *Ética*, García Sierra), «el latín no se ha visto» (queda «Traducción mía, del inglés»), «(resumen y apartado histórico leídos)». Son pendientes y viven en `NATURA-POR-ABRIR-Y-CONTRASTAR.md`, no en la pieza.
 **Acceso:** a petición de Claude, Luis aprobó añadir `plato.stanford.edu` y `es.wikisource.org` al entorno; no funcionó (el lector web no resuelve el host; la terminal fue denegada por el clasificador). Anotado en la lista. No se sustituye con memoria ninguna de las cuatro entradas SEP.
 **B.3, criba propuesta (sin aplicar):** ver respuesta a Luis; el texto no se toca hasta su «Adelante».
+
+## 179 · B.3 pasa a NATURFILOSOFÍA I; enlaces para abrir (24/11/2026)
+
+**Luis:** «ok. pero dame links para abrir como en A.» **Aplicado (tipo A, estructura y texto aprobado):** B.3 pasa a la pestaña I tras B.2, con subtítulo «Teología: natura y gracia» y un párrafo. Cambios de la criba: fuera la frase de apertura («una de sus grandes oposiciones»), fuera el estudio sobre Dante (solo se conocía por un título de listado; vuelve con fuente a J.2 o aquí, con Frangi y Volpini, ya leídos); *naturalis pater* con su antecedente («Recuerda al latín, que distinguía el *naturalis pater*, el padre por nacimiento, del adoptivo»); fuera la frase de cierre que resumía (Norma 31; Luis la aceptó al decir «ok» a mi recomendación). Glosa: 16 entradas en la pieza (14 Agustín, 15 *natura* y gracia en euskera, 16 *naturalis pater*), sin cautelas. La fecha 413-417 queda como la da el fragmento de Stanford; de memoria sería hacia 415: pendiente.
+**URIM:** B.3 queda como cabecera con estado y pendientes (27 pendientes; 10 en redacción); borrador de 36 entradas de glosa.
+**Pestaña I completa (B.1–B.3):** unas 1.030 palabras de cuerpo, 16 entradas de glosa. Falta pasar lectores y Ultra completo.
+**Enlaces:** sección 7 de `NATURA-POR-ABRIR-Y-CONTRASTAR.md`, con marca ✔ (comprobado: The Latin Library, Cicerón y Plinio) y ○ (forma estándar, no comprobable desde la sesión).
+**Marcador (Regla 14):** URS 1.265.638 caracteres / 208.419 palabras / ≈834 págs.; libro puro 825.599 / 131.475 / ≈526; URS+URIM 1.738.274 / 289.909 / ≈1160; TOTAL DEL PROYECTO 1.843.129 / 307.248 / ≈1229. Fila NATURA: 17.874 palabras. Piezas: sin cambio (83 y 73).
+**Sin publicar.**
