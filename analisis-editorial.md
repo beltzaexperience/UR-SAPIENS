@@ -3770,3 +3770,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: filas 21 y 85, publicación (24/11/2026).** Luis: «21, cumple. 85, revisión final. Publica.» **Registrado (nota 158):** fila 21 cumple; fila 85 a la revisión final; Ultra de las piezas 1 y 2 cerrado. **Publicado** `urtz.html` con el «publica» de Luis.
 
+**NATURA: Saussure y el Crátilo abiertos; sección A de URIM al día (24/11/2026).** Luis sube los dos PDF. **Aplicado (nota 159):** fuentes pasan a ABIERTAS y las glosas 12 y 14 de la pieza II citan las ediciones abiertas; «Hermógenes» y «Crátilo» con tilde; retirada la anécdota de A.9 de URIM y puesta al día la lista «Pendiente de contraste». Marcador al día. Sin publicar.
+
