@@ -3798,3 +3798,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: Umbral, párrafos unidos y cierre fuera (24/11/2026).** Luis: «Unir y quitar el último párrafo». **Aplicado (nota 172):** Umbral de 6 a 4 párrafos, 266 palabras de cuerpo; texto quitado guardado en la nota. Marcador al día. Sin publicar.
 
+**NATURA: Umbral, «surgen», «recién nacido» y Relojero Ultra (24/11/2026).** Luis: «Ah y pon "surgen" y "recién nacido" y pasa al relojero». **Aplicado (nota 173):** las dos palabras; Ultra completo (112 filas); cinco hallazgos con propuesta pendientes de Luis; las cinco filas de Luis, preparadas. Sin publicar.
+
