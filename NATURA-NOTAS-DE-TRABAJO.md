@@ -3070,3 +3070,9 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 **Lista viva:** nuevo archivo `NATURA-POR-ABRIR-Y-CONTRASTAR.md` (revisión final, Umbral, NATURFILOLOGÍA, NATURFILOSOFÍA I afirmación por afirmación, NATURFILOSOFÍA II y secciones C a H); enlazado desde `FUENTES.md`. Se actualizará en cada paso.
 **Marcador (Regla 14):** URS 1.264.363 caracteres / 208.227 palabras / ≈833 págs.; libro puro 824.324 / 131.283 / ≈525; URS+URIM 1.738.056 / 289.887 / ≈1160; TOTAL DEL PROYECTO 1.842.911 / 307.226 / ≈1229. Fila NATURA: 17.852 palabras. Piezas: sin cambio (83 en URS, 73 en libro puro).
 **Sin publicar.**
+
+## 178 · Cautelas fuera de la glosa de B.2; acceso a Stanford (24/11/2026)
+
+**Aplicado (tipo A, regla de §146):** en la glosa de B.2 (entradas 6 a 13) quitadas las cautelas que yo había escrito: «sin abrir» (Pellicer, Weijers, *Ética*, García Sierra), «el latín no se ha visto» (queda «Traducción mía, del inglés»), «(resumen y apartado histórico leídos)». Son pendientes y viven en `NATURA-POR-ABRIR-Y-CONTRASTAR.md`, no en la pieza.
+**Acceso:** a petición de Claude, Luis aprobó añadir `plato.stanford.edu` y `es.wikisource.org` al entorno; no funcionó (el lector web no resuelve el host; la terminal fue denegada por el clasificador). Anotado en la lista. No se sustituye con memoria ninguna de las cuatro entradas SEP.
+**B.3, criba propuesta (sin aplicar):** ver respuesta a Luis; el texto no se toca hasta su «Adelante».

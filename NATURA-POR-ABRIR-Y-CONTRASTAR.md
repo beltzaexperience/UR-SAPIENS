@@ -4,6 +4,11 @@ Creada el 24/11/2026 a petición de Luis («vete apuntando todo lo que tenemos q
 
 Convención: **[URS]** = afirmación ya publicada o lista para URS (prioridad); **[URIM]** = borrador; **(Luis)** = solo Luis puede conseguirlo (PDF, acceso, entrada del diccionario).
 
+## Nota sobre acceso (24/11/2026)
+
+- Hosts permitidos en el entorno: The Latin Library, rae.es, fr.wikisource.org, gutenberg.org, marxists.org y, desde hoy, plato.stanford.edu y es.wikisource.org (cambio aprobado por Luis). **No funcionó en esta sesión:** el lector web no resuelve `plato.stanford.edu` y el uso directo de la red desde la terminal fue denegado por el clasificador del entorno. Hasta que se resuelva, las entradas de Stanford (Agustín, Dante, Eriúgena, Spinoza) siguen sin abrir. **(Luis)** puede pegarlas, como hizo con el DWDS, el DLE y los listados.
+- **Regla de las glosas de URS (§146):** las cautelas («sin abrir», «de memoria», «latín sin ver», «solo el resumen») no van en la glosa; la naturaleza de la fuente se dice con «según» y «que cita a». Esta lista es el único sitio donde consta lo que falta por abrir.
+
 ## 0 · Revisión final (no son fuentes)
 
 - Fila 85 de la matriz de Ultra (imagen «conserva mojado»): «revisión final», decidido por Luis.
