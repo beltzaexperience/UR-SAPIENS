@@ -3802,3 +3802,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: Umbral, hallazgos del Ultra (24/11/2026).** Luis: «1 ok. 2 ok. 3 ok. 4 ok. 5 dejarlas…». **Aplicado (nota 174):** cuatro cambios de texto; porcentajes se quedan en el cuerpo (excepción de Luis); una cifra duplicada fuera de la glosa; Ultra del Umbral cerrado. Sin publicar.
 
+**NATURA: B.1 pasa a URS (24/11/2026).** Luis: «Aprobada». **Aplicado (nota 175):** pieza «PENSAMIENTO · LA FUERZA QUE NUTRE» en URS (4 párrafos, 5 entradas); la anécdota del «Natura Genitrix» fuera (texto en la nota); Plinio a URIM; Marcador al día (83 piezas en URS, 73 en libro puro). Sin publicar.
+
