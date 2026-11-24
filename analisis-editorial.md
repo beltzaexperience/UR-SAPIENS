@@ -3788,3 +3788,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: terminología (24/11/2026).** Luis deja tres términos como están («sufijos declinativos y posposiciones», «polisemia de natura», «morfema libre»). **Aplicado (nota 167):** seis cambios en las piezas I y II (aislante/fusional, exponencia y flexividad, tema desnudo, deverbales, tema participial y desinencia, «la idea»); nombres técnicos conservados en la glosa 20. Marcador al día. Sin publicar.
 
+**NATURA: publicación (24/11/2026).** Luis: «ok». **Publicado (nota 168)** `urtz.html` con todo lo acumulado desde el 23/11: fusión, α, glosas con ediciones abiertas, recorte alemán, terminología y sección A de URIM al día.
+
