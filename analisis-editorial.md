@@ -3800,3 +3800,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: Umbral, «surgen», «recién nacido» y Relojero Ultra (24/11/2026).** Luis: «Ah y pon "surgen" y "recién nacido" y pasa al relojero». **Aplicado (nota 173):** las dos palabras; Ultra completo (112 filas); cinco hallazgos con propuesta pendientes de Luis; las cinco filas de Luis, preparadas. Sin publicar.
 
+**NATURA: Umbral, hallazgos del Ultra (24/11/2026).** Luis: «1 ok. 2 ok. 3 ok. 4 ok. 5 dejarlas…». **Aplicado (nota 174):** cuatro cambios de texto; porcentajes se quedan en el cuerpo (excepción de Luis); una cifra duplicada fuera de la glosa; Ultra del Umbral cerrado. Sin publicar.
+
