@@ -3778,3 +3778,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: fusión «Castellano» + «Otras lenguas» y lanzamiento de los lectores (24/11/2026).** Luis: «Funde Castellano y otras lenguas… la 85 se queda». **Aplicado (nota 162):** sección fusionada; Marcador al día. **Lanzado** el panel de ocho lectores con las piezas I y II, Cultura, K&S y las dos anclas.
 
+**NATURA: lectura de ocho lectores (24/11/2026).** Luis: «¿Podemos pasar a los lectores? ¿Y calificar estas dos piezas?». **Registrado (nota 163):** pieza I, 3,65 ajustada; pieza II, 3,82; α las dos; marca α añadida; deberes de 4 o más lectores pendientes de decisión de Luis. Sin publicar.
+
