@@ -3762,3 +3762,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **Errata «recúrsos» (24/11/2026).** Luis: «Corrige». **Aplicado (nota 154):** «recúrsos» → «recursos» en la pieza de Cavanaugh, con *ur* en rojo. Sin publicar.
 
+**NATURA: las cinco filas de Luis, lectura preparada (24/11/2026).** Luis: «Adelante con las cinco filas». **Registrado (nota 155):** diez lecturas (cinco por pieza); la pieza 1 cumple; la pieza 2, dos fricciones (*sustrato* sin definir; condicional de objeción). Pendiente la firma de Luis. Sin cambios en el texto.
+

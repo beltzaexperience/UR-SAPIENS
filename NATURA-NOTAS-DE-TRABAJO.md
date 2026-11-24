@@ -2929,3 +2929,7 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 
 **Luis:** «Corrige.» **Aplicado (Norma 63, TEXTO):** en la pieza de Cavanaugh, «privatización de **recúrsos** como el agua» → «privatización de **recursos** como el agua», con *ur* en rojo. Sin cambio en el Marcador (una letra con tilde menos).
 
+## 155 · Las cinco filas de Luis: lectura preparada (24/11/2026)
+
+**Luis:** «Adelante con las cinco filas.» **Preparado (Norma 62, II.5; informe, apartado 4 quinquies):** para cada pieza, las filas 12 (intención), 7 (temático), 11 (discurso), 6 (semántico) y 10 (pragmático), con la cita que decide, el contraste con el epígrafe y la propuesta. **Pieza 1:** cumple en las cinco. **Pieza 2:** cumple en intención, temático y discurso; **fricción en semántico** (*sustrato* sin definir en la pieza; propuesta: aclaración de una línea) y **en pragmático** («Si se sostuviera que un sonido lleva el mismo sentido en lenguas sin parentesco, habría que explicar por qué no es azar ni préstamo»; opción A se queda, opción B afirmativa). **Pendiente:** la firma de Luis en las diez casillas. Sin cambios en el texto.
+
