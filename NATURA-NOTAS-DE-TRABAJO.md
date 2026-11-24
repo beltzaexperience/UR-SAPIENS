@@ -3085,3 +3085,10 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 **Enlaces:** sección 7 de `NATURA-POR-ABRIR-Y-CONTRASTAR.md`, con marca ✔ (comprobado: The Latin Library, Cicerón y Plinio) y ○ (forma estándar, no comprobable desde la sesión).
 **Marcador (Regla 14):** URS 1.265.638 caracteres / 208.419 palabras / ≈834 págs.; libro puro 825.599 / 131.475 / ≈526; URS+URIM 1.738.274 / 289.909 / ≈1160; TOTAL DEL PROYECTO 1.843.129 / 307.248 / ≈1229. Fila NATURA: 17.874 palabras. Piezas: sin cambio (83 y 73).
 **Sin publicar.**
+
+## 180 · Cotejo de B.1 con el latín de Cicerón y primera parte de Plinio (24/11/2026)
+
+**Luis:** pegó *De finibus* V entero en latín y el enlace de Plinio («para Doody este es enorme. Vamos por partes»). **Cotejo (sin cambios de texto):** las 12 citas latinas de B.1 (*De finibus* V, 24, 26, 38, 39, 69; *De natura deorum* II, 41, 57, 124, 128) coinciden palabra por palabra con el original, y las numeraciones de sección también. Traducciones revisadas contra el latín: sin cambios.
+**Plinio, parte 1 (latín abierto en The Latin Library):** prefacio 13 («Rerum natura, hoc est vita, narratur»); II, 1-2 (el mundo es *numen*; «idemque rerum naturae opus et rerum ipsa natura»); II, 27 («per quae declaratur haut dubie naturae potentia idque esse quod deum vocemus»). Sostienen en primera mano la mitad «divina» de Doody. La mitad «consciente y creativa… con las necesidades de la humanidad» sigue sin fuente primaria: libro VII, 1-5, que no está en The Latin Library (solo hay prefacio, I-V y XXXVII).
+**Aplicado:** cabecera de B.1 en URIM (estado de Plinio y qué falta); lista de pendientes (Plinio por partes). El párrafo de Plinio de URIM no se toca hasta el «Adelante» de Luis. **Marcador:** URS+URIM 1.738.631 / 289.973 / ≈1160; TOTAL 1.843.486 / 307.312 / ≈1229; fila NATURA 17.938 palabras.
+**Sin publicar.**

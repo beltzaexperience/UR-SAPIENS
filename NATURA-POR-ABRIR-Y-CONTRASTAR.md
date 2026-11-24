@@ -41,10 +41,14 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 ## 3 · NATURFILOSOFÍA I (B.1 a B.3)
 
 ### B.1 · Filosofía antigua [URS]
-- Cicerón, *De finibus* V, 24-26, 38, 39, 69, y *De natura deorum* II, 41, 57, 124, 128: **abiertos en latín** (The Latin Library). Contrastado.
+- Cicerón, *De finibus* V, 24, 26, 38, 39, 69, y *De natura deorum* II, 41, 57, 124, 128: **abiertos en latín** (The Latin Library). **Cotejo del 24/11/26** (texto de *De finibus* V pegado por Luis y *De natura deorum* II descargado): las 12 citas latinas del cuerpo y sus numeraciones coinciden con el original, sin diferencias. Contrastado.
 - DLE, «naturaleza» y «natural»: abierto (texto pegado por Luis, 11/11/26). Contrastado.
 - *tueor* (Wiktionary, Etymonline, De Vaan, Rix): resumen.
-- **Falta:** Plinio (Doody y la *Historia natural*, en URIM); Platón y el estoicismo en general; la embajada filosófica del 155 a. C.
+- **Plinio, por partes** (la *Historia natural* tiene 37 libros; The Latin Library solo trae el prefacio, I a V y XXXVII):
+  - **Parte 1, abierta el 24/11/26, en latín:** prefacio 13 («*Rerum natura, hoc est vita, narratur*»); II, 1-2 (el mundo es *numen*, y «*idemque rerum naturae opus et rerum ipsa natura*»); II, 27 («*per quae declaratur haut dubie naturae potentia idque esse quod deum vocemus*»). Sostienen en primera mano el «poder divino identificable con la naturaleza o con el mundo» que Doody atribuye a Plinio.
+  - **Parte 2, pendiente:** el «poder consciente y creativo, que organiza deliberadamente el mundo teniendo en cuenta las necesidades de la humanidad» (Doody): libro VII, 1-5 (la naturaleza como madre o madrastra), que **no está en The Latin Library**; y II, 154 y siguientes. Hace falta otra fuente del latín.
+  - **Parte 3, pendiente:** XXXVII, 77 y 201-205 (Italia, «*rectrix parensque mundi altera*»), ya descargado; y Doody misma.
+- **Falta, además:** Platón y el estoicismo en general; la embajada filosófica del 155 a. C.
 
 ### B.2 · *Natura naturans* y *natura naturata* [URS, aplicado 24/11/26]
 | Afirmación del texto | Fuente | Estado | Qué falta |
