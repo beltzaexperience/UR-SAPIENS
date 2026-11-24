@@ -3784,3 +3784,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: recorte de la morfología alemana en la pieza I (24/11/2026).** Luis: «Esta segunda propuesta le veo más sentido». **Aplicado (nota 165):** −56 palabras en el párrafo de los diccionarios alemanes (acento inicial, *er-*, *Urlaub*/*erlauben*, *Urteil*/*erteilen*, ejemplos del XVII y del XIX); todo ese detalle ya está en el nivel 2 de la glosa 4. Cuerpo de la pieza I: 2.215 palabras. Marcador al día. Sin publicar.
 
+**NATURA: deberes como decisión de autor; terminología (24/11/2026).** Luis: sí a registrar los deberes (sin forzar emoción), fija el rumbo de NATURA (más riesgo con política y prehistoria) y pide revisar la terminología. **Registrado (nota 166):** deberes cerrados; criterio «el término se queda si el argumento lo usa». Sin cambios en el texto.
+
