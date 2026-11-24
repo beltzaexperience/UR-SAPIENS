@@ -198,4 +198,14 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 - **Para B.6 (metáfora):** «Nervenreiz → Bild → Laut»: «erste Metapher… zweite Metapher»; las palabras nombran una sola propiedad (la serpiente, «*das Sichwinden*»; los géneros «*männlich*» y «*weiblich*» de árboles y plantas) y «*die verschiedenen Sprachen… zeigen, dass es bei den Worten nie auf die Wahrheit ankommt*»; el concepto como «*Gleichsetzen des Nicht-Gleichen*» (el «Blatt» frente a las hojas).
 - **Para C.3 y C.7 (Roma y etruscos):** «*Wie die Römer und Etrusker sich den Himmel durch starre mathematische Linien zerschnitten und… als in ein templum einen Gott bannten, so hat jedes Volk über sich einen solchen mathematisch zertheilten Begriffshimmel*»; el «*römisches Columbarium*» de los conceptos.
 - **Para el objetivo del capítulo:** el hombre de ciencia «*sucht… nur die Metamorphose der Welt in den Menschen*»; la ley natural es proyección de «Zeit, Raum, Zahl». Es la versión de Nietzsche de la duda que Luis quiere dejar planteada sobre las «leyes estrictas».
-- **Falta:** *Crepúsculo de los ídolos* («Cómo el "mundo verdadero" acabó convirtiéndose en una fábula», «historia de un error»); el resto del § 2.
+- **Falta:** el resto del § 2. *Crepúsculo de los ídolos*: **abierto el 24/11/26** (ver sección 12).
+
+## 12 · *El crepúsculo de los ídolos* (traducción de Eidelstein, 1999; PDF subido por Luis a GitHub, 24/11/2026)
+
+**Abierto** (OCR de Internet Archive; 5.000 líneas): pasajes sobre la naturaleza. **Contrastado en castellano:**
+- pp. 38-39, «Cómo el “mundo-verdad” vino a reducirse al cabo a una fábula (Historia de un Error)», seis fases; VI: «El Mundo-verdad ha quedado abolido, ¿qué mundo nos queda? ¿El mundo de las apariencias? ¡Pero no; con el Mundo-verdad hemos abolido el mundo de las apariencias!» (la «historia de un error» de la cabecera de B.4 queda **contrastada**).
+- p. 43, «La moral manifestación contra naturaleza», IV: «Todo naturalismo en moral, es decir, toda sana moral, está dominada por el instinto de la vida… La moral antinatural… va… contra los instintos vitales»; p. 45: «Decirle: “Muda tu naturaleza”, es desear la transformación de todo».
+- p. 81, «Anti-Darwin», XIV: «el aspecto general de la vida no es la indigencia y el hambre, sino al revés, la riqueza, la opulencia… No hay que confundir a Malthus con la naturaleza».
+- p. 113, «Pasatiempos intelectuales», XLVIII: «También yo hablo de un “retorno a la Naturaleza”, aunque no se trata propiamente de una vuelta atrás, sino de una marcha hacia adelante y hacia lo alto, hacia la Naturaleza sublime, libre y aun terrible, que juega y tiene derecho a jugar con los grandes destinos»; p. 71: «Rousseau, o el retorno a la Naturaleza *in impuris naturalibus*».
+- **Aviso de la traducción:** el capítulo que en alemán es «*Streifzüge eines Unzeitgemässen*» sale aquí como «Pasatiempos intelectuales»; la numeración romana es la de la edición. El OCR puede tener erratas: se ha cotejado cada cita con el texto impreso.
+- **Falta:** el original alemán; *Sobre la esencia y el concepto de la φύσις* de Heidegger; el § 2 de «Sobre verdad y mentira».
