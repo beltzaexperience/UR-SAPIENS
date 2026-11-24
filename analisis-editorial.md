@@ -3780,3 +3780,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: lectura de ocho lectores (24/11/2026).** Luis: «¿Podemos pasar a los lectores? ¿Y calificar estas dos piezas?». **Registrado (nota 163):** pieza I, 3,65 ajustada; pieza II, 3,82; α las dos; marca α añadida; deberes de 4 o más lectores pendientes de decisión de Luis. Sin publicar.
 
+**NATURA: los deberes de los lectores y el diseño de las piezas (24/11/2026).** Luis rechaza mis propuestas (a) a (d): la pieza I se abre como está y las secciones de gramática se quedan; explica el diseño («derrota programada», «machete de agua»). **Registrado (nota 164):** propuestas retiradas; abiertos los diccionarios alemanes y las acepciones. Sin cambios en el texto.
+
