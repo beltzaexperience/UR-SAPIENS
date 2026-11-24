@@ -3790,3 +3790,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: publicación (24/11/2026).** Luis: «ok». **Publicado (nota 168)** `urtz.html` con todo lo acumulado desde el 23/11: fusión, α, glosas con ediciones abiertas, recorte alemán, terminología y sección A de URIM al día.
 
+**NATURA: el Umbral pasa a URS (24/11/2026).** Luis: «El umbral está terminado. Ponlo en su sitio en URS. Y empezamos por B1». **Aplicado (nota 169):** pieza «UMBRAL · EL AGUA ES VIDA» creada en URS (primera de NATURA); glosa reescrita sin notas de proceso; URIM al día (50 entradas); Marcador al día (82 piezas en URS, 72 en libro puro). Sin publicar.
+
