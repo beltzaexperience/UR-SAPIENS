@@ -3766,3 +3766,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: «sustrato» con la definición del DLE (24/11/2026).** Luis pega la entrada del DLE. **Aplicado (nota 156):** frase de la pieza 1 corregida («morfema de sustrato») y entrada de glosa nueva en las dos piezas; fila 6 resuelta. Marcador al día. Sin publicar.
 
+**NATURA: cinco filas firmadas (24/11/2026).** Luis: «Sí, y B». **Aplicado (nota 157):** nueve filas «cumple» y la fila 10 de la pieza 2 resuelta con la opción B («exige explicar…»). Ultra de las piezas 1 y 2 cerrado en las cinco filas; quedan las filas 21 y 85 de Luis y las diferidas a la revisión final. Sin publicar.
+
