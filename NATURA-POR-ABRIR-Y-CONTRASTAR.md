@@ -121,3 +121,48 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 - ○ Schelling, Stanford: https://plato.stanford.edu/entries/schelling/
 - ○ Kant, Stanford: https://plato.stanford.edu/entries/kant/ (para *Welt* y *Natur*, la *Crítica de la razón pura*, A418/B446)
 - ○ Whitehead, Stanford: https://plato.stanford.edu/entries/whitehead/
+
+### Más enlaces (24/11/2026) — todos ○, salvo los de The Latin Library
+
+**Plinio, libros VI a XXXVII (The Latin Library solo trae prefacio, I a V y XXXVII).** Perseus, edición de Mayhoff (latín):
+- Índice: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0138
+- Libro VII, capítulo 1 (§§ 1-5, la naturaleza «madre o madrastra»): https://www.perseus.tufts.edu/hopper/text?doc=Plin.+Nat.+7.1
+- Libro II, 154 y 166 (para cotejar lo ya abierto): https://www.perseus.tufts.edu/hopper/text?doc=Plin.+Nat.+2.154
+- Inglés (Bostock y Riley), por si el latín cuesta: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137
+- Otro latín completo: https://la.wikisource.org/wiki/Naturalis_historia (Wikisource en latín)
+- Pegar el **latín de VII, 1-5** (y, si quieres, VII, 6-8) basta para cerrar la mitad «consciente y creativa» de Doody.
+
+**Perseus, griego y latín de apoyo**
+- *Odisea* X, 302-306 (el *móly*; *phýsis* en 303): https://www.perseus.tufts.edu/hopper/text?doc=Hom.+Od.+10.302
+- LSJ, φύσις: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=fu/sis
+- Lewis y Short, *natura*: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=natura
+
+**Pelayo García Sierra, *Diccionario filosófico*** (filosofia.org/filomat). Las entradas son `dfNNN.htm`, con NNN de tres cifras; el patrón consta en la propia portada pegada (`df712.htm` «Pensamiento Alicia», `df825.htm` «Holización», `df826.htm` «Dialelo»). Con los números del índice alfabético que pegó Luis:
+- **Naturaleza** [69], [70] (sentido particular *ns* / global *N*) y [71] (todo y partes): https://www.filosofia.org/filomat/df069.htm · df070.htm · df071.htm. **Es la entrada que cita la tesis de Arana Sastre.**
+- Dialéctica de la naturaleza / del espíritu [99]: https://www.filosofia.org/filomat/df099.htm
+- Naturaleza / cultura [414]: https://www.filosofia.org/filomat/df414.htm (Idea de Cultura [401-435]; reino de la Gracia / reino de la Cultura [420]; pueblo de Dios [422])
+- Naturalismo estético [658-659] (para B.6): https://www.filosofia.org/filomat/df658.htm · df659.htm
+- Numen [352-358] (núcleo de la religión; para el *numen* de Plinio, II, 1): https://www.filosofia.org/filomat/df352.htm · df353.htm
+- Idea de Nación [727-736], nación española [740-746] y holización política [733-735] (para B.7): https://www.filosofia.org/filomat/df727.htm … df736.htm; df740.htm … df746.htm
+- Pensamiento, pensamiento español [703-711] y Pensamiento Alicia [712-715] (para B.7): https://www.filosofia.org/filomat/df703.htm … df715.htm
+- Índice alfabético: https://www.filosofia.org/filomat/dfalf.htm
+
+**Stanford (por sección de NATURFILOSOFÍA II)**
+- B.4: Schelling https://plato.stanford.edu/entries/schelling/ · Kant https://plato.stanford.edu/entries/kant/ · Heidegger https://plato.stanford.edu/entries/heidegger/ · Nietzsche https://plato.stanford.edu/entries/nietzsche/ · Whitehead https://plato.stanford.edu/entries/whitehead/ · Foucault https://plato.stanford.edu/entries/foucault/ · *Física* de Aristóteles https://plato.stanford.edu/entries/aristotle-physics/ · Ley natural https://plato.stanford.edu/entries/natural-law-ethics/
+- B.6: Metáfora https://plato.stanford.edu/entries/metaphor/ · Nietzsche (arriba)
+- Mill, «On Nature» (el texto que cita Prieto): https://www.lancaster.ac.uk/users/philosophy/texts/mill_on.htm
+
+## 8 · Plan de trabajo de B, para igualarlo a A (24/11/2026)
+
+**Orden de Luis:** olvidar lectores y Ultra hasta que B esté al nivel de A (dos pestañas, glosa de 13-21 entradas, dossier). **Objetivo del capítulo (Luis):** poner sobre la mesa que la filología y sus leyes estrictas se alejan de las otras disciplinas que hablan de NATURA, o al menos dejar planteada esa duda, para que las batallas del Orinoco (pieza ANGOSTURA) tengan más sentido.
+
+| Pestaña / sección | Estado hoy | Qué falta para igualar a A |
+|---|---|---|
+| **I · B.1 a B.3** | En URS: ~1.100 palabras de cuerpo, 16 entradas de glosa | Plinio (párrafo propio, VII, 1-5 y Doody), Dante (Stanford y estudio), Odisea X, 303; lectores y Ultra |
+| **II · B.4** moderna y contemporánea | URIM, ~40 palabras | Schelling (a petición de Luis), Kant, Heidegger, Nietzsche, Whitehead, Foucault; bibliografía de Prieto; García Sierra [69-71], [99], [414]. **Tesis a probar aquí:** la filosofía lee *natura* como *phýsis* (fuerza, crecimiento), no como *nasci* |
+| **II · B.5** epistemología | URIM, 669 palabras (Jung, Lacan, Cambray) | Criba y paso a URS; Soal y Goldney; Borel |
+| **II · B.6** estética y metáfora | URIM, ~40 palabras | Lakoff, Nietzsche, naturalismo estético [658-659], DLE «modelo real que el artista reproduce» |
+| **II · B.7** política del pensamiento | URIM, ~40 palabras, sin fuente | García Sierra: Nación [727-746], Pensamiento [703-715]; punto de contacto con H |
+| **Dossier de B** (como el de A en la contraportada) | No existe | Glosas extendidas, cotejos, bibliografía; se arma al final |
+
+**Orden recomendado:** (1) B.5, porque ya tiene texto; (2) B.4, porque lleva a Schelling y concentra el objetivo del capítulo; (3) Plinio completo, cuando llegue VII, 1-5; (4) B.6; (5) B.7; (6) dossier; (7) lectores y Ultra de las dos pestañas.
