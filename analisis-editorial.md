@@ -3776,3 +3776,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: los 18 análisis sobre el texto final (24/11/2026).** Luis: «Quiero acabar con A de URS». **Registrado (nota 161):** análisis rehechos; alarmas 6 y 7 de 17; sujeto «artículo + sustantivo» 11,8 % y 15,8 %; el script de entorno funciona en un contenedor limpio. Sin cambios en el texto.
 
+**NATURA: fusión «Castellano» + «Otras lenguas» y lanzamiento de los lectores (24/11/2026).** Luis: «Funde Castellano y otras lenguas… la 85 se queda». **Aplicado (nota 162):** sección fusionada; Marcador al día. **Lanzado** el panel de ocho lectores con las piezas I y II, Cultura, K&S y las dos anclas.
+
