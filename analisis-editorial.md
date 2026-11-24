@@ -3764,3 +3764,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: las cinco filas de Luis, lectura preparada (24/11/2026).** Luis: «Adelante con las cinco filas». **Registrado (nota 155):** diez lecturas (cinco por pieza); la pieza 1 cumple; la pieza 2, dos fricciones (*sustrato* sin definir; condicional de objeción). Pendiente la firma de Luis. Sin cambios en el texto.
 
+**NATURA: «sustrato» con la definición del DLE (24/11/2026).** Luis pega la entrada del DLE. **Aplicado (nota 156):** frase de la pieza 1 corregida («morfema de sustrato») y entrada de glosa nueva en las dos piezas; fila 6 resuelta. Marcador al día. Sin publicar.
+
