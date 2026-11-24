@@ -183,3 +183,10 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 | **Stanford, Heidegger** (Wrathall, 31/01/2025) | ABIERTA (entera) | «la naturaleza se convierte en una gigantesca gasolinera» (GA 16: 523); *physis* solo en la bibliografía (Withy 2015, «Being as Phusis») | *Sobre la esencia y el concepto de la φύσις* (1939) |
 | **Stanford, Nietzsche** (Anderson, rev. 25/06/2026) | ABIERTA (entera) | la entrada **no** trae *Sobre verdad y mentira* ni «metáfora olvidada»; naturalismo ético | *Sobre verdad y mentira en sentido extramoral*; *Crepúsculo de los ídolos* |
 | **Stanford, Metáfora** (Hills, rev. 12/08/2022) | ABIERTA (entera) | definición (uso figurado frente a literal); Aristóteles (la analogía: «la vejez es a la vida lo que la tarde al día»); Lakoff (metáfora conceptual); Davidson; Cavell («las metáforas son parafraseables») | para B.6; Lakoff directo |
+
+## 10 · Tras «Aplica todo» (24/11/2026)
+
+- **Aplicado:** B.2 (frase de *phýsis* con el LSJ); B.1 (Lucrecio, Plinio y la lectura de UR, entre Cicerón y el DLE); B.4 (primer texto, en URIM, con 5 entradas de glosa). Detalle en la nota 186.
+- **Pendientes nuevos de B.1:** el latín de Plinio VII, 1 (Perseus); *Orotariko Euskal Hiztegia*, s. v. *ama* y *lur* (glosa «Ama-Lur», sin abrir); Doody.
+- **Pendientes nuevos de B.4:** las obras (Schelling, *Ideas…* y *Primer esbozo*; Whitehead, *El concepto de naturaleza*; Foucault, *Las palabras y las cosas*; Heidegger, *Sobre la esencia y el concepto de la φύσις*; Kant, A 418 / B 446) y Nietzsche («Sobre verdad y mentira…»: **no está** en la entrada de Stanford; en alemán, eKGWB «WL»: https://www.nietzschesource.org/#eKGWB/WL).
+- **Idea sin aplicar:** LSJ VII y DLE 5 («sexo», sobre todo el órgano femenino) para la lectura de UR (NATURFILOLOGÍA o B.1).
