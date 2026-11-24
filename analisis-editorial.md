@@ -3804,3 +3804,11 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: B.1 pasa a URS (24/11/2026).** Luis: «Aprobada». **Aplicado (nota 175):** pieza «PENSAMIENTO · LA FUERZA QUE NUTRE» en URS (4 párrafos, 5 entradas); la anécdota del «Natura Genitrix» fuera (texto en la nota); Plinio a URIM; Marcador al día (83 piezas en URS, 73 en libro puro). Sin publicar.
 
+
+**NATURA: sección B, título y pestañas (24/11/2026).** Luis aprobó el título «NATURFILOSOFÍA · ESTUDIO DEL PENSAMIENTO DE LA VIDA», las dos pestañas (I: B.1–B.3; II: B.4–B.7) y pidió incluir a Schelling/*Naturphilosophie*. **Aplicado (nota 176):** pieza de URS renombrada («… DE LA VIDA I»), `<h4>` «Filosofía antigua: la fuerza que nutre», glosa «NATURFILOSOFÍA»; Schelling anotado en B.4 como investigación pendiente. Sin publicar.
+
+**NATURA: B.2 a NATURFILOSOFÍA I y lista de pendientes (24/11/2026).** Luis: «Adelante. Y vete apuntando todo lo que tenemos que abrir y contrastar.» **Aplicado (nota 177):** B.2 en la pestaña I (392 palabras, 13 entradas de glosa en total); Eriúgena antes de la pareja escolástica; Kant a B.4; gerundio corregido; Marcador al día; nuevo `NATURA-POR-ABRIR-Y-CONTRASTAR.md`. Sin publicar.
+
+**NATURA: B.3 a NATURFILOSOFÍA I y enlaces (24/11/2026).** Luis: «ok. pero dame links para abrir como en A.» **Aplicado (nota 179):** B.3 en la pestaña I (Dante fuera hasta tener fuente; *naturalis pater* anclado; cierre resumen fuera); glosa de 16 entradas; Marcador al día; sección de enlaces en `NATURA-POR-ABRIR-Y-CONTRASTAR.md`. Sin publicar.
+
+**NATURA: «Aplica todo» (24/11/2026).** Luis comparó la frase de Plinio con la lectura de UR (la naturaleza, UR-Sapiens incluido, «aquello por cuya causa el universo produjo lo demás»; Ama-Lur; UR-Sapiens, especie favorita). **Aplicado (nota 186):** B.2 con el LSJ; B.1 con Lucrecio, Plinio y la lectura de UR (borrador de Claude con palabras de Luis); B.4 en URIM con Kant, Schelling, Whitehead, Foucault y Heidegger; glosas y Marcador al día. Sin publicar.
