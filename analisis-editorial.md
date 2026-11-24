@@ -3772,3 +3772,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: Saussure y el Crátilo abiertos; sección A de URIM al día (24/11/2026).** Luis sube los dos PDF. **Aplicado (nota 159):** fuentes pasan a ABIERTAS y las glosas 12 y 14 de la pieza II citan las ediciones abiertas; «Hermógenes» y «Crátilo» con tilde; retirada la anécdota de A.9 de URIM y puesta al día la lista «Pendiente de contraste». Marcador al día. Sin publicar.
 
+**NATURA: PDF leídos borrados (24/11/2026).** Luis: «Sí, borra los PDF leídos». **Hecho (nota 160):** borrados el *Curso* de Saussure y el *Crátilo* de la línea de trabajo y de la versión pública; `FUENTES.md` los conserva como ABIERTA con cita y páginas.
+
