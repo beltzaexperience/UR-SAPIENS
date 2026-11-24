@@ -2999,3 +2999,14 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 **Rumbo de NATURA (Luis):** «NATURA: SEMÁNTICA AGLUTINANTE · GRAMÁTICA FLEXIVA» debe **subir en riesgo** a medida que aborda la política («el sistema no da puntada sin hilo y además muestra las costuras sin rubor») y la prehistoria («confío en Ekain y Altxerri»). Las dos piezas de filología son el tramo áspero, la entrada en la selva.
 **Terminología (Luis):** «Para mí que yo mismo muchas cosas no las entiendo… hemos comprobado con amigos, andamos muy peces en estos asuntos.» La dificultad terminológica «tiene que funcionar de la misma manera»: «¿hacen falta tantas leyes filológicas para delimitar mi necesidad diaria y constante de hidratación? Me podrás poner enciclopedias encima de la mesa que si no tengo un vaso de agua cerca no las podré ni leer ni entender.» **Criterio fijado:** un término técnico solo se queda si el argumento lo usa después; si no, se dice con palabras corrientes o pasa a la glosa. Propuestas de Claude en la conversación del 24/11/26; aplicación pendiente de Luis (Norma 29: la presentación es de Luis).
 
+## 167 · Terminología: seis cambios aplicados, tres se quedan (24/11/2026)
+
+**Luis:** «Dejar: «el vasco, por sufijos declinativos y posposiciones», «el estudio de la polisemia de natura» y «un «morfema libre»». **Se quedan** esos tres. **Aplicado (tipo A, Norma 29, TEXTO) los otros seis:**
+- Pieza I: «entre lo **aislante** y lo **fusional**» → «entre **las lenguas que no cambian las palabras (aislantes) y las que funden todo en una terminación (fusionales)**».
+- Pieza I: «la fusión con la raíz, la **exponencia** (si un **formante** dice una o varias cosas) y la **flexividad** (**alomorfía** y clases flexivas)», «mezcla muchas **variables tipológicas** distintas y supone… que **covarían**» → «**cuánto se funde la terminación con la raíz, si una terminación dice una sola cosa o varias, y si la palabra cambia de forma según su tipo**», «mezcla **propiedades** distintas y supone… que **van siempre juntas**». Los nombres técnicos pasan al nivel 2 de la glosa 20 (WALS).
+- Pieza I: «ninguna forma que corresponda al **tema desnudo**» → «a **la palabra sin terminación**».
+- Pieza I: «en los **sustantivos deverbales**» → «en **los nombres formados sobre un verbo**».
+- Pieza II: «con un **tema participial** y una **desinencia flexiva**» → «**por delante, la base del participio (*nat-*); por detrás, la terminación (*-a*)**».
+- Pieza II: «con un significado» → «con un significado, **la idea**».
+**Cuerpos:** pieza I, 2.237 palabras (antes 2.215); pieza II, 1.850 (antes 1.844). **Marcador (Regla 14):** URS 1.252.182 caracteres / 206.210 palabras / ≈825 págs.; libro puro 812.143 / 129.266 / ≈517; URS+URIM 1.739.227 / 290.094 / ≈1160; TOTAL DEL PROYECTO 1.844.082 / 307.433 / ≈1230.
+

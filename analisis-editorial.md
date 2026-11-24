@@ -3786,3 +3786,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: deberes como decisión de autor; terminología (24/11/2026).** Luis: sí a registrar los deberes (sin forzar emoción), fija el rumbo de NATURA (más riesgo con política y prehistoria) y pide revisar la terminología. **Registrado (nota 166):** deberes cerrados; criterio «el término se queda si el argumento lo usa». Sin cambios en el texto.
 
+**NATURA: terminología (24/11/2026).** Luis deja tres términos como están («sufijos declinativos y posposiciones», «polisemia de natura», «morfema libre»). **Aplicado (nota 167):** seis cambios en las piezas I y II (aislante/fusional, exponencia y flexividad, tema desnudo, deverbales, tema participial y desinencia, «la idea»); nombres técnicos conservados en la glosa 20. Marcador al día. Sin publicar.
+
