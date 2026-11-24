@@ -296,3 +296,20 @@ Letra: α desde 3,34 de nota ajustada; β de 2,74 a 3,33; γ por debajo (escala 
   VIVO: Wilbur Tennant y Bilott, los cigarrillos con teflón de 1962 y la historia de Afeni Shakur absuelta embarazada. Hechos duros con carga política real, bien dosificados.
   REPAROS: Tesis UR/'T' apenas insertada (dos frases); estructura de tres temas que no se funden; afirmaciones audaces sobre fluidos íntimos y DuPont (cubiertas por glosa con cautelas); frases oscuras o forzadas.
   SACA: «Sus muertes ponen punto final a 3 millones de años de tecnología analógica»; «la trigonometría del sistema»; «Es una realidad comprometida»; «UR volvió a desbordar la 'T', por necesidad, en el nombre de Wilbur».
+
+## 7 · Decisión de autor (Luis, 24/11/26)
+
+Luis: «ok salvo que creas que algo de eso se pueda mejorar con alguna táctica que no llego a ver. Meter emoción ahí con imágenes sería forzar la emoción donde no corresponde.» Claude no ve ninguna táctica que no contradiga el diseño. **Se anotan como decisión de autor (se cierran; I.7), y no se reabren:**
+
+| Pieza | Deber | Lectores | Motivo del autor |
+|---|---|---|---|
+| I | Cascada de preguntas retóricas | 8/8 | La pregunta sostenida (Norma 11): el capítulo no resuelve, entra en la selva filológica. |
+| I | Bloques de diccionarios y tipología como tramo frío | 8/8 | Es el terreno que hay que cruzar «con un machete de agua»; se recortó solo la morfología alemana que no llevaba *ur* al agua. |
+| I | *nat-ur-a* sostenida en la coincidencia sonora | 6-7/8 | Es la tesis declarada; el libro se impugna a sí mismo y lo muestra. |
+| I y II | Poca emoción, sin imagen | 4/8 y 5/8 | La emoción no se fuerza donde no corresponde; el riesgo sube en los capítulos de política y de prehistoria (Ekain, Altxerri). |
+| II | Catálogo de acepciones y autores | 8/8 | Es la prueba por ausencia: ningún sentido nombra el agua. |
+| II | Se autolimita | 7/8 | La derrota programada: el texto admite lo que la documentación no da. |
+| II | Preguntas retóricas | 5/8 | Misma razón que en la pieza I. |
+| II | Solapamiento con la pieza I | 4/8 | Repetición mínima para que cada pieza se sostenga sola (55.12 d). |
+
+**Queda abierta, y se trata aparte, la terminología** (criterio *no especialista*, 1,81 y 2,31): propuestas en la nota 166.
