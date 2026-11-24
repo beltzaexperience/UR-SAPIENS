@@ -117,8 +117,8 @@ def marcador(nombre,filas):
         nw=w+dw
         s=s[:m.start(1)]+num(c+dc)+s[m.end(1):m.start(2)]+num(nw)+s[m.end(2):m.start(3)]+str(round(nw/250))+s[m.end(3):]
         return nw
-    ln(r'([\d.]+) caracteres &middot; ([\d.]+) palabras &middot; &asymp;(\d+) p&aacute;g\. &middot; 82 piezas',*d['urs'])
-    nw_pure=ln(r'([\d.]+) caracteres &middot; ([\d.]+) palabras &middot; &asymp;(\d+) p&aacute;g\. &middot; 72 piezas',*d['pure'])
+    ln(r'([\d.]+) caracteres &middot; ([\d.]+) palabras &middot; &asymp;(\d+) p&aacute;g\. &middot; 83 piezas',*d['urs'])
+    nw_pure=ln(r'([\d.]+) caracteres &middot; ([\d.]+) palabras &middot; &asymp;(\d+) p&aacute;g\. &middot; 73 piezas',*d['pure'])
     ln(r'([\d.]+) caracteres &middot; ([\d.]+) palabras \(piezas reales\) &middot; &asymp;(\d+) p&aacute;g\.',d['urs'][0]+d['urim'][0],d['urs'][1]+d['urim'][1])
     ln(r'TOTAL &middot; ([\d.]+) caracteres &middot; ([\d.]+) palabras &middot; &asymp;(\d+) p&aacute;g\.',d['urs'][0]+d['urim'][0],d['urs'][1]+d['urim'][1])
     m=re.search(r'([\d.]+) palabras = el total',s); s=s[:m.start(1)]+num(parse(m.group(1))+d['urs'][1]+d['urim'][1])+s[m.end(1):]
