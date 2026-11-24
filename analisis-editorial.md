@@ -3804,3 +3804,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: B.1 pasa a URS (24/11/2026).** Luis: «Aprobada». **Aplicado (nota 175):** pieza «PENSAMIENTO · LA FUERZA QUE NUTRE» en URS (4 párrafos, 5 entradas); la anécdota del «Natura Genitrix» fuera (texto en la nota); Plinio a URIM; Marcador al día (83 piezas en URS, 73 en libro puro). Sin publicar.
 
+
+**NATURA: sección B, título y pestañas (24/11/2026).** Luis aprobó el título «NATURFILOSOFÍA · ESTUDIO DEL PENSAMIENTO DE LA VIDA», las dos pestañas (I: B.1–B.3; II: B.4–B.7) y pidió incluir a Schelling/*Naturphilosophie*. **Aplicado (nota 176):** pieza de URS renombrada («… DE LA VIDA I»), `<h4>` «Filosofía antigua: la fuerza que nutre», glosa «NATURFILOSOFÍA»; Schelling anotado en B.4 como investigación pendiente. Sin publicar.
