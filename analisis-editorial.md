@@ -3782,3 +3782,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: los deberes de los lectores y el diseño de las piezas (24/11/2026).** Luis rechaza mis propuestas (a) a (d): la pieza I se abre como está y las secciones de gramática se quedan; explica el diseño («derrota programada», «machete de agua»). **Registrado (nota 164):** propuestas retiradas; abiertos los diccionarios alemanes y las acepciones. Sin cambios en el texto.
 
+**NATURA: recorte de la morfología alemana en la pieza I (24/11/2026).** Luis: «Esta segunda propuesta le veo más sentido». **Aplicado (nota 165):** −56 palabras en el párrafo de los diccionarios alemanes (acento inicial, *er-*, *Urlaub*/*erlauben*, *Urteil*/*erteilen*, ejemplos del XVII y del XIX); todo ese detalle ya está en el nivel 2 de la glosa 4. Cuerpo de la pieza I: 2.215 palabras. Marcador al día. Sin publicar.
+
