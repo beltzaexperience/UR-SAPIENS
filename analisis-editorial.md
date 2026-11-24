@@ -3794,3 +3794,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: lectores sobre el Umbral (24/11/2026).** Luis: «Primero pasa a los lectores por el umbral». **Registrado (nota 170):** Umbral 3,87 ajustada, α; marca añadida; fuentes flojas retiradas de la glosa; pendiente la frase «Toda especie…» y los deberes de decisión de autor. Sin publicar.
 
+**NATURA: Umbral, corte de «Toda especie…» (24/11/2026).** Luis: «habrá que precisar o cortar». **Aplicado (nota 171):** frase cortada por la Norma 31 (resumen terminal) y por generalización; Umbral con 301 palabras de cuerpo. Marcador al día. Sin publicar.
+
