@@ -3760,3 +3760,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **Norma 15: «ur» con diacrítico en todo el libro (23/11/2026).** Luis: «Sí». **Aplicado (nota 153):** 56 casos marcados en rojo; texto y Marcador sin cambios. Señalada una errata («recúrsos») sin tocar. Sin publicar.
 
+**Errata «recúrsos» (24/11/2026).** Luis: «Corrige». **Aplicado (nota 154):** «recúrsos» → «recursos» en la pieza de Cavanaugh, con *ur* en rojo. Sin publicar.
+

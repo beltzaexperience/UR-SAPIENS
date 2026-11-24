@@ -2925,3 +2925,7 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 **Aplicado (tipo A):** 56 marcados en rojo en todo el archivo (*Hürmüz*, *Altzürükü*, *Empúries*, *Ürményi*, *metalúrgica*, *Šaqūra*, *Ürümqi*, *túrgu*, *Zúrich*, *Dúrcal*, *captūra*, *ruptūra*, *Barad-dûr*, *Tür*, la pieza «El sufijo -dad / -úra», etc.), con las formas escritas en entidad HTML incluidas. Comprobado: el texto visible es idéntico al de antes, los `<span>` quedan equilibrados y las cifras del Marcador no cambian.
 **Errata señalada, sin tocar (63.4, pieza ☠ NO TOCAR):** «rec**ú**rsos» por «recursos», en la pieza de Cavanaugh; al corregirla, *ur* va en rojo. Pendiente de la autorización de Luis.
 
+## 154 · Errata «recúrsos» corregida (24/11/2026)
+
+**Luis:** «Corrige.» **Aplicado (Norma 63, TEXTO):** en la pieza de Cavanaugh, «privatización de **recúrsos** como el agua» → «privatización de **recursos** como el agua», con *ur* en rojo. Sin cambio en el Marcador (una letra con tilde menos).
+
