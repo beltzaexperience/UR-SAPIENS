@@ -3792,3 +3792,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: el Umbral pasa a URS (24/11/2026).** Luis: «El umbral está terminado. Ponlo en su sitio en URS. Y empezamos por B1». **Aplicado (nota 169):** pieza «UMBRAL · EL AGUA ES VIDA» creada en URS (primera de NATURA); glosa reescrita sin notas de proceso; URIM al día (50 entradas); Marcador al día (82 piezas en URS, 72 en libro puro). Sin publicar.
 
+**NATURA: lectores sobre el Umbral (24/11/2026).** Luis: «Primero pasa a los lectores por el umbral». **Registrado (nota 170):** Umbral 3,87 ajustada, α; marca añadida; fuentes flojas retiradas de la glosa; pendiente la frase «Toda especie…» y los deberes de decisión de autor. Sin publicar.
+
