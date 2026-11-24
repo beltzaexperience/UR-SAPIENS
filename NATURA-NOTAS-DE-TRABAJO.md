@@ -3010,3 +3010,7 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 - Pieza II: «con un significado» → «con un significado, **la idea**».
 **Cuerpos:** pieza I, 2.237 palabras (antes 2.215); pieza II, 1.850 (antes 1.844). **Marcador (Regla 14):** URS 1.252.182 caracteres / 206.210 palabras / ≈825 págs.; libro puro 812.143 / 129.266 / ≈517; URS+URIM 1.739.227 / 290.094 / ≈1160; TOTAL DEL PROYECTO 1.844.082 / 307.433 / ≈1230.
 
+## 168 · Publicación (24/11/2026)
+
+**Luis:** «ok» a publicar. **Publicado (Regla 38, con el OK de Luis):** `urtz.html` con la fusión de «Otras lenguas y castellano», la marca α en las dos piezas, las glosas 12 y 14 con las ediciones abiertas (Saussure, *Crátilo*), el recorte de la morfología alemana, los seis cambios de terminología, la sección A de URIM al día y la errata «recursos». Marcador: URS 1.252.182 caracteres / 206.210 palabras; libro puro 129.266 palabras (≈517 págs.); TOTAL 307.433 palabras (≈1230 págs.).
+
