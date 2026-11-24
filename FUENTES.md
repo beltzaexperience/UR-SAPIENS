@@ -1,6 +1,6 @@
 # FUENTES — estado de lo que Claude ha abierto (Norma 61)
 
-**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. Última actualización: 11/11/26.
+**ABIERTA** = Claude tiene el texto completo y lo ha leído. **RESUMEN** = solo resumen, extracto del buscador o cita de otra obra. **SIN ABRIR** = ni eso. Se actualiza en cada tanda. La lista de lo que falta por abrir y contrastar, por sección y por afirmación, está en `NATURA-POR-ABRIR-Y-CONTRASTAR.md`. Última actualización: 11/11/26.
 
 ## CULTURA: CONTINENTE IBÉRICO
 

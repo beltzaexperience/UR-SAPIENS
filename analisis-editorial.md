@@ -3806,3 +3806,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 
 **NATURA: sección B, título y pestañas (24/11/2026).** Luis aprobó el título «NATURFILOSOFÍA · ESTUDIO DEL PENSAMIENTO DE LA VIDA», las dos pestañas (I: B.1–B.3; II: B.4–B.7) y pidió incluir a Schelling/*Naturphilosophie*. **Aplicado (nota 176):** pieza de URS renombrada («… DE LA VIDA I»), `<h4>` «Filosofía antigua: la fuerza que nutre», glosa «NATURFILOSOFÍA»; Schelling anotado en B.4 como investigación pendiente. Sin publicar.
+
+**NATURA: B.2 a NATURFILOSOFÍA I y lista de pendientes (24/11/2026).** Luis: «Adelante. Y vete apuntando todo lo que tenemos que abrir y contrastar.» **Aplicado (nota 177):** B.2 en la pestaña I (392 palabras, 13 entradas de glosa en total); Eriúgena antes de la pareja escolástica; Kant a B.4; gerundio corregido; Marcador al día; nuevo `NATURA-POR-ABRIR-Y-CONTRASTAR.md`. Sin publicar.
