@@ -11,14 +11,16 @@
 
 | N.º | Frase | Norma | Hallazgo | Propuesta |
 |---|---|---|---|---|
-| 1 | «Cuando llega el momento, la bolsa que envuelve al feto **se rompe** y el líquido amniótico se derrama: las aguas **se rompen** para abrir el paso a la vida.» | 27, 38 | eco de «se rompe… se rompen» en una frase y sujeto «artículo + sustantivo» | «…la bolsa que envuelve al feto **cede** y el líquido amniótico se derrama: las aguas se rompen para abrir el paso a la vida.» (el eco de «las aguas se rompen» queda solo, como remate) |
-| 2 | «**Al nacer, el recién nacido** reabsorbe el líquido que llena los pulmones.» | 27 | «nacer… recién nacido» repite la raíz | «**El recién nacido** reabsorbe el líquido que llena los pulmones.» |
-| 3 | «…aparecen las lágrimas… como primer lenguaje**:** un llamado urgente para reclamar la leche materna…» | 42 bis | dos puntos con aposición | «…como primer lenguaje**,** un llamado urgente para reclamar la leche materna…» |
-| 4 | «Los peces y los anfibios desovan en ríos y océanos; las aves y los reptiles llevan el agua dentro…» | 38.1 bis | dos aperturas con artículo seguidas en una frase (los datos son genéricos) | «**Peces y anfibios** desovan en ríos y océanos; **aves y reptiles** llevan el agua dentro…» (opcional) |
-| 5 | «…feto flota en un líquido compuesto en un **98 %** por agua… la placenta, compuesta en más de un **80 %** por agua» y «lágrimas —cerca de un **98 %** agua—» y «leche materna, compuesta en alrededor de un **88 %** por agua» | 50, 56, 36.7 | cuatro porcentajes con el mismo molde; 7 de 8 lectores los ven encadenados; la cifra exacta ya está en la glosa | Generalizar: «un líquido que es casi todo agua», «la placenta, en su mayor parte agua», «las lágrimas, casi todo agua», «la leche materna, en su gran mayoría agua»; los porcentajes quedan en la glosa. Alternativa: dejar dos (el 98 % del líquido amniótico y el 88 % de la leche) |
+| 1 (**aplicado**) | «Cuando llega el momento, la bolsa que envuelve al feto **se rompe** y el líquido amniótico se derrama: las aguas **se rompen** para abrir el paso a la vida.» | 27, 38 | eco de «se rompe… se rompen» en una frase y sujeto «artículo + sustantivo» | «…la bolsa que envuelve al feto **cede** y el líquido amniótico se derrama: las aguas se rompen para abrir el paso a la vida.» (el eco de «las aguas se rompen» queda solo, como remate) |
+| 2 (**aplicado**) | «**Al nacer, el recién nacido** reabsorbe el líquido que llena los pulmones.» | 27 | «nacer… recién nacido» repite la raíz | «**El recién nacido** reabsorbe el líquido que llena los pulmones.» |
+| 3 (**aplicado**) | «…aparecen las lágrimas… como primer lenguaje**:** un llamado urgente para reclamar la leche materna…» | 42 bis | dos puntos con aposición | «…como primer lenguaje**,** un llamado urgente para reclamar la leche materna…» |
+| 4 (**aplicado**) | «Los peces y los anfibios desovan en ríos y océanos; las aves y los reptiles llevan el agua dentro…» | 38.1 bis | dos aperturas con artículo seguidas en una frase (los datos son genéricos) | «**Peces y anfibios** desovan en ríos y océanos; **aves y reptiles** llevan el agua dentro…» (opcional) |
+| 5 (**se queda**) | «…feto flota en un líquido compuesto en un **98 %** por agua… la placenta, compuesta en más de un **80 %** por agua» y «lágrimas —cerca de un **98 %** agua—» y «leche materna, compuesta en alrededor de un **88 %** por agua» | 50, 56, 36.7 | cuatro porcentajes con el mismo molde; 7 de 8 lectores los ven encadenados; la cifra exacta ya está en la glosa | Generalizar: «un líquido que es casi todo agua», «la placenta, en su mayor parte agua», «las lágrimas, casi todo agua», «la leche materna, en su gran mayoría agua»; los porcentajes quedan en la glosa. Alternativa: dejar dos (el 98 % del líquido amniótico y el 88 % de la leche) |
 | 6 | Párrafo 4: «La historia de cada ser humano repite ese cauce» | 27 | repite «la historia de cada ser humano comienza en otro cauce» del primer párrafo | **Se queda:** el eco «otro cauce» / «ese cauce» es un anillo deliberado entre el primer párrafo y el tercero (Norma 27, excepción de eco apertura-cierre) |
 
 Sin hallazgo: «no X, sino Y» 0; «aquí / aparece» 0; andamios 0; gerundios 0; coberturas 0; «alguien» y «a veces» 0; «cuerpo» 0; «memoria» 0; anterioridad 0; «Quien X decide Y» 0; UR sin marcar 0; llamadas y entradas 9 y 9 en orden; subtítulos 0.
+
+**Decisiones de Luis (24/11/26):** «1 ok. 2 ok. 3 ok. 4 ok. 5 dejarlas en el cuerpo, es una excepción deliberada y quitarlas de las glosas si no hacen falta.» **Aplicado:** las cuatro primeras; los porcentajes se quedan en el cuerpo; de la glosa sale el único que repetía exactamente el del cuerpo («cerca de un 98 % de agua», entrada 8); los demás (98 a 99 %; 87 % y 83,9 %; 87 a 88 %) añaden rangos o valores de cada estudio y se quedan. Cuerpo: 260 palabras; glosa: 321 palabras. Recuento de la matriz: cumple 84, hallazgo 2, no aplica 14, de Luis 5, diferidas 4, no ejecutables 3.
 
 ## 3 · Las cinco filas de Luis (lectura preparada; las firma Luis)
 
@@ -104,7 +106,7 @@ Sin hallazgo: «no X, sino Y» 0; «aquí / aparece» 0; andamios 0; gerundios 0
 | 56 | 25 | M, L, O | cumple | 0 subtítulos |
 | 57 | 25 (seis preguntas, párrafos y secciones) | L, O, D | diferida | Norma 25, punto 5: respiración y tamaño en la revisión final |
 | 58 | 26 | M, L | cumple | 4 párrafos, media de 67 palabras; 0 cortos |
-| 59 | 27 | M, O | hallazgo | eco «se rompe… se rompen» en una frase; molde «compuesto/a en un X % por agua» ×3 |
+| 59 | 27 | M, O | cumple | el eco «se rompe… se rompen» corregido («cede»); el molde del porcentaje se queda por decisión de Luis (excepción deliberada) |
 | 60 | 28 | A, L, O | cumple |  |
 | 61 | 29 | L | cumple |  |
 | 62 | 30 | L, A | cumple |  |
@@ -114,19 +116,19 @@ Sin hallazgo: «no X, sino Y» 0; «aquí / aparece» 0; andamios 0; gerundios 0
 | 66 | 34 | O | no aplica | no pide desborde |
 | 67 | 35 | L, S | no aplica | sin zahorí: pieza expositiva |
 | 68 | 36 | L | cumple |  |
-| 69 | 36.7 | M, A | hallazgo | tres cláusulas del mismo molde con porcentaje (98 %, más de 80 %, 88 %), más «cerca de un 98 % agua» |
+| 69 | 36.7 | M, A | cumple | los porcentajes del cuerpo se quedan por decisión de Luis (excepción deliberada, 24/11/26) |
 | 70 | 36.8 | M | no ejecutable | perfil medido sobre tan poco texto no es fiable (desviación de frase 9,3, abstractos bajos); sin veredicto |
 | 71 | 36.9 | M, A | cumple |  |
 | 72 | 37 | X | cumple | las críticas de los lectores del 24/11 pasadas por la Tabla Margarita (apartado 4) |
-| 73 | 38 | M, A | hallazgo | 5 de 13 frases abren con artículo (38 %; alarma 35 %): véase apartado 2 |
-| 74 | 38.1 bis | M, A | hallazgo | ídem |
-| 75 | 38.1 ter | M, A | hallazgo | sujeto «artículo + sustantivo»: ver apartado 2 |
+| 73 | 38 | M, A | cumple | 5 de 13 frases abren con artículo (38 %, alarma 35 %): las cinco tienen sujeto protagonista o eco deliberado (38.1 bis, «el artículo se queda») |
+| 74 | 38.1 bis | M, A | cumple | ídem |
+| 75 | 38.1 ter | M, A | cumple | ídem |
 | 76 | 38.2 bis | L, M | cumple |  |
 | 77 | 39 | M | cumple |  |
 | 78 | 40 | L, X | cumple |  |
 | 79 | 41 | M, L | cumple |  |
 | 80 | 42 | M | cumple |  |
-| 81 | 42 bis | M, A | hallazgo | 3 dos puntos en 267 palabras (11,2 por mil): ver apartado 2 |
+| 81 | 42 bis | M, A | cumple | 2 dos puntos (7,7 por mil); los dos anuncian o rematan; el de «primer lenguaje» pasó a coma |
 | 82 | 43 | M | cumple |  |
 | 83 | 44 | N, M | no aplica | sin palabras partidas por guion |
 | 84 | 45 | N, L, O | no aplica | no aplica |
@@ -134,7 +136,7 @@ Sin hallazgo: «no X, sino Y» 0; «aquí / aparece» 0; andamios 0; gerundios 0
 | 86 | 47 | M, A | cumple |  |
 | 87 | 48 | S | cumple |  |
 | 88 | 49 | M | cumple |  |
-| 89 | 50 | M, A | hallazgo | 4 porcentajes en el cuerpo; la cifra exacta está en la glosa: ver apartado 2 |
+| 89 | 50 | M, A | cumple | 4 porcentajes en el cuerpo: excepción deliberada de Luis; en la glosa solo quedan los datos que añaden (rangos y valores de cada estudio) |
 | 90 | 51 | X | cumple |  |
 | 91 | 52 | L | cumple |  |
 | 92 | 53 | A, D | diferida | Norma 53, puntos 3-5: revisión final |
@@ -159,4 +161,4 @@ Sin hallazgo: «no X, sino Y» 0; «aquí / aparece» 0; andamios 0; gerundios 0
 | 111 | XXVII (los 18 análisis) | M, L, O | no ejecutable | ídem: 267 palabras, menos de una ventana de 1.000 |
 | 112 | 63 | L, A, X | cumple |  |
 
-**Recuento:** cumple 77, hallazgo 9, no aplica 14, de Luis 5, diferida 4, no ejecutable 3.
+**Recuento:** cumple 84, hallazgo 2, no aplica 14, de Luis 5, diferida 4, no ejecutable 3.
