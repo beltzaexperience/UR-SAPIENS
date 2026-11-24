@@ -3774,3 +3774,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: PDF leídos borrados (24/11/2026).** Luis: «Sí, borra los PDF leídos». **Hecho (nota 160):** borrados el *Curso* de Saussure y el *Crátilo* de la línea de trabajo y de la versión pública; `FUENTES.md` los conserva como ABIERTA con cita y páginas.
 
+**NATURA: los 18 análisis sobre el texto final (24/11/2026).** Luis: «Quiero acabar con A de URS». **Registrado (nota 161):** análisis rehechos; alarmas 6 y 7 de 17; sujeto «artículo + sustantivo» 11,8 % y 15,8 %; el script de entorno funciona en un contenedor limpio. Sin cambios en el texto.
+

@@ -35,6 +35,10 @@ def main():
     canon = [k for k in obras if k not in aparte]
     nlp = at.cargar_nlp()
     cand = [p for p in at.pc.piezas_urs(a.html) if a.pieza.upper() in p[0].upper()]
+    if len(cand) > 1:  # si el fragmento es el título exacto de una de ellas (p. ej. «… VIDA I» y «… VIDA II»), gana esa
+        exactas = [p for p in cand if p[0].strip().upper() == a.pieza.strip().upper()]
+        if len(exactas) == 1:
+            cand = exactas
     if len(cand) != 1:
         sys.exit('«%s» encuentra %d piezas de URS' % (a.pieza, len(cand)))
     tit, paras = cand[0]

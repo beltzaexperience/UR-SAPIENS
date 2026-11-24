@@ -2962,3 +2962,8 @@ El hecho léxico (la presencia de *ur* en *natura*) se trata como **causal e his
 
 **Luis:** «Sí, borra los PDF leídos.» **Hecho:** borrados de la línea de trabajo y de la versión pública el *Curso* de Saussure (trad. de Amado Alonso) y el *Crátilo*; `FUENTES.md` conserva cita, páginas y contenido. **Aclaración (a petición de Luis):** «el dossier» es «NATURFILOLOGÍA · DOSSIER» (anexo de CONTRAPORTADA Y OTROS ASUNTOS RELEVANTES, URS), ya equiparado a las dos piezas; la «sección A de URIM» es lo que queda del antiguo A en la pieza borrador de NATURA de URIM (el germen de Lacan y la lista «Pendiente de contraste»).
 
+## 161 · Los 18 análisis, rehechos sobre el texto final; el entorno se reconstruye solo (24/11/2026)
+
+**Luis:** «Quiero acabar con A de URS. ¿Quedan más correcciones que tenga que revisar?» **Comprobado:** `herramientas/preparar-entorno.sh` reconstruyó en 1 min 16 s el canon y el caché en un contenedor limpio (spaCy ya estaba): el script funciona. **Herramienta:** `ultra-18-analisis.py` acepta ahora el título exacto de una pieza cuando el fragmento coincide con dos (… VIDA I y … VIDA II).
+**Medido de nuevo sobre el texto publicado:** alarmas del marco fuera del corredor, P1 6 de 17 (antes 8) y P2 7 de 17; sujeto «artículo + sustantivo» 11,8 % y 15,8 % (antes 38,6 % y 33,5 %); Delta de Burrows 0,52 y 0,50 (mediana de URS 0,51). Anexo y informe actualizados. Quedan fuera del corredor, sin norma que los trate como fallo: sujeto omitido (14,9 % y 14,3 %; corredor 17,5-39,6), estilo nominal, paréntesis y repetición léxica por el tema.
+

@@ -137,7 +137,7 @@
 |---|---|---|---|---|---|
 | 1 | Fonético y fonológico | M parcial | H | C | P1: rima asonante entre frases 15 % (p90 canon: 12 %) y aliteración 7,8 (p90: 6,2); P2 dentro del corredor |
 | 2 | Morfológico | M | H | H | estilo nominal: más sustantivos y menos verbos que el canon (P1 24,9 y 12,3; P2 24,7 y 12,4); presente 89 %, como las piezas de URS |
-| 3 | Sintáctico | M | H | H | distancia de dependencia 3,0 (p90: 2,9); sujeto omitido 12 % y 15 % (p10: 17,5); gerundios por debajo del canon (bien) |
+| 3 | Sintáctico | M | H | H | distancia de dependencia 3,0 (p90: 2,9); sujeto omitido 14,9 % y 14,3 % (p10: 17,5); gerundios por debajo del canon (bien) |
 | 4 | Léxico (lexicometría) | M | H | H | léxico repetido por el tema: palabras de contenido que repiten otra de las 50 anteriores, 26,5 % y 22,5 % (p90: 19,4); diversidad léxica por debajo del corredor |
 | 5 | Textualidad (cohesión y coherencia) | M parcial | H | H | cohesión por repetición léxica: solape con la frase anterior 6,1 % y 4,8 % (p90: 3,4); pocos marcadores temporales |
 | 6 | Semántico | L (O) | C | C | términos con dos sentidos declarados: *natural*, *participio*, *símbolo*; firmado por Luis el 24/11/26 |
@@ -154,7 +154,7 @@
 | 17 | Sinteticidad | M parcial | C | C | ráfaga 0,6 (corredor 0,5-0,7); cuatro-gramas repetidos 1,9 % (p90: 1,9) |
 | 18 | Plantillas | M | C | C | esqueleto gramatical repetido 4,7 % de las frases (p90 canon: 7,4) |
 
-Las tablas completas de los 18 análisis (todas las filas, con corredor del canon y de URS) están en `INFORME-RELOJERO-ULTRA-NATURFILOLOGIA-23-11-26-ANEXO.md`. Alarmas del marco fuera del corredor: **P1, 8 de 17** (sujeto «artículo + sustantivo», sujeto omitido, sustantivos, verbos, anáfora, paréntesis, densidad léxica, gerundios); **P2, 7 de 17** (sujeto omitido, sustantivos, verbos, pronombres, anáfora, paréntesis, gerundios). Delta de Burrows al perfil medio de URS: 0,53 (P1) y 0,51 (P2); mediana de URS, 0,51; p90, 0,67.
+Las tablas completas de los 18 análisis (todas las filas, con corredor del canon y de URS) están en `INFORME-RELOJERO-ULTRA-NATURFILOLOGIA-23-11-26-ANEXO.md`. Alarmas del marco fuera del corredor, **medidas de nuevo el 24/11/26 sobre el texto publicado**: **P1, 6 de 17** (sujeto omitido, sustantivos, verbos, paréntesis, densidad léxica y gerundios, estos por debajo del canon) y **P2, 7 de 17** (las mismas más pronombres). Ya no salta el sujeto «artículo + sustantivo»: 11,8 % en P1 y 15,8 % en P2 (corredor 13,7 · 23,2 · 35,1). Delta de Burrows al perfil medio de URS: 0,52 (P1) y 0,50 (P2); mediana de URS, 0,51; p90, 0,67.
 
 Cautela: el analizador es estadístico y se equivoca en prosa literaria y en los neologismos de UR; el canon son siete obras de tres autores y Orwell está en traducción; una pieza de 2.000 palabras son dos ventanas; las cifras orientan.
 
