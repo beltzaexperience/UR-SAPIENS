@@ -3796,3 +3796,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: Umbral, corte de «Toda especie…» (24/11/2026).** Luis: «habrá que precisar o cortar». **Aplicado (nota 171):** frase cortada por la Norma 31 (resumen terminal) y por generalización; Umbral con 301 palabras de cuerpo. Marcador al día. Sin publicar.
 
+**NATURA: Umbral, párrafos unidos y cierre fuera (24/11/2026).** Luis: «Unir y quitar el último párrafo». **Aplicado (nota 172):** Umbral de 6 a 4 párrafos, 266 palabras de cuerpo; texto quitado guardado en la nota. Marcador al día. Sin publicar.
+
