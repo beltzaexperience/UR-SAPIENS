@@ -3768,3 +3768,5 @@ Los lectores no vieron Prefacio ni capítulos vecinos, así que el primer tipo e
 
 **NATURA: cinco filas firmadas (24/11/2026).** Luis: «Sí, y B». **Aplicado (nota 157):** nueve filas «cumple» y la fila 10 de la pieza 2 resuelta con la opción B («exige explicar…»). Ultra de las piezas 1 y 2 cerrado en las cinco filas; quedan las filas 21 y 85 de Luis y las diferidas a la revisión final. Sin publicar.
 
+**NATURA: filas 21 y 85, publicación (24/11/2026).** Luis: «21, cumple. 85, revisión final. Publica.» **Registrado (nota 158):** fila 21 cumple; fila 85 a la revisión final; Ultra de las piezas 1 y 2 cerrado. **Publicado** `urtz.html` con el «publica» de Luis.
+
