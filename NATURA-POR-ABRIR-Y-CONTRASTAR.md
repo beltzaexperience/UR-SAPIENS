@@ -65,7 +65,8 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 | Prieto 2025: *phýsis* y *futurus* | *Runa* 46 (1), 107-125 | resumen y apartado histórico leídos | leer entero; **comprobar que *phýsis* y *futurus* comparten raíz indoeuropea** (de memoria: *\*bʰuH-*; verificar en diccionario etimológico) |
 
 ### B.3 · Teología: *natura* y gracia [URIM, en redacción]
-- Agustín (*De natura et gratia*, 413-417) y Dante («Natura dividitur contra gratiam»): solo por fragmentos de SEP. Abrir las entradas «Augustine of Hippo» y «Dante Alighieri». Frangi (Dante, Ovidio): leída entera.
+- **Agustín: hecho el 24/11/26** (entrada «Augustine of Hippo», Christian Tornau, SEP, revisión del 26/04/2024, pegada por Luis, leída entera): 354-430; *De natura et gratia*, 413-417, «a reply to Pelagius’ treatise *De natura*» (§ 2); contrastado el cuerpo y la glosa de B.3. De memoria sería «hacia 415»: la fecha queda como la da Stanford. La entrada añade material para B.3 (ver nota 182): Pelagio sostiene que el ser humano es «by nature free and able not to sin»; Agustín, que la naturaleza quedó dañada por el pecado de Adán y la gracia «restaura nuestra libertad natural».
+- **Dante: pendiente.** Abrir «Dante Alighieri» en Stanford e identificar el estudio *Natura dividitur contra gratiam* (autor y año). Frangi (Dante, Ovidio): leída entera.
 - Euskera religioso: *naturaz*, *naturaren gainetiko* (OEH): contrastada la entrada; que son textos religiosos, deducido por el contenido.
 
 ## 4 · NATURFILOSOFÍA II (B.4 a B.7) [URIM]
