@@ -32,7 +32,7 @@
 | 18 | XIV | L | N | N | sin topónimos-ancla |
 | 19 | XV | L | C | C | (O) la lectura parte de la palabra, no de la intuición |
 | 20 | XVI | L, O | N | N | no es pieza de conclusión |
-| 21 | XVII | L, O | O | O | lectura propuesta: cumple; firma Luis |
+| 21 | XVII | L, O | C | C | cumple, firmado por Luis el 24/11/26 |
 | 22 | IX y XIII | N | N | N |  |
 | 23 | XVIII–XX y XXVI | X, N | C | C | sin duplicados: lo retirado va al dossier y a URIM; recuento y Marcador al día |
 | 24 | XXI | N | N | N |  |
@@ -96,7 +96,7 @@
 | 82 | 43 | M | C | C | 4 y 5 `<h4>` negros, 0 `<div>` rojos |
 | 83 | 44 | N, M | N | N |  |
 | 84 | 45 | N, L, O | N | N |  |
-| 85 | 46 | L, A, O | O | O | imágenes: «un morfema que el latín vació de agua y que el euskera conserva mojado» (P1); decide Luis |
+| 85 | 46 | L, A, O | D | D | imagen «un morfema que el latín vació de agua y que el euskera conserva mojado» (P1): Luis la difiere a la revisión final (24/11/26) |
 | 86 | 47 | M, A | C | C | heurística: 3 y 2 frases con sujeto abstracto, sin actor disponible |
 | 87 | 48 | S | C | C | los cambios A no rebajan la carga |
 | 88 | 49 | M | C | C | 0 |
@@ -128,8 +128,8 @@
 ## 2 · Recuento
 
 
-- **Pieza 1:** cumple 84, hallazgo 9, no aplica 14, de Luis 2, diferida 3.
-- **Pieza 2:** cumple 85, hallazgo 8, no aplica 14, de Luis 2, diferida 3.
+- **Pieza 1:** cumple 85, hallazgo 9, no aplica 14, diferida 4.
+- **Pieza 2:** cumple 86, hallazgo 8, no aplica 14, diferida 4.
 
 ## 3 · Los 18 análisis (VI.3)
 
