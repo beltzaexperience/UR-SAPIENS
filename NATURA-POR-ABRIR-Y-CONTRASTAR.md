@@ -370,3 +370,5 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 
 - **§222:** Hesíodo (UNAM) y Pálsson/Gangleri aplicados en B.2; variante del v. 116 resuelta. Pendiente: abrir `Ásatrú [Belief] PDF.pdf` (en `main`); resto de Pálsson (pp. 50-54); Völuspá y *Edda* de Snorri completas (solo hay resúmenes y extractos); decidir la guerra Ases-Vanes y la norna Urðr (Luis). Cadena «no hay Blues sin esclavitud…»: **Luis dice que no se añade**.
 
+- **§223:** nornas y Urðr (fijos, B.2 y B.5); Öcalan pp. 225 y 227 y Hesíodo (B.7). Pendiente: **título y edición** del libro de Öcalan (pedir a Luis la portada); un diccionario etimológico nórdico para *Urðr*; West y Walcot sobre Hesíodo y Oriente (citados por Vianello); Güterbock, *The Song of Ullikummi*; *Enûma Elis*; Ases y Vanes: decide Luis; Dumézil, de memoria, sin abrir.
+

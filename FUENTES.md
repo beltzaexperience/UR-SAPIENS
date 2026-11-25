@@ -336,4 +336,7 @@ Pendiente de abrir: el capítulo 2 de Lewis, Pellicer, Weijers; el DLE de «escr
 | Hermann Pálsson, «El más grande poema del norte pagano: *Völuspá*, “La profecía de la sibila”», trad. Viola Miglio, *Acta Poética* 16 (1995), Dialnet 5240991 (PDF escaneado subido por Luis el 25/11/26; 18 págs.) | ABIERTO (pp. 37-49, por imagen; el resto, sin leer) | p. 39 | NATURFILOSOFÍA I (B.2), párrafo y glosa (16) |
 | Snorri Sturluson, *Gylfaginning*, «The Astronomical Material», trad. inglesa de Carl E. Anderson (PDF `Gangleri.pdf` subido por Luis el 25/11/26; extractos) | ABIERTO (entero; solo extractos) | — | NATURFILOSOFÍA I (B.2), glosa (16) |
 | `Ásatrú [Belief] PDF.pdf` (en `main`, 3,4 MB) | SIN ABRIR | — | — |
-
+| `Ásatrú [Belief] PDF.pdf` (Mari Silva; resumen de Bookey; 282 págs.; en `main`, subido por Luis) | ABIERTO (por búsqueda de «Urd», «Wyrd», «Vanir», creación) | — | NO USADO (resumen divulgativo, sin cotejar) |
+| Abdullah Öcalan, pp. 225 y 227 de un libro con la cabecera «Concepción del sistema de civilización democrática» (dos fotos de Luis, 25/11/26) | ABIERTAS (solo las dos páginas) | pp. 225 y 227 | NATURFILOSOFÍA II (B.7), párrafo y glosa «Öcalan, civilización y Hesíodo». **Título de la obra y edición por confirmar** |
+| Wikipedia, «Norns», «Verðandi», «Wyrd» (extractos de búsqueda; página sin leer) | RESUMEN | — | NATURFILOSOFÍA I (B.2), glosa «Las nornas y la Fuente de Urðr» (etimología de *Urðr*, *Verðandi*, *Skuld*) |
+\n
