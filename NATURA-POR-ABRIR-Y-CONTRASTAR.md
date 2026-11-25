@@ -311,3 +311,8 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 ## 25 · García Sierra [732] y [740] (25/11/2026)
 
 - ✔ [732] y [740] examinados. **Quedan de la serie:** [733]-[736], [741], [744] y [71]. Lista general como en § 22.
+
+## 26 · [733] y cierre de la serie «nación» (25/11/2026)
+
+- ✔ [733] examinado. **Se cierra la serie de «nación»** ([734]-[736], [741], [744] no se piden, salvo decisión de Luis).
+- **Prioridad de lo que queda, por valor para el capítulo:** 1. Plinio VII, 1 en latín (la frase de B.1; probar `doc=Plin.%20Nat.%207.1&lang=original`); 2. Lakoff 1993 y Stanford *Poética* (B.6); 3. García Sierra [71]; 4. Derrida (la metáfora gastada); 5. Kant A 418 / B 446 y Whitehead (B.4); 6. Antifonte y Filemón (B.7); 7. Jenofonte; 8. Aulo Gelio y Cicerón *De fato*; 9. *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux.
