@@ -321,3 +321,7 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 
 - ✘ `doc=Plin.%20Nat.%207.1&lang=original` devuelve la traducción inglesa de Bostock y Riley, no el latín. **Segundo intento (por número de texto, latín de Mayhoff, sin comprobar):** `https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0138%3Abook%3D7%3Achapter%3D1`.
 - Serie «nación»: **no se continúa**; Luis ofreció seguir y se declina por falta de aporte al capítulo.
+
+## 28 · Plinio latín, Lakoff 1992 y Flipo (25/11/2026)
+
+- ✔ **Plinio VII, 1 en latín** (Perseus, forma por número de texto); ✔ **Lakoff 1992**; ✔ **Flipo 2024**. **Quedan:** Stanford, *Poética* de Aristóteles y Derrida; García Sierra [71]; Kant A 418 / B 446 y Whitehead; Antifonte y Filemón; Jenofonte; Aulo Gelio y Cicerón *De fato*; la *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux; Descola, *Par-delà nature et culture*; Latour, *Politiques de la nature*; Aristóteles, *Política* en griego.
