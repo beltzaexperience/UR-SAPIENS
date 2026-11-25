@@ -3357,4 +3357,4 @@ Luis subió diez textos y pegó la SEP «Nāgārjuna», Wikipedia «Svabhava», 
 - **Candidato sin aplicar (decide Luis):** la **guerra entre Ases y Vanes** (Wilkinson, pp. 49-50; diapositivas): los Vanes, dioses de la fertilidad («todo lo que crece y vive, el viento, el calor, la germinación»), los Ases, guerreros; ninguno vence, se «necesitaban mutuamente», intercambian rehenes (Njord, Frey y Freya a Asgard). Resuena con Ama-Lur y con «el respeto a la diversidad», pero esa lectura es de UR, no del libro. Otros: Yggdrasil (el árbol del mundo), Loki, Ragnarök.
 - **Pendiente:** fuentes primarias: *Edda* de Snorri (*Gylfaginning*) y *Völuspá*; ninguna abierta.
 - **Borrado de `main`:** todos los PDF (ver abajo), por orden de Luis («Borra todo»).
-**Marcador:** fila NATURA  palabras; glosa pieza I, 27 entradas. **Sin publicar el HTML.**
+**Marcador:** fila NATURA 35.756 palabras / 143 págs.; glosa pieza I, 27 entradas. **Sin publicar el HTML.**
