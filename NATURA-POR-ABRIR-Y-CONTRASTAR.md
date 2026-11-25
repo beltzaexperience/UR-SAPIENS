@@ -263,3 +263,11 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 - **A confirmar:** (a) la frase que aplica la personificación de Lakoff y Johnson a Cicerón, Lucrecio y Plinio es aplicación mía; (b) autor de «Plato on Rhetoric and Poetry» (Griswold, de memoria); (c) «a la tercera generación de la naturaleza» (*República* X, 597e) por Stanford, no por el griego.
 - **Pendiente de B.6:** Aristóteles y Platón en griego; Lakoff, «The Contemporary Theory of Metaphor» y *Women, Fire, and Dangerous Things*; García Sierra [658]-[659]; Derrida, «La mitología blanca».
 - **Falta de B para igualarlo a A:** el latín de Plinio VII, 1, García Sierra [70] y [71], el dossier y, al final, lectores y Ultra.
+
+
+## 17 · Ricoeur y Kant (teleología) aplicados (25/11/2026)
+
+- **B.4:** teleología de la *Crítica del juicio* por Stanford (Ginsborg). Pendiente: abrir §§ 64, 70, 75, 77, 83-84 en la obra (Kant, *Kritik der Urteilskraft*, Akademie, vol. 5).
+- **B.6:** Ricoeur, *La métaphore vive* (1975); Kant, §§ 45-46. **B.7:** Ricoeur y Changeux, *Ce qui nous fait penser. La nature et la règle* (Odile Jacob, 1998): abrir el libro.
+- **A confirmar:** (a) la lectura «las acepciones de un diccionario serían metáforas muertas» y (b) «la naturaleza invocada como argumento legitima y no necesita acuerdo» son aplicaciones de Claude.
+- Estado de B: faltan el latín de Plinio VII, 1, García Sierra [70], [71], [658]-[659], el dossier de B y, al final, lectores y Ultra.
