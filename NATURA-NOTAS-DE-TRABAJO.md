@@ -3358,3 +3358,12 @@ Luis subió diez textos y pegó la SEP «Nāgārjuna», Wikipedia «Svabhava», 
 - **Pendiente:** fuentes primarias: *Edda* de Snorri (*Gylfaginning*) y *Völuspá*; ninguna abierta.
 - **Borrado de `main`:** todos los PDF (ver abajo), por orden de Luis («Borra todo»).
 **Marcador:** fila NATURA 35.756 palabras / 143 págs.; glosa pieza I, 27 entradas. **Sin publicar el HTML.**
+
+## §219 · *Amalur* (Arsuaga y Martínez) y *Ama Lur* (Torrado) (25/11/2026)
+
+- **Luis subió dos PDF:** Juan Luis Arsuaga e Ignacio Martínez, ***Amalur. Del átomo a la mente*** (2002; 304 págs.; digital de Lectulandia) y Susana Torrado Morales, **«“Ni tiranos ni esclavos”. *Ama Lur* (1968-2008)»**, *Revista Internacional de los Estudios Vascos* 54, 1 (2009), pp. 117-145 (sobre el documental *Ama Lur* de Larruquert y Basterrechea, 1968). Leído: el libro, por búsquedas y pasajes (introducción, finalidad, Aristóteles, cap. XI «Gaia», cierre); el artículo, introducción, contexto y recepción; el resto, sin leer.
+- **Aplicado:** (1) **B.1, glosa de Ama-Lur:** el documental de 1968 (reseña de Gómez Mesa: «*Ama Lur* (Tierra Madre)») y el cierre del libro: «los vascos lo llaman Amalur, la Madre Tierra». (2) **B.4, tras Kant:** la finalidad en biología (Monod, Pittendrigh: *teleonómico*; «por eso (que no para eso)»; los individuos no tienen propósito; «el modelo para la física y la química de Aristóteles era la biología») con su glosa. (3) **B.4, Gaia:** Gaia «casi una religión para ateos», «una bella metáfora, pero no necesaria»; y el cierre con Amalur.
+- **Cuidado (cubierta):** la cubierta dice «para los antiguos vascos esta divinidad [creadora] era Amalur»: texto editorial, no de los autores. Barandiarán (epígrafe) habla de «la Tierra». De memoria, sin comprobar: lo atestiguado por Barandiarán son Lur y Mari. **La hipótesis de Luis (preindoeuropeos que adoraban al planeta) sigue sin fuente.**
+- **Tensión con la lectura de UR (Luis):** «el propósito de la materia inerte fue convertirse en vida y el de la vida, ser materia consciente». Los autores admiten finalidad en los órganos (teleonomía), pero no en los individuos ni en la evolución. Queda sin comentar en el texto.
+- **Sin usar:** casi todo el libro (átomos, química, origen de la vida, evolución, Atapuerca); Lucrecio y Barandiarán (epígrafes), sin abrir; Torrado: recepción en la prensa, censura, estructura del filme.
+**Marcador:** fila NATURA 36.605 palabras / 146 págs.; glosa pieza I, 27 entradas; pieza II, 78. **Sin publicar el HTML.**
