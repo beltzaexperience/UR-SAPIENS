@@ -316,3 +316,8 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 
 - ✔ [733] examinado. **Se cierra la serie de «nación»** ([734]-[736], [741], [744] no se piden, salvo decisión de Luis).
 - **Prioridad de lo que queda, por valor para el capítulo:** 1. Plinio VII, 1 en latín (la frase de B.1; probar `doc=Plin.%20Nat.%207.1&lang=original`); 2. Lakoff 1993 y Stanford *Poética* (B.6); 3. García Sierra [71]; 4. Derrida (la metáfora gastada); 5. Kant A 418 / B 446 y Whitehead (B.4); 6. Antifonte y Filemón (B.7); 7. Jenofonte; 8. Aulo Gelio y Cicerón *De fato*; 9. *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux.
+
+## 27 · Plinio VII, 1 en latín: primer intento (25/11/2026)
+
+- ✘ `doc=Plin.%20Nat.%207.1&lang=original` devuelve la traducción inglesa de Bostock y Riley, no el latín. **Segundo intento (por número de texto, latín de Mayhoff, sin comprobar):** `https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0138%3Abook%3D7%3Achapter%3D1`.
+- Serie «nación»: **no se continúa**; Luis ofreció seguir y se declina por falta de aporte al capítulo.
