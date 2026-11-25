@@ -325,3 +325,7 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 ## 28 · Plinio latín, Lakoff 1992 y Flipo (25/11/2026)
 
 - ✔ **Plinio VII, 1 en latín** (Perseus, forma por número de texto); ✔ **Lakoff 1992**; ✔ **Flipo 2024**. **Quedan:** Stanford, *Poética* de Aristóteles y Derrida; García Sierra [71]; Kant A 418 / B 446 y Whitehead; Antifonte y Filemón; Jenofonte; Aulo Gelio y Cicerón *De fato*; la *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux; Descola, *Par-delà nature et culture*; Latour, *Politiques de la nature*; Aristóteles, *Política* en griego.
+
+## 29 · Böhme, Derrida y [71] (25/11/2026)
+
+- ✔ Böhme, Derrida (Stanford) y García Sierra [71]. ✘ Stanford, *Poética* de Aristóteles: «no abre». **Quedan:** Antifonte y Filemón en el original (la cama de Antifonte, ya por Böhme y [70]); Jenofonte; Kant A 418 / B 446 y Whitehead; Aulo Gelio y Cicerón *De fato*; *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux; Descola y Latour; Aristóteles, *Física* II, 1 y *Política* en griego; Büchner, *Woyzeck*; la obra de Böhme (*Leibsein als Aufgabe*, por confirmar).
