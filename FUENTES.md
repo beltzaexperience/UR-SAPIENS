@@ -339,4 +339,4 @@ Pendiente de abrir: el capítulo 2 de Lewis, Pellicer, Weijers; el DLE de «escr
 | `Ásatrú [Belief] PDF.pdf` (Mari Silva; resumen de Bookey; 282 págs.; en `main`, subido por Luis) | ABIERTO (por búsqueda de «Urd», «Wyrd», «Vanir», creación) | — | NO USADO (resumen divulgativo, sin cotejar) |
 | Abdullah Öcalan, pp. 225 y 227 de un libro con la cabecera «Concepción del sistema de civilización democrática» (dos fotos de Luis, 25/11/26) | ABIERTAS (solo las dos páginas) | pp. 225 y 227 | NATURFILOSOFÍA II (B.7), párrafo y glosa «Öcalan, civilización y Hesíodo». **Título de la obra y edición por confirmar** |
 | Wikipedia, «Norns», «Verðandi», «Wyrd» (extractos de búsqueda; página sin leer) | RESUMEN | — | NATURFILOSOFÍA I (B.2), glosa «Las nornas y la Fuente de Urðr» (etimología de *Urðr*, *Verðandi*, *Skuld*) |
-\n
+
