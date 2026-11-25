@@ -282,3 +282,8 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 
 - ✔ examinados: [70], [658], [659], [728].
 - **Quedan por pegar (uno por uno, a petición de Luis):** 1. Aristóteles, *Política* 1253a y 1254a; 2. Jenofonte, *Lac.* 3, 4; 3. García Sierra [729]-[736] y [71]; 4. Lakoff, «The Contemporary Theory of Metaphor»; 5. Stanford, *Poética* de Aristóteles y Derrida; 6. Plinio VII, 1 en latín y *Odisea* X, 302-306 en griego; 7. Kant, A 418 / B 446; 8. Whitehead; 9. *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux; 10. Antifonte fr. 44 y Filemón fr. 95.
+
+## 20 · Registro de enlaces uno por uno (25/11/2026)
+
+- ✘ Perseus, *Política* 1253a (`Aristot.+Pol.+1253a`): «unable to find a document». Se busca otra forma (por ejemplo, por número de texto de Perseus) o se pasa.
+- Cilindro de Aulo Gelio: en B.2 (pieza I). Pendiente abrir Gelio y Cicerón, *De fato*.
