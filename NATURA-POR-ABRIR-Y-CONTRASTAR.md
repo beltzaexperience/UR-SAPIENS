@@ -223,3 +223,36 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 - **Corrección respecto a la propuesta:** «odia en Rousseau el "retorno a la naturaleza"» pasa a «aborrece en Rousseau "las supuestas verdades de la revolución" y, con ellas, "la doctrina de la igualdad"»: Nietzsche mismo defiende un «retorno a la Naturaleza» (p. 113), y lo que aborrece es la moral de Rousseau (p. 114).
 - **Pendiente de B.7:** Aristóteles (*Política* 1253a, 1254a), Filemón (fr. 95) y Antifonte (fr. 44) **en el original** (el LSJ solo los cita); Jenofonte, *Constitución de los lacedemonios* 3, 4; García Sierra [728]-[736]; el **Digesto I** (*ius naturale*; esclavitud «contra naturam»), que está en The Latin Library (https://www.thelatinlibrary.com/justinian/digest1.shtml) y sirve también a C.1. La hipótesis «Roma domesticó la phýsis» sigue sin fuente y fuera del cuerpo.
 - **Falta de B para igualarlo a A:** B.6 (estética y metáfora), el latín de Plinio VII, 1, García Sierra [70] y [71], el dossier y, al final, lectores y Ultra.
+
+## 15 · Enlaces para B.6 y lo que queda de B (25/11/2026)
+
+✔ = abierto desde la sesión. ○ = forma estándar, sin poder comprobarla desde aquí.
+
+**Latín, ya abierto (The Latin Library)**
+- ✔ Digesto I: https://www.thelatinlibrary.com/justinian/digest1.shtml (1, 1, 1, 3; 1, 1, 4; 1, 5, 4, 1)
+- ✔ Digesto L: https://www.thelatinlibrary.com/justinian/digest50.shtml (50, 17, 32)
+- ✔ Instituciones I: https://www.thelatinlibrary.com/justinian/institutes1.shtml (1, 2 pr.; 1, 3, 2)
+- ✔ Cicerón, *De oratore* III: https://www.thelatinlibrary.com/cicero/oratore3.shtml (III, 155-160: la metáfora)
+
+**B.6 (estética y metáfora)**
+- ○ Aristóteles, *Poética* 21, 1457b (Perseus): https://www.perseus.tufts.edu/hopper/text?doc=Aristot.+Poet.+1457b
+- ○ Aristóteles, *Retórica* III, 1404b (Perseus): https://www.perseus.tufts.edu/hopper/text?doc=Aristot.+Rh.+1404b
+- ○ Lakoff, «The Contemporary Theory of Metaphor»: https://terpconnect.umd.edu/~israel/lakoff-ConTheorMetaphor.pdf
+- ○ Lakoff y Johnson, *Metaphors We Live By* (ficha de Chicago, ya en las notas): https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992
+- ○ Nietzsche, «Ueber Wahrheit und Lüge…»: https://www.nietzschesource.org/#eKGWB/WL
+- ○ Stanford: https://plato.stanford.edu/entries/aristotle-poetics/ · https://plato.stanford.edu/entries/plato-rhetoric/ · https://plato.stanford.edu/entries/ricoeur/ · https://plato.stanford.edu/entries/kant-aesthetics/ · https://plato.stanford.edu/entries/derrida/ (Derrida, «La mitología blanca»: la metáfora gastada)
+- ○ García Sierra, «Naturalismo estético» [658-659]: https://www.filosofia.org/filomat/df658.htm · df659.htm
+
+**B.7 (originales)**
+- ○ Aristóteles, *Política* 1253a y 1254a (Perseus): https://www.perseus.tufts.edu/hopper/text?doc=Aristot.+Pol.+1253a · https://www.perseus.tufts.edu/hopper/text?doc=Aristot.+Pol.+1254a
+- ○ Jenofonte, *Constitución de los lacedemonios* 3, 4 (Perseus): https://www.perseus.tufts.edu/hopper/text?doc=Xen.+Lac.+3.4
+- ○ García Sierra [728]-[736] (especies de «nación»): https://www.filosofia.org/filomat/df728.htm … df736.htm
+- Antifonte (fr. 44, Diels-Kranz) y Filemón (fr. 95): sin enlace; buscar «Antiphon On Truth fragment 44» y «Philemon fr. 95 Kock».
+
+**Resto de B**
+- ○ Plinio VII, 1 (latín): https://www.perseus.tufts.edu/hopper/text?doc=Plin.+Nat.+7.1 · *Od.* X, 302: https://www.perseus.tufts.edu/hopper/text?doc=Hom.+Od.+10.302
+- ○ García Sierra [70] y [71]: https://www.filosofia.org/filomat/df070.htm · df071.htm
+- ○ Nietzsche, *Götzen-Dämmerung* (alemán): https://www.nietzschesource.org/#eKGWB/GD
+- ○ Whitehead, *The Concept of Nature*: buscar en https://www.gutenberg.org/ebooks/search/?query=whitehead+concept+of+nature
+- ○ Kant, *Crítica de la razón pura* (A 418 / B 446): https://www.gutenberg.org/ebooks/4280
+- ○ Schelling, *Ideen zu einer Philosophie der Natur* (alemán): buscar en https://www.zeno.org/ («Schelling Ideen zu einer Philosophie der Natur»)
