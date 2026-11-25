@@ -367,3 +367,6 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 - **§219:** *Amalur* y Torrado. Pendiente: Barandiarán, *Mitología vasca* (la Tierra, Lur, Mari); origen de «ni tiranos ni esclavos»; Lucrecio II-V (Terra mater).
 
 - **§221:** DLE y Woodhouse (universo, cosmos, espacio) aplicados. Pendiente: Hesíodo, *Teogonía* 116 (¿*chásma* o *Cháos*?) en griego; *universus* (la descomposición *unus* + *versus* es de memoria); si Luis quiere su cadena «no hay blues sin esclavitud…» en el párrafo de UR de B.4.
+
+- **§222:** Hesíodo (UNAM) y Pálsson/Gangleri aplicados en B.2; variante del v. 116 resuelta. Pendiente: abrir `Ásatrú [Belief] PDF.pdf` (en `main`); resto de Pálsson (pp. 50-54); Völuspá y *Edda* de Snorri completas (solo hay resúmenes y extractos); decidir la guerra Ases-Vanes y la norna Urðr (Luis). Cadena «no hay Blues sin esclavitud…»: **Luis dice que no se añade**.
+
