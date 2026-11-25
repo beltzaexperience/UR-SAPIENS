@@ -307,3 +307,7 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 ## 24 · García Sierra [731] (25/11/2026)
 
 - ✔ [731] examinado. **Quedan de la serie:** [732]-[736], [740], [741], [744] y [71].
+
+## 25 · García Sierra [732] y [740] (25/11/2026)
+
+- ✔ [732] y [740] examinados. **Quedan de la serie:** [733]-[736], [741], [744] y [71]. Lista general como en § 22.
