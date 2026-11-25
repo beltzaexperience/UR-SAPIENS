@@ -363,3 +363,5 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 - **§217:** los PDF estaban en main; leídos por pasajes. Pendiente de leer: Kalu cap. 13, Sogyal cap. 4, Lama Yeshe (vacuidad), Bardo; Said, el resto; Varela cap. 8-9 y 11; Watsuji cap. 2 (desierto, pradera) y 3.
 
 - **§218:** nórdica: Wilkinson (antroposófico) y diapositivas (Gaiman). Pendiente: la *Edda* de Snorri y la *Völuspá*; decidir si entra la guerra Ases-Vanes.
+
+- **§219:** *Amalur* y Torrado. Pendiente: Barandiarán, *Mitología vasca* (la Tierra, Lur, Mari); origen de «ni tiranos ni esclavos»; Lucrecio II-V (Terra mater).
