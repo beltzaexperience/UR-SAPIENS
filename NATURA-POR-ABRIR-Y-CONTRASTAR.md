@@ -295,3 +295,7 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 - ✔ Aristóteles, *Política* I (1252b-1254b), en inglés. **Perseus funciona con la forma por número de texto** (`doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1253a`), no con la abreviada.
 - **Hallazgo (sin usar):** *Política* I, 8, 1256b: «si la naturaleza no hace nada incompleto ni en vano, ha hecho todos los animales por causa del hombre» (la estructura de la frase de Plinio). Pasa a la lectura de UR de B.1 si Luis lo aprueba.
 - Quedan: Jenofonte *Lac.* 3, 4; García Sierra [729]-[736] y [71]; Lakoff 1993; Stanford *Poética* y Derrida; Plinio VII, 1 (latín) y *Odisea* X (griego); Kant A 418 / B 446; Whitehead; Antifonte y Filemón; *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux.
+
+## 22 · García Sierra [729] y Aristóteles en B.1 (25/11/2026)
+
+- ✔ [729] examinado. **Quedan:** [730]-[736] (y [71]); Jenofonte *Lac.* 3, 4; Lakoff 1993; Stanford *Poética* y Derrida; Plinio VII, 1 (latín) y *Odisea* X (griego); Kant A 418 / B 446; Whitehead; Antifonte y Filemón; *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux; Aulo Gelio y Cicerón *De fato*; **Aristóteles, *Política* I, 8 en griego** (1256b).
