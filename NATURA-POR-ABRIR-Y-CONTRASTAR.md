@@ -299,3 +299,7 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 ## 22 · García Sierra [729] y Aristóteles en B.1 (25/11/2026)
 
 - ✔ [729] examinado. **Quedan:** [730]-[736] (y [71]); Jenofonte *Lac.* 3, 4; Lakoff 1993; Stanford *Poética* y Derrida; Plinio VII, 1 (latín) y *Odisea* X (griego); Kant A 418 / B 446; Whitehead; Antifonte y Filemón; *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux; Aulo Gelio y Cicerón *De fato*; **Aristóteles, *Política* I, 8 en griego** (1256b).
+
+## 23 · García Sierra [730] (25/11/2026)
+
+- ✔ [730] examinado. **Quedan de la serie:** [731]-[736] y [71]; más Cicerón (*Filípicas* X, 20) y Quintiliano en latín. Resto de la lista como en § 22.
