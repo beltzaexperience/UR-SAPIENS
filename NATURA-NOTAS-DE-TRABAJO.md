@@ -3304,3 +3304,8 @@ Luis los subió sin instrucción. Se leyó lo siguiente (el resto, sin leer) y s
 ## §211 · La ley contra natura (25/11/2026)
 
 - **Luis, lectura de UR (Legítima):** «La ley es contra-natura. No las diferentes formas de identidad. La ley es poder y hegemonía, la convivencia democrática y política se basa en el respeto a la diversidad natural y cultural.» **Escrito como párrafo de UR en B.7, tras Barad** (con un apoyo del propio Digesto: la esclavitud «contra la naturaleza»). Se apoya en Barad, Städtler y Florentino; se opone a la tradición del derecho natural. **Duda abierta:** si «la ley» es toda ley o la que persigue identidades (la frase, tal como está, dice toda).
+
+## §212 · Toda ley, el Estado y el AMOR (25/11/2026)
+
+- **Luis aclara (Legítima):** «toda la ley como poder y hegemonía, incluidas las constituciones de los Estado-Nación»; el Estado es un constructor contra natura y nunca puede ser democrático; la convivencia democrática y política se basa únicamente en el respeto a la diversidad; libertad, igualdad y fraternidad son falacias del Estado moderno contra natura; la convivencia se articula por la ideología del AMOR; «de lo contrario» la cadena de colisiones del libro. **Sustituye al párrafo corto de UR en B.7** (§211). La cadena es la de «Naturaleza del texto» (ya en el libro, con el «AMOR como única salida política»).
+- **Para vigilar:** (1) «nunca puede ser democrático» es categórica; el borrador la marca como Legítima. (2) Nietzsche, en B.7, rechaza también la «doctrina de la igualdad», por la razón contraria (la igualdad como veneno de la justicia); coinciden en el objetivo, no en el motivo. (3) García Sierra (la nación política la hace el Estado) apoya que el Estado es un constructor, no que sea contra natura.
