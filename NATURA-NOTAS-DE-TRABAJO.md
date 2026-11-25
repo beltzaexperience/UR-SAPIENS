@@ -3324,3 +3324,10 @@ Luis los subió sin instrucción. Se leyó lo siguiente (el resto, sin leer) y s
 - **Lo que da a la tesis de Luis:** el argumento de igualdad de la Revolución exige una sola lengua; la diversidad aparece como obstáculo, y la lengua, como máquina del Estado.
 - **Sin usar:** la propuesta de exigir saber leer, escribir y hablar francés para casarse; los remedios (opúsculos, canciones, teatro, carteles); la reforma del francés (Condillac, Michaelis, Sulzer); los *patois* y la superstición; la lista de dialectos.
 **Marcador:** fila NATURA ver el HTML. **Sin publicar el HTML.**
+
+## §215 · Declaración de 1789 (25/11/2026)
+
+- Luis subió el texto castellano (`es_ddhc.pdf`, 17 artículos). **Contrastado** lo recordado: art. 2 (finalidad de la asociación política: «la protección de los derechos naturales e imprescriptibles del Hombre»: libertad, propiedad, seguridad, resistencia a la opresión) y art. 6 (la ley, «expresión de la voluntad general», «la misma para todos»). **Aplicado en B.7**, antes de Grégoire.
+- **Hallazgos del texto:** (1) el Estado se funda en la naturaleza («derechos naturales, inalienables y sagrados»); (2) **no aparecen la fraternidad ni la diversidad** (la tríada completa, de memoria, es posterior; sin comprobar); (3) art. 2 (resistencia a la opresión) frente a art. 7 (obedecer «de inmediato» a quien actúe «en virtud de la Ley»); (4) art. 11: «hablar, escribir e imprimir libremente», sin nombrar lenguas; (5) «Hombre» y «Ciudadano», sin mención de las mujeres (art. 6 y 11 dicen «Ciudadano»).
+- **Pendiente:** decreto del 8 de pluvioso (maestros de francés); la fecha de entrada de «fraternidad» en el lema.
+**Marcador:** fila NATURA ver el HTML. **Sin publicar el HTML.**
