@@ -333,3 +333,8 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 ## 30 · Cuatro artículos de *Naturaleza y Libertad* y Latour (25/11/2026)
 
 - ✔ Ortigosa, Martins, Giorgianni; Latour (parcial); Andaluz (inicio). ✘ **Gutenberg 4280 (Kant, *Crítica de la razón pura*): no funciona.** **Quedan:** Kant A 418 / B 446 (por otra edición: o dejarlo), Whitehead; Antifonte y Filemón en el original; Jenofonte; Aulo Gelio y Cicerón *De fato*; *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux; Descola; resto de Latour (capítulo «Leaving the Cave»); Aristóteles, *Física* II, 1 y *Política* en griego; Böhme (obra de origen); Stanford, *Poética* de Aristóteles (no abre).
+
+## 31 · Städtler y Lobenhofer (25/11/2026)
+
+- ✔ Städtler, «Nature and Law» (el alemán, idéntico y duplicado); ✔ Lobenhofer, «Chaos». **Quedan:** Whitehead; Kant A 418 / B 446 (Gutenberg no funciona); Antifonte (DK fr. 44) y Filemón en el original; Jenofonte; Aulo Gelio y Cicerón *De fato*; *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux; Descola; resto de Latour; Hesíodo, *Teogonía* 116-153 en griego; Aristóteles, *Física* II, 1 y *Política* en griego.
+- **Otros artículos de la misma enciclopedia (OEPN) que podrían servir, sin comprobar:** «Nature» (Naturbegriff), «Law of nature», «Cosmos», «Physis» (no sé qué voces existen; Luis puede buscar en https://www.philosophie-der-natur.de o en el doi 10.11588/oepn.*).
