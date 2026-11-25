@@ -342,3 +342,8 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 ## 32 · Whitehead: enlace fallido (25/11/2026)
 
 - ✘ `archive.org/details/cu31924012068563` («Item cannot be found»): el identificador era una conjetura mía, no una comprobación. **Whitehead, *The Concept of Nature* (1920):** la «bifurcación de la naturaleza» ya está en B.4 por Stanford (Desmet e Irvine) y por la cita de 1920; el original queda como **pendiente sin urgencia**. Rutas posibles, sin comprobar: `archive.org/details/conceptofnature00whit` (identificador por convención de archive.org); búsqueda en `archive.org/search?query=whitehead+concept+of+nature`; cualquier edición en papel (cap. III, «Theories of the Bifurcation of Nature»).
+
+## 33 · *Física* de Aristóteles (griego, Mourmouras) (25/11/2026)
+
+- ✔ Abierta por Luis (PDF y physics.ntua.gr): II, 1 (cama, definición), II, 2, II, 8, IV, 1 contrastados y aplicados (§207). Quedan sin usar los candidatos del §207.
+- **Pendiente:** Hesíodo, *Teogonía* 116 (edición griega) y Aristóteles, *Política* I en griego (URN de Perseus); Antifonte DK 44 y Filemón fr. 95 en el original; Descola.
