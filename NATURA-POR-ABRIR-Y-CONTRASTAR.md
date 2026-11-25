@@ -209,3 +209,10 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 - p. 113, «Pasatiempos intelectuales», XLVIII: «También yo hablo de un “retorno a la Naturaleza”, aunque no se trata propiamente de una vuelta atrás, sino de una marcha hacia adelante y hacia lo alto, hacia la Naturaleza sublime, libre y aun terrible, que juega y tiene derecho a jugar con los grandes destinos»; p. 71: «Rousseau, o el retorno a la Naturaleza *in impuris naturalibus*».
 - **Aviso de la traducción:** el capítulo que en alemán es «*Streifzüge eines Unzeitgemässen*» sale aquí como «Pasatiempos intelectuales»; la numeración romana es la de la edición. El OCR puede tener erratas: se ha cotejado cada cita con el texto impreso.
 - **Falta:** el original alemán; *Sobre la esencia y el concepto de la φύσις* de Heidegger; el § 2 de «Sobre verdad y mentira».
+
+## 13 · Pestaña II creada (25/11/2026)
+
+- **Creada** «NATURFILOSOFÍA · ESTUDIO DEL PENSAMIENTO DE LA VIDA II» en URS, tras la I, con **B.4** (3 párrafos: Kant y Schelling; Nietzsche; Whitehead, Foucault y Heidegger) y **B.5** (4 párrafos: Jung; Lacan; las tres preguntas; Cambray y Neumann). Glosa de 11 entradas. Marcador: 84 piezas en URS, 74 en libro puro.
+- **Quedan en B.4:** las obras (Schelling, *Ideas…* y *Primer esbozo*; Heidegger, *Sobre la esencia y el concepto de la φύσις*; Whitehead, *El concepto de naturaleza*; Foucault, *Las palabras y las cosas*; Kant, A 418 / B 446; Nietzsche, el alemán del *Crepúsculo* y el § 2 de «Sobre verdad y mentira»).
+- **Quedan en B.5:** Jung, *Sincronicidad*, cap. III: la «filosofía china y medieval» (el PDF está borrado; **(Luis)** volver a subirlo si interesa); la carta a Neumann (*Letters*, vol. 2); Soal y Goldney, Borel.
+- **Siguen en URIM:** B.6 (estética y metáfora) y B.7 (política del pensamiento); entrarán en la pestaña II como B.2 y B.3 en la I.
