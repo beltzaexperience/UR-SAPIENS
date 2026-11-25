@@ -3453,3 +3453,11 @@ Luis subió diez textos y pegó la SEP «Nāgārjuna», Wikipedia «Svabhava», 
 - **Fuera de NATURA** (orden de Luis). Nada cambia en B ni en el capítulo.
 **Marcador:** libro puro 145.962 palabras (≈584 págs.); NATURA sin cambio (34.159 / 136); cambia solo URIM y los totales. **Sin publicar el HTML.**
 
+## §228 · Revisión final de B: informe de propuestas, sin cambios en el HTML (25/11/2026)
+
+- **Luis:** «ok» (seguir con la revisión final: filas 57, 92, 105 y 85, `(*-tit)`, título del capítulo, lectura en voz alta).
+- **Hecho:** `INFORME-REVISION-FINAL-NATURFILOSOFIA-25-11-26.md` (mapa de secciones con las seis preguntas de la Norma 25; 4 propuestas de secciones con opciones de título; 7 de párrafos con el punto de corte exacto; inventario de imágenes; Norma 53, puntos 3 a 5; títulos y marcas) y `NATURFILOSOFIA-LECTURA-EN-VOZ-ALTA.txt` (cuerpo de las dos piezas sin llamadas ni glosa; 9.167 palabras, unos 60 minutos). **No se ha tocado `urtz.html`** (la norma deja a Luis los títulos, la respiración y las imágenes).
+- **Hallazgos:** (1) **B.2 no cumple su título**: sus primeros 712 palabras (la *phýsis*, el Caos, Ginnungagap y las nornas) tratan de nacer y de lo primero que hubo, y Eriúgena y Spinoza empiezan en el tercer párrafo; propuesta de partirla. (2) **B.7 es un solo tramo de 2.688 palabras**, con tres giros de tema; propuesta de partirla en tres (la más necesaria: la de filología y Oriente). (3) Los 9 párrafos de más de 250 palabras bajan a 2 (los dos de Luis) con 7 particiones. (4) **Imágenes en voz propia: ninguna**; todo lo figurado viene de las fuentes o de las lecturas de UR. (5) B.3 (160 palabras) y la posición de Ases y Vanes quedan como pregunta.
+- **Pendiente de Luis:** contestar a las propuestas 1 a 4 y a las particiones de párrafo (5 a 11); dar los títulos por definitivos para quitar `(*-tit)`; título del capítulo; leer en voz alta; los ocho lectores solo con orden expresa; dossier de B.
+**Marcador:** sin cambios (fila NATURA 34.159 palabras / 136 págs.). **Sin publicar el HTML.**
+
