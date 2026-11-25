@@ -355,3 +355,7 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 - ✔ Morton y Bennett (§209). **Pendiente:** Morton, *Ecology without Nature* y *El pensamiento ecológico*; Bennett, caps. 1-8.
 
 - **Pendiente (§210):** Barad pp. 33-53; textos sobre ecología queer (Morton, Mortimer-Sandilands y Erickson; sin abrir).
+
+## 35 · Oriente (25/11/2026)
+
+- ✔ Abiertos: ver §216. **Pendiente por abrir:** Guo, secciones 4 en adelante (*li*); Needham (1951) en el original; Varela, Thompson y Rosch, cap. 10; Said sobre Renan; Watsuji, capítulos; el *Libro tibetano de los muertos* (100 págs.); capítulos de Sogyal (4), Kalu (13), Lama Yeshe (vacuidad) y Dalai Lama (interdependencia; sin índice visto).
