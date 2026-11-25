@@ -361,3 +361,5 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 - ✔ Abiertos: ver §216. **Pendiente por abrir:** Guo, secciones 4 en adelante (*li*); Needham (1951) en el original; Varela, Thompson y Rosch, cap. 10; Said sobre Renan; Watsuji, capítulos; el *Libro tibetano de los muertos* (100 págs.); capítulos de Sogyal (4), Kalu (13), Lama Yeshe (vacuidad) y Dalai Lama (interdependencia; sin índice visto).
 
 - **§217:** los PDF estaban en main; leídos por pasajes. Pendiente de leer: Kalu cap. 13, Sogyal cap. 4, Lama Yeshe (vacuidad), Bardo; Said, el resto; Varela cap. 8-9 y 11; Watsuji cap. 2 (desierto, pradera) y 3.
+
+- **§218:** nórdica: Wilkinson (antroposófico) y diapositivas (Gaiman). Pendiente: la *Edda* de Snorri y la *Völuspá*; decidir si entra la guerra Ases-Vanes.
