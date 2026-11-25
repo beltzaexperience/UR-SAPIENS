@@ -351,3 +351,5 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 ## 34 · Haraway, Morizot, Coccia, Barad (25/11/2026)
 
 - ✔ Abiertos por Luis (PDF): lo leído está en §208. **Pendiente:** Morizot, *Raviver les braises du vivant* y *Manières d’être vivant*; Lynn White, «The Historical Roots of Our Ecologic Crisis» (1967), original; Coccia, caps. 2-3, 5-7, 10-15; Haraway completo (Cyborgs y primates); Barad, pp. 33-53; la situación actual de las leyes sobre «crímenes contra natura» (Barad escribe en 2012).
+
+- ✔ Morton y Bennett (§209). **Pendiente:** Morton, *Ecology without Nature* y *El pensamiento ecológico*; Bennett, caps. 1-8.
