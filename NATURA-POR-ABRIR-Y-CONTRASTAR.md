@@ -338,3 +338,7 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 
 - ✔ Städtler, «Nature and Law» (el alemán, idéntico y duplicado); ✔ Lobenhofer, «Chaos». **Quedan:** Whitehead; Kant A 418 / B 446 (Gutenberg no funciona); Antifonte (DK fr. 44) y Filemón en el original; Jenofonte; Aulo Gelio y Cicerón *De fato*; *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux; Descola; resto de Latour; Hesíodo, *Teogonía* 116-153 en griego; Aristóteles, *Física* II, 1 y *Política* en griego.
 - **Otros artículos de la misma enciclopedia (OEPN) que podrían servir, sin comprobar:** «Nature» (Naturbegriff), «Law of nature», «Cosmos», «Physis» (no sé qué voces existen; Luis puede buscar en https://www.philosophie-der-natur.de o en el doi 10.11588/oepn.*).
+
+## 32 · Whitehead: enlace fallido (25/11/2026)
+
+- ✘ `archive.org/details/cu31924012068563` («Item cannot be found»): el identificador era una conjetura mía, no una comprobación. **Whitehead, *The Concept of Nature* (1920):** la «bifurcación de la naturaleza» ya está en B.4 por Stanford (Desmet e Irvine) y por la cita de 1920; el original queda como **pendiente sin urgencia**. Rutas posibles, sin comprobar: `archive.org/details/conceptofnature00whit` (identificador por convención de archive.org); búsqueda en `archive.org/search?query=whitehead+concept+of+nature`; cualquier edición en papel (cap. III, «Theories of the Bifurcation of Nature»).
