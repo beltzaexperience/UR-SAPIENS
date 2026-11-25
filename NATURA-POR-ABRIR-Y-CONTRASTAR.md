@@ -303,3 +303,7 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 ## 23 · García Sierra [730] (25/11/2026)
 
 - ✔ [730] examinado. **Quedan de la serie:** [731]-[736] y [71]; más Cicerón (*Filípicas* X, 20) y Quintiliano en latín. Resto de la lista como en § 22.
+
+## 24 · García Sierra [731] (25/11/2026)
+
+- ✔ [731] examinado. **Quedan de la serie:** [732]-[736], [740], [741], [744] y [71].
