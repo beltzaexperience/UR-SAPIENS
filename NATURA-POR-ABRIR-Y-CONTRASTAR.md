@@ -271,3 +271,9 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 - **B.6:** Ricoeur, *La métaphore vive* (1975); Kant, §§ 45-46. **B.7:** Ricoeur y Changeux, *Ce qui nous fait penser. La nature et la règle* (Odile Jacob, 1998): abrir el libro.
 - **A confirmar:** (a) la lectura «las acepciones de un diccionario serían metáforas muertas» y (b) «la naturaleza invocada como argumento legitima y no necesita acuerdo» son aplicaciones de Claude.
 - Estado de B: faltan el latín de Plinio VII, 1, García Sierra [70], [71], [658]-[659], el dossier de B y, al final, lectores y Ultra.
+
+## 18 · *Götzen-Dämmerung* en alemán (25/11/2026)
+
+- ✔ **Nietzsche, *Götzen-Dämmerung* (alemán): examinado entero.** Correcciones de traducción en B.4 y B.7 y cinco pasajes nuevos en B.4, B.6 y B.7 (nota §194).
+- Sin usar todavía: «Moral als Widernatur» (4), «Naturwerth des Egoismus» (33), «Schön und hässlich» (19-20), Rousseau *in impuris naturalibus* y Dante (§ 1 de «Streifzüge»), Goethe (48-49).
+- **Pendientes que quedan en la lista de enlaces:** 1, 2, 3, 4 (B.6), 5, 6, 7, 8 (B.7), 9, 10, 12, 13 (resto), más la *Crítica del juicio*, *La métaphore vive* y *Ce qui nous fait penser*.
