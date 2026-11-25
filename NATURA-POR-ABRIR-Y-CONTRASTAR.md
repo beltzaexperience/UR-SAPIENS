@@ -365,3 +365,5 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 - **§218:** nórdica: Wilkinson (antroposófico) y diapositivas (Gaiman). Pendiente: la *Edda* de Snorri y la *Völuspá*; decidir si entra la guerra Ases-Vanes.
 
 - **§219:** *Amalur* y Torrado. Pendiente: Barandiarán, *Mitología vasca* (la Tierra, Lur, Mari); origen de «ni tiranos ni esclavos»; Lucrecio II-V (Terra mater).
+
+- **§221:** DLE y Woodhouse (universo, cosmos, espacio) aplicados. Pendiente: Hesíodo, *Teogonía* 116 (¿*chásma* o *Cháos*?) en griego; *universus* (la descomposición *unus* + *versus* es de memoria); si Luis quiere su cadena «no hay blues sin esclavitud…» en el párrafo de UR de B.4.
