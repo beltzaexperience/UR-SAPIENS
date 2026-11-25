@@ -329,3 +329,7 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 ## 29 · Böhme, Derrida y [71] (25/11/2026)
 
 - ✔ Böhme, Derrida (Stanford) y García Sierra [71]. ✘ Stanford, *Poética* de Aristóteles: «no abre». **Quedan:** Antifonte y Filemón en el original (la cama de Antifonte, ya por Böhme y [70]); Jenofonte; Kant A 418 / B 446 y Whitehead; Aulo Gelio y Cicerón *De fato*; *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux; Descola y Latour; Aristóteles, *Física* II, 1 y *Política* en griego; Büchner, *Woyzeck*; la obra de Böhme (*Leibsein als Aufgabe*, por confirmar).
+
+## 30 · Cuatro artículos de *Naturaleza y Libertad* y Latour (25/11/2026)
+
+- ✔ Ortigosa, Martins, Giorgianni; Latour (parcial); Andaluz (inicio). ✘ **Gutenberg 4280 (Kant, *Crítica de la razón pura*): no funciona.** **Quedan:** Kant A 418 / B 446 (por otra edición: o dejarlo), Whitehead; Antifonte y Filemón en el original; Jenofonte; Aulo Gelio y Cicerón *De fato*; *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux; Descola; resto de Latour (capítulo «Leaving the Cave»); Aristóteles, *Física* II, 1 y *Política* en griego; Böhme (obra de origen); Stanford, *Poética* de Aristóteles (no abre).
