@@ -287,3 +287,5 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 
 - ✘ Perseus, *Política* 1253a (`Aristot.+Pol.+1253a`): «unable to find a document». Se busca otra forma (por ejemplo, por número de texto de Perseus) o se pasa.
 - Cilindro de Aulo Gelio: en B.2 (pieza I). Pendiente abrir Gelio y Cicerón, *De fato*.
+- ✘ Perseus, Jenofonte, *Lac.* 3, 4 (`Xen.+Lac.+3.4`): mismo error. **La forma abreviada de Perseus no funciona**; hay que usar otra fuente. Desde la sesión, Perseus y Gutenberg dan 403 del proxy (no se rodea).
+- **Vías para la *Política* (1253a, 1254a):** (1) MIT Internet Classics, traducción de Jowett, libro I entero: `classics.mit.edu/Aristotle/politics.1.one.html`; (2) Perseus por número de texto (Rackham, inglés): `Perseus:text:1999.01.0058:book=1:section=1253a` (no comprobado); (3) cualquier edición en español del libro I, capítulos 2 y 5.
