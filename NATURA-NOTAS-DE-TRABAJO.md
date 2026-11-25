@@ -3349,3 +3349,12 @@ Luis subió diez textos y pegó la SEP «Nāgārjuna», Wikipedia «Svabhava», 
 - **Sin usar (con texto ya extraído):** Kalu, Sogyal, Lama Yeshe y el *Libro tibetano de los muertos* (sin leer más que prólogos y portadas); Dalai Lama (escaneo sin OCR).
 - **Borrado de `main`:** `es_ddhc.pdf` (Declaración de 1789; leída y aplicada). **Los otros nueve PDF siguen en `main`**; Luis decide cuáles se borran (los borrados no se publican solos).
 **Marcador:** fila NATURA 35.391 palabras / 141 págs.; glosa pieza II, 76 entradas alineadas. **Sin publicar el HTML.**
+
+## §218 · Mitología nórdica (25/11/2026)
+
+- Luis subió dos PDF: **Roy Wilkinson, *La mitología nórdica y su significado*** (Editorial Antroposófica, 2007; 159 págs.; orientación **antroposófica**) y unas **diapositivas «Mitología nórdica»** (30 págs.; textos de Neil Gaiman, *Mitos nórdicos*, 2017, que es una recreación literaria). Ninguno es fuente primaria. Se leyó el capítulo «La Creación» (pp. 11-12 y comentario, pp. 17-18) y «La guerra entre los Ases y los Vanes» (pp. 49-50).
+- **Aplicado en B.2 (pieza I):** Ginnungagap («gran vacío»), Niflheim y Muspelheim, Ymir y Audumla; los dioses hacen la tierra, el mar y el cielo con el cuerpo de Ymir. Va junto al Caos de Hesíodo (Lobenhofer ya citaba Ginnungagap). **Solo el relato**; la interpretación antroposófica (Ginnungagap como «caos» tras «tres estados planetarios»; los Ases guían la «autoconciencia»; los Vanes, «épocas atlantes») **no se usa**.
+- **Candidato sin aplicar (decide Luis):** la **guerra entre Ases y Vanes** (Wilkinson, pp. 49-50; diapositivas): los Vanes, dioses de la fertilidad («todo lo que crece y vive, el viento, el calor, la germinación»), los Ases, guerreros; ninguno vence, se «necesitaban mutuamente», intercambian rehenes (Njord, Frey y Freya a Asgard). Resuena con Ama-Lur y con «el respeto a la diversidad», pero esa lectura es de UR, no del libro. Otros: Yggdrasil (el árbol del mundo), Loki, Ragnarök.
+- **Pendiente:** fuentes primarias: *Edda* de Snorri (*Gylfaginning*) y *Völuspá*; ninguna abierta.
+- **Borrado de `main`:** todos los PDF (ver abajo), por orden de Luis («Borra todo»).
+**Marcador:** fila NATURA  palabras; glosa pieza I, 27 entradas. **Sin publicar el HTML.**
