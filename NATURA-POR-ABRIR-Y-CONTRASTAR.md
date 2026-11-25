@@ -374,3 +374,5 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 
 - **§224:** *ur* «agua» contrastado (EH); Öcalan retirado por Luis; Ases y Vanes incluida en B.7. Pendiente: la línea de definición de *ur* en el EH (para citar la palabra completa); Vianello, Hesíodo y Oriente (West, Walcot, Güterbock, *Enûma Elis*), solo si Luis lo quiere en B.2; Snorri y la *Völuspá* completas; Dumézil.
 
+- **§225 (B cerrada en contenido):** pendiente de decisión de Luis: frases largas (65), poda de glosas con depósito en GLOSAS EXTENDIDAS, partir B.4, revisión final (fila 85, 57/92/105, `(*-tit)`, título del capítulo, voz alta); el dossier de B y los lectores quedan para después. Informe: `INFORME-RELOJERO-ULTRA-NATURFILOSOFIA-25-11-26.md`.
+
