@@ -256,3 +256,10 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 - ○ Whitehead, *The Concept of Nature*: buscar en https://www.gutenberg.org/ebooks/search/?query=whitehead+concept+of+nature
 - ○ Kant, *Crítica de la razón pura* (A 418 / B 446): https://www.gutenberg.org/ebooks/4280
 - ○ Schelling, *Ideen zu einer Philosophie der Natur* (alemán): buscar en https://www.zeno.org/ («Schelling Ideen zu einer Philosophie der Natur»)
+
+## 16 · B.6 aplicado (25/11/2026)
+
+- **Texto en la pestaña II** (subtítulo «Estética y metáfora: nombrar la naturaleza con otra cosa», 6 párrafos; 9 entradas de glosa nuevas; pestaña II con 26 entradas): Aristóteles (*Poética* 21, *Retórica* III, 2; en inglés), Cicerón (*De oratore* III, 155; latín), Nietzsche (§ 1; alemán), Platón (*Gorgias*, *República* X; por Stanford), Lakoff y Johnson (caps. 6-7), DLE y Schelling (SW I/3, 627; por Stanford). Calicles (*Gorgias* 483c-e) entra también en B.7.
+- **A confirmar:** (a) la frase que aplica la personificación de Lakoff y Johnson a Cicerón, Lucrecio y Plinio es aplicación mía; (b) autor de «Plato on Rhetoric and Poetry» (Griswold, de memoria); (c) «a la tercera generación de la naturaleza» (*República* X, 597e) por Stanford, no por el griego.
+- **Pendiente de B.6:** Aristóteles y Platón en griego; Lakoff, «The Contemporary Theory of Metaphor» y *Women, Fire, and Dangerous Things*; García Sierra [658]-[659]; Derrida, «La mitología blanca».
+- **Falta de B para igualarlo a A:** el latín de Plinio VII, 1, García Sierra [70] y [71], el dossier y, al final, lectores y Ultra.
