@@ -372,3 +372,5 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 
 - **§223:** nornas y Urðr (fijos, B.2 y B.5); Öcalan pp. 225 y 227 y Hesíodo (B.7). Pendiente: **título y edición** del libro de Öcalan (pedir a Luis la portada); un diccionario etimológico nórdico para *Urðr*; West y Walcot sobre Hesíodo y Oriente (citados por Vianello); Güterbock, *The Song of Ullikummi*; *Enûma Elis*; Ases y Vanes: decide Luis; Dumézil, de memoria, sin abrir.
 
+- **§224:** *ur* «agua» contrastado (EH); Öcalan retirado por Luis; Ases y Vanes incluida en B.7. Pendiente: la línea de definición de *ur* en el EH (para citar la palabra completa); Vianello, Hesíodo y Oriente (West, Walcot, Güterbock, *Enûma Elis*), solo si Luis lo quiere en B.2; Snorri y la *Völuspá* completas; Dumézil.
+
