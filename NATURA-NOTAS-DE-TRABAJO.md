@@ -3300,3 +3300,7 @@ Luis los subió sin instrucción. Se leyó lo siguiente (el resto, sin leer) y s
 - **Barad, pp. 29-32 («natura-queer»):** *queer* como cuestionamiento radical de identidades y binarios, incluido naturaleza/cultura; lo queer residiría «en la naturaleza misma del *spacetimemattering*»; Haldane; átomos «ultraqueer»; la identidad «múltiple dentro de sí misma»; no «invitar a los no humanos al redil de lo queer». **Aplicado en B.4** (la parte de «crímenes contra natura» sigue en B.7). Sin leer: pp. 33-53.
 - **Candidatos sin abrir (de memoria, no comprobados):** Morton sobre ecología queer; Mortimer-Sandilands y Erickson (eds.), *Queer Ecologies* (2010); Haraway, *Seguir con el problema* (Consonni, 2020; citado en la reseña de Morton). Pregunta abierta a Luis: si «natura-queer» es término suyo o remite a un texto.
 **Marcador:** fila NATURA 30.923 palabras / 123 págs.; glosa pieza II 68. **Sin publicar el HTML.**
+
+## §211 · La ley contra natura (25/11/2026)
+
+- **Luis, lectura de UR (Legítima):** «La ley es contra-natura. No las diferentes formas de identidad. La ley es poder y hegemonía, la convivencia democrática y política se basa en el respeto a la diversidad natural y cultural.» **Escrito como párrafo de UR en B.7, tras Barad** (con un apoyo del propio Digesto: la esclavitud «contra la naturaleza»). Se apoya en Barad, Städtler y Florentino; se opone a la tradición del derecho natural. **Duda abierta:** si «la ley» es toda ley o la que persigue identidades (la frase, tal como está, dice toda).
