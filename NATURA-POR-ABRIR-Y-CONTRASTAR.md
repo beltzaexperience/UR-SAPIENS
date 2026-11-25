@@ -376,3 +376,5 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 
 - **§225 (B cerrada en contenido):** pendiente de decisión de Luis: frases largas (65), poda de glosas con depósito en GLOSAS EXTENDIDAS, partir B.4, revisión final (fila 85, 57/92/105, `(*-tit)`, título del capítulo, voz alta); el dossier de B y los lectores quedan para después. Informe: `INFORME-RELOJERO-ULTRA-NATURFILOSOFIA-25-11-26.md`.
 
+- **§226:** frases largas, glosas podadas (íntegro en GLOSAS EXTENDIDAS) y B.4 partido: hechos. Quedan para Luis: título del segundo subapartado de B.4, revisión final (fila 85, 57/92/105, `(*-tit)`, título del capítulo, voz alta); después, dossier de B y lectores.
+

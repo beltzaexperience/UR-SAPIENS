@@ -3432,3 +3432,14 @@ Luis subió diez textos y pegó la SEP «Nāgārjuna», Wikipedia «Svabhava», 
 - **No hecho aún:** lectura de tipo S, L y O de la matriz, las cinco filas de Luis, relectura íntegra de `NORMA-METODO.md`; lectores (ocho) y dossier de B.
 **Marcador:** fila NATURA 39.078 palabras / 156 págs.; glosa pieza I, 28 entradas; pieza II, 81. **Sin publicar el HTML.**
 
+## §226 · Frases largas, poda de glosas y B.4 partido (25/11/2026)
+
+- **Luis:** «1 ok. 2 ok. 3 ok.» (partir las frases de más de 50 palabras como en A, podar las glosas con depósito en GLOSAS EXTENDIDAS y partir B.4 en dos subapartados). Detalle y medidas en `INFORME-RELOJERO-ULTRA-NATURFILOSOFIA-25-11-26.md`, apartado 6.
+- **1 · Frases largas** (copia `urtz_antes_frases.html`): 63 frases partidas (85 cortes); quedan 3 en la pieza I (citas) y 2 en la II (palabras de Luis). Frases de más de 40 palabras: 41,7 % → 21,0 % (P1) y 36,0 % → 12,4 % (P2).
+- **2 · Glosas** (copia `urtz_antes_glo.html`): depósito íntegro en GLOSAS EXTENDIDAS (dos pestañas nuevas, 28 y 81 entradas); poda telegráfica sin quitar entradas ni llamadas: P1, 2.770 → 1.515 palabras (40 % del total); P2, 8.945 → 5.261 (43 %). Se conservan loci, páginas y fuentes; sale lo largo. **Lo que se pierde de la glosa visible:** las citas largas de apoyo y algunos datos secundarios (p. ej. las fechas de consulta de la SEP, el reparto de ediciones de Nietzsche, los ejemplos del uso de *ur* en el EH, la lista de ponentes de Städtler); todo está en GLOSAS EXTENDIDAS.
+- **3 · B.4 partido** (copia `urtz_antes_b4.html`): «Filosofía moderna: de la ley a la productividad» y **«Filosofía contemporánea: la naturaleza como agente, malla y universo»** (título provisional; decide Luis). Sin cambios de texto.
+- **Retoque:** «El cuerpo es a la vez lo dado…» → «El *Leib* es a la vez lo dado…» (Norma 54).
+- **Fila NATURA corregida:** el depósito en GLOSAS EXTENDIDAS suma al anexo de URS y **no** a NATURA ni al libro puro; la fila se calcula solo con las dos piezas de B (cuerpo y glosa): 39.078 → **34.159 palabras / 136 págs.**.
+- **Pendiente de Luis (revisión final):** fila 85 («conserva mojado»), filas 57/92/105, quitar `(*-tit)` (y confirmar títulos), título del capítulo, lectura en voz alta; después, dossier de B y los ocho lectores.
+**Marcador:** libro puro 145.962 palabras (≈584 págs.; estimación ≈565); fila NATURA 34.159 palabras / 136 págs.; glosa pieza I, 28 entradas; pieza II, 81. **Sin publicar el HTML.**
+
