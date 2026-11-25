@@ -277,3 +277,8 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 - ✔ **Nietzsche, *Götzen-Dämmerung* (alemán): examinado entero.** Correcciones de traducción en B.4 y B.7 y cinco pasajes nuevos en B.4, B.6 y B.7 (nota §194).
 - Sin usar todavía: «Moral als Widernatur» (4), «Naturwerth des Egoismus» (33), «Schön und hässlich» (19-20), Rousseau *in impuris naturalibus* y Dante (§ 1 de «Streifzüge»), Goethe (48-49).
 - **Pendientes que quedan en la lista de enlaces:** 1, 2, 3, 4 (B.6), 5, 6, 7, 8 (B.7), 9, 10, 12, 13 (resto), más la *Crítica del juicio*, *La métaphore vive* y *Ce qui nous fait penser*.
+
+## 19 · García Sierra [70], [658], [659], [728] (25/11/2026)
+
+- ✔ examinados: [70], [658], [659], [728].
+- **Quedan por pegar (uno por uno, a petición de Luis):** 1. Aristóteles, *Política* 1253a y 1254a; 2. Jenofonte, *Lac.* 3, 4; 3. García Sierra [729]-[736] y [71]; 4. Lakoff, «The Contemporary Theory of Metaphor»; 5. Stanford, *Poética* de Aristóteles y Derrida; 6. Plinio VII, 1 en latín y *Odisea* X, 302-306 en griego; 7. Kant, A 418 / B 446; 8. Whitehead; 9. *Crítica del juicio*, *La métaphore vive*, Ricoeur-Changeux; 10. Antifonte fr. 44 y Filemón fr. 95.
