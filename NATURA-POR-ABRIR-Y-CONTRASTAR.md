@@ -347,3 +347,7 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 
 - ✔ Abierta por Luis (PDF y physics.ntua.gr): II, 1 (cama, definición), II, 2, II, 8, IV, 1 contrastados y aplicados (§207). Quedan sin usar los candidatos del §207.
 - **Pendiente:** Hesíodo, *Teogonía* 116 (edición griega) y Aristóteles, *Política* I en griego (URN de Perseus); Antifonte DK 44 y Filemón fr. 95 en el original; Descola.
+
+## 34 · Haraway, Morizot, Coccia, Barad (25/11/2026)
+
+- ✔ Abiertos por Luis (PDF): lo leído está en §208. **Pendiente:** Morizot, *Raviver les braises du vivant* y *Manières d’être vivant*; Lynn White, «The Historical Roots of Our Ecologic Crisis» (1967), original; Coccia, caps. 2-3, 5-7, 10-15; Haraway completo (Cyborgs y primates); Barad, pp. 33-53; la situación actual de las leyes sobre «crímenes contra natura» (Barad escribe en 2012).
