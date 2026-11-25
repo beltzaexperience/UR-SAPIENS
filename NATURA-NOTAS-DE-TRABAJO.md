@@ -3421,3 +3421,14 @@ Luis subió diez textos y pegó la SEP «Nāgārjuna», Wikipedia «Svabhava», 
 - **Pendiente (fuentes primarias):** Snorri y la *Völuspá* completas; Dumézil (de memoria, sin abrir).
 **Marcador:** fila NATURA 39.308 palabras / 157 págs.; glosa pieza I, 28 entradas; pieza II, 81. **Sin publicar el HTML.**
 
+## §225 · B cerrada en contenido; primera corrección del Ultra (25/11/2026)
+
+- **Luis (25/11/26):** «Creo que ya tenemos la naturfilosofía “completa” ya que podríamos seguir sin fin. Algo de extrema necesidad no hace falta o cerramos B y corregimos.» **Valoración mía (Razonable):** no falta nada de extrema necesidad. Lo que queda abierto es fuentes primarias y candidatos ya anotados en `NATURA-POR-ABRIR-Y-CONTRASTAR.md`; no bloquean B. **B queda cerrada en contenido.** Nuevas fuentes solo por «extrema necesidad» (decide Luis).
+- **Corrección (Relojero Ultra), parcial:** recorridos 3, 4 y 5 medidos y leídos; informe nuevo `INFORME-RELOJERO-ULTRA-NATURFILOSOFIA-25-11-26.md`. **Aplicado (tipo A, copias `urtz_antes_pur.html` y `urtz_antes_5056.html`):**
+  1. **Cautelas de proceso retiradas** de cuerpo y glosa de las dos piezas (la regla de §146). **Fallo mío, reconocido:** las había metido yo hoy en las entradas nuevas («que he abierto», «que he podido ver», «texto pegado por Luis», «sin leer la página», «OCR; acentos no fiables»…). Quedan en los borradores de URIM, que es donde van.
+  2. **Normas 50 y 56:** fuera del cuerpo los loci (*De finibus* V, 26; *Física* II, 1; Ulpiano, I, 1, 4…), los años de edición y el día y mes (4 de junio de 1794); todo figura en la glosa (se añadió a la de Said: Sacy, Société Asiatique 1822; *Chrestomathie arabe* 1806 y 1827). Se quedan los años hito (1789, 1794, 1927, 1943, 1806, 1830). Cifras por 100 palabras: 1,5 y 0,9 → 0,2 y 0,2.
+  3. **Norma 3:** cinco «aparece» reescritos (no las palabras de Luis).
+- **Para decidir (Luis):** (1) partir las 65 frases de más de 50 palabras como en A (§146, 1B): P1, 41,7 % de las frases pasan de 40 palabras; P2, 36,0 %; (2) poda telegráfica de las glosas, con depósito íntegro en GLOSAS EXTENDIDAS (P1, 54 %; P2, 56 %; zona 24-43 %); (3) partir B.4 en dos subapartados; (4) los pendientes de la lista de revisión final: fila 85 («conserva mojado»), filas 57/92/105, quitar `(*-tit)`, título del capítulo, lectura en voz alta.
+- **No hecho aún:** lectura de tipo S, L y O de la matriz, las cinco filas de Luis, relectura íntegra de `NORMA-METODO.md`; lectores (ocho) y dossier de B.
+**Marcador:** fila NATURA 39.078 palabras / 156 págs.; glosa pieza I, 28 entradas; pieza II, 81. **Sin publicar el HTML.**
+
