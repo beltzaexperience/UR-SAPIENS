@@ -10,4 +10,10 @@ Trabajo en curso (26/11/2026). **Una palabra cada vez, con la entrada del DLE qu
 
 | N.º | Lema | DLE (pegado por Luis) | Base | Gramática | ¿Agua o gesto en el significado? | EI de URIM | Veredicto |
 |---|---|---|---|---|---|---|---|
-| 0 | *-ura* (sufijo) | pendiente | — | — | — | — | — |
+| 0 | *-ura* (sufijo) | «Del lat. *-ūra*. 1. suf. Forma sustantivos derivados de verbos o de participios pasivos que pueden significar cosas concretas. *Montura*, *envoltura*. 2. suf. Forma sustantivos derivados de adjetivos que suelen denotar la cualidad relacionada con la palabra de la que derivan. *Blancura*, *bravura*, *frescura*.» (pegado por Luis el 26/11/26; idéntico a lo ya recogido el 17/11/26 y citado en NATURETIMOLOGÍA I) | — | **Dos usos del DLE:** (1) sobre verbos o participios: cosas concretas; (2) sobre adjetivos: cualidad | No | — | **La familia son dos:** la participial (*-tura*, *-dura*, *-sura*: aquí cabe la 'T') y la que viene de adjetivos (*blancura*, *bravura*, *frescura*, *finura*, *amargura*, *hermosura*: sin participio, sin 'T'). Cada una se prueba aparte. |
+
+## Notas de la ficha 0
+
+- **Lo que ya estaba:** la entrada del DLE de *-ura* se pegó el 17/11/26 (FUENTES.md) y NATURETIMOLOGÍA I la cita tal cual («forma sustantivos derivados de verbos o de participios pasivos que pueden significar cosas concretas»; «la cualidad relacionada con la palabra de la que derivan»; *montura*, *envoltura*; *blancura*, *bravura*, *frescura*). Lo pegado hoy coincide.
+- **Lo que aporta al inventario:** separar la familia en **A** (sobre participio: *captura*, *ruptura*, *escritura*, *lectura*, *cultura*, *pintura*, *apertura*, *verdura*, *natura*) y **B** (sobre adjetivo: *blancura*, *bravura*, *frescura*, *finura*, *amargura*, *hermosura*). La 'T' solo se discute en A; la oposición con *-dad* de FINURA solo en B.
+- **Verbos formados sobre nombres en *-ura*** (DLE, pegados el 17/11/26): *naturar*, *culturar*, *estructurar*, *facturar*, *molturar*, *tinturar*. Sin entrada en el DLE: *monturar*, *envolturar*, *blancurar*, *pinturar*, *sepulturar* (búsqueda de Luis, 17/11/26).
