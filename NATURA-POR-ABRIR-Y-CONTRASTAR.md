@@ -18,7 +18,8 @@ Convención: **[URS]** = afirmación ya publicada o lista para URS (prioridad); 
 - Lectura en voz alta, en frío, de NATURFILOLOGÍA I y II.
 - Germen del ensayo «Lacan frente al libro: el corte» (URIM, sección A): destino posible, Ensayos Anti-Dogmáticos o Interludios.
 - Las cinco filas firmadas del Umbral: Luis aún no las ha firmado (preparadas como «cumple»).
-- Lectores y Ultra completo de NATURFILOSOFÍA I: sin pasar.
+- Ultra completo de NATURFILOSOFÍA I y II: **hecho el 26/11/26** (`INFORME-RELOJERO-ULTRA-NATURFILOSOFIA-26-11-26.md`); pendientes la firma de Luis en las diez lecturas, F1 a F4, la muestra de dos puntos y las siete propuestas de «no X, sino Y».
+- Lectores de NATURFILOSOFÍA I y II: sin lanzar (solo con orden expresa de Luis).
 
 ## 1 · UMBRAL · EL AGUA ES VIDA [URS]
 
