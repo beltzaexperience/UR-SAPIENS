@@ -1,6 +1,6 @@
 # INFORME · REVISIÓN FINAL · NATURFILOSOFÍA I y II (25/11/2026)
 
-**Qué es.** La revisión final de B que dejan las filas 57, 92 y 105 de la matriz (Normas 25, 26 y 53) y la 85 (imágenes). Por norma **Claude señala y Luis decide**: los títulos, la respiración y las imágenes son tuyos (Norma 25: «la autoría es de Luis»). **No se ha cambiado nada en `urtz.html`.** Cada propuesta lleva número; contesta «1 sí, 2 no…».
+**Qué es.** La revisión final de B que dejan las filas 57, 92 y 105 de la matriz (Normas 25, 26 y 53) y la 85 (imágenes). Por norma **Claude señala y Luis decide**: los títulos, la respiración y las imágenes son tuyos (Norma 25: «la autoría es de Luis»). **Versión del 25/11/26: no se había cambiado nada en `urtz.html`. El 26/11/26 Luis dijo «ordena como mejor creas»: lo aplicado está en el apartado 8.**
 
 **Punto de partida (medido).** Pieza I: 2.302 palabras de cuerpo, 13 párrafos, 3 secciones. Pieza II: 6.865, 38 párrafos, 5 secciones (con B.4 ya partido). Media de 177 y 181 palabras por párrafo (Norma 26: 4-8 líneas, unas 60-120). Frases: media de 28 y 27 palabras. Párrafos de más de 250 palabras: 2 y 7. Glosa: 40 % y 43 % del total.
 
@@ -63,3 +63,17 @@ Inventario de las imágenes poéticas en voz propia: **no hay ninguna que sea m�
 - **Los ocho lectores** (nota de las piezas α, β, ω) no están lanzados: lanzarlos necesita tu orden explícita («lanza los lectores»), porque cada uno es una sesión aparte.
 - **Dossier de B** (como el de A, «NATURFILOLOGÍA · DOSSIER»): queda para después de tus decisiones.
 - **Filas de la matriz que siguen en tus manos:** 57 (secciones y párrafos: este informe), 92 (Norma 53: apartado 5), 105 (lectores), 85 (A).
+
+## 8. Aplicado por orden de Luis (26/11/2026: «ordena como mejor creas»)
+Copia `urtz_antes_orden.html`. Mi criterio, propuesta por propuesta:
+- **1 · B.2 partida en dos:** sí. **«Phýsis: lo que nace y lo primero que hubo»** (712 palabras: la *phýsis*, el Caos, Ginnungagap y las nornas) y **«Natura naturans y natura naturata: de Eriúgena a Spinoza»** (420).
+- **2 · B.3 (160 palabras):** se queda como está (respiradero con giro real).
+- **3 · B.7 partida en tres:** sí, con un cambio respecto a mi propuesta: la primera parte **conserva el título de siempre**, «Política del pensamiento: quién habla en nombre de la naturaleza» (697 palabras: griegos, Roma, «contra natura»), como hizo B.4; las otras dos son **«Estado, nación y lengua»** (1.384) y **«Filología, Oriente y quién habla»** (607).
+- **4 · Ases y Vanes:** se queda donde está (ilustra la diversidad que pacta, a continuación de la lectura de UR sobre la ley).
+- **5 a 11 · Particiones de párrafo:** las siete aplicadas (las diez particiones de Plinio, *phýsis*, griegos, DLE y nación, Grégoire, Whitehead y Haraway). Párrafos de la pieza I: 13 → 17 (media 135); pieza II: 38 → 48 (media 143); de más de 250 palabras quedan 1 (de Luis) y 2 (de Luis, «Para UR…»). Sin cambios de palabras.
+- **Marcas:** `(*-tit)` **se queda como está** (Luis: «olvida esto y deja tal y como está»).
+- **Imagen de A («conserva mojado»):** se queda como está; explicada a Luis (26/11/26).
+- **Título del capítulo:** decidido por Claude a petición de Luis: **se mantiene «NATURA: SEMÁNTICA AGLUTINANTE · GRAMÁTICA FLEXIVA»** (razonamiento en las notas, §229).
+- **Estructura resultante.** Pieza I: B.1 (1.010 palabras), Phýsis (712), Natura naturans (420), B.3 (160). Pieza II: moderna (1.109), contemporánea (1.546), Epistemología (539), Estética y metáfora (983), Política del pensamiento (697), Estado, nación y lengua (1.384), Filología, Oriente y quién habla (607).
+- **Fila NATURA: 34.177 palabras / 136 págs.** (antes, 34.159 / 136). `NATURFILOSOFIA-LECTURA-EN-VOZ-ALTA.txt` regenerado con los títulos nuevos (9.167 palabras).
+
