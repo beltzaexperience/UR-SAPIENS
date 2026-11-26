@@ -3528,3 +3528,7 @@ Orden de Luis: «Recupera la frase del título y redacta la de cada disciplina»
 
 **Pendiente (Luis):** simplificar las pestañas; elegir entre las dos opciones (1: cuatro pestañas; 2: por disciplina, 10 a 15 págs. cada una); qué sube de nuevo a NAT en URS y con qué remisiones; Relojero Ultra de lo que suba; firmas de la pieza II.
 
+## §236 · Título vacío de NAT con mano que enlaza al NAT completo; barra superior (26/11/2026)
+
+**Orden de Luis:** «Deja el título en URS sin texto como lo tenemos ahora pero quita el enlace superior (…) y sustituye ESP por NAT. Al lado del título vacío pon una mano victoriana con el dedo indicador que funcione como link al nuevo NAT.» **Hecho** (copia `urtz_antes_mano.html`): (1) la cabecera «NATURA: SEMÁNTICA AGLUTINANTE · GRAMÁTICA FLEXIVA» sigue en URS sin pestañas; (2) en la barra superior desaparece el enlace NAT que llevaba a esa cabecera y **ESP pasa a llamarse NAT** (lleva a la sección completa, `#go-natura-espejo`); (3) junto al título, una **mano que señala** (SVG en línea, dedo índice a la derecha) que es un enlace a esa sección; se mueve unos píxeles al pasar el ratón; comprobada con navegador en 1280, 820 y 420 px. **La imagen que subió Luis no se ha usado:** lleva repetida la marca de agua «A Cabinet for the Curious» y no se le quita; la mano es **un dibujo propio** (puño con pliegues, pulgar, tres dedos curvados e índice, con trazos de grabado). Si Luis consigue la imagen con licencia, se sustituye el `<svg>` por una `<img>` dentro del mismo enlace.
+
