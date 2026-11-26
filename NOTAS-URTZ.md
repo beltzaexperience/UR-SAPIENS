@@ -143,7 +143,7 @@ Distinción fundamental, señalada por Luis: **NORMA-METODO.md implica a tres ac
 
 ## REGLA 9 — MECÁNICA DEL MARCADOR FONOMÁTICO (trasladada desde norma-método, misma corrección de la Regla 8)
 
-Vive en `urtz.html`, entre El Noturikon y los Informes Maestros, con su propio enlace en la topband (MFO). Cada actualización es una entrada nueva, no una sustitución — el historial de mediciones queda visible, sesión tras sesión.
+Vive en `urtz.html`, entre el cartel FIN DE URS y los Informes Maestros (desde el 26/11/26, tras mover Nexus-7 y El Noturikon a IM), con su propio enlace en la topband (MFO). Cada actualización es una entrada nueva, no una sustitución — el historial de mediciones queda visible, sesión tras sesión.
 
 **Regla de actualización:** no se actualiza en fecha fija ni obligatoriamente al final de cada sesión — se actualiza cuando Luis lo pida, o cuando a él se le ocurra que toca revisarlo.
 
