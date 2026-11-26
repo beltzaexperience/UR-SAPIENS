@@ -86,7 +86,7 @@ def marcador(nombre,filas):
     medir(SP_+'/medida_%s_1.json'%nombre)
     A=json.load(open(SP_+'/medida_%s_0.json'%nombre)); B=json.load(open(SP_+'/medida_%s_1.json'%nombre))
     assert len(A)==len(B)
-    anex=('CONTRAPORTADA Y OTROS ASUNTOS RELEVANTES','PRECEDENTES, BIBLIOGRAFÍA Y RESISTENCIAS HÍDRICAS','¿PUEDE NEXUS-7 SOÑAR CON UR?','EL NOTurIKON: DICCIONARIO ANAGRAMÁTICO','MARCADOR FONOMÁTICO')
+    anex=('CONTRAPORTADA Y OTROS ASUNTOS RELEVANTES','PRECEDENTES, BIBLIOGRAFÍA Y RESISTENCIAS HÍDRICAS','¿PUEDE NEXUS-7 SOÑAR CON UR?','EL NOTurIKON: DICCIONARIO ANAGRAMÁTICO','MARCADOR FONOMÁTICO','NATURA: SEMÁNTICA AGLUTINANTE · GRAMÁTICA FLEXIVA (ESPEJO)')
     d={'urs':[0,0],'pure':[0,0],'urim':[0,0],'ge':[0,0],'pieza':[0,0]}
     for a,b in zip(A,B):
         dc,dw=b['chars']-a['chars'],b['words']-a['words']
