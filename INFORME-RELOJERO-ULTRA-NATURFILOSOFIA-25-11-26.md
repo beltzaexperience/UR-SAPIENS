@@ -1,5 +1,7 @@
 # INFORME · RELOJERO ULTRA · NATURFILOSOFÍA I y II (25/11/2026)
 
+**SUSTITUIDO el 26/11/2026 por `INFORME-RELOJERO-ULTRA-NATURFILOSOFIA-26-11-26.md`** (Ultra completo: cinco recorridos, matriz de 112 filas, 18 análisis y hoja de Luis). Este informe se conserva como historial del pase parcial.
+
 **Estado:** PARCIAL (segunda parte aplicada el mismo día: frases largas, poda de glosas, B.4 partido; véase el apartado 6). Se han ejecutado y leído los recorridos 3, 4 y 5 (palabras, medidas y los 18 análisis) y se han aplicado los automatismos de tipo A que ya tienen norma. **No se ha hecho** en esta pasada la lectura de tipo S, L y O de la matriz (112 filas), ni las cinco filas que firma Luis, ni una relectura íntegra de `NORMA-METODO.md`. Luis dio B por «completa» en contenido el 25/11/26 («cerramos B y corregimos»).
 
 ## 1. Qué se corrió
