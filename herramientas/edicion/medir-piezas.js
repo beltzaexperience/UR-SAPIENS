@@ -16,7 +16,7 @@ try { ({ chromium } = require('playwright')); } catch (e) { ({ chromium } = requ
         const sum = (e.querySelector('summary')||{}).textContent||'';
         const inUrim = front ? !!(front.compareDocumentPosition(e) & Node.DOCUMENT_POSITION_FOLLOWING) : null;
         rows.push({cat, sub, zone: inUrim?'URIM':'URS', title: sum.replace(/\s+/g,' ').trim().slice(0,70), words: t.split(/\s+/).filter(Boolean).length, chars: t.length, excl: !!e.closest('[data-excluir-total]')});
-      } else if (nv==='categoria') { cat = (e.textContent||'').replace(/\s+/g,' ').trim().slice(0,60); sub=''; }
+      } else if (nv==='categoria') { cat = (e.textContent||'').replace(/\s+/g,' ').trim().slice(0,60) + (e.hasAttribute('data-espejo') ? ' (ESPEJO)' : ''); sub=''; }
       else if (nv==='sub') { sub = (e.textContent||'').replace(/\s+/g,' ').trim().slice(0,60); }
     }
     return rows;

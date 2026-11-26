@@ -164,7 +164,7 @@ Lo que se afirma sin haber abierto la fuente en primera mano:
 | **II · B.5** epistemología | URIM, 669 palabras (Jung, Lacan, Cambray) | Criba y paso a URS; Soal y Goldney; Borel |
 | **II · B.6** estética y metáfora | URIM, ~40 palabras | Lakoff, Nietzsche, naturalismo estético [658-659], DLE «modelo real que el artista reproduce» |
 | **II · B.7** política del pensamiento | URIM, ~40 palabras, sin fuente | García Sierra: Nación [727-746], Pensamiento [703-715]; punto de contacto con H |
-| **Dossier de B** (como el de A en la contraportada) | No existe | Glosas extendidas, cotejos, bibliografía; se arma al final |
+| **Sección espejo** (sustituye al «dossier de B»; creada el 26/11/26 con las dos pestañas de A) | Existe: NATURA (espejo), encima de la contraportada, sin límite de páginas | Replicar B cuando Luis lo ordene (§231) |
 
 **Orden recomendado:** (1) B.5, porque ya tiene texto; (2) B.4, porque lleva a Schelling y concentra el objetivo del capítulo; (3) Plinio completo, cuando llegue VII, 1-5; (4) B.6; (5) B.7; (6) dossier; (7) lectores y Ultra de las dos pestañas.
 
