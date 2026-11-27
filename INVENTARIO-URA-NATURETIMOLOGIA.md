@@ -1,6 +1,6 @@
 # Inventario de la familia *-ura* (NATURETIMOLOGÍA II)
 
-Trabajo en curso (26/11/2026). **Una palabra cada vez, con la entrada del DLE que pega Luis delante** (el DLE no se abre desde la sesión: `dle.rae.es` no resuelve). Cada ficha sale de esa entrada y no de memoria.
+**Congelado el 27/11/26: lo que sale de aquí pasa a NATURETIMOLOGÍA II (método en `NATURA-NOTAS-DE-TRABAJO.md`, §0).** Trabajo en curso (26/11/2026). **Una palabra cada vez, con la entrada del DLE que pega Luis delante** (el DLE no se abre desde la sesión: `dle.rae.es` no resuelve). Cada ficha sale de esa entrada y no de memoria.
 
 **Qué se apunta de cada palabra:** lema y entrada del DLE (etimología y acepciones, tal cual) · base (el participio: *-t-*, *-d-*, *-s-*) · qué dice la gramática (acción o resultado de un verbo) · si el agua o el gesto del agua está en el significado (sí / no / lo contrario) · qué dice la pieza de la EI de URIM, si la hay · veredicto (la lectura de UR se sostiene / no se sostiene / queda como lectura simbólica, sin prueba) · qué se verifica.
 
