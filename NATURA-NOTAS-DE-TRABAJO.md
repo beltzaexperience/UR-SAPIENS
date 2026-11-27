@@ -2,6 +2,15 @@
 
 Nota de trabajo, fuera del capítulo. Se abrió el 12/11/2026 por decisión de Luis: *«ok, como nota de trabajo todo lo que vayamos haciendo a partir de aquí»*. Desde esa fecha, los análisis, las valoraciones y los hallazgos nuevos sobre NATURA se anotan aquí y **no se llevan a `urtz.html`** sin una orden de Luis con verbo. El registro de cada paso sigue en `analisis-editorial.md` y las fuentes, en `FUENTES.md`.
 
+## 0. Método de trabajo de NATURA: SEMÁNTICA AGLUTINANTE · GRAMÁTICA FLEXIVA (27/11/2026, por Luis)
+
+**Regla.** De cada interacción sale algo para los capítulos: Claude se lo cuenta a Luis, Luis lo analiza, se debate si hace falta, se incluye en la pestaña y se sigue adelante. Es el método de NATURFILOSOFÍA y NATURFILOLOGÍA y vale para NATURETIMOLOGÍA y para lo que venga.
+
+- **No se acumula información fuera de las piezas.** Ni informes, ni vistas, ni `.md` innecesarios: la acumulación confunde y Luis no puede procesarla. Lo que se descubre pasa a la pieza en la misma vuelta o se descarta.
+- **NATURETIMOLOGÍA I** está terminada. **NATURETIMOLOGÍA II** se construye con las etimologías en *-ura* de la Etimología Insurgente (URS y URIM), cruzadas con la entrada del DLE que pega Luis, párrafo a párrafo.
+- Una palabra cada vez («de una en una»). La entrada del DLE manda: lo que no está en ella se marca como lectura del libro o como «de memoria».
+- El inventario `INVENTARIO-URA-NATURETIMOLOGIA.md` (fichas 0 a 17) queda **congelado**: no se sigue alimentando.
+
 ## 1. Estado del capítulo (12/11/2026)
 
 La pestaña «BORRADOR · NATURA» (URIM → Prólogo) tiene 10 secciones, 44 párrafos y 4.945 palabras de cuerpo, más 45 entradas de glosa (6.897 palabras con la glosa). No está publicada; el HTML solo sale con el visto bueno de Luis.
@@ -3572,4 +3581,8 @@ Ficha 0 (*-ura*, DLE: dos usos, verbos o participios y adjetivos; ya recogida el
 - **Marcador:** +4.822 caracteres, +798 palabras (solo en el espejo, anexo sin páginas). Líneas tocadas: URS (82 piezas), piezas reales, TOTAL, «= el total», fila TOTAL DEL LIBRO y fila NATURA (espejo, ahora 30.545). El libro puro no cambia (121.086 palabras, ≈484 páginas). Nuevo script de ajuste solo para el espejo: `/tmp/ur-trabajo/aj_esp.py`.
 - **Banderas para Luis:** (a) *abertura* lleva agua por *ensenada* y *valle*: la pregunta de NATURETIMOLOGÍA I sobre el participio queda acotada a la familia de *nacer* (ver nota de las fichas 14 a 17); (b) la numeración de las acepciones de *abertura* no es segura, y por eso no pongo ordinales; (c) *valle* = «espacio abierto entre dos montañas» es lectura de Luis; en el texto la unión se deja a quien lee; (d) «como natura, sale de un participio» es lectura mía, razonable por *natus* y *crepita*, ambos participios pasivos en el DLE.
 - **No usado:** el bloque de «ura» (quechua), por fiabilidad (ver FUENTES) y porque no hay relación documentada.
+
+## §246 · NATURETIMOLOGÍA II: «El sufijo y la T», «Captura y presa» y la fuente de *ura* (27/11/2026)
+
+Luis pide repasar lo hablado e incluir en I y II lo que falta. Se incluye en **II** (la I se deja como está: sus preguntas valen para la familia de *nacer*): (1) «El sufijo y la T»: las dos familias de *-ura* (participial y deadjetival), con *verdura* del lado de *verde* («color verde, verdor»), *desembocadura* con *-adura*, y *-dura* «del lat. *-tūra*»; la T queda para las palabras con participio y coincide en el lugar con la lectura del libro; cierra con «¿Quién lo dice?». (2) «Captura y presa» (el párrafo ya mostrado a Luis). (3) Una llamada nueva en «La raíz UR» con la fuente de *ura* en euskera (Wikcionario: «forma del absolutivo definido singular de *ur*»). Glosa renumerada: 15 entradas. **Marcador:** +829 palabras, +4.960 caracteres, solo en el espejo. Ultra: 0 alarmas; los tres avisos de la pieza ya estaban. **Pendiente de decisión de Luis:** la frase «La verdura no es un color» sigue en la pieza CAP-T-UR-A (URIM), y el DLE da *verdura* como «color verde, verdor».
 
